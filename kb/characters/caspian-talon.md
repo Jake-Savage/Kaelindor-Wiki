@@ -15,7 +15,7 @@ relationships:
   - who: fabian-perennius
     note: Co-conspirator on the dragon-bones discovery; mutual ambitions of scholarly/museum fame.
   - who: lucien
-    note: Secretly met and freed the vampire; claims a book made him resistant to charms.
+    note: Secretly went to meet the vampire and was detained, then released when Lucien left the city; claims a book made him resistant to charms.
   - who: mags
     note: Often dismisses her piety, but grudgingly admits she catches what he misses.
   - who: shalfay
@@ -39,7 +39,7 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
 - S1.02–03: Lies to the shadow blade; helps expose [[pyarz]]; trades the [[the-fallen-star]].
 - S1.04: Researches the [[the-crystal-cave]]; presses the runaway students; gains [[caspians-portable-library]].
 - S2.01–03: Investigates the bathhouse murder; deciphers Harrington's letters exposing [[lord-torston]].
-- S2.04–05: Secretly meets and frees [[lucien]]; returns evasive, claiming charm resistance.
+- S2.04–05: Secretly meets [[lucien]] and is detained, then released when the vampire leaves the city; returns evasive, claiming charm resistance.
 - S2.07–09: Sabotages the hell-portal runes; takes [[kiona-dumois|Kiona]]'s [[codex-mortis]] notes.
 - S2.16: Forced to leave the dragon bones; secretly maps the grove for later.
 - S2.17: Briefly begins to petrify at [[the-faerie-ring]] but resists; recovers.
@@ -47,6 +47,6 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
 - S2.26: Helps stake out and raid the Korrathian cell; catches [[oscar-wicklow]] lying about the Uthrel.
 
 ## DM notes / secrets
-- Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He freed a powerful vampire and his "book made me resistant to charms" explanation does not convince [[mags]]. The ingest flags a **possible undead affliction or hidden compromise** acquired from Lucien — he is "evasive about possible undead affliction." This is unresolved and worth keeping ambiguous.
+- Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. The ingest flags a **possible undead affliction or hidden compromise** acquired from Lucien — he is "evasive about possible undead affliction." This is unresolved and worth keeping ambiguous.
 - He retains [[kiona-dumois|Kiona]]'s [[codex-mortis]] notes (dangerous necromantic knowledge that reveals secrets over time).
 - His secret map back to the silver-dragon grove (S2.16) is a future flashpoint with [[dakir]] and the [[the-eldryn]].

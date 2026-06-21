@@ -30,7 +30,7 @@ Clerical ladder, lowest to highest:
 ## Relationship to the party
 
 - **S2.03:** [[bartholomew-crane]], a gnome **ex-paladin of Calvyr**, was exposed as a conspirator in the Bridgemarch affair, sheltering the vampire [[lucien]] and operating from [[the-brass-tower]] clocktower. Calvyr priest [[brother-laurent]] was present at the [[silver-moon-bathhouse]].
-- **S2.05:** Caspian freed Lucien from the Brass Tower with Bartholomew's help; Bartholomew left **artificer components** behind for [[dakir]].
+- **S2.05:** Lucien left the Brass Tower and the city with Bartholomew, releasing the detained Caspian; Bartholomew left **artificer components** behind for [[dakir]].
 - **S2.06:** [[brother-cuthbert]] and Church guards interrupted the party's search beneath the Brass Tower.
 - **S2.10:** [[dakir]] brought Bartholomew's components to **[[talan-pryce]]**, an artificer-priest of Calvyr, who completed [[dakirs-spell-storing-device]] (now able to hold low- to mid-level spells).
 

@@ -20,7 +20,7 @@ summary: Lord Torston hires the party to slay the vampire blamed for a bathhouse
 - S2.01: At the [[silver-moon-bathhouse]] the party finds the killer left by the window, blood flushed down the drain (un-vampiric), and the body deliberately displayed — casting doubt on the vampire story from the start. Leads point to [[the-floodgate]].
 - S2.03: Deciphered letters reveal a real vampire, [[lucien]], but the murder is a frame: Lucien had charmed [[damar]] and ex-paladin [[bartholomew-crane]] to gather evidence of [[lord-torston]]'s treason. The hunt pivots toward Torston (see [[expose-torston]]). [[bartholomew-crane]] kills [[theodore]].
 - S2.04: [[caspian-talon]] secretly slips away to meet [[lucien]] and is detained by him.
-- S2.05: Caspian returns, having helped Bartholomew free Lucien and flee the city; he hands over Torston's evidence. With the vampire gone, no reward can be claimed.
+- S2.05: Caspian returns from Lucien — who had detained him, then released him as he and Bartholomew left the city — and hands over Torston's evidence. With the vampire gone, no reward can be claimed.
 - S2.09: With Lucien fled and the bathhouse case effectively unwinnable, the party shelves the matter; Fabian must reluctantly return the sunblade. Quest resolved with no slain vampire.
 
 ## Open threads

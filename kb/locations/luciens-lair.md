@@ -19,7 +19,7 @@ Lucien's Lair is the hidden lair of the vampire [[lucien]], concealed beneath [[
 - Identity mementos and the clothing of [[damar]] left behind.
 
 ## Events here
-- S2.05: The party finds the lair empty — [[lucien]] has fled the city with the help of [[caspian-talon]] and [[bartholomew-crane]]. They recover identity mementos, [[damar]]'s clothing (confirmed by the tailor Merric Linvale in S2.06), and 347 gold.
+- S2.05: The party finds the lair empty — [[lucien]] has left the city with [[bartholomew-crane]], releasing the detained [[caspian-talon]]. They recover identity mementos, [[damar]]'s clothing (confirmed by the tailor Merric Linvale in S2.06), and 347 gold.
 
 ## DM notes
 The lair confirms Lucien was real but had escaped, and ties [[caspian-talon]] to aiding the vampire's flight.
