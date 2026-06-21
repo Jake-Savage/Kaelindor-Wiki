@@ -34,5 +34,5 @@ Mags's Speak with Dead reveals his objective: to **create a disturbance so he co
 - S2.25: His leaderless, still-charmed band is sent south to Crownspire by [[fabian-perennius]].
 
 ## DM notes / secrets
-- **Who killed Kroll is unresolved.** The Itharian death-ritual marks, [[mathis-irdane]]'s relief (while disclaiming the order), and the vanished centaur messenger [[vasha]] are the clues; [[thalos-briarwood]] is suspected of knowing.
-- Kroll is the first concrete link from the Greymere uthrel incursion to the [[the-furnace-brood]] / [[the-korrathian-conspiracy|Korrathian conspiracy]] — and his map ties the gate tampering to a wider campaign.
+- **Kroll's killer is never named, but strongly implied.** The killing bears the marks of an [[itharis|Itharian]] (Irathian) crossing-ritual — a single blow, the tent untouched — and is strongly implied to have been carried out by [[mathis-irdane]]'s "allies and protectors": Mathis did not order it but is glad of it and "has a shrewd idea how it happened," and [[thalos-briarwood]] evidently knows more than he admits. No definite killer is established.
+- Kroll is the first concrete link from the Greymere uthrel incursion to the [[the-furnace-brood]] / [[the-korrathian-conspiracy|Korrathian conspiracy]]. Note the Brood were sent to *investigate/probe* the incursion (find if it "left a trace"), NOT to cause it — per Speak with Dead, neither Kroll nor anyone he knew knew who caused the incursion or why. The gate-tamperer's identity remains unknown.

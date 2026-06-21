@@ -35,5 +35,5 @@ Lucien is framed as an afflicted "good man" rather than a simple monster. He use
 - S2.05: Leaves the city with [[bartholomew-crane]], releasing the detained [[caspian-talon]]; his now-empty lair (with Damar's clothing and identity mementos) is searched.
 
 ## DM notes / secrets
-- **Lucien fled and was never slain**, so the "vampire hunt" yields no reward. What he did to/with [[caspian-talon]] is a deliberate unknown — Caspian's "book made me resistant to charms" story is suspect, and the ingest flags Caspian's **possible undead affliction**. Lucien is the likely source of any such compromise.
+- **Lucien fled and was never slain**, so the "vampire hunt" yields no reward. What he did to/with [[caspian-talon]] during the wizard's secret captivity is a deliberate unknown — Caspian's "book made me resistant to charms" story is suspect.
 - His charm wears off only slowly; [[damar]]'s recovery (the `free-damar` thread) traces back to him.

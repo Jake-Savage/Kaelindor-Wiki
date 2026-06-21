@@ -27,12 +27,12 @@ Thalos Briarwood is the **Greenheart** — the head priest of [[rhynharrans-hall
 ## Knowledge & motivations
 Briarwood knows far more than he says and frustrates the party with his obtuseness. He retells the [[the-stormblind]] legend — a great unnatural storm centuries ago that swallowed a praying expedition without a trace — and admits, crucially, that he has sent messengers to the Eldryn who have **not returned** (S2.12). The third of these is [[reina]], whose [[reinas-ring]] the forest returns through [[trevick]]. Persuaded by the wren-token and the ring, he secretly commissions Trevick to enter the forest, find the Eldryn, and learn what happened — going through Trevick precisely because the official messengers were lost (S2.15).
 
-Later he confirms the centaur messenger [[vasha]] arrived, helped face down [[hethan-kroll]]'s mercenaries, then went to [[mathis-irdane]] and vanished — and [[fabian-perennius]] suspects Briarwood knows who killed Kroll (S2.23).
+Later he confirms the centaur messenger [[vasha]] arrived, helped face down [[hethan-kroll]]'s mercenaries, then went to speak with [[mathis-irdane]] and stayed at the Hall — and [[fabian-perennius]] suspects Briarwood knows who killed Kroll (S2.23).
 
 ## Appearances
 - S2.11–12: Counsels patience; admits his sent messengers never returned; retells the Stormblind legend.
 - S2.15: Commissions [[trevick]]'s secret forest mission after the wren-token and Reina's ring.
-- S2.23: Confirms Vasha's arrival and disappearance; shelters [[nessa]] and townsfolk at the Hall; suspected of knowing Kroll's killer.
+- S2.23: Confirms Vasha's arrival and that she stayed at the Hall; shelters [[nessa]] and townsfolk at the Hall; suspected of knowing Kroll's killer.
 
 ## DM notes / secrets
-- Briarwood's evident concealment around [[hethan-kroll]]'s ritual murder (Itharian marks) and Vasha's disappearance is an open thread; he plainly knows more than he shares.
+- Briarwood's evident concealment around [[hethan-kroll]]'s ritual killing (Itharian marks) is an open thread; he plainly knows more than he shares. The killer is never named, but the killing bears the marks of an [[itharis|Itharian]] crossing-ritual and is strongly implied to have been done by [[mathis-irdane]]-aligned parties — and Briarwood evidently knows more about how it happened than he admits.

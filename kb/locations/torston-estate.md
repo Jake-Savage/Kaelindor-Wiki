@@ -26,4 +26,4 @@ Torston Estate is the [[bridgemarch]] residence of Lord [[lord-torston]] and his
 - S2.06: Torston privately admits a household member ([[damar]]) was charmed. [[mags]]'s Calm Emotions briefly frees [[damar]] (beginning [[free-damar]]), who reveals that the courier is [[elaine-blackthorne]] and that Torston works secret papers in his private study. [[trevick]], claiming to "test the wards," breaks into the private study and pockets concealed papers — later shown to name Crownspire contacts (see [[expose-torston]]).
 
 ## DM notes
-[[lord-torston]] is the true murderer of [[edward-harrington]] and a traitor selling state secrets to a buyer in [[crownspire]]. He genuinely loves and protects [[damar]].
+[[lord-torston]]'s confirmed crime is treason — selling state secrets to a buyer in [[crownspire]]. He is suspected of being behind [[edward-harrington]]'s staged killing, but that is never proven and the killer is left unestablished. He genuinely loves and protects [[damar]].

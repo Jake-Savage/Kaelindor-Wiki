@@ -10,7 +10,7 @@ home: harringtons-townhouse
 affiliations: []
 relationships:
   - who: lord-torston
-    note: His rival, who murdered him and framed it as a vampire kill.
+    note: His rival, suspected (but never proven) of having him killed under a staged vampire frame.
   - who: benny-carter
     note: His protégé, whom he secretly named his heir by a genuine deed despite no blood tie.
   - who: lucien
@@ -33,4 +33,4 @@ Harrington was secretly building a **treason case against [[lord-torston]]**, in
 - S2.03: His letters expose Torston; his corpse is found already questioned.
 
 ## DM notes / secrets
-- Harrington was murdered by [[lord-torston]] to bury his treason case; the vampire frame was Torston's cover. See [[lord-torston]].
+- Harrington was murdered by persons unknown; the killing was staged as a vampire feeding. Suspicion falls on [[lord-torston]] (Bartholomew's belief plus Torston's courier [[elaine-blackthorne]] at the scene), but the killer is never established in play. Torston's confirmed crime is treason. See [[lord-torston]].

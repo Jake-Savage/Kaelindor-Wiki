@@ -23,7 +23,7 @@ summary: Lord Torston's swordhand and courier, identified as the veiled woman se
 Elaine Blackthorne (also recorded as "Blackward") is [[lord-torston]]'s swordhand and the courier of his secret documents (S2.03, S2.06). She is the **veiled woman** seen arriving with [[edward-harrington]] at the [[silver-moon-bathhouse]] and fleeing the scene the night of his death — recognised by [[caspian-talon]] and [[fabian-perennius]] as the woman they saw in Torston's office (S2.02). Harrington's letters note she had secretly offered to meet him.
 
 ## Knowledge & motivations
-As Torston's courier she carries his treasonous material; her presence at the murder scene ties Torston's household directly to Harrington's death.
+As Torston's courier she carries his treasonous material; her presence at the murder scene is why suspicion falls on Torston's household, though Torston's involvement in the killing is never proven.
 
 ## Appearances
 - S2.01: The veiled woman who fled the bathhouse.

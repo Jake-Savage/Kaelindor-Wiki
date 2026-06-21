@@ -29,13 +29,13 @@ A black, oily "moss" that is not moss keeps appearing wherever the Feywild touch
 - S2.18-S2.20: Among the [[the-eldryn|Eldryn]], the party finds an anti-magic warding effort around a deliberately-burnt western zone; on Nameweave, [[trevick]]'s account of the "black moss" that destroyed his village makes the camp name it the **uthrel** and detain the party.
 - S2.21: [[hesk]] reveals the full truth — the uthrel is a Feywild scourge dangerous to all life, deadly to magic, which drove the elves from their homeland and is feared as a war weapon; it entered the Feywild ~900 years ago and now returns to the Material Plane carried by travellers (Feywild travel is no longer possible). The Eldryn teach the cure: ward off ambient magic, destroy with magical fire, burn its fuel with mundane fire, avoid its gas, check for spread.
 - S2.22: On patrol in the [[the-hallow-burn]], the party finds the uthrel's origin beside [[the-bright-gate]] (Thalasyr Eren), and that the gate's wards were deliberately tampered with — an outsider let it through (see [[who-tampered-the-gate]]).
-- S2.24: [[krolls-map]] and contract tie the incursion to the Korrathian [[the-furnace-brood|Furnace Brood]] (see [[the-korrathian-conspiracy]]).
+- S2.24: [[krolls-map]] and contract tie the Korrathian [[the-furnace-brood|Furnace Brood]] to *investigating* the incursion (Kroll was sent to find if it "left a trace") — not to causing it; per Speak with Dead the Brood do not know who tampered with the gate (see [[the-korrathian-conspiracy]]). Who tampered with the gate remains genuinely unknown.
 - S2.26: The Bridgemarch cell is raided but suicides; [[oscar-wicklow]] lies about not knowing of the uthrel. Origin, cure, and history are known — but who let it through and why remain open.
 
 ## Open threads
 - **How did the uthrel enter the Feywild ~900 years ago, and is its return now connected to the elves leaving / the great eastern war?** It is feared as a weapon in that war.
 - **Who tampered with [[the-bright-gate]] to let it onto the Material Plane, and how did they master Eldryn-grade warding?** (See [[who-tampered-the-gate]].)
-- **Why does the [[the-furnace-brood|Furnace Brood]] want the incursion?** What was the "trace" Kroll was sent to find? (See [[the-korrathian-conspiracy]].)
+- **Why is the [[the-furnace-brood|Furnace Brood]] investigating the incursion?** What was the "trace" Kroll was sent to find? (They probe it, but are not its established cause — even they do not know who caused it. See [[the-korrathian-conspiracy]].)
 - Why did [[oscar-wicklow]] lie about knowing of the uthrel, and what is his real interest in [[krolls-map]]?
 - Are the other marked crossings on [[krolls-map]] also breached? (Stonemarch near Trevick's village, Mirrowen, Branweald, Marivane.)
 - Is [[rell-aetris]] involved — his odd excitement at the gate and his [[the-tir-van|Tir'Van]] people's tie to the [[the-horizon-doors]]?

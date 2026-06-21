@@ -23,4 +23,4 @@ The Silver Moon Bathhouse is a public bathhouse in [[bridgemarch]] owned by [[gl
 - S2.01: The party investigates the murder. [[trevick]] determines the killer escaped via the window, not the door; [[rell-aetris]] finds blood flushed down the drain, inconsistent with a vampire actually feeding. The body was deliberately displayed. The party learns Harrington arrived with a veiled woman (later identified as [[elaine-blackthorne]]) who fled, and that he regularly visited with [[nelly-fairchild]].
 
 ## DM notes
-The staged scene shows that the "vampire kill" is a frame — [[lord-torston]] is the true murderer, not the vampire [[lucien]].
+The staged scene shows that the "vampire kill" is a frame — the killing was not the work of the vampire [[lucien]]. Who actually killed Harrington is never established in play; suspicion falls on [[lord-torston]] (Bartholomew's belief plus Torston's courier [[elaine-blackthorne]] at the scene), but it is never proven.

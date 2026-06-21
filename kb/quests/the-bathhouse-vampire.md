@@ -24,8 +24,8 @@ summary: Lord Torston hires the party to slay the vampire blamed for a bathhouse
 - S2.09: With Lucien fled and the bathhouse case effectively unwinnable, the party shelves the matter; Fabian must reluctantly return the sunblade. Quest resolved with no slain vampire.
 
 ## Open threads
-- The murder was a frame; the real killer/political scheme lives on in [[expose-torston]].
-- [[caspian-talon]] remains evasive about what he learned or took from [[lucien]] (possible undead affliction).
+- The murder was a frame; the real killer is never established in play (suspicion falls on [[lord-torston]] but is unproven). The political scheme lives on in [[expose-torston]].
+- [[caspian-talon]] remains evasive about what he learned or took from [[lucien]] during his secret captivity; his charm-resistance story is suspect, but nothing about an affliction is established.
 
 ## Leads / next steps
 - Treason evidence carries forward to [[expose-torston]].

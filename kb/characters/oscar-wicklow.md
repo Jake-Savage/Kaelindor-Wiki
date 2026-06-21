@@ -7,7 +7,7 @@ species: Human
 role: Chancellor of Kaelindor
 status: alive
 home: bridgemarch
-affiliations: [the-shadowed-path]
+affiliations: []
 relationships:
   - who: queen-rowenna
     note: Serves the crown as Chancellor; brokers and renegotiates the party's official commissions.

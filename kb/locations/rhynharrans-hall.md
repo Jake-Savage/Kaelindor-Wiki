@@ -23,7 +23,7 @@ Rhynharran's Hall is the temple of Rhynharran at [[greymere]], the seat of the [
 
 ## Events here
 - S2.12: The party meets [[thalos-briarwood]], who counsels patience, hides the location of [[the-eldryn]], and admits the messengers he sent — including [[reina]] — never returned. He retells the [[the-stormblind]] legend and permits a dusk observation of the Quickened with the druid [[anwen-ireth]].
-- S2.23: [[nessa]] shelters at the Hall to avoid being scapegoated; the returned Weathered [[reina]] and [[elset]] are brought here; Briarwood confirms the centaur messenger [[vasha]] had arrived and then vanished after seeing [[mathis-irdane]].
+- S2.23: [[nessa]] shelters at the Hall to avoid being scapegoated; the returned Weathered [[reina]] and [[elset]] are brought here; Briarwood confirms the centaur messenger [[vasha]] had arrived, helped face down Kroll's mercenaries, then went to see [[mathis-irdane]] and afterwards remained at the Hall.
 
 ## DM notes
-Briarwood knows far more than he shares: he conceals the Eldryn's location and the fate of his missing messengers. The disappearance of [[vasha]] after meeting Mathis ties into the broken [[the-irdane]] succession.
+Briarwood knows far more than he shares: he conceals the Eldryn's location and the fate of his missing messengers, and plainly knows more than he admits about [[hethan-kroll]]'s ritual killing.

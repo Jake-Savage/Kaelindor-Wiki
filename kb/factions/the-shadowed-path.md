@@ -4,7 +4,7 @@ type: faction
 title: The Shadowed Path
 kind: church
 leader: null
-notable_members: [oscar-wicklow]
+notable_members: []
 status: active
 tags: [itharis, death, transitions, secrecy]
 summary: The faith of [[itharis]], god of death, change, and transitions, whose adherents officiate the great passages of life.

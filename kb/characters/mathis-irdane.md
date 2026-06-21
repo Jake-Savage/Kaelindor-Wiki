@@ -31,7 +31,7 @@ Mathis wants to protect his town and end the crisis, but feels boxed in: the [[t
 - S2.10–11: Briefs the party on the Yarrows, the deaths, and [[illyra-fen]]'s charm.
 - S2.14: Refuses Kroll's mercenaries.
 - S2.21/24: Reconciled with [[serris-dane]] as joint Irdane; resolves to summon Serris and cooperate.
-- S2.23–25: Vasha comes to him then vanishes; he is glad Kroll is dead; unhappy the mercenaries leave before the crisis fully resolves.
+- S2.23–25: Vasha comes to speak with him and then stays at the Green Hall; he is glad Kroll is dead; unhappy the mercenaries leave before the crisis fully resolves.
 
 ## DM notes / secrets
-- Mathis disclaims ordering [[hethan-kroll]]'s Itharian-style ritual murder but is glad of it (S2.24); who actually killed Kroll is unresolved (the [[the-shadowed-path]]/[[itharis]] marks and the vanished [[vasha]] are clues).
+- Mathis disclaims ordering [[hethan-kroll]]'s Itharian-style ritual killing but is glad of it and "has a shrewd idea how it happened" (S2.24). The killer is never named, but it bears the marks of an [[itharis|Itharian]] ([[the-shadowed-path]]) crossing-ritual (single blow, tent untouched) and is strongly implied to have been carried out by Mathis's own "allies and protectors" — Mathis did not order it, but seems to know how it came about, as does [[thalos-briarwood]].

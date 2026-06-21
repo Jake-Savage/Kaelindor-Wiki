@@ -47,6 +47,7 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
 - S2.26: Helps stake out and raid the Korrathian cell; catches [[oscar-wicklow]] lying about the Uthrel.
 
 ## DM notes / secrets
-- Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. The ingest flags a **possible undead affliction or hidden compromise** acquired from Lucien — he is "evasive about possible undead affliction." This is unresolved and worth keeping ambiguous.
+- Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. What passed between them is unresolved and worth keeping ambiguous.
+- Separately and unrelated to Lucien: in the necromantic library (S2.07) Caspian put a bloodied hand to a door, and [[mags]] later had that blood examined — it read as **undead blood**. Caspian claimed he had "changed his blood via magic." Mags was unconvinced but let it lie. The source asserts no "affliction," only this unexplained anomaly.
 - He retains [[kiona-dumois|Kiona]]'s [[codex-mortis]] notes (dangerous necromantic knowledge that reveals secrets over time).
 - His secret map back to the silver-dragon grove (S2.16) is a future flashpoint with [[dakir]] and the [[the-eldryn]].

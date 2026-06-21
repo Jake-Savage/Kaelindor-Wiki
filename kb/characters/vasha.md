@@ -5,27 +5,27 @@ title: Vasha
 category: npc
 species: Centaur
 role: Eldryn messenger
-status: unknown
-home: the-eldryn-camp
+status: alive
+home: rhynharrans-hall
 affiliations: [the-eldryn]
 relationships:
   - who: mathis-irdane
-    note: Went to Mathis after facing down the mercenaries, then vanished from view.
+    note: Went to speak with Mathis after facing down the mercenaries, then stayed at the Green Hall.
 first_session: S2.23
 last_session: S2.24
-tags: [centaur, messenger, eldryn, vanished, kroll-mystery]
-summary: A centaur messenger who reached Greymere, faced down Kroll's mercenaries, then went to Mathis and disappeared.
+tags: [centaur, messenger, eldryn, greymere]
+summary: A centaur messenger who reached Greymere, faced down Kroll's mercenaries, spoke with Mathis, and remained at Rhynharran's Hall.
 ---
 
 ## Overview
-Vasha is a centaur messenger of the [[the-eldryn]] who reached [[greymere]] (carrying the Eldryn's promised word), helped face down [[hethan-kroll]]'s mercenaries, then went to [[mathis-irdane]] and vanished from view (S2.23). The Greenheart [[thalos-briarwood]] confirms her arrival and disappearance.
+Vasha is a centaur messenger of the [[the-eldryn]] who reached [[greymere]] (carrying the Eldryn's promised word), helped face down [[hethan-kroll]]'s mercenaries, then went to speak with [[mathis-irdane]] and afterward stayed at the Green Hall ([[rhynharrans-hall]]) (S2.23). The Greenheart [[thalos-briarwood]] confirms her arrival.
 
 ## Knowledge & motivations
-The party speaks with Vasha during the investigation of Kroll's death (S2.24), but her own movements after going to Mathis are unaccounted for.
+The party speaks with Vasha during the investigation of Kroll's death (S2.24); she is safe at the Hall and is not implicated in his killing.
 
 ## Appearances
-- S2.23: Reported to have reached Greymere, faced the mercenaries, gone to Mathis, then vanished.
+- S2.23: Reached Greymere, faced the mercenaries, spoke with Mathis, then stayed at Rhynharran's Hall.
 - S2.24: The party speaks with her amid the Kroll investigation.
 
 ## DM notes / secrets
-- Vasha's disappearance coincides with [[hethan-kroll]]'s Itharian-style ritual murder; she is a clue in the unresolved question of who killed Kroll.
+- Vasha is alive and at the Green Hall; she did not vanish and is not a clue to who killed Kroll.
