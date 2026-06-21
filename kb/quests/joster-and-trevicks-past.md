@@ -10,14 +10,14 @@ involves_characters: [trevick, dakir, joster-sirit]
 involves_locations: [paliset-hall, greymere]
 factions: []
 tags: [devil, heritage, family]
-summary: The devil Joster Sirit, who knew Trevick's father, resurfaces to dangle Trevick's hidden parentage before him.
+summary: The devil Joster Sirit, who recognises Trevick's "Salmeros" lineage and later names his father, resurfaces to dangle Trevick's hidden parentage before him.
 ---
 
 ## Hook
-During the [[recover-the-golden-lute|lute job]], the devil [[joster-sirit]] named [[trevick]] "a Salmeros child" and claimed to have known his father — seeding a mystery about Trevick's parentage.
+During the [[recover-the-golden-lute|lute job]], the devil [[joster-sirit]] named [[trevick]] "a Salmeros child" and pointedly noted his absent father — without claiming to have known the man — seeding a mystery about Trevick's parentage.
 
 ## Progress log
-- S1.05: At [[paliset-hall]], [[joster-sirit]] recognises [[trevick]] as a Salmeros child and says he knew his father, before being banished (not destroyed) to the hells.
+- S1.05: At [[paliset-hall]], [[joster-sirit]] recognises [[trevick]] as a Salmeros child — a name he says he has not heard in a long time — and pointedly notes his absent father (without claiming to have known him), before being banished (not destroyed) to the hells.
 - S2.14: While in [[greymere]], Trevick shows [[dakir]] a note from "Joster" referencing his father and enclosing his late mother's silver pendant ([[joster-pendant]]); they agree to keep it quiet for now.
 
 ## Open threads

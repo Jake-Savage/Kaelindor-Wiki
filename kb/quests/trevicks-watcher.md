@@ -22,7 +22,7 @@ When [[trevick]] summons [[hawk]] among the [[the-eldryn|Eldryn]], the firbolgs 
 
 ## Open threads
 - What is the "great purpose" the Watcher is preparing Trevick's lineage for?
-- Why his family specifically? Does it tie to his lost village of Velton (destroyed by the [[the-uthrel|uthrel]]) and to [[joster-and-trevicks-past|Joster's claim about his father]]?
+- Why his family specifically? Does it tie to his lost village of Velton (destroyed by the [[the-uthrel|uthrel]]) and to [[joster-and-trevicks-past|Joster's recognition of his Salmeros lineage]]?
 - How does being the Eldryn's chosen go-between intersect with the Watcher's charge?
 
 ## Leads / next steps

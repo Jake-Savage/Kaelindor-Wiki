@@ -18,5 +18,5 @@ A Watcher is a concentrated spirit that [[rhynharran|Rhynharran]] sends to watch
 
 ## Open questions
 - **Why does the Watcher watch Trevick's lineage?** What is the "something important" he is meant to witness or do? (S2.19 — explicitly flagged as open.)
-- Is the Watcher connected to Trevick's unknown father (a "Salmeros," known to the devil [[joster-sirit|Joster]]) and his destroyed village?
+- Is the Watcher connected to Trevick's unknown father (of the "Salmeros" line the devil [[joster-sirit|Joster]] recognised) and his destroyed village?
 - Does Hawk grow in power or awareness as Trevick's role unfolds? (Trevick "begins to sense Hawk is no ordinary bird.")

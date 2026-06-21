@@ -27,4 +27,4 @@ The Gardener is curious about [[dakir]] the construct but firmly protective of t
 - S1.04: Meets the party in the Feywild garden; disintegrates the moss sample and refuses to explain it.
 
 ## DM notes / secrets
-- The Gardener's skill is invoked by [[caspian-talon]] (S2.22) as the kind of fey power capable of the gate-tampering — a possible (unconfirmed) lead in the `who-tampered-the-gate` thread, though the actual tamperer is tied to the [[the-furnace-brood]] / Korrathians.
+- The Gardener's skill is invoked by [[caspian-talon]] (S2.22) as the *kind* of fey power capable of the gate-tampering — a possible (unconfirmed) lead in the `who-tampered-the-gate` thread. The actual tamperer is unknown; the [[the-furnace-brood|Furnace Brood]] were only probing the incursion and are not established as the tamperer.

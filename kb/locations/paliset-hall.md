@@ -21,7 +21,7 @@ Paliset Hall is the manor of [[lord-adilaire]], near [[toadhop]]. Adilaire grew 
 - The enchanted portraits used to drain Adilaire, and Joster's extradimensional hoard.
 
 ## Events here
-- S1.05: The party infiltrates as a performance troupe and confronts [[joster-sirit]] (revealed as a devil) and two shadow demons. Joster claims to have known Trevick's father (a "Salmeros"); [[dakir]]'s [[wand-of-lightning-bolts]] drives Joster back to the hells (banished, not destroyed). The party finds Joster's extradimensional hoard with [[the-golden-lute]] and frees Adilaire.
+- S1.05: The party infiltrates as a performance troupe and confronts [[joster-sirit]] (revealed as a devil) and two shadow demons. Joster names [[trevick]] "a Salmeros child" and notes his absent father (without claiming to have known him); [[dakir]]'s [[wand-of-lightning-bolts]] drives Joster back to the hells (banished, not destroyed). The party finds Joster's extradimensional hoard with [[the-golden-lute]] and frees Adilaire.
 
 ## DM notes
 This seeds [[joster-and-trevicks-past]] — Joster's claim about Trevick's father, the "Salmeros" name — and Joster resurfaces in S2.14. He was banished, not destroyed, so he remains a live threat.

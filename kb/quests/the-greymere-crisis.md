@@ -27,7 +27,7 @@ Chancellor [[oscar-wicklow]] hires the party (official favour + 1400 gold) to st
 - S2.25: [[fabian-perennius]] sends [[hethan-kroll]]'s leaderless mercenaries south to Crownspire and returns the town's extorted gold, removing the destabilising mercenary presence.
 
 ## Open threads
-- The root cause (the tampered [[the-bright-gate|Bright Gate]] and the Korrathian incursion) is handed off to [[who-tampered-the-gate]] and [[the-korrathian-conspiracy]].
+- The root cause (the tampered [[the-bright-gate|Bright Gate]] and the uthrel incursion) is handed off to [[who-tampered-the-gate]] and [[the-korrathian-conspiracy]].
 - The party still owes Wicklow a report; the Quickened/lake will recover only as the Eldryn relax their wards.
 
 ## Leads / next steps

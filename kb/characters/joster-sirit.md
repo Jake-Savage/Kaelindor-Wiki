@@ -10,7 +10,7 @@ home: the-hells
 affiliations: []
 relationships:
   - who: trevick
-    note: Knew Trevick's father (a "Salmeros"); resurfaces to threaten him and sends his late mother's pendant.
+    note: Recognised Trevick's "Salmeros" lineage and later named his father in a note; resurfaces to threaten him and sends his late mother's pendant.
   - who: lord-adilaire
     note: Enthralled him at Paliset Hall to strip his lands and assets.
 first_session: S1.05
