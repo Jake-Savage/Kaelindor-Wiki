@@ -1,0 +1,13 @@
+# Build output — regenerated from kb/ via generator/build.py
+site/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp

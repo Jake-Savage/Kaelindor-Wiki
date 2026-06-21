@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>%%TITLE%% — Kaelindor Codex</title>
+  <link rel="stylesheet" href="%%ROOT%%static/style.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="%%ROOT%%index.html">Kaelindor&nbsp;Codex</a>
+  <nav class="topnav">%%NAV%%</nav>
+  <form class="search-box" action="%%ROOT%%search.html" method="get" role="search">
+    <input type="search" name="q" placeholder="Search the codex…" aria-label="Search" autocomplete="off">
+  </form>
+</header>
+<main class="content">
+%%CONTENT%%
+</main>
+<footer class="site-footer">
+  <span>Kaelindor Campaign Codex — generated from the knowledge base.</span>
+  <span class="muted">Source of truth: <code>kb/</code>. Rebuild with <code>py generator/build.py</code>.</span>
+</footer>
+<script src="%%ROOT%%static/search.js"></script>
+</body>
+</html>
