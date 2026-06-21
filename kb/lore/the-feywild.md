@@ -19,4 +19,4 @@ The Feywild is a separate plane, home to the fey — satyrs, unicorns, dryads, l
 
 ## Open questions
 - What is the present state of the Feywild now that the uthrel has spread there?
-- The [[the-bright-gate|Bright Gate]] (a Feywild crossing) was sealed when the elves fled; how many other such gates remain, and where do they lead? (S2.22)
+- The [[the-bright-gate|Bright Gate]] (a hidden [[the-horizon-doors|Horizon Door]] that opens here) was sealed when the elves fled; how many other such gates remain, and where do they lead? (S2.22)

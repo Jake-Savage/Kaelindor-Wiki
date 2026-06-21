@@ -14,7 +14,7 @@ summary: The party discovers someone deliberately tampered with the sealed Brigh
 ---
 
 ## Hook
-At the uthrel's origin in the [[the-hallow-burn]], beside the ancient sealed Feywild crossing [[the-bright-gate]] (Thalasyr Eren), the party finds the gate's wards were deliberately altered to allow passage and then restored — an outsider let the [[the-uthrel|uthrel]] through.
+At the uthrel's origin in the [[the-hallow-burn]], beside the ancient, hidden [[the-horizon-doors|Horizon Door]] [[the-bright-gate]] (Thalasyr Eren), the party finds the gate's wards were deliberately altered to allow passage and then restored — an outsider let the [[the-uthrel|uthrel]] through.
 
 ## Progress log
 - S2.22: On patrol in the [[the-hallow-burn]], the party reaches the uthrel's origin beside [[the-bright-gate]], sealed ~300-350 years ago when the elves fled the Feywild. [[caspian-talon]]'s notes and [[mags]] reveal a hidden second ward-layer: someone altered the wards to cross, then replaced them, relying on no one checking. [[hesk]] agrees the work is foreign to the Eldryn (a "stranger") and will convene the Council early and watch the gate. [[rell-aetris]] shows an uncharacteristic flash of excitement at the gate, noted by Mags.
