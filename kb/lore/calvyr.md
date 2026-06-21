@@ -13,7 +13,7 @@ Calvyr is the god of **thought, craft, invention, and ingenuity** — the fusion
 ## What's known
 - **Clerical hierarchy:** Emberwright (novices learning creation and ingenuity); Keybearer (mid-level clergy who solve problems and teach); Sparkbinder (masters of the fusion of inspiration and craft); Forgekeeper (regional leaders); and **The Hidden Flame**, a mysterious figure or council believed to commune directly with Calvyr (Churches of Kaelindor).
 - About 300 years ago the priests of Calvyr produced great innovations — flying **airships** between cities, reliable **compasses** for safer sea travel, and autonomous **[[constructs|constructs]]** (see [[the-disappearance-of-dragons]] for that era).
-- The Church made [[dakir|Dakir]], a uniquely advanced construct, at the **[[the-brass-tower|Brass Tower]]**. The artificer-priest [[talan-pryce|Talan Pryce]] finished Dakir's spell-storing device; the ex-paladin [[bartholomew-crane|Bartholomew Crane]] was a Calvyr cleric.
+- The Church made [[dakir|Dakir]], a uniquely advanced construct, roughly ten years ago — **where is never stated**. Later, in a side chapel of a Church of Calvyr temple, the artificer-priest [[talan-pryce|Talan Pryce]] finished Dakir's spell-storing device (S2.10); the ex-paladin [[bartholomew-crane|Bartholomew Crane]] was a Calvyr cleric.
 
 ## Open questions
 - What is the **Hidden Flame**, and how does it commune with Calvyr?

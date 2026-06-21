@@ -14,7 +14,7 @@ summary: The faith of [[calvyr]], god of craft and ingenuity, whose artificer-pr
 
 The Church of Calvyr — proper name **The Sacred Unity of Thought and Deed**, commonly **The Unity** — venerates [[calvyr]] as the patron of creation, problem-solving, and the fusion of inspiration and craft. Its devotees are artisans, engineers, and artificers who treat invention itself as worship. Its houses of worship are the **Houses of Thought and Deed**, commonly called **Deedhouses**.
 
-The Unity matters to the party chiefly because it made one of them: [[dakir]] is a Church-of-Calvyr construct, an unusually advanced creation roughly ten years old. The Church's artificer-priests at [[the-brass-tower]] in [[bridgemarch]] retain the knowledge to maintain and extend his workings.
+The Unity matters to the party chiefly because it made one of them: [[dakir]] is a Church-of-Calvyr construct, an unusually advanced creation roughly ten years old (where he was made is never stated). Its artificer-priest [[talan-pryce]] later finished the spell-storing device installed in him, in a side chapel of a Calvyr temple (S2.10).
 
 ## Structure / ranks
 

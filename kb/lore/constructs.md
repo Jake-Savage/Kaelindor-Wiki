@@ -13,7 +13,7 @@ Constructs are artificial beings. Around 300 years ago the priests of [[calvyr|C
 ## What's known
 - Ordinary constructs are **simple and menial**, built for set tasks.
 - [[dakir|Dakir]] is a **uniquely advanced** construct: a Church-of-Calvyr creation roughly ten years old, who casts bronze draconic magic and believes (or believed) himself a living dragonborn-lineage sorcerer. His true nature — human/construct origin — is a slow reveal (quest [[dakirs-draconic-heritage]]).
-- The [[church-of-calvyr|Church of Calvyr]] (the Unity), based at the Brass Tower, made Dakir; the artificer-priest [[talan-pryce|Talan Pryce]] finished the spell-storing device installed in him.
+- The [[church-of-calvyr|Church of Calvyr]] (the Unity) made Dakir roughly ten years ago (where is never stated); its artificer-priest [[talan-pryce|Talan Pryce]] later finished the spell-storing device installed in him, at a Calvyr temple (S2.10).
 
 ## Open questions
 - How was a construct as advanced as Dakir made, and why? Is his draconic magic part of his design?
