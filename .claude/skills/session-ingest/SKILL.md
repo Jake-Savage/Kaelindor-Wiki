@@ -48,6 +48,11 @@ correct output is an **open thread**, not an assertion.
 ## Inputs
 - A transcript file (usually in `transcripts/`), or pasted transcript text.
 - The session's real-world date (ask if not given) and, if known, the in-world date.
+- **`dm` (optional but recommended):** which speaker is the Dungeon Master — a diarisation
+  label (e.g. `SPEAKER_00`) or a name. Diarisation labels are per-recording, so this is given
+  per run. The DM is a special speaker (see Step 2). If omitted, infer the DM (the speaker doing
+  the narration/adjudication) and record that assumption in the Step 8 ledger for correction.
+  The same input may carry a speaker→character map; the DM is the high-value one — infer the rest.
 
 ## Procedure
 
@@ -64,6 +69,25 @@ out-of-character. In-game canon: what the characters say/do/discover, NPC dialog
 locations entered, items gained/lost, information learned. When a passage is ambiguous, prefer canon
 if it reflects a character's intent, chatter if it's purely tactical. Keep a short list of the
 judgment calls you made.
+
+**The DM is a special speaker — do not treat their out-of-character lines as chatter by default.**
+The DM speaks in two registers in one voice, and they split differently:
+- **World-facing DM speech is canon** — scene narration, NPC dialogue, lore, history, descriptions,
+  and answers to "what do I see / know / recall" (e.g. *"the Horizon Doors predate the Valenwyr,"*
+  *"Itharis's clergy have held this gate for centuries"*). Capture all of it. This is the single
+  most **authoritative** source in the room: a DM statement of a world fact is **confirmed canon**,
+  not a claim to be hedged. (Watch the one edge: if the DM explicitly flags something as a
+  player-only aside the *characters* don't yet know, record it as DM-known but not yet in-world.)
+- **Table-facing DM speech is out-of-game** — calling for rolls, rules adjudication, initiative,
+  scheduling, recaps-as-housekeeping, and OOC banter. Drop it like any chatter.
+
+This also calibrates **confidence** against the fidelity rules (G1): a fact the **DM** states is
+*confirmed*; the **same fact asserted by a player** is *suspicion* unless the DM or events bear it
+out (the Torston-the-murderer error was a player's belief). When you know who the DM is, weight
+their world-facing statements as ground truth and players' theories as suspicions.
+
+Apply the `dm` input here. If it wasn't given, infer the DM from who narrates/adjudicates, apply
+the above, and flag the assumption in the Step 8 ledger.
 
 ### 3. Extract canon into KB updates — with an evidence trail
 Working only from canon material, conforming to `SCHEMA.md` and the **existing canonical ids**
@@ -113,7 +137,9 @@ Run `py generator/build.py`. Confirm it reports **"All wikilinks resolved."** Fi
 ### 8. Report + confirmation ledger — do not finalise silently
 Summarise for the user, and explicitly surface what needs their ruling:
 - Session id/title and one-line summary; new entities created and existing entities changed (a short diff); quest progress applied.
-- **In-game / out-of-game judgment calls** (so they can correct mis-classifications).
+- **In-game / out-of-game judgment calls** (so they can correct mis-classifications). If you
+  **inferred** which speaker is the DM (no `dm` input given), state that assumption up front — it
+  underpins what you treated as authoritative canon vs chatter, so a wrong guess is worth catching.
 - **Confirmation ledger** — the heart of the safeguard. List, for the DM to confirm or correct:
   1. **Claims I softened or left as suspected/unknown** (and why), so the DM can *promote* any they
      know to be true.
