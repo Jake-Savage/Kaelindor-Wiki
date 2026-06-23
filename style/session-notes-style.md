@@ -3,8 +3,7 @@
 Rules for the prose session notes produced by `/session-ingest` (one file per session in
 `notes/session-NN.md`). The notes are a **detailed, impersonal record of events** — a neutral
 chronicle with no authorial voice, personality, or humour. They report and analyse what happened;
-they do not perform it, and they do not imitate any particular writer's prose. *Impersonal* refers
-to **register**, not depth: the notes are analytically thorough and may read subtext and infer
+they do not perform it. *Impersonal* refers to **register**, not depth: the notes are analytically thorough and may read subtext and infer
 motivation (see §2) — they simply do so flatly, without a narrator's personality.
 
 ## 1. No authorial identity — the governing rule
@@ -83,8 +82,7 @@ motivation (see §2) — they simply do so flatly, without a narrator's personal
   and plot implications.
 - **Omit:** all out-of-game material (rules/mechanics debate, dice, scheduling, real-world
   tangents, table chatter), **and all authorial colour** — humour, asides, characterisation by
-  the writer, and dramatisation. (The original campaign notes carried a wry, affectionate tone;
-  the notes here do not.)
+  the writer, and dramatisation.
 - A session may end at the last event of the night; no engineered cliffhanger phrasing.
 
 ## 12. Exemplars (the target register)
