@@ -19,9 +19,9 @@ relationships:
   - who: joster-sirit
     note: Devil who recognised Trevick's "Salmeros" lineage and later named his father; contacts him with his late mother's pendant (S2.14).
   - who: dakir
-    note: Founding companion he confides in about Joster.
+    note: Founding companion he confides in about Joster; the two keep contact by Dakir's paired sending-tokens after Dakir's departure (S2.28).
 first_session: S1.01
-last_session: S2.26
+last_session: S2.28
 tags: [ranger, beastmaster, firbolg-favoured, watcher, uthrel, velton, salmeros]
 summary: A tiefling beastmaster ranger and lone survivor of a village destroyed by the Uthrel, revered by the firbolgs as bearing a Rhynharran "Watcher" and chosen as the Eldryn's go-between.
 ---
@@ -44,6 +44,7 @@ In [[greymere]] he becomes the party's conduit to the natural world and the [[th
 - S2.14: Receives Joster's note and his mother's pendant.
 - S2.18–20: Welcomed by the firbolgs; [[hawk]] revealed as a Watcher; his tale of the "black moss" sends the camp into alarm.
 - S2.21: His history with the uthrel earns the Eldryn's truth and alliance.
+- S2.28: Rejoins the party a few days outside [[greywatch]] after travelling separately (faster, with only [[muriel]]), having kept in touch via [[dakir]]'s paired sending-tokens; relays that Dakir has gone "to learn more about the dragons." The party catches him up on the [[the-korrathian-conspiracy|Korrathian]] investigation. In the catch-up it comes out — news to Fabian and Mags — that he, Caspian, and Dakir had met the two unicorns [[stargleam]] and [[silverlily]] on the founding party's [[the-feywild-garden|Feywild Garden]] adventure (S1.04).
 
 ## DM notes / secrets
 - Trevick's father was a "Salmeros" — a lineage the devil [[joster-sirit]] recognised (he never claimed to have known the man) — and his parentage (with possible infernal/marked lineage beyond ordinary tiefling) is an open mystery seeded since S1.05.

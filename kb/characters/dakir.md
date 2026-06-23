@@ -43,6 +43,7 @@ He approaches the Greymere crisis as a puzzle of disrupted balance, reasoning ea
 - S2.21–22: Argues the gate is the Uthrel's entry point.
 - S2.25: Suffers recurring unnatural morning exhaustion; refuses Rell's dream-inspection; reveals to Fabian he was once human.
 - S2.27: Tells the party he is leaving — to resolve his identity and learn more about dragons after the forest remains — wishes them well, and departs. No longer travels with the group.
+- S2.28: Remains away but reachable: he and [[trevick]] keep contact through his paired sending-tokens. Via Trevick he confirms he is "off to learn more about the dragons."
 
 ## DM notes / secrets
 - **Dakir has left the party (S2.27)** to pursue [[dakirs-draconic-heritage|his own questions]] about his nature and dragons; he is no longer an active member. His unresolved exhaustion (below) leaves with him.

@@ -18,8 +18,10 @@ relationships:
     note: Shares a wordless psychic communion on Nameweave (S2.20); unexpected creative kinship.
   - who: dakir
     note: Bonds on the road home (S2.25); carves him a token, shown the sword-flute.
+  - who: valeria
+    note: His sister, an aberration-scholar he expects to envy his reaching the Mirrowen first.
 first_session: S1.05
-last_session: S2.26
+last_session: S2.28
 tags: [bard, crownspire, fame-seeking, radiant-magic, golden-lute, sunblade]
 summary: A vain, fame-seeking bard and seventh son of a Crownspire dynasty who hungers to be the hero of an epic tale, and who manifests a new golden radiant magic after a selfless act by Mags.
 ---
@@ -42,6 +44,7 @@ His defining motivation is legacy and museum-fame: as a boy he stood beneath the
 - S2.17: Manifests golden radiant magic after Mags's sacrifice.
 - S2.18–20: Persuades [[hesk]] to warn the town; his firbolg ballad exposes the Eldryn's burn-debate; communes with [[rell-aetris]].
 - S2.25: Dispatches Kroll's mercenaries to Crownspire (writ to his brother Quintus Palaveus); bonds with [[dakir]].
+- S2.28: His League education gives him (and [[trevick]]) detailed knowledge of [[the-mirrowen|the Mirrowen]]; mentions his aberration-scholar sister [[valeria]] and brother Marcellus; argues against using the Perennius name in Greywatch lest it draw attention.
 
 ## DM notes / secrets
 - Fabian's [[fabians-radiant-magic|radiant magic]] (S2.17) is unexplained in-world — an emergent power tied to selfless/heroic resonance, an active open thread.

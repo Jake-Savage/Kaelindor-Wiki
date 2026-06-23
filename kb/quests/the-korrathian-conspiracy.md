@@ -5,9 +5,9 @@ title: The Korrathian Conspiracy
 status: active
 priority: side
 opened_session: S2.24
-last_updated_session: S2.27
-involves_characters: [caspian-talon, mags, rell-aetris, dakir, fabian-perennius, hethan-kroll, oscar-wicklow, captain-thoronby, soren-dragan, amir-merillac, tamzin-venik]
-involves_locations: [greymere, the-mercenary-camp, bridgemarch, the-tiefling-shop, offendale, greywatch]
+last_updated_session: S2.28
+involves_characters: [caspian-talon, mags, rell-aetris, dakir, trevick, fabian-perennius, hethan-kroll, oscar-wicklow, captain-thoronby, soren-dragan, amir-merillac, tamzin-venik]
+involves_locations: [greymere, the-mercenary-camp, bridgemarch, the-tiefling-shop, offendale, greywatch, the-mirrowen, trevaryn]
 factions: [the-furnace-brood, krolls-mercenaries]
 tags: [korrathian, furnace-brood, conspiracy, cliffhanger]
 summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursion and, from the raided Bridgemarch cell, recovers scrolls naming three more Brood operations — choosing to chase one to Greywatch.
@@ -21,6 +21,7 @@ summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursi
 - S2.25: [[fabian-perennius]] sends the still-charmed mercenaries south; the party races back toward [[bridgemarch]] to chase the contact.
 - S2.26: Mags, Rell, and Caspian stake out the contact's warded [[the-tiefling-shop|metalworking shop]]; [[captain-thoronby]]'s squad raids it, but the two resident tieflings (posing as Korrath refugees ~9 years) kill themselves with acid. Behind the fireplace is a repeatedly-used blood/ash shrine to the [[the-furnace-brood|Furnace Brood]]. Evidence goes to [[oscar-wicklow]], who lies about not knowing of the uthrel and keeps [[krolls-map]].
 - S2.27: The party returns to the [[the-tiefling-shop]] and, after Caspian (newly able to Dispel Magic) and Mags open the trapped chests, Rell uses his [[amulet-of-proof-against-detection]] to open a set of protected documents. Beneath the kitchen flagstones they find a blackened, rune-carved stone — the magic-dampener and ritual site; Caspian reads its magic as communication, the renewal of oaths/pledges of allegiance, possible tribute/offerings, and suffering inflicted partly for research. Translated at [[snowdrop-house]], the three scrolls name three Brood operations: to the (dead) [[hethan-kroll]] — guard/watch the noble [[amir-merillac]] near Fairfield in [[offendale]], suspected of double-crossing the Brood; to [[tamzin-venik]] — place beacon-tokens in northern caches toward the mountains, openly; to [[soren-dragan]] — meet a contact in [[greywatch]] to pursue a rumour, secretly. The party resolves to pursue Soren Dragan to Greywatch.
+- S2.28: After a five-week overland journey (north through [[trevaryn]], then down the Drake's Road), [[trevick]] rejoins and the party arrives at [[greywatch]] in [[the-mirrowen]] on 28 Dusklin, the contact's address in hand. They enter under false names and a treasure-seeker cover story, avoiding the Perennius name and any mention of hunting a Korrathian ancient because of a possible mole in [[oscar-wicklow|Wicklow]]'s court. No contact made yet; the town is crowded for the Itharian festival Shadows Meet.
 
 ## Open threads
 - What is the Furnace Brood's ultimate goal in probing the uthrel incursion? (They were sent to find if it "left a trace," not established as its cause — per Speak with Dead they do not know who caused it.)

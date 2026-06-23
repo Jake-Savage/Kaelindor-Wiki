@@ -12,7 +12,7 @@ relationships:
   - who: queen-rowenna
     note: Serves the crown as Chancellor; brokers and renegotiates the party's official commissions.
 first_session: S2.10
-last_session: S2.26
+last_session: S2.28
 tags: [chancellor, itharis-rumoured, greymere-patron, uthrel-liar, korrathian-conspiracy]
 summary: The Chancellor of Kaelindor who brokered the Greymere job, rumoured to be a secret priest of Itharis, and who lies about knowing of the Uthrel.
 ---
@@ -26,6 +26,8 @@ Wicklow presents as a pragmatic, testing patron, but he conceals real knowledge.
 ## Appearances
 - S2.10: Briefs the party on Greymere and "the Prior"; offers favour + 1400g.
 - S2.26: Directs the raid on the Korrathian cell; renegotiates pay; lies about not knowing the uthrel; keeps Kroll's marked map.
+- S2.28 (recounted): Confirmed to have **retained the party on a more permanent basis** to hunt the Korrathian cultists. Detail added to the rumours: as a youth he was part of the [[itharis|Itharian]] orders, and he denies the secret-priest rumours vehemently. The party now openly suspects he had [[hethan-kroll|Kroll]] killed — a belief one member calls "overwhelmingly likely," resting on Kroll's Itharian-style murder and Wicklow's Itharian ties.
 
 ## DM notes / secrets
 - **Wicklow lies about not knowing the uthrel** (S2.26), and his interest in [[krolls-map]] makes his concealed knowledge a major open suspicion — possibly tying the Chancellor's office (and the rumoured [[itharis|Itharian]] connection) to the [[the-korrathian-conspiracy]] or to whoever benefits from suppressing knowledge of the Uthrel. The chapter's central unresolved figure.
+- **Suspected (party theory, S2.28), not confirmed:** that Wicklow ordered Kroll's death. The grounds are circumstantial — Kroll's Itharian crossing-ritual murder plus Wicklow's youthful Itharian tie. He vehemently denies any Itharian priesthood. Record as suspicion only.

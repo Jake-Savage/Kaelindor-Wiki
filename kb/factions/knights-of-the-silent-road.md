@@ -12,7 +12,7 @@ summary: The Queen's elite knightly order, whose records [[lord-torston]] falsif
 
 ## Overview
 
-The Knights of the Silent Road are the elite knightly order of the crown of [[kaelindor]], serving [[queen-rowenna]] as Warden of the Silent Road. They surface in the campaign chiefly as the victims of forgery: [[lord-torston]]'s treason involved falsifying the Order's records, including listing serving knights among the lost.
+The Knights of the Silent Road are the elite knightly order of the crown of [[kaelindor]], serving [[queen-rowenna]] as Warden of the Silent Road. The party also refers to them as the **Queen's Guard** (treated as the same body in S2.28). They surface in the campaign chiefly as the victims of forgery: [[lord-torston]]'s treason involved falsifying the Order's records, including listing serving knights among the lost.
 
 ## Structure / ranks
 
@@ -22,5 +22,9 @@ An elite royal order under the Queen as Warden of the Silent Road. Specific inte
 
 - **S1.03:** Encountered only in passing during the Tower of Heaven affair.
 - **S2.05:** Evidence from [[lord-torston]]'s treason revealed **falsified records of the Knights of the Silent Road** — two knights (Myra Keln and Elar Trenwith) listed as lost — alongside war-tithe records of gold and magical items being collated and sent to an unproven buyer in [[crownspire]]. The party investigated the airship port but could not trace the packets.
+- **S2.28 (recounted):** As [[trevick]] left [[greymere]], Queen's Guard officers were setting up nearby; town gossip held they were arranging to **station a much larger contingent of guardsmen close to Greymere**. They were relatively senior and made no attempt to hide their presence.
 
-The party has no direct relationship with the Order; it appears as the institution Torston defrauded, a thread in the still-stalled [[expose-torston]] investigation.
+## Suspected links (party theory)
+- The party **suspects** the Knights / Queen's Guard may have a loose association with the Itharis worshippers thought to have killed [[hethan-kroll]] (whose murder bore [[itharis|Itharian]] crossing-ritual marks). This is an unconfirmed party determination, not established.
+
+The party has no direct relationship with the Order; it appears as the institution Torston defrauded (a thread in the still-stalled [[expose-torston]] investigation) and, latterly, as a crown presence expanding around [[greymere]].

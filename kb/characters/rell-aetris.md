@@ -17,7 +17,7 @@ relationships:
   - who: trevick
     note: Comes to understand Trevick as one who has shed the trappings of humanity to live honestly.
 first_session: S1.05
-last_session: S2.26
+last_session: S2.28
 tags: [wizard, aberrant-mind-sorcerer, mind-magic, telepathy, tir-van, horizonborn, horizon-doors, masked, secretive]
 summary: A masked, reclusive Tir'Van who passes publicly as a wizard — secretly an Aberrant Mind sorcerer — whose lifelong search for the Horizon Doors makes him suspiciously excited when the party finds one — the tampered Bright Gate.
 ---
@@ -38,9 +38,10 @@ Morally, Rell is the party's harshest realist. He is bitter that the party "danc
 - S2.20: Removes his mask to share a wordless Horizonborn communion with [[fabian-perennius]]; revealed as Horizonborn.
 - S2.21–22: Awed by the intact gate; shows the excitement [[mags]] notices.
 - S2.24: Opens [[hethan-kroll|Kroll]]'s complex locked box; recognises the [[the-furnace-brood]] sigil.
+- S2.28: Alone among the party, theorises that a **unicorn** tampered with the [[the-bright-gate|gate]] — from a centaur's report of a rare forest unicorn lately seen, reasoning that a fey-native, magic-capable creature appearing from nowhere fits an area of a fresh [[the-feywild|Feywild]] crossing. The others are unconvinced ([[mags]] questions the basis); see [[who-tampered-the-gate]].
 
 ## DM notes / secrets
 - **The "wizard" identity is a guise.** Rell is officially known as a wizard and deliberately never names a subclass. In truth he is an **Aberrant Mind sorcerer** (an "aberrant soul" sorcerer), masking his innate, aberrant power behind the studied respectability of wizardry — a concealment that fits the unsettling, many-eyed nature of the [[the-tir-van]].
-- **Rell's excitement at the gate (S2.22) is a seeded suspicion**: his personal quest for the [[the-horizon-doors]] could put him at cross-purposes with the [[the-eldryn]]'s goal of sealing crossings to stop the Uthrel. He may want a gate *opened*.
+- **Rell's excitement at the gate (S2.22) is a seeded suspicion**: his personal quest for the [[the-horizon-doors]] could put him at cross-purposes with the [[the-eldryn]]'s goal of sealing crossings to stop the Uthrel. He may want a gate *opened*. His solo **unicorn theory** of the gate-tampering (S2.28) is of a piece with this fixation — he reads the crossing more closely than anyone else does.
 - He refuses oaths (notably lying, like Caspian, when the Eldryn demand the vow, S2.18) — a standing trust issue.
 - The Tir'Van elders' lore (the sealed gate, "Aerek" who may have known how to open them) is Rell's private research thread.
