@@ -1,84 +1,116 @@
-# Session-Notes Style Ruleset
+# Session-Notes Format
 
-The rules for writing prose session notes that match the established Kaelindor chronicle voice
-(the "Chapter 02" style). When `/session-ingest` produces the human-readable notes artifact, it
-writes to these rules. Each note is one file in `notes/session-NN.md`.
+Rules for the prose session notes produced by `/session-ingest` (one file per session in
+`notes/session-NN.md`). The notes are a **detailed, impersonal record of events** — a neutral
+chronicle with no authorial voice, personality, or humour. They report and analyse what happened;
+they do not perform it, and they do not imitate any particular writer's prose. *Impersonal* refers
+to **register**, not depth: the notes are analytically thorough and may read subtext and infer
+motivation (see §2) — they simply do so flatly, without a narrator's personality.
 
-## 1. Voice & tense
-- **Third person, present tense**, omniscient chronicle: *"Fabian receives an urgent message…",
-  "Mags casts Augury…"* Slip into past tense only for backstory or reported earlier events.
-- The narrator knows the party's perceptions and spell results, but reports NPC interiority
-  **only as the party learns it** — through a spell (Detect Thoughts), an Insight read, or
-  spoken word. Never narrate a secret the party hasn't earned.
-- Tone is **wry, affectionate, character-forward**. The party is a bickering found-family;
-  let their established traits colour the reporting (Fabian's vanity, Mags's bluntness,
-  Caspian's pedantry, Rell's detachment). Give emotional beats room, but stay economical.
+## 1. No authorial identity — the governing rule
+- No narratorial voice, opinion, humour, wit, or editorial aside. Do not label events funny,
+  clever, dramatic, touching, or ironic — and do not write to entertain.
+- Do not colour the account with a character's personality or the writer's. Report and analyse;
+  do not flavour. ("X argues for caution," not "X, ever the worrier, frets…").
+- Neutral, even register throughout: plain, precise, factual. No rhetorical flourish, no jokes,
+  no knowing tone, no dramatic build-up.
 
-## 2. Heading & dating
+## 2. Inference & subtext — welcome, grounded, impersonal
+- **Capturing social subtext, insight, motivation, and implication is expected**, not avoided.
+  The note-taker **may infer directly from context** — *where the reading is broadly discussed at
+  the table or heavily implied in-fiction.*
+- State inferences plainly, as an analyst would, and **anchor them to their basis**: *"The party
+  reads the Greenheart's reluctance as concealment — he appears to know more than he admits,"*
+  *"Torston's evasions strongly imply he is steering suspicion elsewhere."* The grounding (table
+  consensus, an NPC's manner, a spell result, the weight of evidence) should be visible.
+- Do **not** invent subtext with no support at the table or in the fiction, and do not promote a
+  grounded inference into an unqualified hard fact about a hidden truth — keep "strongly implies"
+  as "strongly implies." (Certainty in the structured KB is governed separately; see the foot of
+  this file.)
+
+## 3. Voice & tense
+- **Third person, present tense**, impersonal: *"The party travels to the estate. Caspian casts
+  Detect Thoughts on the guard."* No first person, no direct address, no "our heroes."
+
+## 4. Heading & dating
 - Head each session: `Session NN - DD/MM/YYYY` (real-world date).
-- Add an **in-world date line** where the in-game day begins or rolls over:
-  `24 Ashend, 1568` (full on first use; `25 Ashend` / `1 Threadbind` thereafter, no year).
-- For a new arc, open with a short **titled prose preamble** in a slightly grander register
-  summarising the job, optionally tagged `Source — … / reward — …`.
+- Add an in-world date line where the in-game day begins or rolls over: `24 Ashend, 1568` (full
+  on first use; `25 Ashend` / `1 Threadbind` thereafter, no year).
+- For a new arc, a brief factual preamble naming the job is fine (e.g. `Source — Chancellor
+  Wicklow. Reward — official favour + 1400 gold.`). No scene-setting flourish.
 
-## 3. Structure within a session
-- Loosely chronological prose in **short paragraphs (2–5 sentences)**.
-- Insert a **location sub-header** when the scene moves (e.g. `Silver Moon Bathhouse`,
-  `At the boathouse`).
-- When the party splits, use **named character sub-headers** (`Dakir & Rell`,
-  `Fabian & Caspian`) and cut between them with *"Meanwhile,"* / *"Back at the boathouse,"*.
-- For downtime or parallel actions, a bulleted list is fine (*"During the journey: • …"*).
+## 5. Structure within a session
+- Chronological prose in short paragraphs (2–5 sentences).
+- **Location sub-header** when the scene moves (e.g. `Silver Moon Bathhouse`, `The Boathouse`).
+- When the party splits, use **named character sub-headers** (`Dakir & Rell`, `Fabian & Caspian`)
+  and mark cuts plainly (*"Meanwhile, at the boathouse,"*).
+- Downtime or parallel actions may be given as a bulleted list.
 
-## 4. The "facts learned" device (signature)
-- Render discrete information the party gathers as a **bulleted list introduced by a colon**:
-  *"Further details we are informed of:"*, *"The party discuss what they know of vampires:"*,
-  *"Damar knows: • …"*. Use nested sub-bullets for sub-points.
-- Quote **letters, documents, and Speak-with-Dead answers verbatim**, set off by `---` rules
+## 6. The "facts learned" device
+- Render information the party gathers as a **bulleted list introduced by a colon**: *"The party
+  learns the following:"*, *"Damar states:"*. Nested sub-bullets for sub-points.
+- Quote letters, documents, and Speak-with-Dead answers **verbatim**, set off by `---` rules
   (Speak-with-Dead as Q/A bullets).
 
-## 5. Level of detail
-- High on plot, clues, and social manoeuvring. **Combat is compressed** to a running account of
-  who did what and whether it landed — not a blow-by-blow log.
+## 7. Level of detail
+- High on plot, clues, investigation, social dynamics, and decisions — including the **inferred
+  motivations and subtext** of §2 alongside the literal events.
+- **Combat is compressed** to a factual account of who acted and the result — not a blow-by-blow
+  log, and not dramatised.
 - Name spells explicitly and capitalised (Detect Thoughts, Calm Emotions, Pass Without Trace).
-- Describe mechanical outcomes **in fiction** ("the spell takes hold", "it resists") rather than
-  with numbers. Loot/gold may be noted plainly (*"347 gold goes into Dakir's bag"*).
+- State mechanical outcomes plainly in-fiction ("the spell takes hold," "it resists"); record
+  loot/gold directly ("347 gold is recovered").
 
-## 6. Introducing NPCs & locations
-- First mention of an NPC: **name + one-clause descriptor**, introduced casually as the party
-  learns it — *"the owner of the establishment, Gladys Henshaw"*, *"Lord of Greymere, Mathis
-  Irdane — a new lord."* Don't front-load a cast list.
-- First mention of a place: a brief sensory/functional sketch — *"The tower is a substantial
-  structure with a sturdy door in a courtyard; the ground floor is windowless."*
+## 8. Introducing NPCs & locations
+- First mention of an NPC: **name + a factual descriptor**, introduced as the party learns it —
+  *"the establishment's owner, Gladys Henshaw,"* *"the Lord of Greymere, Mathis Irdane."*
+- First mention of a place: a brief functional description; sensory detail only where it bears on
+  events.
 
-## 7. Dialogue
-- Default to **reported/indirect speech**: *"Mags says they'll take the figure home", "Torston
-  asks why they think this is of interest to him."*
-- Reserve **direct quotes** for punchy beats or verbatim documents. This keeps the chronicle brisk.
+## 9. Dialogue
+- Default to **reported/indirect speech**: *"Torston asks why they think this concerns him."*
+- Use **direct quotes** only for verbatim documents, Speak-with-Dead answers, or where the exact
+  wording matters — not for effect.
 
-## 8. Formatting
+## 10. Formatting
 - Bullets (`-`) for facts and parallel actions; `---` rules to set off quoted documents.
-- Em-dashes and ellipses carry tone and trailing implication. Sparing bold; no heavy styling.
+- Use punctuation functionally, not for tone. Avoid trailing ellipses, dramatic em-dashes, scare
+  quotes, and emphasis added for colour. No bold for emphasis within the prose.
 
-## 9. Included vs omitted
-- **Include**: who did what, what was learned, social subtext, loot, spell usage, NPC reactions,
-  plot implications, and the established character humour.
-- **Omit**: dice numbers (mostly), rules debates, scheduling, and all real-world player chatter.
-  (The KB recap is canon-only; the prose notes may keep a *little* dry table-humour as flavour,
-  but never out-of-game logistics.)
-- It's in keeping to **end a session mid-scene on a hook**.
+## 11. Included vs omitted
+- **Include:** who did what; what was learned; social subtext, insight, and grounded inference
+  (§2); negotiation outcomes; loot; spell usage; NPC reactions and stated positions; decisions;
+  and plot implications.
+- **Omit:** all out-of-game material (rules/mechanics debate, dice, scheduling, real-world
+  tangents, table chatter), **and all authorial colour** — humour, asides, characterisation by
+  the writer, and dramatisation. (The original campaign notes carried a wry, affectionate tone;
+  the notes here do not.)
+- A session may end at the last event of the night; no engineered cliffhanger phrasing.
 
-## Exemplars (the target voice)
-> *"Together, they travel to meet with Torston. He informs them that in light of recent events
-> he has called them there… While details have been suppressed, there is a rumour that the death
-> was the result of a vampire attack."*
+## 12. Exemplars (the target register)
+> *"Torston summons Fabian and Caspian and reports that his rival, Lord Harrington, has been found
+> dead in the Silver Moon Bathhouse, drained of blood, with a vampire rumoured responsible. He
+> offers a reward for a slain vampire and gives Fabian a sunblade."*
 
-> *"Further details we are informed of:*
-> *- Harrington was found in the Silver Moon Bathhouse… he had a private room…*
-> *- he arrived with a woman whose face was kept hidden…"*
+> *"Trevick determines the killer left through the window; Rell finds blood flushed down the
+> drain, inconsistent with a vampire feeding, and the body had been deliberately displayed. The
+> party reads the scene as a staged killing rather than a true vampire attack."*  ← grounded
+> inference, stated flatly
 
-> *"Mags just stares in cold, quiet disapproval."*
+> *"The Greenheart counsels patience and declines to investigate. The party reads his reluctance
+> as concealment — he appears to know more than he admits — though he offers no reason."*
 
-## Normalisation
-The source notes are full of inconsistent spellings (Caspian/Caspain, Torston/Torsten,
-Eldryn/Eldrin, Trevick/Trevik). **Always normalise names to their canonical KB spelling/id**
-when writing notes and KB entries. See `SCHEMA.md` and the existing `kb/` files for canon spellings.
+(Inference is present in the last two, but carried as analysis anchored to evidence — no judgement,
+humour, or framing.)
+
+## 13. Normalisation
+Normalise all names to their canonical KB spelling/id (Caspian, Torston, Eldryn, Trevick, …) —
+see `SCHEMA.md` and the existing `kb/` files.
+
+---
+
+**Relationship to the structured KB.** These notes may read more interpretively than the
+`kb/` entries. The KB's structured facts still follow the `/session-ingest` fidelity rules
+(G1–G5): a reading the notes state as "strongly implied" becomes, in a KB entry, a hedged or
+attributed claim or an open thread — never an unqualified hard fact about a hidden truth. Same
+events, two registers: the notes analyse freely but flatly; the KB records certainty precisely.

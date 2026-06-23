@@ -100,10 +100,11 @@ title, date_real, date_inworld, characters, locations, quests, summary`) and bod
 Canon-only — no table chatter.
 
 ### 6. Write the prose session notes (style artifact)
-Create `notes/session-NN.md` to **every rule in `style/session-notes-style.md`**: third-person
-present tense, `Session NN - DD/MM/YYYY` heading + in-world date line, location/character
-sub-headers, the colon-then-bullets "facts learned" device, reported speech, compressed combat,
-the established character humour. The same fidelity rules apply — report suspicions as suspicions.
+Create `notes/session-NN.md` following **`style/session-notes-style.md`** in full (register,
+structure, and what to include/omit live there). Skill-specific reconciliation only: the notes may
+analyse and infer more freely than the KB records, but the fidelity rules still bind the structured
+KB — a reading the notes carry as "strongly implied" becomes, in a KB entry, a hedged/attributed
+claim or an open thread, never an unqualified hard fact (report suspicions as suspicions, per G1).
 
 ### 7. Regenerate the wiki
 Run `py generator/build.py`. Confirm it reports **"All wikilinks resolved."** Fix any unresolved
