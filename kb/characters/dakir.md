@@ -21,9 +21,9 @@ relationships:
   - who: bartholomew-crane
     note: Calvyr ex-paladin who left Dakir the artificer components for his device.
 first_session: S1.01
-last_session: S2.26
-tags: [sorcerer, construct, draconic, dragon-bones, calvyr, exhaustion-mystery]
-summary: A dragonborn-lineage sorcerer who is secretly a Church-of-Calvyr construct, deeply moved by silver-dragon bones that resonate with his bronze draconic magic and troubled by a late, unexplained exhaustion.
+last_session: S2.27
+tags: [sorcerer, construct, draconic, dragon-bones, calvyr, exhaustion-mystery, departed]
+summary: A dragonborn-lineage sorcerer secretly a Church-of-Calvyr construct, moved by silver-dragon bones that resonate with his bronze draconic magic; he leaves the party in S2.27 to seek answers about his nature and about dragons.
 ---
 
 ## Overview
@@ -42,7 +42,9 @@ He approaches the Greymere crisis as a puzzle of disrupted balance, reasoning ea
 - S2.16: Discovers and is moved by the silver-dragon bones; takes three; casts into the faerie ring (to Caspian's fury).
 - S2.21–22: Argues the gate is the Uthrel's entry point.
 - S2.25: Suffers recurring unnatural morning exhaustion; refuses Rell's dream-inspection; reveals to Fabian he was once human.
+- S2.27: Tells the party he is leaving — to resolve his identity and learn more about dragons after the forest remains — wishes them well, and departs. No longer travels with the group.
 
 ## DM notes / secrets
+- **Dakir has left the party (S2.27)** to pursue [[dakirs-draconic-heritage|his own questions]] about his nature and dragons; he is no longer an active member. His unresolved exhaustion (below) leaves with him.
 - **Dakir is a Church-of-Calvyr construct, roughly ten years old**, not a born dragonborn. He himself frames it as "I was once human; my magic descends from a dragon an ancestor met" (S2.25) — his understanding of his own nature is partial. His draconic magic arrived later in life than his siblings'. The [[church-of-calvyr]] made him roughly ten years ago (the place is never stated); separately and later, its artificer-priest [[talan-pryce]] — using components left by [[bartholomew-crane]] — fitted his spell-storing device (S2.10). Talan and Bartholomew relate to the *device*, not his original making.
 - His **late unexplained exhaustion** (S2.25) — waking drained, refusing dream-inspection — is an open, unresolved hook. It may be tied to his construct nature, the dragon bones, or something else; deliberately left a mystery.

@@ -49,8 +49,13 @@ TYPE_LABEL = dict(TYPES)
 # --------------------------------------------------------------------------- #
 FM_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n?(.*)$", re.DOTALL)
 
+# Collects (source, message) for any frontmatter that fails to parse, so the
+# build report can surface them prominently (a bad colon silently empties an
+# entry's metadata otherwise).
+FM_ERRORS: list = []
 
-def parse_frontmatter(text: str):
+
+def parse_frontmatter(text: str, source: str = "?"):
     """Return (meta dict, body str). Tolerates files without frontmatter."""
     m = FM_RE.match(text)
     if not m:
@@ -59,9 +64,13 @@ def parse_frontmatter(text: str):
     try:
         meta = yaml.safe_load(raw) or {}
     except yaml.YAMLError as exc:
-        print(f"  ! YAML error: {exc}")
+        first_line = str(exc).splitlines()[0]
+        print(f"  ! YAML error in {source}: {first_line}")
+        FM_ERRORS.append((source, first_line))
         meta = {}
     if not isinstance(meta, dict):
+        print(f"  ! frontmatter in {source} is not a mapping — ignored")
+        FM_ERRORS.append((source, "frontmatter is not a mapping"))
         meta = {}
     return meta, body
 
@@ -235,7 +244,7 @@ def load_entities():
             continue
         for path in sorted(d.glob("*.md")):
             text = path.read_text(encoding="utf-8")
-            meta, body = parse_frontmatter(text)
+            meta, body = parse_frontmatter(text, f"{etype}/{path.name}")
             eid = meta.get("id") or path.stem
             if eid != path.stem:
                 print(f"  ! {path.name}: id '{eid}' != filename '{path.stem}'")
@@ -393,7 +402,7 @@ def home_page(base, entities, ctx):
     intro = ""
     idx = KB / "index.md"
     if idx.exists():
-        _, ibody = parse_frontmatter(idx.read_text(encoding="utf-8"))
+        _, ibody = parse_frontmatter(idx.read_text(encoding="utf-8"), "index.md")
         intro = render_markdown(ibody, ctx)
     parts = ['<div class="home">']
     if intro:
@@ -515,6 +524,12 @@ def build():
             print(f"    {src}  ->  [[{tgt}]]")
     else:
         print("\n  All wikilinks resolved.")
+    if FM_ERRORS:
+        print(f"\n  ⚠ {len(FM_ERRORS)} frontmatter parse error(s) — metadata dropped:")
+        for src, msg in FM_ERRORS:
+            print(f"    {src}: {msg}")
+    else:
+        print("  All frontmatter parsed.")
     return entities, broken
 
 
