@@ -1,0 +1,1077 @@
+[SPEAKER_03]: Before returning to the tieflings' home, Dakir informs the rest of the group he's leaving.
+[SPEAKER_03]: He's struggling with his identity and has a lot of questions to find answers to, including trying to learn more about dragons after encountering the remains in the forest.
+[SPEAKER_03]: He wishes them well and hopes they'll meet again one day in the future.
+[SPEAKER_03]: The party heads back to the Tiefling house to explore further.
+[SPEAKER_03]: The guards continue to search in the party's absence, but the magic dampener remains.
+[SPEAKER_03]: The party return first to the chests now that Caspian has learned to dispel magic.
+[SPEAKER_03]: He tries and fails a first attempt and is hurt.
+[SPEAKER_03]: He tries again, this time with help from Mags and Fabian.
+[SPEAKER_03]: Mags convinces the guards to carry the box outside after Fabian gives a poor attempt at lifting it where she finally opens it.
+[SPEAKER_03]: Inside there are further traps of a sort.
+[SPEAKER_03]: Rel takes time to investigate the contents, focusing on some documents.
+[SPEAKER_03]: Enhanced by Mags, he knows that circumventing the magic that protects the documents is possible, but doesn't know how to do this immediately.
+[SPEAKER_03]: Caspian takes time studying the magic and shares his knowledge.
+[SPEAKER_03]: Together, he and Rel confirm that the amulet Rel possesses will help.
+[SPEAKER_03]: It does not immediately deactivate the traps, but the trap is less aware that RHEL is the incorrect receiver of the documents.
+[SPEAKER_03]: With this RHEL manages to get all of the documents open.
+[SPEAKER_03]: The party tell the guards they need to take the papers for further study, with a promise to share the results.
+[SPEAKER_03]: Caspian writes a receipt and promises a translation.
+[SPEAKER_03]: The party continue to search the property.
+[SPEAKER_03]: Fabian tries to find a source of the dampening stone with Max's guidance.
+[SPEAKER_03]: He narrows its presence down to the kitchen, to the flagstones below.
+[SPEAKER_03]: and asks the guards and Rell to use a crowbar to take up the stone.
+[SPEAKER_03]: Beneath the flagstones there is a blackened stone with several magical runes.
+[SPEAKER_03]: When it's moved, the powerful and unpleasant rituals become evident, making the area almost nauseating in its magical aura.
+[SPEAKER_03]: Fabian and Rell continue to investigate, finding scratches, more physical signs of what has occurred.
+[SPEAKER_03]: Rell uses detect thoughts to see if there are any mental imprints or emotional imprints that have left a trace.
+[SPEAKER_03]: Finds psychic traces of emotions but struggles to find details other than the general feeling of suffering.
+[SPEAKER_03]: The residual magic and intense suffering here cause both Rell and Caspian to suffer physical pain, but Rell bears it better.
+[SPEAKER_03]: Rel continues to search for truer manifestations of emotions that might give a recollection of events, but is instead overwhelmed with lots of pain.
+[SPEAKER_03]: Caspian looks to find purpose, identifying what magics have been used, including communication magic and the renewal of bonds slash oaths, or pledges of service and allegiance.
+[SPEAKER_03]: Perhaps even exchange or tributes or offerings, as some of the suffering here seems to have been done for the purpose of research only.
+[SPEAKER_03]: Rel attempts to dig into the mental traces deeper, projecting the emotions and memories into the room to the others, and causes himself and those he projects to a degree of pain.
+[SPEAKER_03]: Fabs and Mags experience the scents for the first time.
+[SPEAKER_03]: Caspian tells him he does not wish to experience any more than he currently is.
+[SPEAKER_03]: So Rel continues to probe,
+[SPEAKER_03]: Max tries to guide him but the pain intensifies.
+[SPEAKER_03]: Max is forced to heal him and he tries a third time but finally fails once more.
+[SPEAKER_03]: The pain has become too much so he stops before it kills him.
+[SPEAKER_03]: Returning to Snowdrop House, the party translates the papers.
+[SPEAKER_03]: The first scroll is intended for
+[SPEAKER_03]: Heathencroll.
+[SPEAKER_03]: It details travel south to a town by Fairfield by water in Offendale, gives directions to a manor house of Amir Merillac, who has been doing work for the furnace brood, but the furnace brood has become suspicious of him.
+[SPEAKER_03]: He is intended to go with some of his best people to act as security and to observe to make sure that the noble is not double-crossing the brood.
+[SPEAKER_03]: The second document is for a Tamzin Venik.
+[SPEAKER_03]: She appears to be a traveling merchant of some form.
+[SPEAKER_03]: She's been told to head north to rivers meet and then further north to the mountains and has been given a set of five magical tokens that act as beacons to those who know them.
+[SPEAKER_03]: She is to meet with the hunters to verify that they have placed caches and in turn place one of the tokens she's been given in each cache.
+[SPEAKER_03]: She is to be completely open and not travel in secret.
+[SPEAKER_03]: The final letter is for a Soren Dragan.
+[SPEAKER_03]: He appears to be an adventurer or treasure hunter of some kind.
+[SPEAKER_03]: His instructions are to travel overland through Northern Offendale to the Tangles slash Meroen and meet a contact in Greywatch in order to pursue a rumour.
+[SPEAKER_03]: The desire is that he does this both quickly and secretly, and expects it to be dangerous.
+[SPEAKER_03]: There is an address enclosed.
+[SPEAKER_03]: The party decides to pursue Sorin Dragan to the Greywatch, briefly checking in with Torsten to ask if his new position is real and if he has access to the evidence that suggests there is a conspiracy afoot.
+[SPEAKER_03]: He replies that the investigation should continue but makes no comment on his new position nor the evidence.
+[SPEAKER_03]: The party agrees to leave Bridgemarch after a couple of days, sorting any loose ends, before finally travelling to the Mirawan.
+[SPEAKER_03]: It's about a 520 miles and is a five week long journey for the party as a group.
+[SPEAKER_03]: There are small villages along the way, but even so, the country is relatively wild, especially as the journey progresses and the party is often camping, etc.
+[SPEAKER_03]: For those less outdoorsy, it's a long, hard journey.
+[SPEAKER_03]: Trevik sets out a deal later, but travels much faster and arrives at the same time as the party a few days outside of Grey Watch, which is colloquially known as The Beacon, approaching from the north.
+[SPEAKER_03]: This is on the 25th of Dusklin, and the party arrives into town on the 28th.
+Go.
+Thank you.
+[SPEAKER_01]: Hello.
+[SPEAKER_00]: Yeah, take me a couple of minutes to get sorted out.
+[SPEAKER_00]: Ah, okay.
+[SPEAKER_00]: Welcome, everyone.
+[SPEAKER_00]: So first off, apologies, but this is going to be a slightly shorter session again, because I just took Alfie out and it's still too hot for him.
+[SPEAKER_00]: So I need to take him out again before it gets dark.
+[SPEAKER_00]: So we will go till like nine, nine thirty.
+[SPEAKER_00]: So there's still time to go out again and hopefully the less, slightly less cooling.
+[SPEAKER_00]: So yeah, heads up, this is a slightly shorter session.
+[SPEAKER_00]: Welcome back, Niamh, very nice to see you.
+[SPEAKER_00]: So what we're going to do this evening is do a brief narration of the time skip and what has happened between the times that we were last with the party, clear up any last questions about things that might have happened in Bridgemarch and so on.
+[SPEAKER_00]: And then we will have the moment when Trevik catches up with the party, and there is the sort of reunion of the party a few days outside of the mirror when itself, and then we will time skip forward again to when you guys are actually arriving into Grey Watch.
+[SPEAKER_00]: I'll also do, before we do that, I'll also do a little, you know, overall summary of, of like, you know, things that you would know about this area and so on, so that you sort of, you know, you've got some context and, and briefing and so on.
+[SPEAKER_00]: And then we'll see how far we get with actually being in there.
+[SPEAKER_00]: Does that sound right with them?
+[SPEAKER_03]: Sounds good to me.
+[SPEAKER_00]: All right, perfect.
+[SPEAKER_00]: So it was the 19th, I believe, when we left you guys in Bridgemarch last time, and we talked about you spending a few more days doing a few more inquiries into what had happened.
+[SPEAKER_00]: to Torsten and so on and then and make your final report to the Chancellor, give over the materials and translations and so on that you had used.
+[SPEAKER_00]: And then make plans to gather your things and head off in pursuit of the lead that you got that led you toward the mirror win.
+[SPEAKER_00]: I have arbitrarily decided that happens on the 22nd of Threadbind.
+[SPEAKER_00]: So unless anyone has a strong objection to that, you spend another two days in Bridgemarch and then you make your way.
+[SPEAKER_00]: Is there anything that anyone wants to talk about having done in Bridgemarch or any questions about what is happening in Bridgemarch or anything like that related to that 19th to 22nd period?
+[SPEAKER_01]: We robbed a bank and now we're leaving.
+[SPEAKER_01]: We can just go on.
+[SPEAKER_01]: So we're all rich now.
+[SPEAKER_05]: We should have organised some kind of just lunch and catch up with Benny at some point, which doesn't need to be narrated.
+[SPEAKER_00]: Well, he would happily do that.
+[SPEAKER_00]: And you would think you might discover from that.
+[SPEAKER_00]: He is doing very well.
+[SPEAKER_00]: He is not only being kind of accepted in his new role, but he seems to be kind of thriving in it.
+[SPEAKER_00]: And in particular, his martial skills, as you know, honed in the fighting pits and so on, have made him, you know, he is he is training with the Queen's Guard and looks set to become one of their number in due course, as most kind of young nobles might expect to if they have skills in that direction.
+[SPEAKER_00]: And he seems excited by that.
+[SPEAKER_05]: I reassure him that we haven't forgotten his party and it will happen at some point in the end game.
+[SPEAKER_00]: If anyone who is attending this luncheon would like to make a
+[SPEAKER_00]: Well, I guess it's kind of an insight check.
+[SPEAKER_00]: But I mean, if anyone is attending this luncheon and is going to ask any more kind of probing questions or be particularly attentive or try to find out anything that's not obviously on the surface, then feel free to make checks in that regard.
+[SPEAKER_04]: Yeah, thanks for being nosy.
+[SPEAKER_04]: What's on your mind, kiddo?
+[SPEAKER_05]: Might not be as nosy as Mags, but that is as nosy as Fabian possibly gets.
+[SPEAKER_05]: I can't see.
+[SPEAKER_00]: You have rolled your dice so privately, Alex, that I cannot see them.
+[SPEAKER_00]: Oh, no.
+[SPEAKER_00]: I think you can click on the three dots on the side and make them more visible.
+[SPEAKER_05]: Yes.
+[SPEAKER_05]: Oh, great.
+[SPEAKER_00]: There we go.
+[SPEAKER_00]: All right, the both of you notice that, that Benny seems, has a slightly, he seems pleased with himself, but also a little bit nervous about something.
+[SPEAKER_00]: And when, you know, probably Fabian presses, you know, tactfully and as he does his excellent, excellent social skills, Benny relatively,
+[SPEAKER_00]: relatively comfortably, although he's obviously a little bit nervous about how you guys are going to react to it, reveals that it was that he was the one who told the authorities about your suspicions about Torsten, about what he'd been up to and so on.
+[SPEAKER_00]: It seems that Torsten in the immediate aftermath had tried to like bring him in more and Benny had chosen not to side with him.
+[SPEAKER_00]: And that was the
+[SPEAKER_00]: Yeah, that is, that was the origin of Torsten's, you know, Torsten's conspiring coming to the attention of the author.
+[SPEAKER_05]: Honestly, not the worst decision he could have made.
+[SPEAKER_05]: Yeah, Fabian like immediately instigates a toast.
+[SPEAKER_00]: Benny's quite relieved because he wasn't sure how you guys would feel about that, but it has definitely got him quite a lot of official favour and trust and so on.
+[SPEAKER_00]: So, yeah, it's worked out well for him and he is relieved that you guys are not against it.
+[SPEAKER_05]: Yeah, very strategic.
+[SPEAKER_05]: They want to share it to the moral character.
+[SPEAKER_04]: Also, he's a child, even if he doesn't think it's too bad that we've been blaming him that much, would we?
+[SPEAKER_00]: I mean, it's not really much more of a child than most of the party.
+[SPEAKER_04]: So a child.
+[SPEAKER_01]: Compared to the 783 year old dogs.
+[SPEAKER_04]: 844.
+[SPEAKER_04]: Excellent.
+[SPEAKER_00]: Anything else that you guys would like to do or catch up with while you are in Bridgemarch over these few days?
+[SPEAKER_00]: Apart from Jemma, obviously, who is not in Bridgemarch at this time.
+[SPEAKER_00]: Okay, super.
+[SPEAKER_00]: Yes, make preparations to travel to the mirror when it is a long way.
+[SPEAKER_00]: And it is not a route that people go very often, so it is, you know, quite a rough journey.
+[SPEAKER_00]: You know there are roads of a sort for a lot of the way release tracks and so on but there's not kind of consistent accommodation and such, it is a pretty, it is a pretty hard journey for those of you who are not used to making kind of journeys in in kind of these sorts of conditions.
+[SPEAKER_00]: You don't want to steer kind of straight for Grey Watch from Bridgemarch.
+[SPEAKER_00]: You come a little bit north, sticking inside Trebarin for the most part, and then join up.
+[SPEAKER_00]: There's really one, well, there are two roads that go into Grey Watch.
+[SPEAKER_00]: One goes pretty much due north to Drake Mount, and that is the one that you guys are going to intersect with and then come into Greymarch
+[SPEAKER_00]: down that road and then the other road out of Greymarch goes to Mooncross in Kelvedore.
+[SPEAKER_00]: So your aim is to kind of go through, go along the kind of Othendale-Treviren border and then head kind of to Eastish until you hit that road and come down to the, come down on the road into Greymarch.
+[SPEAKER_00]: Now, most of what you're going to be doing on that journey is levelling up and practicing whatever skills you need to practice in order to level up.
+[SPEAKER_00]: But is there anything that you guys would like to do in particular, kind of narratively, along the way other than levelling up?
+[SPEAKER_02]: I still haven't completely caught up on those.
+[SPEAKER_02]: One is bringing you through.
+[SPEAKER_00]: Yeah, so when Trevick joins the party, you guys can actually act this part out with a party.
+[SPEAKER_00]: But is there anything the rest of you guys would like to do for the bulk of this journey?
+[SPEAKER_00]: So the journey will take about five weeks in total.
+[SPEAKER_00]: Trevick is going to catch up with you guys on the
+[SPEAKER_00]: 23rd of Dusklin, which is basically October.
+[SPEAKER_00]: So you guys have been traveling for a month or so at this point.
+[SPEAKER_00]: Is there anything else you want to have done apart from concentrate on your leveling up during that time?
+[SPEAKER_03]: We've made significant progress on our downtime activities.
+[SPEAKER_03]: So I was going to say, can I have learned Karathian in the last five weeks?
+[SPEAKER_00]: No, leveling up is taking up all the mechanical time.
+[SPEAKER_00]: This is narrative.
+[SPEAKER_00]: Am I in the back of a cart?
+[SPEAKER_00]: I'm not walking.
+[SPEAKER_00]: You guys don't have it.
+[SPEAKER_00]: This is not a cart-suitable route you guys are walking, I'm afraid.
+[SPEAKER_00]: I mean, you could maybe persuade someone to carry you if you weren't so heavy.
+[SPEAKER_00]: I think Max's density and the athletic score of the party will make that impossible.
+[SPEAKER_04]: Alright, well, that's very annoying.
+[SPEAKER_04]: Never mind.
+[SPEAKER_01]: Casperin would ask Rayll if he wanted him, since they were travelling again, wanted him to look at the amulet any more.
+[SPEAKER_01]: So I look at work in progress things.
+[SPEAKER_00]: You can definitely do that narratively, but mechanically we will not be... this downtime period is just... otherwise we'll get very complicated and make a thousand million rules.
+[SPEAKER_00]: That's fair.
+[SPEAKER_04]: I'll knit you all stupid hats.
+[SPEAKER_04]: That will be truly, truly revoltingly ugly as only someone that grew up in the dark could possibly create.
+[SPEAKER_04]: No eye for colour or aesthetics whatsoever.
+[SPEAKER_04]: Combinations of colour that probably do psychic damage, I would warrant.
+[SPEAKER_00]: It is getting cold.
+[SPEAKER_00]: I mean, it's towards the end of October, by the time we get to the point of getting to Greywatch, you are reasonably far north.
+[SPEAKER_00]: You're reasonably high up.
+[SPEAKER_00]: It is definitely getting more into kind of woolly hat territory temperature ones.
+[SPEAKER_05]: Fabian will pull out a matching scarf, whatever colour you make it, and somehow pull it off.
+[SPEAKER_05]: It has not escaped my attention that the people who were quick on our walk back from to Bridgemarch have escaped their interview with Fabian.
+[SPEAKER_05]: I'm not going to force anybody to do the interview now, but if you felt ready for it, I was going to write the whole thing up, but it would be nice to have the other half.
+[SPEAKER_05]: I did mine.
+[SPEAKER_05]: I think it's Caspian and Mags who would mistell.
+[SPEAKER_01]: OK, well, fine.
+[SPEAKER_01]: Let's go for it.
+[SPEAKER_05]: Yay!
+[SPEAKER_01]: I'm sorry, by the way, that if my brain is melting, I'm sorry.
+[SPEAKER_00]: I think I guessed it absolutely, everyone.
+[SPEAKER_00]: Yes, it is too hot for thought.
+[SPEAKER_05]: 34 degrees.
+[SPEAKER_05]: I feel weirdly advantaged that it is much colder in Portugal right now.
+[SPEAKER_01]: What is it in Portugal?
+[SPEAKER_05]: In the mid-20s.
+[SPEAKER_05]: It rained today.
+[SPEAKER_05]: Oh, Caspian, we've got so many weeks on the road now.
+[SPEAKER_05]: It'd be really great for us to catch up on what's been going on.
+[SPEAKER_05]: How do you think you've changed since the beginning of our last adventure?
+[SPEAKER_01]: I suppose I'm a lot more wary about going places and doing anything without telling you all exactly what I'm doing and where I'm going and who I'm meeting with.
+[SPEAKER_05]: Yes, we're giving you a little bit of grief for that, haven't we?
+[SPEAKER_05]: Just a little bit.
+[SPEAKER_05]: All banter, obviously.
+[SPEAKER_05]: Does it feel good now that a DAC is the irresponsible one?
+[SPEAKER_01]: You know what?
+[SPEAKER_01]: It does hope a little.
+[SPEAKER_01]: It does.
+[SPEAKER_01]: Although he is...
+[SPEAKER_01]: I haven't read the notes.
+[SPEAKER_01]: I should have read Dave's edition, but I haven't.
+[SPEAKER_01]: But Dachir has left just for the time being.
+[SPEAKER_00]: He has business of his own, but he needs to conduct, so yes, he said his farewells to you guys before you left.
+[SPEAKER_01]: But Dachir has left, so I feel like I am still going to be the one being punished for these things, but that's fine.
+[SPEAKER_05]: Well, you know, if you're lucky, maybe Mags will pull out a daredevil streak or shift it onto her.
+[SPEAKER_01]: Yes, but then she blames her god and says her god says it's fine and then everyone's OK with it because Néilor says it's fine.
+[SPEAKER_05]: Are you going to mistack here?
+[SPEAKER_01]: Of course, I've traveled with him for a while.
+[SPEAKER_01]: I do feel like at some point, if he's not here, we can really take advantage of those dragon bones.
+[SPEAKER_01]: We should look into that again.
+[SPEAKER_05]: I like the way you think, Caspian.
+[SPEAKER_05]: I really do.
+[SPEAKER_05]: And actually, that brings me on to my next question.
+[SPEAKER_05]: If you were to describe the forest as one feeling, what would that feeling be?
+[SPEAKER_01]: One feeling?
+[SPEAKER_01]: Perhaps you do ask interesting questions.
+[SPEAKER_01]: I don't suppose it's a feeling as such, but the word that comes to mind is cryptic, I suppose.
+[SPEAKER_05]: Cryptic.
+[SPEAKER_05]: Interesting.
+[SPEAKER_05]: And how do the dragon bones factor into that for you?
+[SPEAKER_05]: What do they mean for you?
+[SPEAKER_01]: Well, it's a puzzle, isn't it?
+[SPEAKER_01]: So I want to know more.
+[SPEAKER_01]: I want to solve the puzzle.
+[SPEAKER_05]: That's it.
+[SPEAKER_05]: You want to solve the puzzle.
+[SPEAKER_05]: Isn't that all?
+[SPEAKER_01]: Right, they're there.
+[SPEAKER_01]: And, well, surely, fans, you want the recognition as well.
+[SPEAKER_01]: You want your name on a plaque in a museum somewhere.
+[SPEAKER_05]: Yeah, well, yes, of course.
+[SPEAKER_05]: I think that's a done deal.
+[SPEAKER_05]: The dragon bones, they're very rare.
+[SPEAKER_05]: If I find them, I'll be famous and we're over.
+[SPEAKER_05]: What puzzle is there to solve?
+[SPEAKER_01]: Well, why they're there, why no one has discovered them, how we discovered them so randomly, I assume connected to Daguerre in some way.
+[SPEAKER_01]: But how did we stumble across them when no one else seems to have?
+[SPEAKER_01]: We talked to people there briefly and subtly and no one else seemed to know anything of them.
+[SPEAKER_05]: No, that's a very interesting conundrum.
+[SPEAKER_05]: I hadn't thought about us stumbling across them because of Daggett, but maybe now he's gone.
+[SPEAKER_05]: Actually, they're more inaccessible than ever.
+[SPEAKER_01]: Well, that's potential, but how will we know until we go back?
+[SPEAKER_01]: Or until we potentially know someone who can do these things for us and dig out a path.
+[SPEAKER_01]: But I would like to be aware when they are rediscovered.
+[SPEAKER_05]: We must factor in some time in the next five weeks, narratively, Jess, for us to put our notes and my verse together and see if we can recreate our steps more accurately.
+[SPEAKER_01]: At least we can talk openly about it now.
+[SPEAKER_01]: I feel that Dakir was upset with us whenever we mentioned it.
+[SPEAKER_05]: Yes.
+[SPEAKER_05]: I think Rell might be on board if we ask.
+[SPEAKER_01]: Oh yes, I imagine he would be.
+[SPEAKER_04]: Can we all hear this not very subtle?
+[SPEAKER_00]: I doubt it.
+[SPEAKER_00]: I mean, you guys have got, they've got a long time to talk privately if they want to.
+[SPEAKER_04]: Fair enough.
+[SPEAKER_01]: Yes, I feel like he was last questionable of the ethics that they care seemed involved in this.
+[SPEAKER_01]: Trevick might have something to say, but I feel that he persuaded.
+[SPEAKER_05]: Perhaps if we warned him that if word gets around there are dragon bones in the forest, it's more likely to bring unfortunate traffic to the forest.
+[SPEAKER_05]: So we're really doing it a favour by extracting them.
+[SPEAKER_01]: Yes, that makes sense.
+[SPEAKER_01]: That would do, although we would need help extracting them.
+[SPEAKER_05]: That's true.
+[SPEAKER_05]: It's true.
+[SPEAKER_01]: Which means quite a lot.
+[SPEAKER_05]: I don't know which of us is the best at heavy lifting.
+[SPEAKER_01]: None of us.
+[SPEAKER_01]: The answer to that is none of us.
+[SPEAKER_05]: It's definitely not us two.
+[SPEAKER_01]: Trevik, I think, has a little bit of strength about him, but honestly, that's not what this party is built on.
+[SPEAKER_05]: I bet Mags can deadlift a dragon, so we'll rely on her.
+[SPEAKER_05]: Other than the dragon, I, for one, did not enjoy that air elemental one bit.
+[SPEAKER_05]: What's the most fearsome thing we've encountered in your eyes?
+[SPEAKER_01]: What is the most fearsome thing?
+[SPEAKER_00]: Interesting.
+[SPEAKER_01]: I did not like, and never tell her this, I will know it was you and do not tell her, but I did not like when my soul was petrified, basically.
+[SPEAKER_01]: I, Max frustrates me, Nelos and all of the talk of her gods frustrate me, however she has proved quite useful and I'll admit I have warmed to her a little in these last few weeks.
+[SPEAKER_05]: I know exactly what you mean.
+[SPEAKER_05]: The second I, I honestly I hadn't given her much thought until that point and then suddenly she'd gone and it felt like
+[SPEAKER_05]: I felt like leaving home, like mother wasn't around for the first time again.
+[SPEAKER_01]: She frustrates the hell out of me.
+[SPEAKER_01]: And I quite honestly feel she hates me most of the time.
+[SPEAKER_01]: However, I was quite worried then.
+[SPEAKER_05]: What is your relationship with your mother like?
+[SPEAKER_04]: Do you write home much?
+[SPEAKER_04]: You know, you're not really mentioned.
+[SPEAKER_01]: I don't think we need to discuss that.
+[SPEAKER_04]: Okay, fair enough.
+[SPEAKER_01]: I write home on occasion, but I have not spoken to them properly in some time.
+[SPEAKER_01]: Admittedly, I owe them a visit.
+[SPEAKER_01]: I do.
+[SPEAKER_02]: Where do they live?
+[SPEAKER_01]: Sorry?
+[SPEAKER_02]: Where do they live?
+[SPEAKER_01]: Not here.
+[SPEAKER_02]: Oh, clearly.
+[SPEAKER_01]: They own a farm.
+[SPEAKER_01]: It's not nowhere in a place you were unlikely to have ever heard of, because nothing has ever happened there.
+[SPEAKER_05]: That is so nice and quaint to hear, that you come from humble, humble, earthy roots.
+[SPEAKER_05]: You know, it's not always been in a book.
+[SPEAKER_01]: No, well, even then it was, there just wasn't very many available.
+[SPEAKER_05]: Interesting.
+[SPEAKER_05]: Interesting.
+[SPEAKER_05]: Well, I'll stop torturing you, Sade, and we can get on with the trek.
+[SPEAKER_05]: Thank you.
+[SPEAKER_05]: I have no idea what form this is going to turn into a write-up, but I'm enjoying this.
+[SPEAKER_01]: I'm enjoying it for you, Alec.
+[SPEAKER_01]: Thanks.
+[SPEAKER_04]: Mags.
+[SPEAKER_04]: Yes, I got a minute.
+[SPEAKER_04]: I thought, can I cast Chill Touch on myself?
+[SPEAKER_00]: Just suck it, suck up the damage from it.
+[SPEAKER_04]: I'll take the damage, yeah, absolutely.
+[SPEAKER_04]: I'll probably blow the table murdering it.
+[SPEAKER_04]: All right, sorry.
+[SPEAKER_04]: Yes, dear, what can I do for you?
+[SPEAKER_05]: Bags, I'm trying to put together a bit of a retrospective on the last few weeks slash days.
+[SPEAKER_05]: Hi, nice, dear.
+[SPEAKER_05]: I'm trying to keep you busy.
+[SPEAKER_05]: Well, yes, it's a long journey, isn't it?
+[SPEAKER_05]: And I've got some time to write it fast.
+[SPEAKER_05]: So you're always giving cryptic warnings.
+[SPEAKER_05]: And I wondered, I need an opening part for the forest, a big first page.
+[SPEAKER_05]: And I want an illustration of some kind of fence around the trees and a big sign.
+[SPEAKER_05]: And the sign needs a warning on it.
+[SPEAKER_05]: And I thought you could give voice to that warning.
+[SPEAKER_05]: What should be there?
+[SPEAKER_04]: Say, fuck off.
+[SPEAKER_04]: Very dangerous things within that people that don't know what they're doing should mess around with.
+[SPEAKER_05]: You know, I don't know why I didn't get you to say that already.
+[SPEAKER_05]: It's just the kind of succinct wisdom that...
+[SPEAKER_04]: They're tricky to find, sorry, to rhyme with, fuck.
+[SPEAKER_04]: Much easier in those, of course.
+[SPEAKER_04]: Oh, yes, yes, yes, good.
+[SPEAKER_05]: Well, I'm glad you've got your stories to occupy.
+[SPEAKER_05]: Well, you are right.
+[SPEAKER_05]: There's many dangerous things in the forest.
+[SPEAKER_05]: Now, I almost didn't want to ask you this, because you, I think, had the toughest job of all.
+[SPEAKER_05]: And we're all grateful for the sacrifices you showed for me, personally.
+[SPEAKER_05]: I don't think I beat it today.
+[SPEAKER_05]: if it weren't for you.
+[SPEAKER_05]: And I think I thanked you for that.
+[SPEAKER_05]: But if not, thank you, Mags.
+[SPEAKER_05]: I really mean it.
+[SPEAKER_04]: You're very welcome.
+[SPEAKER_05]: What was... And if it's the tree, then it's the tree.
+[SPEAKER_05]: But perhaps other than the tree, what is the most dangerous thing you think we've encountered?
+[SPEAKER_05]: I quite enjoyed being in the tree.
+[SPEAKER_04]: I think in the long time before it wouldn't have been good, but it was quite fun for a while.
+[SPEAKER_05]: Wait, you remember being the tree?
+[SPEAKER_04]: Well, I remember bits.
+[SPEAKER_04]: I remember the feeling of sap pushing through the joints, which, let me tell you, kid, once you've got joints like mine, it's actually quite a nice new feeling.
+[SPEAKER_04]: So that was good.
+[SPEAKER_05]: Well, that is fascinating.
+[SPEAKER_05]: And did you have thoughts or words in your head or pictures or?
+[SPEAKER_04]: Not words, but yeah, certainly thoughts.
+[SPEAKER_04]: Yeah, I felt the sunlight.
+[SPEAKER_04]: I felt eating it.
+[SPEAKER_04]: That was fun.
+[SPEAKER_05]: You know, I think there's the potential here for a very lucrative tree-based relaxation therapy we could set up in Crownspire.
+[SPEAKER_04]: You go for that, Thadion.
+[SPEAKER_04]: I think that sounds like a really excellent use of your time.
+[SPEAKER_04]: Yes.
+[SPEAKER_05]: One to think about.
+[SPEAKER_05]: Anyway, you were central to our negotiations with the centaurs.
+[SPEAKER_05]: And as a people, how would you describe the centaurs to those outside of the forest?
+[SPEAKER_04]: I don't think it's really for me to say.
+[SPEAKER_04]: But I get the very strong impression they don't want us to be talking much about their lives and want to be left alone.
+[SPEAKER_05]: Well, OK, but leave them alone is certainly a good first line.
+[SPEAKER_05]: Leave them alone, they are a...
+[SPEAKER_04]: I'm also aware that you and I are happy to bend the rule a little bit, but we did promise we wouldn't say more than we had to about them in the wise world, didn't we?
+[SPEAKER_05]: I suppose that's true, I suppose.
+[SPEAKER_05]: All right, all right, fair enough.
+[SPEAKER_05]: I'll stay hushed.
+[SPEAKER_05]: Well, what about Caspian then?
+[SPEAKER_05]: Just ask you that.
+[SPEAKER_05]: Do you trust him a little more after this, or no change?
+[SPEAKER_04]: I trust him to behave like Cassidy.
+[SPEAKER_05]: I think we can all rely on that.
+[SPEAKER_05]: That's true.
+[SPEAKER_05]: Well, thank you very much, Maps.
+[SPEAKER_03]: I'm going to have a fuck-off centre page.
+[SPEAKER_03]: Was that helpful?
+[SPEAKER_05]: I mean, I've got a good image in my head for the chapter start, and if that's what I get out of this, that's what I get.
+[SPEAKER_05]: All right, I'll spare Trevor because he's not here.
+[SPEAKER_00]: So we've passed the journey with various kind of interludes, people recording and crafting and doing bits and bobs and generally, you know,
+[SPEAKER_00]: Honing their skills such that they, you know, some of you learn a few new spells, some of you get a little bit better with your weapons, et cetera.
+[SPEAKER_00]: You know, you all make significant progress.
+[SPEAKER_00]: Kathleen, you have been keeping in touch with Previk using the Sending Tobins that Dakia made for the both of you.
+[SPEAKER_01]: What is that noise?
+[SPEAKER_00]: I don't know what that noise is.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: Sorry.
+[SPEAKER_00]: There's a weird singing noise coming.
+[SPEAKER_04]: That is Marlowe's music, because I was getting another fucking ice cube to pour down the cleavage.
+[SPEAKER_00]: You've been keeping in touch with Trevick, so you know, he knows how to meet up with you guys.
+[SPEAKER_00]: He is going much faster than you are collectively, being used to the wilds, having only himself and Muriel.
+[SPEAKER_00]: He manages to, despite having left Cailendor much later than you did, he still nonetheless manages to catch up with you a few days outside of Grey Watch.
+[SPEAKER_00]: Yeah, over to you guys.
+[SPEAKER_00]: Travick rejoins the party.
+[SPEAKER_00]: Travick!
+[SPEAKER_05]: You're back!
+[SPEAKER_05]: Oh, this is such a relief.
+[SPEAKER_05]: You will not have no idea how many times we've gotten lost without you.
+[SPEAKER_01]: True, we really have missed your guidance.
+[SPEAKER_02]: Very nice to see you.
+[SPEAKER_02]: Yeah, I can imagine it's taken you a while.
+[SPEAKER_01]: I gave, if Muriel's with you, I give her some rations behind your back.
+[SPEAKER_02]: Travick holds up the coin and says, Dachir says that he's off to learn more about the dragons.
+[SPEAKER_02]: It'd be hard to be without him, but I'm wishing him luck with this.
+[SPEAKER_02]: What have the rest of you been up to?
+[SPEAKER_02]: Where are we going?
+[SPEAKER_05]: We are going to sound a fascinating the tangles.
+[SPEAKER_05]: So many people talk about them, but nobody from firsthand experience.
+[SPEAKER_05]: So I think this might be our most exciting adventure yet.
+[SPEAKER_00]: So if you're looking on the map, Niamh, we're talking about the Mirawen, which the colloquial local name, well, actually, no, not just the local name, everyone's name for it is the Tangles.
+[SPEAKER_00]: But it is, its proper name is the Mirawen.
+[SPEAKER_02]: Is this another forest just by the name?
+[SPEAKER_00]: It's not another forest.
+[SPEAKER_00]: I mean, there are some woodlands and so on in it, but it is quite a large region of a lot of magical disturbance and disruption.
+[SPEAKER_00]: It is physically very fragmented, lots of kind of deep valleys.
+[SPEAKER_00]: so on, but it also doesn't have a, doesn't have a consistent reliable physical geography.
+[SPEAKER_00]: Places kind of shift around, not massively, but enough to make it very difficult.
+[SPEAKER_00]: Yeah, it is a, it is a kind of fragmented, magically damaged area.
+[SPEAKER_02]: Oh, okay.
+[SPEAKER_02]: What is Ring of Tsundere?
+[SPEAKER_02]: What?
+[SPEAKER_02]: Why have you been sending this record?
+[SPEAKER_02]: Is there a specific reason or is it just curiosity that was sending us down the street?
+[SPEAKER_05]: Well, we investigated the Carathian plot back in Bridgemarch, and we found some communiqués, which we got a number of leads, and we decided this was the best one to start with.
+[SPEAKER_00]: I mean, remember, Travick hasn't been with you guys since you were in the brown-wheeled.
+[SPEAKER_00]: He doesn't know anything about a Carathian.
+[SPEAKER_05]: Oh, yeah.
+[SPEAKER_05]: I think he still says it, though.
+[SPEAKER_05]: On the blank face, it's like, oh, God, you've not been here for ages.
+[SPEAKER_05]: Right, we got out of the forest, and remember that dickhead, I've forgotten his name, he's so insignificant.
+[SPEAKER_03]: Kroll.
+[SPEAKER_05]: Well, he had been killed under mysterious circumstances.
+[SPEAKER_05]: He'd been shaking down the town with his men to pay them money, because the mayor very sensibly would not.
+[SPEAKER_05]: And then out of nowhere, we got murdered.
+[SPEAKER_05]: It's a shame.
+[SPEAKER_05]: So we had to investigate, and Rell and Dakir did some excellent subterfuge, and we found out that he was an agent of Korath.
+[SPEAKER_05]: Oh my gosh, Korath Trevik, you would have been so useful.
+[SPEAKER_05]: He looks up at the horns and suddenly remembers.
+[SPEAKER_05]: Have you come across the Furnace Brood before?
+[SPEAKER_02]: The Brood?
+[SPEAKER_02]: I've heard of the Brood.
+[SPEAKER_02]: Well, I haven't come across it personally.
+[SPEAKER_05]: Keep going.
+[SPEAKER_05]: Well, by the sounds of it, you're very fortunate.
+[SPEAKER_05]: So it turned out he was with the Furnace Brood.
+[SPEAKER_05]: Only him, not his men, but was heading to the forest under their orders.
+[SPEAKER_05]: And we traced back to where he receives his orders from in Bridgemarch.
+[SPEAKER_05]: Mags basically kicked the door down with the town guards.
+[SPEAKER_05]: We scoured the place out and uncovered a lot of very unfortunate tentacles.
+[SPEAKER_05]: And eventually managed to find the orders themselves, direct from Korath, we think.
+[SPEAKER_05]: Unfortunately, those who received the orders seemed to know we were coming and off themselves in quite a clever way.
+[SPEAKER_05]: Even Mags couldn't do the thing where she talks to them, you know.
+[SPEAKER_05]: But yes, we found these letters and there were three destinations for the orders.
+[SPEAKER_05]: This one, I actually can't remember why we picked this one in the end, other than arbitrarily, but this one sounded the most exciting.
+[SPEAKER_05]: You were in favour of it because it was dangerous.
+[SPEAKER_05]: It sounds like it could be safe combat for a few weeks.
+[SPEAKER_04]: An adventure called Soren Dragan was dispatched, or was about to be dispatched, by whoever the
+[SPEAKER_04]: close and giving orders is to meet a contact in Greywatch to pursue a rumour.
+[SPEAKER_04]: That's all we know.
+[SPEAKER_04]: We do have an address in Greywatch.
+[SPEAKER_04]: Yes.
+[SPEAKER_04]: Yeah.
+[SPEAKER_05]: And this one was, we are now, we're now under the employer of Wicklow, Chancellor Wicklow, on a more permanent basis.
+[SPEAKER_05]: He's paid us for our, well, he thanked us for our work in Bridgemarch.
+[SPEAKER_00]: Yeah, he did, you did get paid.
+[SPEAKER_00]: I know, I know.
+[SPEAKER_05]: Okay, apologies.
+[SPEAKER_05]: We were paid for our work in Bridgemarch, and we explained the plot.
+[SPEAKER_05]: Obviously, the news of the cult has spread around the city, and we were pretty sure.
+[SPEAKER_05]: And he's agreed to keep us employed to hunt down these cultists and try to put an end to it.
+[SPEAKER_05]: Anything else I missed?
+[SPEAKER_04]: Why are you still with us when we found out about the gate?
+[SPEAKER_02]: The gate that could have potentially been in the brown wheels.
+[SPEAKER_02]: The gate that could have potentially been the reason that the moss is there.
+[SPEAKER_03]: Yes, all potentials eliminated.
+[SPEAKER_03]: We definitely found a gate and we have definitely the source of the infection.
+[SPEAKER_04]: Someone entering and leaving through that gate tampered with it to make it look like no one has gone through it, but they spotted it.
+[SPEAKER_03]: The running suspicion is that it was a unicorn.
+[SPEAKER_04]: When we interrogated... Why do we believe that again?
+[SPEAKER_03]: When we interrogated Heathen Kroll's body, he did reveal that the furnace brood weren't responsible, but were deeply interested in the gate.
+[SPEAKER_03]: He was there specifically to look and see if any trace of crossing had been left behind.
+[SPEAKER_03]: That was his mission in the Branweald.
+[SPEAKER_05]: And speaking of which, you are in big trouble, along with the others, for never telling us that you met a unicorn.
+[SPEAKER_05]: Insanity.
+[SPEAKER_05]: Two unicorns, I hear.
+[SPEAKER_02]: Two unicorns.
+[SPEAKER_02]: You know?
+[SPEAKER_02]: Yeah, unicorns at large.
+[SPEAKER_02]: That wasn't as shocking as you probably would have suspected.
+[SPEAKER_02]: That would have been to me.
+[SPEAKER_02]: But yeah, interesting.
+[SPEAKER_02]: OK, fair.
+[SPEAKER_02]: Hmm.
+[SPEAKER_05]: Oh gosh, and we found a map to Morgates in our troll's tent.
+[SPEAKER_03]: Which Wicklow promptly stole once shown to him.
+[SPEAKER_03]: So we don't have that anymore, unfortunately.
+[SPEAKER_00]: I made a copy, because I made a copy.
+[SPEAKER_00]: Good, Ma, I knew you would.
+[SPEAKER_00]: Okay, cool.
+[SPEAKER_00]: To be fair, I know what that is a map to.
+[SPEAKER_00]: It's just a map with some places marked on it.
+[SPEAKER_01]: Yep, still made a copy.
+[SPEAKER_01]: It's what I do.
+[SPEAKER_00]: No, but just to be clear, it's a map with some places marked on it.
+[SPEAKER_01]: We'll show traffic the map anyway.
+[SPEAKER_01]: We'll show my copy.
+[SPEAKER_05]: One of the places on it is was credits hometown, right?
+[SPEAKER_00]: It's a very large scale map, but it's plausible.
+[SPEAKER_00]: It's in the right area.
+[SPEAKER_05]: OK, cool.
+[SPEAKER_05]: Oh gosh, what else?
+[SPEAKER_05]: We, what's his name, the little lad who should have been Thayne.
+[SPEAKER_05]: Sarah's Dane.
+[SPEAKER_02]: Sarah's, yes.
+[SPEAKER_05]: Sarah's.
+[SPEAKER_05]: Turns out, well you were there with the centaurs, he should have been the Thayne all along, and we've raised that with the mayor, who will be ensuring that he gets the proper training, and that is somehow integrated into the local court.
+[SPEAKER_05]: We got the money back for the villagers from the mercenaries, and they're now pretty much all sorted out.
+[SPEAKER_05]: We never did get a boat trip onto the lake, so we have to go back for that one day.
+[SPEAKER_05]: I think Bridgemarch is pretty well under control.
+[SPEAKER_03]: That was Grey Mare, not Bridgemarch, but yes.
+[SPEAKER_03]: Yes, that's the one, yes.
+[SPEAKER_00]: Some of these things, Trevick, you actually know better than the party does, because all the things about what was found in the forest and so on, you spent a lot more time in the forest, that talk was general in the camp, so you would know that at least as well as the party does.
+[SPEAKER_00]: And you've also been in Grey Mare more recently than the party, so.
+[SPEAKER_02]: Trevick took back both, Trevick, but he's never going to tell Fabian that.
+[SPEAKER_02]: How dare he!
+[SPEAKER_05]: um oh gosh and how can we forget uh here look at this look at this and he hands him the letter from Torsten um which in short basically says Torsten's been forced to leave town um and we we did some digging around and it does seem like he was forced to leave in a hurry uh he has been appointed to a fancy position down in Crownspire which we think is a
+[SPEAKER_05]: get this man out of town position.
+[SPEAKER_05]: It turns out that Benny, you were there for that a few minutes ago, Benny dumped him into the authorities for spying on the Queen.
+[SPEAKER_05]: But he has now asked us to take up the quest of spying on the Queen and figuring out what's going on.
+[SPEAKER_05]: But Handley did not hand over his evidence.
+[SPEAKER_05]: So we are at square one, beyond what you managed to see that one night you broke into the office.
+[SPEAKER_00]: Because it got taken from me.
+[SPEAKER_00]: It didn't just willfully not give it to you.
+[SPEAKER_05]: I disagree.
+[SPEAKER_05]: He could have totally hidden this if he wanted to.
+[SPEAKER_03]: Yeah, the impression was that he was sort of briefly, not imprisoned, but certainly forcibly moved on and had everything confiscated.
+[SPEAKER_00]: Yeah, he was certainly detained for a time.
+[SPEAKER_00]: And then, you know, again, you haven't really got to the bottom of this, but the upshot of that was that he left with, you know, with an apparent dignified, you know, change of direction to go to grounds why you haven't really dug into how that happened.
+[SPEAKER_00]: But yeah, I definitely shifted at some point from detainment to to just an honorable appointment elsewhere.
+[SPEAKER_05]: We thought he might have been...
+[SPEAKER_03]: Yes.
+[SPEAKER_03]: At the risk that he may have been dead, we sent him ascending to see if his reassignment was more metaphysical, but he really was just in Groundspawn.
+[SPEAKER_01]: Be careful avoiding the actually answering where his...
+[SPEAKER_01]: where he had been sent off to though, because I think we asked him, didn't we, is the job real?
+[SPEAKER_01]: And he just ignored that part.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: He notably had words left over in his sending that he chose not to use to tell us that he took the job.
+[SPEAKER_05]: Oh, and we, it's probably not going to be a long time till it's relevant now, but we should probably stay hushed around Benny.
+[SPEAKER_05]: Because if Benny had moral objections to what Thorsten was doing, he might not be sophisticated enough to understand why we are now doing the same thing.
+[SPEAKER_05]: Well, that seems very wise.
+[SPEAKER_02]: Did you have much interaction with the Queen's Gird?
+[SPEAKER_02]: Because when I was leaving Greymere, a couple of their officers started to get set up nearby.
+[SPEAKER_04]: Not really.
+[SPEAKER_05]: No.
+[SPEAKER_04]: I mean, it's pretty clear that the Chancellor and the Chancellor's offices knew a lot more about what was going on in Grey Mare and had a lot more resources than just us.
+[SPEAKER_04]: So one gets the strong impression that that was a trial which we had passed.
+[SPEAKER_05]: Yes, they seem to know about the oof roll, which was a little surprising.
+[SPEAKER_03]: One thing we did potentially determine was that the Queen's Guard, also referred to as the Knights of the Silent Road, might have a loose association with the same possible assassin of Kralv, the Aetharis worshippers, I believe.
+[SPEAKER_05]: Yes, he was killed by Aetharis cultists.
+[SPEAKER_05]: That was very exciting.
+[SPEAKER_04]: Cultists are such a negative word.
+[SPEAKER_03]: Yes, they were members of the clergy.
+[SPEAKER_04]: Yeah, very senior reverent.
+[SPEAKER_05]: Oh, and we had a lovely trip home.
+[SPEAKER_05]: There's a lot of very, very nice taverns on the way back.
+[SPEAKER_05]: I don't know if you stopped at any.
+[SPEAKER_01]: Some people move fairly slowly.
+[SPEAKER_00]: Maybe in Andakia I had a very leisurely trip back.
+[SPEAKER_00]: and missed the entirety of the house raid on the Carathian natives.
+[SPEAKER_02]: Just the queen scared that traffic would have seen a grey mark.
+[SPEAKER_02]: Would he have recognized any of them or were they...
+[SPEAKER_02]: He wouldn't have recognized... What was the latter part?
+[SPEAKER_02]: Were they just generic soldiers, or would he have recognized any of them?
+[SPEAKER_02]: But Torsten wasn't amongst them is really my question.
+[SPEAKER_00]: So no, Torsten was definitely not an officer of the Queen's Garden Corps.
+[SPEAKER_00]: But no, they were relatively senior.
+[SPEAKER_00]: It was fairly obvious to you they were relatively senior people.
+[SPEAKER_00]: There are a couple of kind of offices and a small contingent of soldiers with them.
+[SPEAKER_00]: They were staying in one of the fancier inns in town.
+[SPEAKER_00]: you would have heard in your you didn't take any particular steps to investigate but the general gossip would have been that they were making arrangements to bring a much larger contingent of guardsmen to be stationed close to Gramey and that they were kind of there to make arrangements for that to happen but no you wouldn't recognize them as individuals they weren't making any attempts to to hide themselves yeah it's grand okay cool cool cool cool
+[SPEAKER_05]: Oh, and Dakia's gone.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: So I think Travick and Dakia can talk to each other by the token.
+[SPEAKER_00]: So I think Dakia has given Travick a heads up about that.
+[SPEAKER_05]: And if you saw a large group of mercenaries on their way out of Grey Watch is going to confuse me a lot.
+[SPEAKER_00]: I appreciate that is confusing, but in most situations where words recur, there is a reason for that.
+[SPEAKER_00]: So I do apologize for it, but I appreciate it is confusing.
+[SPEAKER_04]: Fair enough.
+[SPEAKER_04]: Well, thank you for that head tap.
+[SPEAKER_02]: No, the mercenaries were gone by the time I came out of the forest, so.
+[SPEAKER_04]: Well, they're gone now.
+[SPEAKER_04]: I don't think they're important.
+[SPEAKER_02]: Yeah.
+[SPEAKER_04]: I mean, it is clear that there is some larger conspiracy being played with the Green's Guard, the Gates, the Graffians, the Green, all of this kind of stuff.
+[SPEAKER_04]: But in the absence of any way to pull on that thread, we're off to the mirror one to pull on the thread there and see what, yeah, to turn over some rocks and see what's going on.
+[SPEAKER_02]: Are there, in terms of the tangles, are there established cities or towns or is it kind of a not somewhere where people really settle?
+[SPEAKER_00]: So at this point, let's make a few history checks to see how much you guys know about this.
+[SPEAKER_00]: I would say Fabian and Trevik can make these at advantage because Fabian might well have been actually taught about the marijuana and Trevik coming from Trevarin is more likely to have local knowledge because the marijuana and Trevarin are pretty closely linked.
+[SPEAKER_04]: And for me, it's sort of flat luck check to see if I've been found.
+[SPEAKER_00]: I mean, sure.
+[SPEAKER_00]: But I don't think you would have probably actually been there.
+[SPEAKER_04]: No, I haven't.
+Woo!
+[SPEAKER_04]: Max is award-winning.
+[SPEAKER_04]: Two in a row.
+[SPEAKER_05]: Bonsa.
+[SPEAKER_03]: Fabian has been nerding out over this, aware that he's going to make some siblings very, very jealous.
+[SPEAKER_00]: OK, so I'll try it with you.
+[SPEAKER_00]: Yeah, Fabian the traffic.
+[SPEAKER_00]: The most of you.
+[SPEAKER_00]: So you've all heard stories about the tangles and the, you know, the dangerous nature of this region, how you can, you know, people can get lost very easily, how the kind of latent magic here can drive people mad.
+[SPEAKER_00]: the kind of weird distorted monsters that are in here, but also the exotic kind of treasures and such that can be found.
+[SPEAKER_00]: But certainly for Banks and Raoul, that's as far as it goes, some wild stories that you happen to kind of half recall, which you've no idea to them or not.
+[SPEAKER_00]: It has been a little bit more, but not very much more.
+[SPEAKER_00]: Trevik and particularly Fabian, you guys have a much more detailed understanding.
+[SPEAKER_00]: And Fabian in particular, there will have been definitely classes about this.
+[SPEAKER_00]: As a part of the league, it's actually quite an important area.
+[SPEAKER_00]: So I would think probably it has been a part of Fabian's education and as I said Trevik because Trevarin and the Tangles are politically pretty close, you're much more likely to know more about it coming from coming from there.
+[SPEAKER_00]: So, the Mirror Wen isn't really a country, although it is technically counted amongst the kind of countries of the League.
+[SPEAKER_00]: It's really just an area that is too fucked up to be a part of, that everyone's just kind of peeled off, like no one wants the other parts of it, you know, kind of in their borders because it's too difficult.
+[SPEAKER_00]: So it's kind of been made its own area.
+[SPEAKER_00]: No one knows how the Meroen came to be the way that it is, but there's a pretty strong consensus that it hasn't always been that way, that something happened which caused it.
+[SPEAKER_00]: Now, whether that was a natural thing or something induced by a large act of magic, people are not sure, but it happened before kind of current civilizational records.
+[SPEAKER_00]: As far as anyone remembers, it's always been like this.
+[SPEAKER_00]: It is borderline habitable.
+[SPEAKER_00]: So people do live in the Merriwin but the kind of the central and southern areas are particularly disrupted.
+[SPEAKER_00]: They don't have, there are some landmarks which can kind of be relied upon, but other parts of the land kind of shift about.
+[SPEAKER_00]: Sometimes whole villages just disappear.
+[SPEAKER_00]: It is considered, it's considered just an inherently risky place to exist.
+[SPEAKER_00]: And also it's quite, it's, there are a lot of
+[SPEAKER_00]: strange and monstrous creatures and so on there.
+[SPEAKER_00]: So even if your basic situation is fine, as soon as you stray away from kind of settlements and so on, there's a lot of unpredictable, dangerous things going on.
+[SPEAKER_00]: There are also a lot of psychic effects, the kind of aftermath of whatever energy has been released here.
+[SPEAKER_00]: It makes it quite, it's quite psychically dangerous, I suppose.
+[SPEAKER_00]: So there's a high incidence of people just losing their minds.
+[SPEAKER_00]: So it's dangerous in that sense as well as dangerous physically.
+[SPEAKER_00]: But people do live there.
+[SPEAKER_00]: Either people who don't necessarily have anywhere else to go or people who are hiding or just people who
+[SPEAKER_00]: So the other thing that the Tangles are known for is having a very high incidence of people being born with kind of inherent magical gifts.
+[SPEAKER_00]: Lots and lots of sorcerers are born here.
+[SPEAKER_00]: So some people come either to, you know, in the hope that their children will be born with power.
+[SPEAKER_00]: or because they themselves have power and they hope to find like places that will enhance it which there are some places in the mirror when where that can happen that that a kind of magical spark can be fanned into it's very dangerous but it can happen that a magical spark can be kind of fanned into greater power so people come there sometimes for that also there are lots of
+[SPEAKER_00]: Interesting valuable resources in the mirror when there's lots of weird kind of plants and so on that only grow here that people can harvest that are magically quite potent and useful.
+[SPEAKER_00]: There are also on occasion times when the shifting land kind of opens up.
+[SPEAKER_00]: ancient places that, you know, that haven't been looted in any way or explored.
+[SPEAKER_00]: And so people come kind of in search of those kinds of places, which usually not for very long, but kind of fleetingly might become available for exploration.
+[SPEAKER_00]: So people do come to the Tangles for various reasons, but its actual population is low, particularly in the centre and the south.
+[SPEAKER_00]: The only really substantial town is Grey Watch and Grey Watch is a permanent town.
+[SPEAKER_00]: It is a walled town and those walls are very heavily warded to create the kind of stability around Grey Watch.
+[SPEAKER_00]: That means that the land around it at least doesn't kind of shift and change.
+[SPEAKER_00]: It is a kind of more of a fortified garrison town than kind of active
+[SPEAKER_00]: Normal kind of civilian town, most people who are there are there for a kind of purpose rather than just kind of living.
+[SPEAKER_00]: But there are, you know, it is a it is a reasonably sizable town, and it has connections from grey watch to moon cross and to break maps.
+[SPEAKER_00]: Well, yes, I will come into this.
+[SPEAKER_00]: It is technically an independent town, an independent country.
+[SPEAKER_00]: It has a seat on the Council of League, et cetera.
+[SPEAKER_00]: But in reality, it is pretty much a client of Trivarin and no one is appointed to be the ruler in the Meroen.
+[SPEAKER_00]: who has not been approved by the council in Drakemount.
+[SPEAKER_00]: It's pretty much all of its kind of supplies and so on come from the north, come from Trevarin.
+[SPEAKER_00]: There is a lot of kind of traffic across the border of all sorts.
+[SPEAKER_00]: So although it is technically independent, it is pretty much, yeah, it is pretty much controlled from Trevarin.
+[SPEAKER_05]: What's the relationship between Crownspire and the Drakemount like?
+[SPEAKER_00]: It's pretty good on the whole.
+[SPEAKER_00]: Drake Mount supplies, I mean, it pays it in, so Drake Mount supplies, Travarin supplies lots of soldiers for the war.
+[SPEAKER_00]: It's not a particularly wealthy country, Travarin, but it supplies plenty of, ties plenty of soldiers for the war.
+[SPEAKER_00]: And it also holds the northern boundary.
+[SPEAKER_00]: So these mountains, the stone march on the eastern side of Treviren, those butt up right against the Ellen fame.
+[SPEAKER_00]: So Treviren also kind of garrisons those passes and make sure that that is secure and so on.
+[SPEAKER_00]: So Treviren is generally regarded as a steadfast, valuable member of the League.
+[SPEAKER_00]: So it's a pretty good relationship generally with Crownsfire.
+[SPEAKER_00]: Compared to Kalredor, south of it, which is usually viewed quite as a bit suspect, Kalredor before the war was definitely the kingdom that was most kind of influenced by the elves.
+[SPEAKER_00]: That was where most of the kind of main passes across the valley come in and so on.
+[SPEAKER_00]: So yeah, Trevarin generally is of good standing in the league.
+[SPEAKER_00]: Calradore less so.
+[SPEAKER_05]: So there's no tension that they've got this this kind of relationship with the Grey Watch?
+[SPEAKER_00]: Well it's partly why they have that relationship with Grey Watch because if they didn't then Mooncross would have a lot more Mooncross could potentially have influenced that so it is definitely Crownspire's preference that Drake Mount controls the tangles rather than Mooncross controlling it so yeah it is it is
+[SPEAKER_00]: is definitely crowned by his preference that it is this way.
+[SPEAKER_05]: Good, and it is also faking his preference.
+[SPEAKER_04]: So Grey Watch exists, you know, like those early days of colonialism, so no one else takes it.
+[SPEAKER_00]: So Grey Watch exists,
+[SPEAKER_00]: Grey Watch exists partly.
+[SPEAKER_00]: So the other name for Grey Watch is the Beacon.
+[SPEAKER_00]: And it exists, it was originally created to be a kind of watch post, I suppose, and like a warning place for anything coming out of the mirror when north toward Trivarin.
+[SPEAKER_00]: That was originally why Grey Watch was created.
+[SPEAKER_00]: It also acts as a kind of point for people who have been exploring deeper into the Meroin or gathering or, you know, it's a kind of trade point for goods to come out of the Meroin.
+[SPEAKER_00]: To the south, the Meroin is pretty much impossible.
+[SPEAKER_00]: So it's very difficult, even when it would save time, it would be very difficult to get goods out through the south.
+[SPEAKER_00]: So it also acts as a kind of market town, I suppose, for people bringing things from deeper into the Meroin.
+[SPEAKER_00]: the mirroring.
+[SPEAKER_00]: But the main point of it is basically to keep an eye on the tangles and to make sure that there is some kind of warning system.
+[SPEAKER_00]: And it actually has in the center of it, like quite a tall keep tower that actually has a physical beacon on top of it, which people do still like keeper, you know, there are watch stations in Trivarin, where people watch the beacon to make sure that nothing is and it burns with like different colored flames if there are problems.
+[SPEAKER_05]: So this is to watch things that come out of the tangles.
+[SPEAKER_05]: What's the big thing that first came out of the tangles that made us think that we might need a watchtower here?
+[SPEAKER_00]: So, you know, I said sometimes the land kind of shifts and reveals ancient sites that had been concealed and so on.
+[SPEAKER_00]: Sometimes the land shifts and really fucked up things come out of it.
+[SPEAKER_00]: And historically, not for hundreds of years now, but historically, some of those things have been on a relatively large scale and have caused significant problems.
+[SPEAKER_05]: Uh, so, um, yeah, that is the, that is the kind of... Are we talking, like, is it... Korath is a different plane, it's not literally below the ground.
+[SPEAKER_05]: Uh-huh.
+[SPEAKER_05]: So it's not Korathian things coming out of it, unless there's a portal.
+[SPEAKER_05]: So is it, like, Godzilla kind of things, or...?
+[SPEAKER_00]: So what, so... Dragons?
+[SPEAKER_00]: There is disagreement about this.
+[SPEAKER_00]: So what has happened in the mirror?
+[SPEAKER_04]: That's basically the plot of Pacific Rim.
+[SPEAKER_00]: What is happening in the mirror when is basically that the planar reality has become fragmented.
+[SPEAKER_00]: in a way where kind of planes that normally would have no contact with each other kind of butt up against each other.
+[SPEAKER_00]: Now, sometimes stuff comes out of there that is really weird and not clearly identifiable as being from anywhere.
+[SPEAKER_00]: Now, some people think that those are kind of mutations that are created by the planes being in unusual contact with each other.
+[SPEAKER_00]: Some people think that those things come from no known plane and are
+[SPEAKER_00]: else of some sort, more fundamentally alien.
+[SPEAKER_00]: There isn't really kind of scholarly agreement on what those things are, and this hasn't happened, as I say, on a large scale for a long time.
+[SPEAKER_00]: I mean, in these kind of museums and such they haven't transpired, there would definitely be some like stuffed galleries of horrors of things that have been, you know, things that have emerged from the tangles.
+[SPEAKER_00]: But yeah, exactly.
+[SPEAKER_00]: They tend to be kind of relatively unique.
+[SPEAKER_00]: They don't, there's no kind of system to it.
+[SPEAKER_00]: They don't necessarily repeat.
+[SPEAKER_00]: But yeah, there are, there are strange, there are strange things.
+[SPEAKER_00]: But it's not, I mean, there are planar portals in the tangles that emerge spontaneously, or which can be stable for a while, which directly go to a specific other plane.
+[SPEAKER_00]: But more typically, it's less tidy than that.
+[SPEAKER_00]: And reality has been kind of fragmented or twisted to put things together in odd ways.
+[SPEAKER_05]: In the, like, typical creature typology thing is this this version of aberrations?
+[SPEAKER_00]: Yeah, I guess, yeah, broadly speaking.
+[SPEAKER_05]: Fabian shares much of these things.
+[SPEAKER_05]: His sister Valeria is obsessed with the weird creatures and all the scholarly debate on this kind of stuff.
+[SPEAKER_05]: She's always going on about these funny aberration-y things they've got in the museum.
+[SPEAKER_05]: If we're lucky, we'll meet her.
+[SPEAKER_05]: Maybe a small one of those.
+[SPEAKER_05]: Not a big one.
+[SPEAKER_00]: The other thing that you would definitely know, Fabian, is that the Merowen and the Tangles, and most of you actually probably know this to some degree, the Merowen and the Tangles are considered generally, like most people think they are a blighted wilderness, but they are generally quite, they're considered relatively,
+[SPEAKER_00]: sacred, I suppose, to the Atharians because they are a place that is basically made up of thresholds and gateways and crossings and ambiguity and all of that stuff that the Atharians enjoy.
+[SPEAKER_00]: So you get a lot of Itharians here and particularly, you know, saying people come here to kind of quicken their magic in a sense.
+[SPEAKER_00]: That is something that often happens in Itharian.
+[SPEAKER_00]: Itharian followers will often do that here.
+[SPEAKER_00]: And as it happens, you guys are not very long away from a major Itharian festival on the first of the month of Ithar's Veil, which is November.
+[SPEAKER_00]: which is in a week or so, will be not long after you guys arrive in Braywatch.
+[SPEAKER_00]: And you would definitely be aware that there will be lots of pilgrims in town in Braywatch for that festival.
+[SPEAKER_05]: Max, have you had much contact with the Atharians before?
+[SPEAKER_05]: For some ecumenical dialogue?
+[SPEAKER_04]: Oh, well, yeah, sure, a little bit, but they do keep very much to themselves.
+[SPEAKER_04]: I'm not sure if they can.
+[SPEAKER_04]: So not as much as I wish I could.
+[SPEAKER_04]: But thank you for paying attention to all this detail, thank you.
+[SPEAKER_04]: I'm very glad you were paying attention at school.
+[SPEAKER_04]: Is that?
+[SPEAKER_05]: Oh, not my school, just the dinner table.
+[SPEAKER_05]: They don't stop going on about this place.
+[SPEAKER_05]: They're going to be so jealous that I went here first.
+[SPEAKER_04]: Should we, given all what you've said, should we have a cover story?
+[SPEAKER_05]: Well.
+[SPEAKER_05]: Well, I don't think it could hurt, could it?
+[SPEAKER_05]: An exciting way to arrive, yes.
+[SPEAKER_05]: Do you think that you could don the, what's the most like the religious symbol of the Atharians, Jess?
+[SPEAKER_00]: So one symbol they have is a phoenix, another one is a veiled woman.
+[SPEAKER_05]: Do you think you could don the veil of an Atharian for us?
+[SPEAKER_04]: Pause, please.
+[SPEAKER_04]: Let's see if I know enough to fake it.
+[SPEAKER_04]: Oh, that was just to you, Jess.
+[SPEAKER_04]: What was that?
+[SPEAKER_00]: That was a total of an eight.
+[SPEAKER_04]: I'm going to say I'm going to say no, Fabian.
+[SPEAKER_04]: I don't know enough to fake it really, at least not for very long.
+[SPEAKER_05]: That's disappointing.
+[SPEAKER_05]: I don't think Nelos would like it either, would he?
+[SPEAKER_04]: I mean, I think she would be... Nelos and I get on fine.
+[SPEAKER_04]: She knows she doesn't bother me too much with them.
+[SPEAKER_04]: And I don't bother her too much with it anyway.
+[SPEAKER_04]: But you gave us lots of other good reasons why people go here, right?
+[SPEAKER_04]: They go here as prospectors, people on the make, people who... Well, we should have been... Maybe we could have a little word...
+[SPEAKER_05]: I think your shoelace needs tying, Mag, so let's just... You guys walk ahead, come on.
+[SPEAKER_05]: Just a second.
+[SPEAKER_04]: And uh- Really?
+[SPEAKER_04]: A reveal of his be horrifying hobnail boots.
+[SPEAKER_05]: Does Caspian walk ahead?
+[SPEAKER_05]: That's the only one I care about.
+[SPEAKER_01]: Realistically, yeah, he was but I don't think I would suspect that you were up to anything weird and nefarious, so yeah, Caspian would walk ahead.
+[SPEAKER_05]: Please.
+[SPEAKER_05]: Oh, I was going to say Magstertund.
+[SPEAKER_05]: So Marcellus tells me that this place is basically a magician's pilgrimage.
+[SPEAKER_05]: There's all sorts of weird magical shit and stuff that sometimes if you touch will give you miraculous powers and sometimes will make your head explode.
+[SPEAKER_05]: And I think we need to keep a very close eye on our wizard.
+[SPEAKER_04]: Yes, that probably sounds right, doesn't it?
+[SPEAKER_03]: There are two wizards.
+[SPEAKER_04]: Yes.
+[SPEAKER_05]: Sorry, our untrustworthy wizard.
+[SPEAKER_01]: Fuck you.
+[SPEAKER_01]: You know that Theodore is on your shoulder noise now.
+[SPEAKER_05]: That said, maybe we could make a good cover story as well.
+[SPEAKER_04]: Hmm.
+[SPEAKER_05]: Here for arcane reasons.
+[SPEAKER_05]: And we're what, his employees?
+[SPEAKER_05]: Ah, maybe patrons is a better word.
+[SPEAKER_04]: You don't think you could be a, kind of think of the performance of a lifetime, Fabian, you as a humble servant?
+[SPEAKER_05]: I suppose.
+[SPEAKER_05]: I suppose the Prince de Pawpaw trope is popular for a reason.
+[SPEAKER_04]: Yeah.
+[SPEAKER_05]: Well, anyway, we should just...
+[SPEAKER_04]: It certainly makes more sense to me that the powerful wizard's servants would come with him to the Grey Watch to prospect for valuable magic loot rather than his patrons, who I think would be more likely to hang about back in the safety of Crownspire.
+[SPEAKER_05]: I suppose you're right.
+[SPEAKER_05]: Well, we can have through the details later, can't we?
+[SPEAKER_05]: down in the details.
+[SPEAKER_05]: But yes, we should keep an eye on Caspian.
+[SPEAKER_05]: Maybe definitely don't let him wander off by himself.
+[SPEAKER_01]: Fucking everything.
+[SPEAKER_01]: Fuck you.
+[SPEAKER_04]: Third point.
+[SPEAKER_05]: If we catch back up, does anybody else have suggestions for cover stories?
+[SPEAKER_03]: And I think it's entirely appropriate that we are adventurous exploring a realm that's rich with resource and ruin.
+[SPEAKER_03]: I'm not sure a cover story is necessary.
+[SPEAKER_03]: There's no reason for us to not be here.
+[SPEAKER_03]: Although I would suggest we don't lead with with hunting an ancient of Korath.
+[SPEAKER_05]: That's true.
+[SPEAKER_05]: I suppose in any sense, if we don't mention that it's it's a cover story.
+[SPEAKER_05]: So
+[SPEAKER_05]: Yes, you're right.
+[SPEAKER_05]: OK.
+[SPEAKER_05]: It doesn't have to be so dramatic.
+[SPEAKER_04]: It doesn't have to be a very thick cover story, right?
+[SPEAKER_04]: But it has to be.
+[SPEAKER_04]: In fact, the minimal ones are a very easy thing to remember.
+[SPEAKER_04]: So I think that's a bit more contagious.
+[SPEAKER_00]: I mean, adventure treasure seekers come to Grey Watch with the intention of going off into the mirror and trying to make their fortunes is a very common phenomenon.
+[SPEAKER_00]: I mean, it's not so many of them come back, but it's a starting point.
+[SPEAKER_00]: It's a very typical starting point.
+[SPEAKER_05]: Okay, that works.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: So it will take you, by the time you catch up or traffic catches up with you, you are close to hitting the road between Drake Mount and Grey Watch, which is referred to conveniently as the Drake's Road, and it leads pretty much due south into Grey Watch itself.
+[SPEAKER_00]: There is a fair amount of traffic on this road because, as I say, it is a few days away from a
+[SPEAKER_00]: large Ithorian festival and pilgrims are making their way here.
+[SPEAKER_00]: A lot of them will have come in by airship into Drake Mount and then made their way south along the Drake's Road.
+[SPEAKER_00]: That is really the, well, it's not the only way to get here from the wealthy south of the league, but it's definitely the most efficient way.
+[SPEAKER_00]: So plenty of people will have done that.
+[SPEAKER_04]: Can I tuck my amulet to the side for filming?
+[SPEAKER_00]: You definitely can.
+[SPEAKER_00]: You would all be aware that Obert Itharion priests are very much the lowest levels of the echelon.
+[SPEAKER_00]: Anyone who is a senior Itharion priest does not announce themselves as such.
+[SPEAKER_00]: Oh, interesting.
+[SPEAKER_00]: A lot of people are members of the authoritarian orders when they're younger and then leave.
+[SPEAKER_00]: Some of them have left, some of them have not left.
+[SPEAKER_00]: That is why there's lots of rumors about Chancellor Wicklow, because as a youth he was part of the authoritarian orders.
+[SPEAKER_00]: So yeah, there are plenty of overt authoritarian priests, but it's well known that that is not the hierarchy.
+[SPEAKER_05]: And we made the connection that Wicklow might have had Roll killed.
+[SPEAKER_05]: Did I miss this?
+[SPEAKER_04]: I privately think we think that's overwhelmingly likely, yeah.
+[SPEAKER_05]: I did not realize he had the priest link.
+[SPEAKER_02]: Yeah.
+[SPEAKER_00]: Yes, there's a lot of rumours about him.
+[SPEAKER_03]: He denies them vehemently though, he refuses to acknowledge it.
+[SPEAKER_00]: So yeah, there are plenty of Itharian priests.
+[SPEAKER_00]: There are plenty of Itharian pilgrims on the road mixed amongst them, you know, some Itharian priests, but you would be, as I said, you would all know that those Obert people are the least of the Itharian orders.
+[SPEAKER_00]: The festival, which comes up on the 1st of Ithar's Veil is called Shadows Meet.
+[SPEAKER_00]: It happens mainly from dusk onwards on that evening and goes on through the night.
+[SPEAKER_00]: It involves, very excitingly for Raoul, everyone wearing masks.
+[SPEAKER_00]: It's also sometimes called the vigil.
+[SPEAKER_00]: You guys would all have a it's not something it's not like
+[SPEAKER_00]: Nameweave, it's not something in which non-Etharians normally participate.
+[SPEAKER_00]: So I don't know if any of you would have had occasion to participate before, but it is something that you would have seen happening.
+[SPEAKER_00]: It's not secret in that sense.
+[SPEAKER_00]: In fact, it's one of the only not secret Etharian rites that happened during the calendar.
+[SPEAKER_03]: It's actually worth praising.
+[SPEAKER_03]: Sorry, go ahead.
+[SPEAKER_04]: Very short, can I spend these days on the road, nattering around, talking to these people, learning as much as I can about Bifurians, that's all.
+[SPEAKER_00]: Yeah, you can do that.
+[SPEAKER_05]: Can we also buy some masks from some pilgrim shop?
+[SPEAKER_00]: Oh, 100%.
+[SPEAKER_00]: There are people hawking masks.
+[SPEAKER_00]: As you get closer to Grey Watch, this is a very popular activity to sell masks, yes.
+[SPEAKER_03]: I was going to ask how the Atharians feel about the, the horizon born, if there's any particular interest, if there is any like detailed relation there, seeing as they are, it's kind of right up their alley, I suppose.
+[SPEAKER_00]: Yes, it is.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: So I think Raoul, you would be aware that there is definitely, there is definitely an interest there.
+[SPEAKER_00]: Yeah, I suppose because you've rolled very poorly on your what do I know about the tangles.
+[SPEAKER_00]: Yeah, you would definitely be aware that there is an interest there.
+[SPEAKER_00]: Is there any particular angle from which you want to approach that?
+[SPEAKER_03]: No, I was just curious as to if there was any kind of established relations between the two groups, I guess.
+[SPEAKER_00]: So I would say from the
+[SPEAKER_00]: So I would say from the Atharian side, they would definitely be curious about the Horizonborn and definitely more respectful of them than they might encounter elsewhere, typically speaking.
+[SPEAKER_00]: But the authorians are very secretive, and the horizon born are also quite insular.
+[SPEAKER_00]: So if there are ties, I think they would be not overt, such that Raoul would be necessarily aware of them.
+[SPEAKER_00]: But I think he would be aware that the authoritarian church in general is more sympathetic.
+[SPEAKER_00]: Sympathetic isn't quite the right word, but has is more- Perhaps empathetic is the right word.
+[SPEAKER_00]: Empathetic, but also almost
+[SPEAKER_00]: think reverent might be a word like there's a yeah, there's, there's a bit like everyone else thinks the mirror when it's just like a horrible wilderness.
+[SPEAKER_00]: And they acknowledge it's horrible wilderness qualities, but nonetheless, find it kind of fascinating and sacred.
+[SPEAKER_00]: The authorians, I think similarly would be
+[SPEAKER_00]: would have a fascination and a reference for the Horizon Bourne's origins without any need to make them less strange, if you see what I mean.
+[SPEAKER_00]: So whether it would feel like empathy, I don't know, because it wouldn't be obviously inclusive, but it would be, yeah, it would be honouring, I suppose.
+[SPEAKER_03]: Okay, cool.
+[SPEAKER_03]: Good to know.
+[SPEAKER_03]: And I guess if I have that level of awareness, maybe if there's interactions with the Aetherians, Rell might take a point if they are likely to be more, I guess, cooperative with the Horizonborn.
+[SPEAKER_00]: Yeah, not all of them will recognise Rell for what he is, because the Horizonborn are a small group.
+[SPEAKER_00]: Lots of people will have come from countries that are not a thing.
+[SPEAKER_00]: But when people do recognise Rell, I think he would be regarded, I think meeting Rell would be regarded as a kind of positive omen on the kind of eve of the festival.
+[SPEAKER_00]: which is maybe not what he's used to encountering, but I think generally people would be, yeah, people would regard meeting him as a sign of good fortune.
+[SPEAKER_03]: Cool.
+[SPEAKER_03]: Good to know.
+[SPEAKER_00]: So you guys make your way along, as I say, the relatively busy road.
+[SPEAKER_00]: It's not all pilgrims.
+[SPEAKER_00]: There are also people traveling here for various reasons.
+[SPEAKER_00]: People come from inside the Merriwin to Grey Watch around this festival as well, because there's opportunity to sell things to people and so on.
+[SPEAKER_00]: So there are also merchants and adventurers and so on.
+[SPEAKER_00]: As you get closer it begins to dawn on you all that accommodation is probably going to be at a bit of a premium because there's a lot more people here than would normally be.
+[SPEAKER_00]: Now you guys do definitely collectively have the resources to just go to an inn and like pay them enough to turf people out.
+[SPEAKER_00]: Collectively 100% you can do that but you hear from the other pilgrims and so on that people are expecting to be like sleeping in stables and haylofts and you know sort of the town the place will be very full of
+[SPEAKER_00]: So you guys can make a decision whether you, how you want to handle that.
+[SPEAKER_05]: Mags can get the kids out again.
+[SPEAKER_01]: I was hoping so.
+[SPEAKER_04]: Now why would I do that?
+[SPEAKER_01]: Well you did it last time, I thought you favoured it.
+[SPEAKER_04]: Perfectly good, perfectly good hayloft.
+[SPEAKER_00]: And there's also the option of camping, so some people are camping kind of around the outside of the walls.
+[SPEAKER_00]: As you guys get closer, the walls are massively substantial for the kind of the town of the size.
+[SPEAKER_00]: And those of you who are magically aware would be aware that they're all quite heavily kind of warded and so on.
+[SPEAKER_00]: They are also... Let me see this.
+[SPEAKER_04]: Are we on some cliffs looking over the Mirawan?
+[SPEAKER_04]: What does it look like?
+[SPEAKER_00]: So you could so yeah, broadly speaking, Treviren is is higher than the mirror when so you do descend toward Grey Watch.
+[SPEAKER_00]: So you would be kind of looking down onto it.
+[SPEAKER_00]: It's Grey Watch itself is on a patch of relatively kind of cleared land and looking at the rest of the kind of would you be able to see further than that?
+[SPEAKER_00]: The land beyond that is very much more kind of jagged, I suppose.
+[SPEAKER_00]: It's
+[SPEAKER_00]: Yeah, even looking at it, it doesn't look quite right.
+[SPEAKER_00]: There is something, yeah, there is something that feels, yeah, it doesn't look like a naturally creative landscape.
+[SPEAKER_00]: It feels too irregular.
+[SPEAKER_05]: Do we pass by lots of these other beacons as well on the way up to Drakemeath?
+[SPEAKER_00]: Yeah.
+[SPEAKER_05]: Are they just like alongside the road?
+[SPEAKER_00]: Alongside the road for the most part, yes, wherever there's like a convenient bit of land.
+[SPEAKER_00]: When you approach the town, the walls are very substantial.
+[SPEAKER_00]: They also are kind of manned and maintained in the way that, for instance, the walls around Bridmarch are just a historical artifact that have been kind of built over and they still exist, but they're not
+[SPEAKER_00]: really respected in any way, whereas these are very substantially kind of still clearly in operation.
+[SPEAKER_00]: The gates are kind of watched, people are queuing to get in and out and be kind of registered and such.
+[SPEAKER_00]: You also notice the walls are quite a weird shape.
+[SPEAKER_00]: Now Brevik coming from Trevarin, you would be more familiar with this than others would be.
+[SPEAKER_00]: These walls were originally built to accommodate a dragon landing kind of area, a large open space within them where dragons would be able to rest within the walls themselves.
+[SPEAKER_00]: It has now been filled up with houses and stuff, but you would recognize the walls are in a regular shape because they have that kind of extra
+[SPEAKER_00]: open space that was originally allowed.
+[SPEAKER_00]: gone over this before, but just to recap, in the old days when the dragons were still active, Trevarin was by far the kingdom that had the closest connection with them.
+[SPEAKER_00]: And Drake Mount was a place where the dragons visited very often.
+[SPEAKER_00]: And Drake Mount is kind of, the geography of Drake Mount is kind of built around the dragons or was built around the dragons in a lot of ways.
+[SPEAKER_00]: And you can see the same influence here.
+[SPEAKER_00]: This is a town that was built with the expectation that dragons would visit it and that they would have hospitality and be
+[SPEAKER_00]: secure within the walls like anyone else.
+[SPEAKER_05]: If Trevik tells us about the dragon history, fans will find a chance to walk up to Caspian and go, maybe he would be a good place to figure out how to move some dragon bones.
+[SPEAKER_01]: Maybe there would be a lot more information here on dragon bones in general and maybe what could be done with dragon bones.
+[SPEAKER_01]: Of course, but there's some important magical resource in there, not every bonus needed surely.
+[SPEAKER_05]: You said there's people camping outside the walls.
+[SPEAKER_00]: Yeah, some people because there's just not enough proper space for everyone inside.
+[SPEAKER_00]: So there have been, there are kind of, there's not usually, there's not usually the case, but you arrive on the 28th, it's only a few days away from the festival.
+[SPEAKER_00]: There are some people who
+[SPEAKER_00]: don't want to pay for any kind of accommodation inside, but also are not allowed to just sleep on the streets.
+[SPEAKER_00]: So they are camping outside the walls.
+[SPEAKER_00]: No one is very happy about it.
+[SPEAKER_00]: There are guardsmen who come out and are like, what are you guys doing?
+[SPEAKER_00]: You shouldn't be camping out here.
+[SPEAKER_00]: It's not safe.
+[SPEAKER_00]: But people just disperse and then come back and do it again.
+[SPEAKER_00]: And there is a kind of acceptance that is going to happen in the next few days and that probably they'll be fine, fingers crossed.
+[SPEAKER_00]: But yeah, it's definitely causing a bit of tension as a practice.
+[SPEAKER_01]: Fabs, can you throw your name around or call someone you know and get us a room?
+[SPEAKER_04]: Not sure that's a good idea.
+[SPEAKER_01]: Why?
+[SPEAKER_05]: I was going to suggest, it depends on the cover story one, that yes, I'm sure that we could at least have some introductions made.
+[SPEAKER_03]: I'm inclined to agree with Mags.
+[SPEAKER_03]: If there's a mole inside Wicklow's court, then using our names is likely to be not the best course of action.
+[SPEAKER_01]: So are we intending on sleeping outside?
+[SPEAKER_01]: Call the hayloft.
+[SPEAKER_00]: Yes, you have three options.
+[SPEAKER_00]: You can camp outside.
+[SPEAKER_00]: You can go in and find a cheap accommodation.
+[SPEAKER_00]: You know, everyone's kind of filling up every kind of last space that there is available.
+[SPEAKER_00]: So you can do that.
+[SPEAKER_00]: Or as I say, you can go in and you've definitely got the financial resources to just pay an innkeeper to tell some other people they're out of luck.
+[SPEAKER_05]: I could always throw around my brother's name.
+[SPEAKER_05]: They wouldn't know if it was me or Marcellus, and I'm sure that he would also maybe have introductions made for them.
+[SPEAKER_04]: Someone's listening out for the name Fabian Peroneus or Marcellus Peroneus, set off just as many alarm bells.
+[SPEAKER_03]: I don't know.
+[SPEAKER_03]: There's a lot of us.
+[SPEAKER_03]: I think Varell might look for some thieves' cant markings and perhaps find his way to some less typical place of rest.
+[SPEAKER_00]: Yeah, so that is definitely possible.
+[SPEAKER_00]: This essay, this is a kind of garrison town, it's not as life with that sort of thing as a kind of large city would be, but certainly you would be able to, I think this would fall into more of the hayloft quality of accommodations, but yeah, 100%.
+[SPEAKER_04]: What criminality there was on military bases.
+[SPEAKER_00]: They're quite the same sort of criminality.
+[SPEAKER_00]: But anyway, as I say, it is definitely doable, 100%.
+[SPEAKER_03]: Yes, I think I might be able to find some discrete accommodation, though perhaps to some members of the party a little beneath their typical tastes.
+[SPEAKER_03]: But I would say that discretion is our watchword at present, especially when we
+[SPEAKER_03]: Well, after the business with Torsten and when we're facing down Corathians, especially the furnace brood, I am inclined to be as discreet as possible.
+[SPEAKER_01]: I agree.
+[SPEAKER_01]: Oh, fine.
+[SPEAKER_05]: All right.
+[SPEAKER_05]: If it gets too uncomfortable, we'll move.
+[SPEAKER_05]: But I suppose a stakeout in a proper thieves hole is quite cool.
+[SPEAKER_05]: OK.
+[SPEAKER_05]: Think of adventure.
+[SPEAKER_05]: That said, Trevick, I know you like camping outside in the countryside, but I would strongly recommend you ignore those people outside the walls and at least camp inside the wall.
+[SPEAKER_05]: Just this once.
+[SPEAKER_02]: Trevick had already found an area he was about to settle down, but like, yeah, okay, I'll follow you and we'll see what happens.
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: Well, the blanket over, I'm done.
+[SPEAKER_01]: I'm here now.
+[SPEAKER_02]: Yeah, literally.
+[SPEAKER_02]: It has been a week since I've had to be in
+[SPEAKER_00]: Yeah, the rest of you, the rest of you have gone on the road for five weeks now, the prospect of, and you've only had very intermittent beds during that time.
+[SPEAKER_00]: Whereas, yeah, traffic's been like, oh, this three weeks has been the best.
+[SPEAKER_02]: Life of luxury.
+[SPEAKER_05]: OK, so there's going to be a checkpoint on the edge of town, though.
+[SPEAKER_00]: Yeah, so there are, it's not a kind of aggressive thing, but they clearly like to have a record of who is inside the walls.
+[SPEAKER_00]: That's another thing you guys 100% know about the tangles, by the way, that another feature of the phenomena that tend to come with the kind of illusory terrain and so on, is also there are lots and lots of stories about things that
+[SPEAKER_00]: look human but aren't, or that mimic people that you know, or that sort of thing.
+[SPEAKER_00]: There is a strong emphasis on having a good understanding, not so much in Grey Watch, but outside of having a good understanding of who you're dealing with and having people vouch for you and so on.
+[SPEAKER_00]: Because anyone who kind of goes off on their own for any period of time is likely to be very suspect when they come back, because there are lots of instances of mimicry and such like.
+[SPEAKER_05]: Fabian recounts that story to Caspian very pointedly.
+[SPEAKER_00]: So when people come into Grey Watch, there's quite a formal recording of who's coming in, but no one is really interrogating those answers, so if you don't give your real names, no one is going to stop you.
+[SPEAKER_00]: Especially at this time when there's lots of people coming in, clearly the current and usual system has broken down a little bit.
+[SPEAKER_01]: Are changelings a thing in your setting, Jess?
+[SPEAKER_00]: Not normally, no.
+[SPEAKER_00]: Not as a race, no.
+[SPEAKER_00]: And we're not so much talking about changelings here as doppelgangers.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: But I would say no to changelings and doppelgangers as like a broad thing.
+[SPEAKER_00]: This is more
+[SPEAKER_00]: The land kind of throws up echoes and takes on the form of different things with more or less solidity.
+[SPEAKER_00]: If it's come into contact with something, often you will find a kind of echoes of that thing, or because of the kind of psychic energies that are about, like taking on the shape or the guise of something is quite common.
+[SPEAKER_00]: So yeah, it's not so much that there's races of things that do this.
+[SPEAKER_00]: It's just, it's a shape that the phenomena often take.
+[SPEAKER_01]: Interesting.
+[SPEAKER_01]: Should we have a codeword in the party?
+[SPEAKER_01]: Should we question something or people that we are speaking to if we have split up?
+[SPEAKER_03]: Perhaps a call, sign and answer is appropriate.
+[SPEAKER_03]: Any suggestions?
+[SPEAKER_01]: I was going to say something, he looked like he had something there.
+[SPEAKER_01]: Like me?
+[SPEAKER_01]: No, Alec was going to pull a fun word, something that I think he overthought.
+[SPEAKER_00]: You can have a think about this, because it's not something that, it's not really a, if this starts happening inside the walls of Grey Watch, then something has gone hideously wrong in general.
+[SPEAKER_00]: You never know, we are here.
+[SPEAKER_00]: That is very fair, yes.
+[SPEAKER_05]: So we just talked about what we'd put as a word on a signpost outside that forest.
+[SPEAKER_02]: Oh, perfect.
+[SPEAKER_05]: Everybody's responses were quite unique and I think hard to guess.
+[SPEAKER_05]: Fuck off, cryptic.
+[SPEAKER_05]: I wrote down rel somewhere and mine will be adventure.
+[SPEAKER_03]: I like mags and I think foxtrot uniform is a perfect call sign and charlie kilo as a counter sign.
+[SPEAKER_04]: Do you say that again, dear?
+[SPEAKER_04]: Fuck, my love, fuck.
+[SPEAKER_04]: OK, fine.
+[SPEAKER_04]: Great, great, great.
+[SPEAKER_05]: Trevick, what would you put on a sign?
+[SPEAKER_05]: Um.
+[SPEAKER_02]: Hmm.
+[SPEAKER_02]: I think I'm going to stick with fuck along with the rest of you because that seems to be the common
+[SPEAKER_00]: OK, with this important matter settled, and you've come in, you've given false names, I'm guessing, to the to the guards, have you?
+[SPEAKER_04]: Yep.
+[SPEAKER_04]: Do you want us to think of false names?
+[SPEAKER_00]: No, no, it's fine.
+[SPEAKER_00]: It's not terribly, if it becomes important, we can retrospectively think them up.
+[SPEAKER_00]: But for now, as I say, and what purpose are you, they will also ask you what your purpose for visiting is, what are you, again, they're not going to interrogate this, but what are you going to do?
+[SPEAKER_05]: It's just something to do, isn't it?
+[SPEAKER_00]: They'll roll their eyes and write that down.
+[SPEAKER_00]: Yeah, they will look at your fresh-faced youthful enthusiasm for adventure.
+[SPEAKER_00]: Okay, fine, and you do that and then Rell seeks out...
+[SPEAKER_00]: some less reputable quarters of town and finds you all somewhere discreet and reasonably comfortable, if not luxurious, to stay.
+[SPEAKER_00]: It is now the end of the day on the 28th of Justbren.
+[SPEAKER_00]: The Chateau's Meat Festival is a few days away.
+[SPEAKER_00]: You have the address of the contact.
+[SPEAKER_00]: We will leave it there because I need to take Alfie out now.
+[SPEAKER_00]: So have a little think before next time about where you, how you want to approach things.
+[SPEAKER_00]: That's one I enjoyed.
+[SPEAKER_02]: I'm really glad to have you back.
+[SPEAKER_02]: I'd love to be back.
+[SPEAKER_02]: Thank you so much.
