@@ -4,7 +4,7 @@ type: lore
 category: deity
 tags: [itharis, the-shadowed-path, death, transitions, thresholds, deity]
 summary: Goddess of transitions, death, and thresholds, worshipped through the Shadowed Path, whose clergy guard the wilderness Horizon Doors.
-related: [the-shadowed-path, the-horizon-doors, oscar-wicklow, hethan-kroll, the-disappearance-of-dragons, the-mirrowen, greywatch]
+related: [the-shadowed-path, the-horizon-doors, oscar-wicklow, hethan-kroll, the-disappearance-of-dragons, the-mirrowen, greywatch, shadows-meet]
 ---
 
 ## Overview
@@ -18,7 +18,7 @@ Itharis is the deity of **transitions, death, change, and thresholds** — endin
 - [[hethan-kroll|Hethan Kroll]]'s ritual murder bore the marks of an **Itharian crossing-ritual** — the surroundings untouched (S2.24).
 - **The [[the-mirrowen|Mirrowen]] (the Tangles) is considered sacred to the Itharians** — a place built of thresholds, gateways, crossings, and ambiguity. They acknowledge its blighted nature but find it fascinating and reverent, and followers come there to "quicken" their magic (S2.28).
 - Itharians regard the [[rell-aetris|Horizonborn]] with reverence and empathy for their threshold-origins, more so than they meet elsewhere; meeting one on a festival eve is taken as a good omen (S2.28).
-- **Shadows Meet (the Vigil)** — an Itharian festival on the 1st of Ithar's Veil, beginning at dusk and running through the night, at which masks are worn. It is one of the few Itharian rites that is not secret; non-Itharians do not normally participate. It draws heavy pilgrimage to [[greywatch]] (S2.28).
+- **[[shadows-meet|Shadows Meet]] (the Vigil)** — an Itharian festival on the 1st of Ithar's Veil, beginning at dusk and running through the night, at which masks are worn. It is one of the few Itharian rites that is not secret; non-Itharians do not normally participate. It draws heavy pilgrimage to [[greywatch]] (S2.28).
 
 ## Open questions
 - Why was the last **Passing Shadow** appointed 300 years ago, at the founding of the Elenfain — the same era as the [[the-disappearance-of-dragons|disappearance of the dragons]]? What "world-altering change" was foreseen?
