@@ -1,0 +1,1894 @@
+[SPEAKER_04]: Hey, hello everyone.
+[SPEAKER_05]: To bear with me a second, I have only just sat down and I've not got boundary open yet.
+[SPEAKER_04]: Interface has changed.
+[SPEAKER_05]: Has it?
+[SPEAKER_04]: I think Zoom has installed an update.
+[SPEAKER_05]: Oh right, oh the Zoom interface, okay.
+[SPEAKER_04]: I don't think it matters.
+[SPEAKER_05]: No, no, that's why I thought you meant something that changed in Foundry.
+[SPEAKER_05]: And I was like, I haven't.
+[SPEAKER_05]: No, no, no.
+[SPEAKER_05]: What's going on?
+[SPEAKER_04]: No, no, no, no, no.
+[SPEAKER_04]: Sorry.
+[SPEAKER_04]: I didn't mean to cause an anxiety attack.
+[SPEAKER_04]: I think it looks much the same in Foundry.
+[SPEAKER_04]: Look at all these healing points.
+[SPEAKER_05]: Cool.
+[SPEAKER_05]: Okay, well, I have a quick look at the notes of last week.
+[SPEAKER_05]: I think the note taking thingy did a pretty good job.
+[SPEAKER_05]: Only thing I so I fixed in here a couple of spelling things.
+[SPEAKER_05]: I don't know if just fixing them inside the notes is the best way to do that.
+[SPEAKER_05]: Or
+[SPEAKER_05]: Or if there's another way to do it.
+[SPEAKER_02]: Yeah, that's fine.
+[SPEAKER_02]: As long as I can see them and you tell me what they are, I can, I can go feed them to the AI.
+[SPEAKER_05]: Yeah, no worries.
+[SPEAKER_05]: I mean, or I can just, if it's easier, I can just text you, like, here are the patterns.
+[SPEAKER_02]: Sure, yeah, yeah, that works too.
+[SPEAKER_05]: One painting, like, whatever's, whatever's the easiest thing.
+[SPEAKER_05]: The main one this time is that Colorado is with a C, not with a A.
+[SPEAKER_05]: And there was one other, but I can't remember.
+[SPEAKER_05]: But anyway, I think it did a good job in general.
+[SPEAKER_05]: It's obviously not as flowing and prosy as Dave's, but I think it does the, I think it does the job.
+[SPEAKER_05]: Yeah, good start from the note-taking system.
+[SPEAKER_05]: All right, so we finished last week with you guys having arrived in Greywatch, having rejoined as a party, got yourself settled a little bit.
+[SPEAKER_05]: It is the, it's not the 22nd, hang on.
+[SPEAKER_05]: And it's not the 23rd.
+[SPEAKER_05]: What date is it?
+[SPEAKER_05]: 28th.
+[SPEAKER_05]: 28th.
+[SPEAKER_05]: And it is, oh, I'll just change that as well.
+[SPEAKER_05]: But I actually kind of like, maybe I'll leave it.
+[SPEAKER_05]: Yeah, it's really, you guys have come in, you've found your accommodation that Raoul has arranged for you with a local fixer, arranger of matters.
+[SPEAKER_05]: She has put you guys, given you somewhere to stay, which is discreet and if not comfortable then, yeah, I mean, it's, I think everyone apart from Fabian is probably reasonably comfortable with it.
+[SPEAKER_05]: But it's, yeah, it's more than dry and out of the way.
+[SPEAKER_05]: We'll see you guys settle in I guess in the evening of the 28th so perhaps we'll start this session kind of the morning of the 29th.
+[SPEAKER_02]: What a great one.
+[SPEAKER_05]: I'm going to try to do something today rather than just... At the end of the day, I'm going to use that 20 for something, regardless.
+[SPEAKER_04]: We could use it for ability checks and things like that, right?
+[SPEAKER_00]: Yeah, any d20 roll.
+[SPEAKER_04]: We don't have to go and start a fight.
+[SPEAKER_05]: All right, over to you guys.
+[SPEAKER_05]: The town is busy, but nothing is happening now.
+[SPEAKER_05]: The town is still kind of filling up.
+[SPEAKER_05]: It's a relatively ordinary day.
+[SPEAKER_03]: Ahead of any adventuring, is our proficiency still free?
+[SPEAKER_03]: I'm so excited to see Trevik back.
+[SPEAKER_03]: I bet he's inspired to be back with us as well.
+[SPEAKER_03]: So, incidentally, Israel and...
+[SPEAKER_05]: I'm just advancing the calendar.
+[SPEAKER_04]: Oh, I see.
+[SPEAKER_04]: Yes, it's very dramatic.
+[SPEAKER_03]: Sorry, Kasper.
+[SPEAKER_00]: Fine.
+[SPEAKER_00]: Who?
+[SPEAKER_00]: I got a D20 to use.
+[SPEAKER_00]: It's fine.
+[SPEAKER_03]: That's what I thought.
+[SPEAKER_03]: You already have a thing.
+[SPEAKER_00]: Yeah.
+[SPEAKER_04]: So, who got inspired?
+[SPEAKER_04]: Rail to Kiev and...
+[SPEAKER_03]: Mags.
+[SPEAKER_03]: I did.
+[SPEAKER_03]: Well, thank you, Jerry.
+[SPEAKER_03]: Most kind.
+[SPEAKER_03]: I just imagine you're going to be doing the stuff of all these priests.
+[SPEAKER_04]: I reckon the practical thing to do
+[SPEAKER_04]: with the priesthood of a Thoris is just to deny as much as possible that you are a priesthood of a Thoris.
+[SPEAKER_02]: Yes, yeah.
+[SPEAKER_02]: It's understood that during the festival, they celebrate it to a degree, right?
+[SPEAKER_04]: So yeah, actually with that in mind, if no one else has got a particular plan, I'm going to do what I often do.
+[SPEAKER_04]: I'm going to wander around town.
+[SPEAKER_04]: I'm going to help people out.
+[SPEAKER_04]: I'm going to acquire some gossip.
+[SPEAKER_04]: I'm going to cure some complaints.
+[SPEAKER_04]: And I'm going to try and I'll enhance my, what do I need to do, charisma to do this.
+[SPEAKER_04]: I would like to use a cantrip, a clarity cantrip at some point, but I would like it to look like I was hiding that and I didn't want someone to spot it, if you see what I mean.
+[SPEAKER_05]: Yeah.
+[SPEAKER_04]: So if I've covertly used healing word on someone, that sort of thing, I want them to notice but I want it to look like I didn't want them to notice.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: So just to be clear with the Itharion clerics and the secrecy, there are perfectly overt Itharion clerics who tend the temples and have specific roles and so on.
+[SPEAKER_05]: So your sort of basic jobbing Itharion cleric is recognisable and owns their role.
+[SPEAKER_05]: the higher echelons do not.
+[SPEAKER_04]: Exactly.
+[SPEAKER_04]: Much more fun if they think I'm really, really senior.
+[SPEAKER_05]: I just wanted to be 100% clear that a regular ethereum priest does not hide their face.
+[SPEAKER_04]: A regular ethereum priest is likely to be asked questions they are expected to know the answer to, whereas someone pretending can be like, I know nothing about the ethereum priest.
+[SPEAKER_05]: So you are setting aside your visible signs of being a priest of Nelos at this time.
+[SPEAKER_04]: I'm quiet.
+[SPEAKER_05]: You're setting aside your visible signs of being a priest of Nailos.
+[SPEAKER_04]: Oh yeah, did that in the last session.
+[SPEAKER_05]: Okay, cool.
+[SPEAKER_05]: Okay, yeah, no worries.
+[SPEAKER_05]: You can definitely do that.
+[SPEAKER_05]: Are you doing it on your own?
+[SPEAKER_04]: Don't know, I don't want to come.
+[SPEAKER_00]: We have an address though, don't we?
+[SPEAKER_00]: My intent was to see what, not do anything at the address, but to see what the vibe was at the address that we have.
+[SPEAKER_02]: We are relatively expected to do a bit of staking out on this address that we have.
+[SPEAKER_01]: I'll try the magso.
+[SPEAKER_04]: I think probably the staking out is better left to be the art mags with like, you know, very high perception and shit like that.
+[SPEAKER_03]: Fabian just wants to wander through the festivities, so he'll go with mags.
+[SPEAKER_05]: All right, so mags, traffic and Fabian are going on this gossip hunting experience.
+[SPEAKER_04]: We're acquiring gossip, yeah.
+[SPEAKER_05]: We'll deal with that and then we'll deal with going to the Caspian and Braille, going to the location and seeing what is there.
+[SPEAKER_05]: So you guys head out into the streets, I've been following Mags's lead as she looks at people who look like they might have something to say or want to spend a little bit of time or might need some small thing that they need helping with and so on.
+[SPEAKER_05]: I'd say the town is quite busy.
+[SPEAKER_05]: There's plenty of people who have had fairly long journeys to get here and are staying in accommodation, which is not totally ideal.
+[SPEAKER_05]: So there's plenty of people who have kind of minor complaints that definitely mags could get involved with assisting with.
+[SPEAKER_05]: Also, the locals are being a bit like, you know, crowded out of things.
+[SPEAKER_05]: There's plenty of people having ready to have a little complaint about how, you know, all these all these people are coming in and making everything expensive and busy and so on.
+[SPEAKER_05]: So there's plenty of material.
+[SPEAKER_05]: I would say overall, the mood is pretty positive.
+[SPEAKER_05]: People are...
+[SPEAKER_05]: Channels Meet is a source of both pride and excitement to the locals.
+[SPEAKER_05]: It happens every year.
+[SPEAKER_05]: It normally involves a lot of colorful people coming to town.
+[SPEAKER_05]: It's quite an exciting...
+[SPEAKER_05]: Evening, it's not, yeah, people don't, some people resent the busyness, but overall the mood is pretty positive.
+[SPEAKER_05]: People are looking forward to the festival.
+[SPEAKER_05]: People are enjoying, you know, being able to sell lots of stuff to these people who've come in.
+[SPEAKER_05]: There's also quite a few people who've come in from the rest of the Merriwin.
+[SPEAKER_05]: So there's kind of family reunions and so on going on because people have come in from the outlying villages to a greater extent than they normally would do.
+[SPEAKER_05]: Is there anything in particular that you are
+[SPEAKER_05]: hoping to find out or learn about?
+[SPEAKER_04]: Not really.
+[SPEAKER_04]: I'm hoping to know if there's any like imminent controversies in the town, if there's any like bigger villain figures.
+[SPEAKER_04]: Of course, if the addressing question comes up in a chat, I don't know how easy or difficult it would be to do that.
+[SPEAKER_05]: Well, why don't you make a persuasion check and we'll see how good you are at kind of steering conversations and so on.
+[SPEAKER_04]: Come on.
+[SPEAKER_04]: No, it's not my day.
+[SPEAKER_04]: I'll re-roll that.
+[SPEAKER_04]: Am I allowed to re-roll that using the thing Alec has given me?
+[SPEAKER_03]: Or is it the add stuff on variety?
+[SPEAKER_04]: No, it's the re-roll.
+[SPEAKER_04]: It's the re-roll variety.
+[SPEAKER_05]: It's the re-roll one, yep.
+[SPEAKER_04]: All right, I will use it.
+[SPEAKER_04]: Is it still at advantage?
+[SPEAKER_05]: That's fine.
+[SPEAKER_05]: So far we have not clarified what that rule is supposed to be.
+[SPEAKER_05]: They will continue with the... That's more like it.
+[SPEAKER_05]: Okay, so you are collectively, you are good at steering the conversation where you wanted to go.
+[SPEAKER_05]: So you want to find out about whether there's any any kind of villains of the piece, and you wanted to find out about see if you can drop that location that you know about into the conversation.
+[SPEAKER_05]: Those are the two main things that you were interested in doing.
+[SPEAKER_05]: So one thing that you hear about is that the current, let me see if I can remember this person's name, one second.
+[SPEAKER_05]: the current Lord of this town of the Meruwen as the whole, this is going to be his last shadows meet.
+[SPEAKER_05]: The system they have here is that the person is elected from the council and they are elected for a term of 12 years and this is his last year in office.
+[SPEAKER_05]: there's quite a lot of speculation about who will be the next, it's called the warden, the next warden of the beacon, or beacon keeper.
+[SPEAKER_05]: Yeah, there's kind of speculation about who the next person will be.
+[SPEAKER_05]: Obviously, people have different opinions about that.
+[SPEAKER_05]: It's not easy to pick out, I guess, a particular
+[SPEAKER_05]: villain from that.
+[SPEAKER_05]: But there are definitely some more cynical people who are like, you know, there's no point in us discussing this.
+[SPEAKER_05]: Like, so the ruler of Trivaron at this time is called Lord Valcarin.
+[SPEAKER_05]: Some people are just like, Lord Valcarin will, you know, he hasn't signaled who he's chosen.
+[SPEAKER_05]: And whence he does, that'll be the end of this conversation.
+[SPEAKER_05]: So, you know, there's no point in us.
+[SPEAKER_05]: going through this speculation because, you know, ultimately it's not, it's not actually up to us.
+[SPEAKER_05]: I'll remember his name in a second.
+[SPEAKER_01]: Otherwise, we have more influence on the Marowinds than the other, the other three countries alongside it.
+[SPEAKER_01]: Just because it's based up north that
+[SPEAKER_01]: Travarin has control of that area?
+[SPEAKER_05]: So it's a couple of reasons.
+[SPEAKER_05]: So the borders with Othendale and Maravain are extremely rural.
+[SPEAKER_05]: There's no kind of major routes between Othendale and Maravain and the Mirawin.
+[SPEAKER_05]: The two major routes out of the Mirawin go to Travarin and go to Calradol.
+[SPEAKER_05]: Now, historically, the Mirawin area was more influenced by Calradol.
+[SPEAKER_05]: But since the war started, for various reasons, both practical and political, the power has shifted to Drakemount.
+[SPEAKER_05]: And most of the Mirawen and Greywatch's supplies come in through the Drake Road, which goes up to Drakemount in Trevaryn.
+[SPEAKER_05]: And also Trevaryn very much has the backing of the war council in Crownspire to exert influence over the Mirawen.
+I'll see you next time.
+[SPEAKER_05]: Elredor is viewed with some suspicion by the League more broadly, and by Crownspire in particular, because, well, I mean, again, for a number of reasons, but to put it very broadly, because historically, it was by far the most culturally influenced by the Elves of the kingdoms, and the routes across the mountains there into the Elanfeyn forest were the ones that were actually used for kind of trade and exchange and so on.
+[SPEAKER_05]: Now, the Calrador is not really trusted to defend those routes on its own.
+[SPEAKER_05]: It has a lot of other league groups stationed in Calrador.
+[SPEAKER_05]: And generally, Calrador's influence is tightly... People try to keep a lid on it in the league in general.
+[SPEAKER_05]: So, yes, as a result of that, at present, the Mirawen is pretty much a kind of adjunct of Trivarin.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So at the mention of Lord Falcarin likely picking the next person in line, Trevick will, depending on the scenario, he will shuffle over with a beer or he will continue to browse the person's wares or whatever.
+[SPEAKER_01]: Is it more likely that the next hoarding will
+[SPEAKER_01]: be sent from Traveron or will they be picked of the people existing in Grey Watch?
+[SPEAKER_05]: It'll be picked of people.
+[SPEAKER_05]: It's not so much of a protectorate as that.
+[SPEAKER_05]: It'll be picked from the people on the council in Grey Watch.
+[SPEAKER_05]: So it will be someone from Grey Watch, but it will be someone who has Valkyrian's approval.
+[SPEAKER_01]: OK, how many people make up the council or team?
+[SPEAKER_01]: Okay, so plenty of choice.
+[SPEAKER_01]: Okay.
+[SPEAKER_05]: Yeah, plenty of choice.
+[SPEAKER_05]: But most of them are not credible candidates, like they have to have been members of the council for a certain amount of time.
+[SPEAKER_05]: And so there's probably two or three people who could be, you know, who are most likely to be chosen.
+[SPEAKER_01]: Okay.
+[SPEAKER_05]: He's still got about eight months of his final term left to his final year of office left to go.
+[SPEAKER_05]: Why is this person saying I wrote it down?
+[SPEAKER_05]: It's annoying me now.
+[SPEAKER_05]: Sorry.
+[SPEAKER_05]: Ivo Pierron, that's his name.
+[SPEAKER_05]: Ivo Pierron.
+[SPEAKER_04]: Ivo Pierron.
+[SPEAKER_05]: Yep.
+[SPEAKER_05]: I'm putting them in there.
+[SPEAKER_05]: I'm just for a change.
+[SPEAKER_05]: I'm putting them in the Foundry chat today.
+[SPEAKER_05]: Who knows why?
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: So will Sir Ivo have influence over who he is?
+[SPEAKER_01]: Is that purely out of his hands once he's done with it?
+[SPEAKER_05]: No, he'll definitely have some influence, yeah, 100%.
+[SPEAKER_05]: He and Lord Artyn are quite close.
+[SPEAKER_05]: So Lord Cairn are quite close.
+[SPEAKER_05]: So yes, he will probably have some influence and so on over that process.
+[SPEAKER_01]: And Lord Cairn, he is the ruling person in Drake's
+[SPEAKER_05]: So they have quite a similar system where they elect someone from a from the kind of, although in Great Man it's done through families.
+[SPEAKER_05]: So there are eight leading families in Travarin who make up the kind of ruling council there and they elect a person, but their person is elected for 25 years rather than just for 12 years.
+[SPEAKER_01]: And so the 14 people on the council at the moment, would they be like, would
+[SPEAKER_01]: their families benefit from being council members in Grey Watch, or is it more relaxed?
+[SPEAKER_05]: There's kind of prestige to it, but it's not the same kind of formalized system.
+[SPEAKER_05]: Like, it doesn't have to be the people in Grey Watch don't have to be from those families to be on the council, whereas Trevarin is very much... Trevarin used to be quite clan based, like a long time ago, and it has kind of remnants of that in its system now.
+[SPEAKER_05]: So people have to be from one of those families to be on the ruling family in Trevarin.
+[SPEAKER_05]: Whereas in the mirror when it's much more partly because different parts of the mirror when a habitable at different times.
+[SPEAKER_05]: So different areas kind of have someone who represents them on the council depending on whether they're currently like a viable place actually.
+[SPEAKER_01]: Oh, genius.
+[SPEAKER_01]: OK, cool, cool, cool.
+[SPEAKER_01]: OK. Now, I'm not going to drill you for more names, but down the line, may we please get the names of the of the two to three people who are most likely to be elected down the line?
+[SPEAKER_05]: Yeah, we can do that.
+[SPEAKER_05]: Thank you.
+[SPEAKER_05]: Yep, yep.
+[SPEAKER_04]: And realise that it was sent to local government.
+[SPEAKER_05]: Yes, 100% we can do that.
+[SPEAKER_05]: Yeah, some people are speculating about that.
+[SPEAKER_05]: There's also various speculation.
+[SPEAKER_05]: There are certain aspects of the Shadows Meet Festival which happen at different places in town, but are not in typical authoritarian fashion.
+[SPEAKER_05]: Like no one announces where they're going to happen beforehand.
+[SPEAKER_05]: People just have to like on the night, people walk around town and they kind of stumble across these things.
+[SPEAKER_05]: And so there's a lot of speculation about where things will be happening.
+[SPEAKER_05]: And yeah, but that's all quite, that's quite good natured speculation is more like this is exciting rather than, you know, rather than regarding us.
+[SPEAKER_01]: Is Shadow's Meet celebrated all over Killador, or is it a prominent festival in Grey's Watch?
+[SPEAKER_05]: It is celebrated all over the league in two various degrees, but it's much more prominent in Grey's Watch than other places because the Mirrorwen is a place that is generally thought to be kind of
+[SPEAKER_05]: So pilgrims come here to Grey Watch to celebrate.
+[SPEAKER_05]: There will be celebrations in most major cities, some more visible than others.
+[SPEAKER_05]: But yeah, this is a special place for celebrating.
+[SPEAKER_01]: That answers my next question of, does the Atarian Church have a strong foothold in this area?
+[SPEAKER_01]: Yes, they do, fair enough.
+[SPEAKER_01]: Very much so, yes.
+[SPEAKER_01]: Cool, cool, cool, cool.
+[SPEAKER_01]: If her and church have any influence on the council or because they are secretive, you would know.
+[SPEAKER_05]: Everyone assumes they massively control the council, but there's no formal relationship.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: Okay, that's that's traffic steps back and blends back in with the crowd.
+[SPEAKER_01]: Cool.
+[SPEAKER_05]: I mean, everyone assumes there are basically two powers in the mirror when the authoritarian church and Drake Mount, those are the two, those are the two powers, which sometimes, you know, and no one really knows whether how much their intention or not, because the authorians are very secretive.
+[SPEAKER_05]: All right, and with your excellent 23, you also managed to drop in this address, which some people recognize quite readily.
+[SPEAKER_05]: It is a, it's in the, it's in one of the poorer parts of town.
+[SPEAKER_05]: show what you would call it.
+[SPEAKER_05]: It's not like a restaurant, it's like a hole in the wall food dispensary, I suppose.
+[SPEAKER_05]: It's a guy who cooks and sells hot meals out of a kind of hatch in his house.
+[SPEAKER_05]: It is called, his name is Jareth Potter and his business, he calls it Potter's Pots.
+[SPEAKER_05]: But everyone else calls it the three copper hatch.
+[SPEAKER_05]: It's very cheap.
+[SPEAKER_03]: I'm always a fan of trying the local cuisines, so perhaps we could get some lunch.
+[SPEAKER_04]: What a good idea, Fabian.
+[SPEAKER_04]: Why don't we get some lunch?
+[SPEAKER_04]: What a nice idea.
+[SPEAKER_04]: Assuming that the other two haven't started.
+[SPEAKER_05]: Yeah, let's see if they've blown it up or anything.
+[SPEAKER_04]: All right, so you guys are going to do this.
+[SPEAKER_05]: It's convenient for me to have a meeting up again.
+[SPEAKER_04]: Did we get any other gossip about it other than that?
+[SPEAKER_05]: It is...
+[SPEAKER_05]: You've already done well, to be honest, to get a mention of it.
+[SPEAKER_05]: So unless you're going to try another conversational gambit, I would say probably not.
+[SPEAKER_03]: Yes, I will try another gambit.
+[SPEAKER_03]: We're big fans of food in the area and we like to get to know the chefs.
+[SPEAKER_03]: Can you tell me any more about James Potter?
+[SPEAKER_03]: Is he renowned for his talents in the area?
+[SPEAKER_03]: What does he do outside of cooking?
+[SPEAKER_03]: What's his story?
+[SPEAKER_05]: So, you can make a persuasion check.
+[SPEAKER_03]: Bless you.
+[SPEAKER_03]: Nice.
+[SPEAKER_03]: Very nice.
+[SPEAKER_05]: Yeah, he's fairly well liked.
+[SPEAKER_05]: Although you get the sense that people kind of feel sorry for him a bit more than they necessarily like really enjoy his company.
+[SPEAKER_05]: He is a middle-aged man.
+[SPEAKER_05]: He lives alone.
+[SPEAKER_05]: His wife died some years ago.
+[SPEAKER_05]: And since then, he hasn't really recovered from that, I suppose.
+[SPEAKER_05]: But he, you know,
+[SPEAKER_05]: He makes food that is remarkably cheap and appears to be an honest man.
+[SPEAKER_05]: So yeah, he's reasonably well respected, reasonably well liked.
+[SPEAKER_03]: He's not a tiefling.
+[SPEAKER_05]: He's not a tiefling, is he, human?
+[SPEAKER_04]: Local boy?
+[SPEAKER_05]: Yes.
+[SPEAKER_04]: No kids?
+[SPEAKER_05]: Although he did spend some time away.
+[SPEAKER_05]: Oh, how recently?
+[SPEAKER_05]: And came back.
+[SPEAKER_04]: At culinary school, perhaps.
+[SPEAKER_05]: So he is in his 50s now.
+[SPEAKER_05]: He grew up here and he left for a period of about a decade or so.
+[SPEAKER_05]: You're not 100% sure where he went at that time, into Trebarin, but they don't know where exactly.
+[SPEAKER_05]: He came back with his wife and they lived here for about three years and then she died.
+[SPEAKER_03]: No kids.
+[SPEAKER_05]: No kids.
+[SPEAKER_03]: And was the wife a tiefling?
+[SPEAKER_05]: So, when you ask that, people disagree.
+[SPEAKER_05]: So she didn't have obvious- Oh, she's got a touch of soot about her, as they say.
+[SPEAKER_05]: Some people were under the impression that she was, and some people were under the impression that she wasn't, which suggests that she was probably, by about the third generation of people who have not had any contact with Karath, the exposure to the planar magic fades and they no longer express those same characteristics.
+[SPEAKER_05]: So quite likely she was a later generation.
+[SPEAKER_04]: Do they remember her name?
+[SPEAKER_05]: Yes, it was.
+[SPEAKER_04]: I'm not sure what I'm going to do with that information, but I'm sure I can think of something creepy I can do with it later.
+[SPEAKER_05]: It was Mira.
+[SPEAKER_04]: Mira?
+[SPEAKER_05]: Yes.
+[SPEAKER_04]: I know I made a name.
+[SPEAKER_04]: I just don't know if names are patrilineal in this society.
+[SPEAKER_05]: Well, they don't know.
+[SPEAKER_05]: I haven't thought about the answer to that question, so I'm going to stop you from saying they don't know.
+[SPEAKER_05]: Fine.
+[SPEAKER_03]: I'll say that they are.
+[SPEAKER_03]: Uh, fine.
+[SPEAKER_03]: That was Mirawel liked.
+[SPEAKER_05]: Yes, she was.
+[SPEAKER_05]: She was when they came back and set up this business together when they returned.
+[SPEAKER_05]: And at that time, like she was, or at least when they were together, people again, maybe she was the driving force behind it.
+[SPEAKER_05]: Maybe they were just like he was had more spirit to him.
+[SPEAKER_05]: But she was very, when they started it together, she was very involved in it.
+[SPEAKER_05]: And she was big kind of, I guess, a lot more cheery than he was.
+[SPEAKER_05]: and good at kind of getting established in the trade and getting the place known and so on, whereas he now just kind of carries on in quite a weary way.
+[SPEAKER_04]: And what did she die of?
+[SPEAKER_05]: Illness, but people don't know what.
+[SPEAKER_05]: It happened quickly.
+[SPEAKER_03]: A quick illness.
+[SPEAKER_05]: Yep.
+[SPEAKER_03]: Did it leave the... Everyone in this tub buried in the same place?
+[SPEAKER_03]: I want to ask, did she have a tongue at the end?
+[SPEAKER_03]: But Fabian obviously wouldn't just ask that unprovoked to a crowd.
+[SPEAKER_02]: Do you know what they did with her skull?
+[SPEAKER_05]: Is everyone in the tub... Is everyone in the tub buried in the same place?
+[SPEAKER_04]: I feel we can ask.
+[SPEAKER_05]: They don't bury bodies here because there have been historically some incidents in the, like, in the mirror when bodies do not get buried.
+[SPEAKER_05]: Oh, fair.
+[SPEAKER_03]: Oh, do they even, like, scour your burial or something?
+[SPEAKER_05]: Well, they cremate bodies, bodies are burned.
+[SPEAKER_04]: Well, quite difficult to talk to someone who died that long ago anyway.
+[SPEAKER_05]: It's not possible.
+[SPEAKER_05]: All right, we're going to switch over to the other group.
+[SPEAKER_02]: Thank you very much, that was very helpful.
+[SPEAKER_05]: All right, so you guys make your way to, let's say this address is in one of the poorer areas of town, which is actually one of the relatively newly built areas where the Old Dragon landing area used to be.
+[SPEAKER_05]: So the streets here are quite kind of higgledy-piggledy and put together because they essentially originated from people just like gradually piecemeal occupying the space.
+[SPEAKER_05]: You find Joreth's shop quite easily.
+[SPEAKER_05]: It has a pretty faded sign outside it.
+[SPEAKER_05]: It's only kind of mid-morning at this point, so it is not open yet, but it will be open at lunchtime.
+[SPEAKER_05]: His house is small, pretty unremarkable looking.
+[SPEAKER_02]: As you say, I think finding a quiet side alley rail will cast detect thoughts and then have that kind of going as he wanders the street nearby is the intent, but I'll let Caspian interject.
+[SPEAKER_00]: I was going to ask, had we mentioned or had you mentioned what type of shop this was?
+[SPEAKER_05]: As I say, it's not, it's just his house and it has like a hatch on it where he sell hot cooked meals out of the hatch.
+[SPEAKER_00]: What are the streets like?
+[SPEAKER_00]: Is this a crowded area, a quiet area?
+[SPEAKER_05]: It's fairly crowded.
+[SPEAKER_05]: The houses are pretty tightly packed in here.
+[SPEAKER_05]: People have taken over this land and built within the walls and so on, so they're cramming in as many houses as they can.
+[SPEAKER_05]: Most of the houses are quite small.
+[SPEAKER_05]: A lot of them don't kind of match each other compared to some of the other parts of town that were built more intentionally.
+[SPEAKER_05]: A lot of these houses have been built kind of on an individual basis so nothing really matches terribly well and quite a lot of the streets are quite narrow.
+[SPEAKER_05]: Kind of more hand carts than kind of big horse carts able to come through here.
+[SPEAKER_05]: But yeah it's relatively and because it's because the town itself is very busy at this time yeah there's a lot of people out and about.
+[SPEAKER_00]: Okay, in that case, I am going to find an area that is unwatched.
+[SPEAKER_00]: I am going to cast invisibility on myself.
+[SPEAKER_00]: I keep an eye on the place whilst invisible.
+[SPEAKER_05]: Yep, you can do that.
+[SPEAKER_02]: Um, okay.
+[SPEAKER_02]: And yeah, so well with the tech thoughts running intends to just wander down the street, not, not stopping, not glancing that way.
+[SPEAKER_02]: Just generally trying to feel out.
+[SPEAKER_02]: My aim is to discover if there's another sort of dampening field here that suppresses any attempt to, um, try and peer in magically.
+[SPEAKER_02]: Um, so yeah, looking for that same sort of void slash absence that I felt at the tiefling house.
+[SPEAKER_05]: Hmm.
+[SPEAKER_05]: Make a quick spell casting ability check.
+[SPEAKER_02]: Okay.
+[SPEAKER_05]: Or arcana check.
+[SPEAKER_05]: He's a rogue.
+[SPEAKER_02]: I'm a wizard.
+[SPEAKER_02]: I will indeed.
+[SPEAKER_02]: Sorry, I have to remember how my new feature works as well.
+[SPEAKER_02]: It is somewhere in here.
+[SPEAKER_02]: OK, if that's a failure, which I think it likely is, I can add a d6 to it.
+[SPEAKER_02]: And that d6 is only expended if it succeeds.
+[SPEAKER_02]: So free to do.
+[SPEAKER_02]: This is my side bolstered neck.
+[SPEAKER_02]: You know what?
+[SPEAKER_02]: You heard me.
+[SPEAKER_02]: Bonus, 15, likely still doesn't succeed.
+[SPEAKER_05]: Does not succeed, unfortunately.
+[SPEAKER_05]: As far as it's so, what you do learn is that there's nothing as powerful or as blunt as what was happening in Bridgemarch that you were confident you would be able to detect.
+[SPEAKER_05]: But you're still not sure whether there's something there or not.
+[SPEAKER_05]: But if it is, it's smaller scale, it's more subtle.
+[SPEAKER_02]: OK.
+[SPEAKER_02]: Understood.
+[SPEAKER_02]: Okay, well, after that, then I guess I also will be kind of scanning the area for discrete spots where I might spend a little while unobserved, whether that be rooftops or kind of abandoned buildings nearby.
+[SPEAKER_05]: Yeah, totally, totally doable, given your skill set.
+[SPEAKER_02]: Perfect.
+[SPEAKER_02]: Well, once I find that, then I will take a roundabout route to get back there, which likely is rooftop to rooftop.
+[SPEAKER_02]: I'd like to not be observed making my way there.
+[SPEAKER_05]: Yeah, again, not easy, but you are good at this, so possible.
+[SPEAKER_05]: Perfect.
+[SPEAKER_02]: And then I shall settle in.
+[SPEAKER_02]: I will also, using another feature, psychic whispers.
+[SPEAKER_02]: I will establish a more long lasting telepathic link with Caspian.
+[SPEAKER_02]: I will once more use a psionic die to determine how long it lasts.
+[SPEAKER_02]: Five hours, we are telepathically linked.
+[SPEAKER_00]: Wait.
+[SPEAKER_05]: So I'll have to, so you guys sort of stay, I see your invisibility in Nelson's hour, so I was going to skip ahead a bit.
+[SPEAKER_00]: I will if I need to.
+[SPEAKER_05]: Is there anything particularly you want to be doing with your invisibility or are you just?
+[SPEAKER_00]: My intent is to see who, because I figure if I stand still in one place for too long, people are going to notice, so my intent is to see what manner of people come to this hatch or come to the house to see if anyone comes out, basically the comings and goings.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: So during the first part of the morning, it is pretty obvious to you, I think, if you're both keeping a close eye, that food has been cooked in this house.
+[SPEAKER_05]: There's plenty of kind of, you know, smoke coming from the chimney and so on.
+[SPEAKER_05]: There's probably various kind of smells of food and so on.
+[SPEAKER_05]: So it's obvious he's in the kind of food preparation stage.
+[SPEAKER_05]: You will definitely, if you're both watching the house carefully, see him moving about through the windows and so on.
+[SPEAKER_05]: As the others discovered from him being described, he is a man, a human man in his fifties.
+[SPEAKER_05]: He looks relatively unremarkable.
+[SPEAKER_05]: He definitely does not look like a fighter of any sort.
+[SPEAKER_05]: He's quite stout and he moves relatively slowly.
+[SPEAKER_05]: 11, half 11 or so, the hatch opens and he kind of puts up his, you know, open for business sign.
+[SPEAKER_05]: It's like written on a board what the things of the day are.
+[SPEAKER_05]: This is clearly cheap food scratched together from whatever he has been able to obtain cheaply from kind of leftover bits from, you know, shopkeepers and such.
+[SPEAKER_05]: Obviously it changes, it changes every day.
+[SPEAKER_05]: He doesn't kind of have a menu.
+[SPEAKER_05]: He's just like, here are the two things that I've made today, take or leave it.
+[SPEAKER_05]: The people who come to buy the food are definitely some of the poorer people of Grey Watch.
+[SPEAKER_05]: There's quite wide variety.
+[SPEAKER_00]: Are all, do all of the people who, good questions.
+[SPEAKER_00]: Do all of the people come to the hatch actually leave with the food?
+[SPEAKER_00]: Like if I was to walk closer, I'm invisible, I guess I can get pretty close.
+[SPEAKER_00]: Everyone does order the food that he has on today.
+[SPEAKER_00]: No one has like a secret code word that isn't anything that he's selling.
+[SPEAKER_05]: So you can definitely get closer.
+[SPEAKER_05]: No, everyone orders the food.
+[SPEAKER_05]: Some people come and they look at it and they're like, no, I don't fancy that today.
+[SPEAKER_05]: I'll come back the next day.
+[SPEAKER_00]: Probably understand completely.
+[SPEAKER_05]: So not everyone does leave with the food.
+[SPEAKER_05]: People can come and see what the potluck is and sometimes they don't want it.
+[SPEAKER_05]: But there's no evidence.
+[SPEAKER_05]: If they are doing a secret code, they're doing it subtly.
+[SPEAKER_00]: Is there two needs on right now?
+[SPEAKER_00]: My other question, is he working on his own?
+[SPEAKER_00]: Is there someone else in the kitchen?
+[SPEAKER_00]: Is there any evidence of anyone else in the building?
+[SPEAKER_05]: No, he seems to be working on his own and he looks pretty knackered.
+[SPEAKER_05]: He has quite a weary air to him, but no, he doesn't seem to have any help.
+[SPEAKER_05]: careful.
+[SPEAKER_00]: I will relay those things to Rell as I spot them, as I realistically probably don't know exactly where he is, so I will relay the things that I see and notice as I spot them.
+[SPEAKER_02]: I think I will also see if I can make a point of repeat custom, see if anyone comes more than once in a day.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: I guess if everyone's getting kind of the same thing, which is whatever comes out of the pot, I'll pay close attention to that and see if there is anything otherwise going on.
+[SPEAKER_02]: Perhaps it's dead drops as opposed to covert coded messages.
+[SPEAKER_05]: So at this point, so the party is good.
+[SPEAKER_05]: The rest of the party is going to come soon because they said they were going to come along around lunchtime-ish.
+[SPEAKER_05]: So you're probably not going to see repeat customers at this point before the party interrupts you.
+[SPEAKER_05]: But at this stage, most of the people, at least the people certainly coming early like this, they obviously know what the deal is here.
+[SPEAKER_05]: They're not kind of speculative new customers coming along.
+[SPEAKER_05]: These are people who are like, this is what I'm doing.
+[SPEAKER_05]: So people are quite purposeful in coming here.
+[SPEAKER_05]: And most of them, like Jareth will exchange a few words, he obviously knows them.
+[SPEAKER_05]: He seems to have quite, you know, in an almost kind of mags-like way, he will ask about, you know, whether people's auntie's bad knee is feeling better and those sorts of things.
+[SPEAKER_05]: Like he seems to take a genuine interest in the people and what's going on with them.
+[SPEAKER_05]: And yeah, it's definitely, he's definitely appears to be a kind of point of connection for the local community.
+[SPEAKER_00]: Before the party turned open while I'm invisible, I assume he doesn't have a queue of people there all day and that the shutter is just open.
+[SPEAKER_00]: Can I just basically go stick my face in the shutter and see if I can see into the building, into his kitchen area?
+[SPEAKER_00]: Can you see anything in there?
+[SPEAKER_05]: Yeah, you can do that.
+[SPEAKER_05]: His kitchen is very small.
+[SPEAKER_05]: It's quite well organized.
+[SPEAKER_05]: He has kind of tidied up everything from his cooking in the morning, but it's very small.
+[SPEAKER_05]: It's pretty poor looking.
+[SPEAKER_00]: It's fine in there, like on a corner, nothing evil.
+[SPEAKER_05]: There's nothing evil that is obviously there.
+[SPEAKER_05]: It's pretty spartan.
+[SPEAKER_02]: Did you see the rest of the party arrive?
+[SPEAKER_02]: I guess do we notice them?
+[SPEAKER_05]: At a point when you finish it, I'm having for you guys to finish any other bits and bobs that you want to do, but I think probably Fabian coming down the street, especially this part of town is going to be relatively obviously visible happening.
+[SPEAKER_05]: So yes, you will see Fabian, Traffic and Mags approaching.
+[SPEAKER_02]: Okay, I'm gonna take pains to pay attention to the crowd or at least passersby here, see if anyone is giving them any particular attention.
+[SPEAKER_02]: I mean, someone who is outwardly as rich as Fabian approaching the three copper hatch is unlikely.
+[SPEAKER_02]: So I think people will take keen notice of that and I'd like to make a point of observing them.
+[SPEAKER_05]: So people do take notice, but because there's a lot of strangers in town at the moment, and they are, you know, people are sort of wandering about, it's not as unusual now as it might be at another time.
+[SPEAKER_05]: So yes, people do take notice, but they're not astonished to see random strangers here in a broadly, you know, inappropriate place.
+[SPEAKER_05]: They're just like, this is nonsense.
+[SPEAKER_05]: You could definitely, I would say, Raoul, you definitely see one or two people
+[SPEAKER_05]: clearly working out how soft a mug and then seeing traffic and thinking better of it.
+[SPEAKER_02]: Sorry, I guess what I'm particularly looking for is people who might have been lookouts that suddenly sort of scarper as soon as Fabian rocks off that kind of thing.
+[SPEAKER_05]: Think of a section.
+[SPEAKER_02]: Absolutely.
+[SPEAKER_02]: I will once more prepare to use a CyBall Sydney if necessary, which I feel it will be.
+[SPEAKER_02]: So I'll add another d6 to that.
+[SPEAKER_02]: Bringing it up to 20.
+[SPEAKER_05]: So perhaps disappointing me on a negative set.
+[SPEAKER_05]: You are fairly confident that you haven't seen anything of that sort.
+[SPEAKER_05]: That's useful at least.
+[SPEAKER_04]: Before we round the corner, can I ask traffic something?
+[SPEAKER_05]: Go on then.
+[SPEAKER_04]: Before and full of you.
+[SPEAKER_05]: Trevor, are you feeling sneaky?
+It'd be sneaky.
+[SPEAKER_04]: How easy?
+[SPEAKER_04]: So I'm going to take out probably the smallest one of my bones.
+[SPEAKER_04]: It's like a really tiny, it's like a gnome's knuckle bone or something.
+[SPEAKER_04]: Very small.
+[SPEAKER_04]: And I go, do you reckon, while we're talking to this guy, you could slip this into his pocket?
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Yes, I think I can.
+[SPEAKER_01]: I absolutely think I can here.
+[SPEAKER_04]: Then we can find him anytime we like.
+[SPEAKER_01]: Cool.
+[SPEAKER_04]: And I'm going to hand Trebek a little knuckle bone.
+[SPEAKER_04]: Look after it, this belonged to my grandmother.
+[SPEAKER_05]: I forgot to mention earlier, by the way, when you guys were out, generally wondering about there are more gnomes in this town than there were in kind of Bridgemarch, certainly they were in Greenwich, so yeah, there is a larger gnome contingent in this information.
+[SPEAKER_00]: Is everything more like Magda's height here?
+[SPEAKER_05]: I mean, they're not.
+[SPEAKER_05]: They're not the majority by any means, but I mean, you might well find there probably is a gnome pub where everything is.
+[SPEAKER_05]: So yeah, there probably are some establishments which actually do cater.
+[SPEAKER_04]: Hopefully, going to go get wasted at this gnome pub later.
+[SPEAKER_04]: If anyone wants to risk severe concussion, they can come with me.
+[SPEAKER_05]: So you guys come into the picture, you don't see either Ralph or Caspian anywhere.
+[SPEAKER_00]: I'm going to watch them for a minute.
+[SPEAKER_00]: I want to see what they do.
+[SPEAKER_04]: Also, before we go in, I assume my enhanceability has run out.
+[SPEAKER_05]: Yeah, we're done.
+[SPEAKER_04]: Okay, can I recharge it on wisdom, please?
+[SPEAKER_00]: Yes.
+[SPEAKER_04]: Sorry, I interrupted you there, Shadi.
+[SPEAKER_00]: It was just to say that I will, like, psychically tell, well, let's just watch, see what they do for a minute.
+[SPEAKER_03]: Okay, Mags, I think I can get us in the kitchen.
+[SPEAKER_03]: If you just give me a second and a couple of... Can I even get up to this hatch?
+[SPEAKER_04]: Is this once again a kind of... Yeah, but like a lower gnome hatch.
+[SPEAKER_04]: Yeah, exactly.
+[SPEAKER_05]: That is a fair point.
+[SPEAKER_04]: I was hoping with the three copper hatches, there'd be one, there'd be three hatches at different height levels.
+[SPEAKER_05]: So there isn't a lower gnome hatch, but I will say probably well, and there will be gnome and halfling customers.
+[SPEAKER_05]: So I will say probably as you've been watching, when there is a customer like that, Jareth will come to his like to the door at the side and give them their food at the side door.
+[SPEAKER_02]: Oh, okay.
+[SPEAKER_02]: I thought you were going to say he's always like a road plumber for them.
+[SPEAKER_04]: All right, then, shall we bring him to the door?
+[SPEAKER_01]: Traffic's here.
+[SPEAKER_04]: It might make traffic's job even easier.
+[SPEAKER_01]: Thank you.
+[SPEAKER_04]: If I need to, I will trip and stagger and be distracted if I need to be.
+[SPEAKER_04]: Yes, and I will just keep up a constant flow of distracting matter.
+[SPEAKER_05]: So you are going to present yourself as just a regular customer.
+[SPEAKER_05]: At the side door and traffic is going to try to while you engage in small talk, traffic is going to try to set this bone in his pocket.
+[SPEAKER_03]: Let's not act too quickly.
+[SPEAKER_03]: I think if we play our cards right, we could get an invitation inside.
+[SPEAKER_04]: I'll follow you, Fabian.
+[SPEAKER_04]: If you've got a plan, you can.
+[SPEAKER_03]: One second, I need to get the door.
+[SPEAKER_03]: No, I take it back.
+[SPEAKER_03]: There's someone at the door.
+[SPEAKER_03]: Mags deal.
+[SPEAKER_03]: Mags deals with this.
+[SPEAKER_04]: All right, so in order to not destroy, I think we can try and preserve whatever plan Fabian had.
+[SPEAKER_04]: But we're going to start by saying hello and how nice it is to see him.
+[SPEAKER_04]: And we're going to order lots of food, nice food, et cetera, which I assume Fabian is paying for.
+[SPEAKER_05]: I mean, no, so he is actually not going to go for that.
+[SPEAKER_05]: So he has quite a strict, like one meal per person.
+[SPEAKER_05]: Like he has other people who are, who are his customers who are expecting there to be food left.
+[SPEAKER_05]: So he will happily give you a meal, but he's not, if you offer to buy more, he's like, no, that's not how this works.
+[SPEAKER_04]: Can we order three different meals so we can try all of the things?
+[SPEAKER_04]: But he sounds like a bit of a
+[SPEAKER_05]: He only has two options.
+[SPEAKER_05]: One that allegedly has meat in it, although you don't see any sign of it, and one that does not.
+[SPEAKER_04]: True flesh, and I'm feeling Trevick is vegetarian.
+[SPEAKER_05]: Trevick is a champion hunter.
+[SPEAKER_04]: Yeah, but my point is he just releases them afterwards, doesn't he?
+[SPEAKER_05]: All right.
+[SPEAKER_05]: So, so you order, you've ordered meals for all three of you.
+[SPEAKER_05]: Yep.
+[SPEAKER_05]: I'm going to do that.
+[SPEAKER_05]: Yes.
+[SPEAKER_04]: I'm distracting in that sense.
+[SPEAKER_04]: See why I'm in traffic.
+[SPEAKER_05]: Make a sleight of hand check traffic.
+[SPEAKER_05]: Now you should be good at this.
+[SPEAKER_05]: Because this is traffic, you know.
+[SPEAKER_01]: No.
+[SPEAKER_01]: Well done.
+[SPEAKER_01]: I am absolutely going, I'm going for everyone last.
+[SPEAKER_01]: Thank you.
+[SPEAKER_05]: You can give him guidance if you want to.
+[SPEAKER_04]: And I will absolutely give you guidance.
+[SPEAKER_04]: Jesus Christ!
+[SPEAKER_01]: Oh my God, where's the guidance?
+[SPEAKER_04]: Oh!
+[SPEAKER_01]: Guidance is G4, yeah?
+[SPEAKER_04]: Do you see if there's 10 because it's just dropping a knuckle into a pocket?
+[SPEAKER_05]: Okay, so it's a good thing you got that fourth.
+[SPEAKER_00]: That would go that badly.
+[SPEAKER_05]: This is clumsy.
+[SPEAKER_05]: You kind of put your hand on his arm and you lean in and go for his pocket.
+[SPEAKER_01]: I will try and brush it off as I apologize to him, really acting off my Northern Travarian accent in the hopes that I will click Travarian P-flag, maybe I'll remind him of his wife.
+[SPEAKER_01]: Okay, sorry.
+[SPEAKER_01]: Make a persuasion.
+[SPEAKER_01]: What was it that you wanted me to check?
+[SPEAKER_01]: Persuasion, persuasion.
+[SPEAKER_00]: Persuasion, okay.
+[SPEAKER_00]: Cool, cool, cool.
+[SPEAKER_00]: Wait, have a 20.
+[SPEAKER_00]: This is funny.
+[SPEAKER_00]: I reckon you can be besties with him now.
+[SPEAKER_00]: Have a 20.
+[SPEAKER_00]: Take it.
+[SPEAKER_00]: Okay, I will just take that 20.
+[SPEAKER_01]: Good thing I took that 20.
+[SPEAKER_00]: Have a 20.
+[SPEAKER_04]: polishing.
+[SPEAKER_05]: Initially, you go for his pocket.
+[SPEAKER_05]: And although, and he gives you, he kind of moves back a little bit and gives you a pretty hard.
+[SPEAKER_05]: He's not 100% sure that you were trying to pickpocket him.
+[SPEAKER_05]: But he is definitely deeply suspicious.
+[SPEAKER_05]: But then you start to apologize and pull out every charm that you, you know, have.
+[SPEAKER_05]: And his manner softens.
+[SPEAKER_05]: Maybe you do six foot traffic.
+[SPEAKER_05]: Remind him.
+[SPEAKER_05]: She could have been a really tall bitch.
+[SPEAKER_05]: Poor women.
+[SPEAKER_01]: Poor women, Jess.
+[SPEAKER_05]: Yeah, I just don't, I just, I mean, that's just not how I was picturing.
+[SPEAKER_05]: Anyway, maybe you do remind him of his wife.
+[SPEAKER_05]: Maybe he just, you know, who can say?
+[SPEAKER_05]: But there is something about you that clearly wins his sympathy.
+[SPEAKER_05]: And he is clearly, by the time you finish your kind of awkward apologies, he has forgotten his suspicions that you might have been trying to sneak something past him.
+[SPEAKER_05]: And he is, yeah, he is, he is chatting in a warm and friendly way.
+[SPEAKER_05]: I will say with your 20 on persuasion, you do, while this is happening, get the opportunity to slip the thing into his pocket, if you would like to.
+[SPEAKER_01]: I would like to slip it into his pocket.
+[SPEAKER_05]: He's no longer suspicious about you being unexpectedly touchy feely with him.
+[SPEAKER_05]: And, you know, he seems to
+[SPEAKER_05]: He is not a person with a normally very happy demeanor.
+[SPEAKER_05]: Those of you who have been kind of watching him, this is definitely like the sort of warmest and most cheerful he has seemed over the course of the morning.
+[SPEAKER_05]: He's, you know, he's kind and polite to people, but he doesn't, you know, he doesn't seem like a man who enjoys life very much.
+[SPEAKER_05]: But talking to Travik, he kind of, you know, he sort of, you know, comes out of his shell a little bit, warms up a little bit.
+[SPEAKER_05]: So yeah, Travik, thanks to Casby.
+[SPEAKER_05]: You make a positive out of this potentially quite problematic situation.
+[SPEAKER_00]: I'm not even telling anyone he did it.
+[SPEAKER_00]: When Trevick moves away from him, he will eventually cease to be invisible and he'll just stand next to Trevick and go, you recovered that quite wonderfully.
+[SPEAKER_00]: I think you've almost made a friend.
+[SPEAKER_00]: Almost, we'll see.
+[SPEAKER_00]: Thank you.
+[SPEAKER_00]: I didn't do anything.
+[SPEAKER_00]: If it's reminding you of the wife, I'm sure you didn't.
+[SPEAKER_04]: I'm sure you didn't.
+[SPEAKER_04]: It's more the Pemmick is Joris by Awakening, right?
+[SPEAKER_04]: This is a very different...
+[SPEAKER_04]: Anyway... Alex doesn't have access, Fabian can do his real plan.
+[SPEAKER_05]: So there are people waiting at the hatch.
+[SPEAKER_05]: Dorothy was like, this was nice, but I had to go and serve my other customers.
+[SPEAKER_05]: So if you want to try something else, now is the moment to do it, I suppose.
+[SPEAKER_04]: There's one short thing I would do if I have time to do it.
+[SPEAKER_04]: As we're naturing away, and he talks about why we're here, I will say, you know, I'm just an old lady looking after these young idiots.
+[SPEAKER_04]: You're quite difficult looking after a brood like this.
+[SPEAKER_04]: And I just want to look at him and insight check him when I drop the word brood into a no sentence.
+[SPEAKER_04]: Which is an advantage.
+[SPEAKER_04]: Come on, Max.
+[SPEAKER_04]: That's what we're talking about.
+[SPEAKER_05]: There's no dramatic reaction, but you do just see just a little kind of flicker, maybe a little twitch in the eyelid.
+[SPEAKER_05]: There is, yeah, he definitely, he gives you a, just a tiny kind of, a little beat of a look longer than he otherwise would have done.
+[SPEAKER_05]: Just, you can see, you can see that he's like, what's that?
+[SPEAKER_05]: Was that something?
+[SPEAKER_04]: But not a look of fear.
+[SPEAKER_05]: with your 24.
+[SPEAKER_05]: I don't think it was a it wasn't a look of fear.
+[SPEAKER_05]: But some of that kind of warmed warm animation that had kind of come into his manner when he was chatting to traffic kind of fades from him again.
+[SPEAKER_05]: And he goes back to seeming
+[SPEAKER_04]: Guarded.
+[SPEAKER_05]: Disenchanted, I suppose.
+[SPEAKER_05]: Oh.
+[SPEAKER_04]: So not excited, not excited.
+[SPEAKER_05]: No, no, like he's been reminded of something that makes him deeply, like, depressed is too strong, but like, you know, the sort of millstone around his neck, I suppose.
+[SPEAKER_05]: He's been reminded of something that makes life difficult.
+[SPEAKER_04]: Difficult.
+[SPEAKER_04]: Okay, that's very helpful.
+[SPEAKER_04]: Thank you very much.
+[SPEAKER_04]: I'm just going to carry on that train.
+[SPEAKER_05]: As I say, he has customers waiting, this is not a long conversation.
+[SPEAKER_05]: This is a thing to him, I'm not having a conversation with him.
+[SPEAKER_05]: No, I would say that's more to Will.
+[SPEAKER_05]: This is not like a massive long data.
+[SPEAKER_00]: While he is distracted by those conversations that are happening, and I assume people are not directly looking at me because I'm not conversing, can I do detect magic when I'm near the hatch?
+[SPEAKER_05]: Yes you can, yes.
+[SPEAKER_00]: Does it flare?
+[SPEAKER_05]: It does not.
+[SPEAKER_00]: Interesting, okay cool.
+[SPEAKER_05]: I mean the party obviously flares but the party is by far the most magical noisy thing in this area.
+[SPEAKER_00]: But the hatch doesn't?
+[SPEAKER_00]: The hatch doesn't.
+[SPEAKER_05]: Okay cool.
+[SPEAKER_05]: There are one or two people who have like faintly magical things on them, probably like charms that have been blessed by priests you would guess.
+[SPEAKER_00]: Okay, again, we'll relate that to well, since I telepathically linked to him at the minute, and I don't want to necessarily say out loud where we are, so.
+[SPEAKER_05]: So the other customers are getting impatient at this point and call.
+[SPEAKER_03]: We'll put his hand on Mag's shoulder and go, Mag, Mag, let's go eat over there and let the poor man.
+[SPEAKER_04]: Oh, sorry, yes, I've talked my own head off if I didn't know.
+[SPEAKER_04]: Thank you, dear.
+[SPEAKER_04]: That's some lovely filth in this too.
+[SPEAKER_05]: other customers.
+[SPEAKER_05]: But he yeah, he does give you guys a slightly kind of as you walk away slightly considering look.
+[SPEAKER_05]: And a bit of a longing look after traffic.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I want the robot to record that.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: a safe distance away, and out of you, Trevick will take the vegetarian meal instead, but he would like to examine the meat in the other bowl.
+[SPEAKER_00]: I don't think that's meat in it, but...
+[SPEAKER_01]: I know!
+[SPEAKER_01]: Trevick is not vegetarian, but he is suspect of meat he hasn't hunted himself.
+[SPEAKER_05]: So eventually, you do find a little bit like meat has some meat has gone into this large two pot at some point, but it is a tiny kind of amount to flavor it, which to be honest, for three coppers is what you might expect.
+[SPEAKER_05]: So yeah, there's there has there has been what's probably happened is there's been a bone with, you know, a few shreds of meat left on it.
+[SPEAKER_05]: Yeah, it's been kind of boiled into this flavor.
+[SPEAKER_05]: Yeah.
+[SPEAKER_03]: Was that nine copper?
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Fine.
+[SPEAKER_03]: You enjoying your tendon, Fab?
+[SPEAKER_03]: I mean, it's certainly chewy.
+[SPEAKER_03]: Good tenderness.
+[SPEAKER_04]: Got to boil it a long time to make it this chewy.
+[SPEAKER_03]: And the local spices are...
+[SPEAKER_04]: Non-existent.
+[SPEAKER_03]: Yes, dull.
+[SPEAKER_03]: I was going...
+[SPEAKER_03]: But do we want to get inside or are we happy for now?
+[SPEAKER_04]: Well, can other people hear us?
+[SPEAKER_05]: We're sort of sitting... You're not really going to be able to get completely out of everyone's earshot.
+[SPEAKER_05]: You'll just have like perched on a cork somewhere.
+[SPEAKER_04]: I've got to say, I don't think it matters.
+[SPEAKER_04]: I think it's all right.
+[SPEAKER_01]: Would it be worth, clearly he has a selection of customers waiting.
+[SPEAKER_01]: Once the crowd has thinned a bit, once maybe he's only got a finite amount of food available, he will eventually close up.
+[SPEAKER_01]: Maybe we wait, we nurse these bulls until we're ready to bring them back to him.
+[SPEAKER_01]: And when he's closing up, then we might be able
+[SPEAKER_05]: There's definitely like a lunchtime kind of rush.
+[SPEAKER_05]: And yeah, he does want the bowls back.
+[SPEAKER_05]: So most people have brought their own containers, you guys obviously did not.
+[SPEAKER_05]: So he does give you guys bowls, but he does make it clear he does want them back.
+[SPEAKER_04]: I will lick my bowl clean and bring it back to him.
+[SPEAKER_05]: There is a bit of a lunch rush, but it will subside.
+[SPEAKER_05]: And after that, yeah.
+[SPEAKER_03]: Maybe maybe after the rush is gone, we can have another chat and see if we can talk our way in.
+[SPEAKER_02]: Does everyone immediately start eating their food or does there seem to be a lot of people that take it away?
+[SPEAKER_02]: I don't mean of us, I mean of the custom.
+[SPEAKER_05]: So quite a lot of people take it away.
+[SPEAKER_05]: There is quite a few customers who are actually kids who come and are cleverly even given money and take like several meals away with them, clearly like back to the family for lunch or whatever.
+[SPEAKER_05]: So quite a number of people are taking their lunches away.
+[SPEAKER_02]: Interesting, interesting.
+[SPEAKER_02]: I'm just imagining, you know, notes hidden in the stew.
+[SPEAKER_00]: That's why I wondered if people were coming.
+[SPEAKER_05]: I will say from your experience in Bridgemarch with this, it was pretty clear to you that those people were not being agents, like 99.5% of the time.
+[SPEAKER_05]: So if you're waiting for some agent behavior to happen, that might be quite a long wait.
+[SPEAKER_02]: Okay, well, that's right.
+[SPEAKER_02]: I do intend to spend the night here once again.
+[SPEAKER_04]: So yeah, if I can, if I can leave for just whisper to fabs, you know, I think, you know, we, we know there's only one person in there.
+[SPEAKER_04]: And when he goes, we can follow him off of us and the other half can break in.
+[SPEAKER_03]: Um, well, that is a good idea.
+[SPEAKER_03]: Or do we know there's only one person in there?
+[SPEAKER_03]: Only one person we know.
+[SPEAKER_04]: We spent all morning chatting about him and we know of no other people in his life.
+[SPEAKER_00]: I haven't seen anyone else in the time that I've been keeping watch.
+[SPEAKER_00]: You haven't seen anyone else.
+[SPEAKER_04]: No wife, no kids, no one gives us any reason to believe that anyone else are the person.
+[SPEAKER_03]: Well, at least if there is someone else in there, they are occultist and ripe for the picking.
+[SPEAKER_03]: What if he's got a little imp?
+[SPEAKER_03]: I'm thinking a portal or something.
+[SPEAKER_04]: But you've got a little limb, but you should kill it.
+[SPEAKER_04]: Voice on the wind.
+[SPEAKER_03]: Well, yeah, it's all right.
+[SPEAKER_03]: Let's see if he leaves and we can break him without talking to him more.
+[SPEAKER_03]: It feels like that's less likely to go wrong.
+[SPEAKER_04]: Should we go find a pub?
+[SPEAKER_04]: That could go wrong.
+[SPEAKER_03]: And perhaps a second lunch.
+[SPEAKER_04]: What a good idea.
+[SPEAKER_03]: Can we find a pub?
+[SPEAKER_05]: Yes.
+[SPEAKER_03]: What's the nearest pub?
+[SPEAKER_03]: Is it the gnome pub?
+[SPEAKER_05]: I mean, it's not huge.
+[SPEAKER_05]: So if you want to go and find the gnome pub, it will not be miles away.
+[SPEAKER_01]: I think that's exactly what we should do.
+[SPEAKER_01]: And I hope that they all have gnome-appropriate chairs that we all have to like huddle down on.
+[SPEAKER_03]: I would love to go to the gnome pub.
+[SPEAKER_04]: Brace yourself.
+[SPEAKER_04]: Punch yourself.
+[SPEAKER_05]: Fine.
+[SPEAKER_05]: You guys go and find a gnome pub.
+[SPEAKER_05]: It is in this same area of town, so it is a relatively dingy little pub.
+[SPEAKER_05]: It is very much a gnome pub.
+[SPEAKER_05]: It is going to be relatively challenging for Trevick and Caspian and Fabian to
+[SPEAKER_00]: I might go back to scheming because I did not notice magic on the hatch and I have a rat that could be put to use, so I was deciding whether to put that rat to use.
+[SPEAKER_04]: Yeah, I mean, I am probably happy to just, you know, take it as read that traffic Fabian and I waste a huge amount of the afternoon while the people doing actual useful work.
+[SPEAKER_04]: we focus on, if you see what I mean.
+[SPEAKER_02]: One thing that Raoul would have shared with Caspian was that the notice that there did seem to be something that was negating his mental probing.
+[SPEAKER_02]: So whilst there might not have been immediate magic, there might have been some, once more, a kind of a masking effect in place.
+[SPEAKER_02]: So perhaps Caspian would like to feel for the absence of detection as opposed to the presence of magic.
+[SPEAKER_00]: On that note, I will attempt to do that.
+[SPEAKER_00]: Can I do that?
+[SPEAKER_05]: Yes, you can do that.
+[SPEAKER_05]: You can make an open check.
+[SPEAKER_00]: Hooray, hooray, my favorite check.
+[SPEAKER_00]: Should have kept the d20 for this.
+[SPEAKER_00]: Oh yeah, I was thinking the same.
+[SPEAKER_00]: Still, I have a plus 12, it's fine.
+[SPEAKER_04]: I think that I'm using the d20 on making traffic
+[SPEAKER_00]: To be fair, I do think that's easy.
+[SPEAKER_04]: The sexiest cheek leg at all of Grey Watch was definitely worth doing.
+[SPEAKER_05]: From the outside, it is tricky.
+[SPEAKER_05]: And you're not sure.
+[SPEAKER_05]: The results are inconclusive.
+[SPEAKER_05]: It's possible, but from outside, it's not possible to be confident.
+[SPEAKER_00]: I guess I'll ask Rell.
+[SPEAKER_05]: Again, like Rell, you're sure that there's nothing substantial that covers this whole property the way that there was in Bridgemarch, but whether there is something, whether there's something there or nothing there, you're not sure.
+[SPEAKER_00]: I will relay that back to Rell and I will also ask, as you have likely scouted the place more so than I have, have you found any potential back doors or windows or other access points other than this hatch?
+[SPEAKER_02]: Um, Rel will reply saying, uh, his intent was to wait for nightfall before he moved too directly against the house itself.
+[SPEAKER_02]: Um, I've simply taken a position to watch for now.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: In which case I will go to a sleazy dark corner, cast invisibility on myself again and wander around the premises looking for a, another entrance into the building, window, doors, back doors, et cetera.
+[SPEAKER_05]: Yep, that is fine.
+[SPEAKER_05]: We'll deal with that and then we'll go back to the pub party.
+[SPEAKER_05]: So yeah, it's not too difficult to kind of poke around.
+[SPEAKER_05]: This house is joined to the other one on one side, but there's a very narrow alleyway between this building and the next building, which you can
+[SPEAKER_05]: go down there is there's the hatch there is a on the other side there's the door where you guys went to around the back of the building there is a back door into a very small little yard where there's like a laundry line hung up there's also a window on the on the back of the house
+[SPEAKER_00]: Window open, closed?
+[SPEAKER_05]: The window is closed.
+[SPEAKER_05]: It's quite chilly by this time of the year.
+[SPEAKER_05]: You can also see there is an upstairs.
+[SPEAKER_05]: The upstairs, it's one of those ones where the roof is sloping on one side, so the upstairs is only like half the width of the downstairs.
+[SPEAKER_05]: But you can also see a window on that upstairs room.
+[SPEAKER_05]: It's probably only one upstairs room, you think.
+[SPEAKER_05]: Okay.
+[SPEAKER_00]: Okay, I'm going to position myself against the door that he opens for his smaller customers and potentially have Theodore prepared to sneak in that way while he is distracted with a customer, if that is possible.
+[SPEAKER_03]: I can't imagine he'd be too surprised to have mice in there anyway.
+[SPEAKER_00]: I imagine there's rats all over this fucking place.
+[SPEAKER_05]: I don't think a rat would be super unusual so yes that's probably doable.
+[SPEAKER_05]: You go to the pub group and then we'll come back to you.
+[SPEAKER_05]: So you guys go and find the gnome pub.
+[SPEAKER_03]: I know exactly what the first thing for this needs to be and this is a weird case of synchronicity because literally 20 minutes ago I was looking at my sheet going, why the hell did I pick that for Fabian last Easter?
+[SPEAKER_03]: Clearly it was a one shot and I just didn't put any thought into it.
+[SPEAKER_03]: Maybe Jess will let me change it because it's a little bit weird and useless.
+[SPEAKER_03]: Amazing.
+[SPEAKER_03]: Fabian walks straight up to the barman and in perfect Gnomish says, ah, barkeeper, a pint of your finest, please.
+[SPEAKER_03]: What?
+[SPEAKER_04]: Pint falls out of her mouth.
+[SPEAKER_04]: Oh, yes.
+[SPEAKER_04]: Do you speak Gnomish?
+[SPEAKER_04]: You didn't think to bring this up at any point.
+[SPEAKER_03]: I thought you were a different type of gnome.
+[SPEAKER_03]: I thought you'd speak a different language.
+[SPEAKER_04]: I think I speak both, actually.
+[SPEAKER_04]: That's a good point.
+[SPEAKER_04]: No, I speak both.
+[SPEAKER_04]: I'm 782 years old.
+[SPEAKER_04]: You tell me that there's been a language you and I can speak in secretly all this time, and we've never brought that up.
+[SPEAKER_03]: I just assumed that you couldn't.
+[SPEAKER_03]: Gosh, we can discuss all the gnomish prose and poetry.
+[SPEAKER_03]: This is so exciting.
+[SPEAKER_04]: We should probably talk to the Sparman though now.
+[SPEAKER_03]: Yes, right, a drink for my, and he will refer to Mags in a...
+[SPEAKER_03]: in, like, whatever the respectful word for a woman is in, you know, like McDonald's, innomish, right?
+[SPEAKER_05]: Yeah, no problem.
+[SPEAKER_05]: Yes, you can do that.
+[SPEAKER_05]: This part is called the Pindle Brak, which Fabian and Schrags would both be aware means something like the kind of
+[SPEAKER_05]: I guess like the cotter's assistant, maybe.
+[SPEAKER_05]: It's for someone who sort of, it's someone who is not the main person doing these kinds of jobs, but like the lad who helps them.
+[SPEAKER_05]: And yeah, as I say, both Fabian and particularly Trevick have to kind of stoop in this pub.
+[SPEAKER_04]: You stick your arm out of that window and your leg under that chair and out the door, you'll be fine.
+[SPEAKER_05]: they do, but they do have some glasses that are suitable for, um, human sized people.
+[SPEAKER_05]: They go and they go and find them.
+[SPEAKER_05]: I take ages kind of pouring, pouring out.
+[SPEAKER_01]: Um, for the, for the, yeah, this is, yeah, yes.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: This is like a quadruple measure.
+[SPEAKER_05]: Um,
+[SPEAKER_04]: Well, Fabian, how have you ever had Gnomish brand dates?
+[SPEAKER_03]: I don't think I have.
+[SPEAKER_04]: Well, Trevik, how about you?
+[SPEAKER_01]: Trevik has half the glass gone at this stage.
+[SPEAKER_01]: He's like, yes, he's pretty good.
+[SPEAKER_04]: Right, excellent.
+[SPEAKER_04]: I would like to befriend these people, in the normal mags way.
+[SPEAKER_04]: I want to find out everything about their lives.
+[SPEAKER_04]: I want to help with any ailments.
+[SPEAKER_04]: I want to get the gossip.
+[SPEAKER_05]: Sure, yep, you definitely can do that.
+[SPEAKER_05]: I mean, you guys have everyone's attention because you have brought humans into this pub, which some people definitely- It's a very, very segregated society, isn't it?
+[SPEAKER_05]: Well, I mean, because of the physical, you know, this is one of the few spaces where gnomes can go to be like completely physically comfortable and just do their own thing.
+[SPEAKER_05]: So it's not that segregated generally, but yeah, you guys are kind of ruining it.
+[SPEAKER_04]: I think I was sort of imagining I could sort of imply
+[SPEAKER_04]: to the other gnomes, although now that I know Fabian speaks gnomish, I can't literally just say this like that.
+[SPEAKER_04]: But it's sort of like, I can imply, it's like a sort of hazing, right?
+[SPEAKER_04]: Like you bring tall people to this pub, and you make them bang their head a lot.
+[SPEAKER_04]: That's got to be a thing people do to their friends quite a lot.
+[SPEAKER_03]: Fabian will try to ingratiate himself and make friends as well by playing gnomish songs and generally being friendly.
+[SPEAKER_03]: He'll explain that he learnt Gnomish from his mentor at home, one of the stars.
+[SPEAKER_03]: He taught him how to ride a horse.
+[SPEAKER_05]: Okay, make a persuasion check to see how well you were able to charm your way past the imitation of these people that you are in that.
+[SPEAKER_03]: Bless you Fabian.
+[SPEAKER_03]: Can Mags help me?
+[SPEAKER_03]: Yeah bless, oh yeah that's true, can I help him?
+[SPEAKER_04]: I am proficient in persuasion.
+[SPEAKER_05]: But is Mags actually like, does Mags help?
+[SPEAKER_05]: Because I feel like Mags probably wouldn't.
+[SPEAKER_04]: I think normally her desire to let him make a fool of himself would be, as you point out, very strong.
+[SPEAKER_04]: That's true.
+[SPEAKER_04]: But I have said I want us to befriend these people.
+[SPEAKER_04]: So on this weird occasion, I do in fact want to help him.
+[SPEAKER_03]: Yay.
+[SPEAKER_05]: Oh, you privately rolled your dice too privately.
+[SPEAKER_03]: Oh, too private.
+[SPEAKER_05]: That's all right.
+[SPEAKER_05]: Let me see if I can.
+[SPEAKER_05]: Oh, no, I can't make them.
+[SPEAKER_03]: Okay, great.
+[SPEAKER_05]: So although they are initially annoyed, actually, you win them round with your songs and with your, you know, tales of your respected, you know, gnomish teaching mentor and so on.
+[SPEAKER_05]: And yeah, they do warm up to you.
+[SPEAKER_05]: And despite the fact that you have come into their space, they nonetheless are slightly begrudgingly welcoming.
+[SPEAKER_03]: Lovely.
+[SPEAKER_03]: Mags.
+[SPEAKER_03]: Get the goss.
+[SPEAKER_04]: Did we get the five gnomes aren't treated well around here?
+[SPEAKER_04]: If they're that suspicious.
+[SPEAKER_05]: As I say, it's not that they, no, it's just that this is a, this is one of the few spaces that is actually designed for them.
+[SPEAKER_05]: Right.
+[SPEAKER_04]: This is like straight boys in a gay bar.
+[SPEAKER_04]: I see.
+[SPEAKER_05]: So it's not, it's not, it's fine, but it's not great.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: Yeah, it's unexpected.
+[SPEAKER_05]: There's plenty of places where it's much more sort of mixed, but this is the place where they're used to having their own space.
+[SPEAKER_05]: Trevik, you don't speak Gnomish.
+[SPEAKER_05]: Everyone's speaking Gnomish at this point.
+[SPEAKER_05]: No one's really making any effort to speak in common.
+[SPEAKER_04]: Trevik, I will teach you how to say, give me another drink in Gnomish.
+[SPEAKER_05]: Perfect, perfect.
+[SPEAKER_04]: And I'll teach you how to say, cheers.
+[SPEAKER_05]: They have three drinks in this pub.
+[SPEAKER_05]: They have beer, which is what you've been drinking thus far, as I say.
+[SPEAKER_05]: They've fished out their big people glasses to make sure that you guys have a sufficient amount.
+[SPEAKER_05]: And all the gnomes are sort of talking about how much that is.
+[SPEAKER_05]: Then they have two other drinks, one of which is called the East Gate Sour.
+[SPEAKER_05]: You guys are relatively close to the kind of on the eastern edge of town.
+[SPEAKER_05]: It is a spirit that is clearly herbal in its origin.
+[SPEAKER_05]: The gnomes are sipping it.
+[SPEAKER_05]: They have another drink which no one is drinking but is available which just as far as I mean I think probably even it has a gnomish name which Fabian and Mags would know just translates to the bad idea.
+[SPEAKER_04]: I think it's like a dead scorpion in it or something.
+[SPEAKER_01]: Are these bottles labeled?
+[SPEAKER_05]: Yeah, well, there's Yeah, well, no, they're not labeled because there's only three.
+[SPEAKER_01]: Okay, no worries.
+[SPEAKER_01]: Traffic.
+[SPEAKER_01]: His glasses.
+[SPEAKER_01]: And then he gives up and puts them back up.
+[SPEAKER_01]: That's fine.
+[SPEAKER_01]: OK.
+[SPEAKER_05]: But there probably is a board up somewhere or something.
+[SPEAKER_05]: I mean, if, yeah.
+[SPEAKER_05]: No, that's fair.
+[SPEAKER_05]: You have got your glasses.
+[SPEAKER_05]: So I would think if you put your glasses on and look around, then somewhere it will be written.
+[SPEAKER_01]: Perfect.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: He puts his glasses on.
+[SPEAKER_01]: He announces the drink he wants in common and then turns to Mags to ask, what is that in Newmish?
+[SPEAKER_04]: That's called the good idea.
+[SPEAKER_03]: Let's go fresh.
+[SPEAKER_03]: Am I am I rusty mags?
+[SPEAKER_04]: Yes, yes, Fabian.
+[SPEAKER_04]: It's cool.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Comedy wink.
+[SPEAKER_05]: That as I say, no one is drinking in the moment.
+[SPEAKER_05]: It is intended for shadows meet night.
+[SPEAKER_05]: Um,
+[SPEAKER_05]: They don't have a look at each other when you order it now, in the middle of the afternoon.
+[SPEAKER_05]: And because you guys have one, you know, friendliness, they look to you, Mags, and are like, what should we do?
+[SPEAKER_05]: Should we let this stranger do this stupid thing?
+[SPEAKER_05]: Or not?
+[SPEAKER_05]: Should we warn them?
+[SPEAKER_05]: Max before he like he has a taste and he gives you a like questioning look.
+[SPEAKER_04]: I've got it.
+[SPEAKER_04]: That'd be fine.
+[SPEAKER_04]: How else will they learn?
+[SPEAKER_05]: So the bartending is a little shrug takes down this this bottle and pause a
+[SPEAKER_05]: I guess it will be a fairly generous measure for a gnome, still relatively small amount.
+[SPEAKER_05]: It smells extremely pungent, not only very alcoholic, but also, as I say, like the East Gate Sour, it has clearly got other ingredients.
+[SPEAKER_05]: It's a slightly kind of licoricey, maybe, scent to it.
+[SPEAKER_05]: We both want the traffic family.
+[SPEAKER_05]: Are you also indulging?
+[SPEAKER_05]: Yeah.
+[SPEAKER_03]: Uh, Max gave him the comedy wink.
+[SPEAKER_03]: So I think no.
+[SPEAKER_05]: Okay.
+[SPEAKER_03]: He's in on the joke.
+[SPEAKER_05]: Okay.
+[SPEAKER_03]: He's going to start hitting his hands on the table and going, Trevik, Trevik.
+[SPEAKER_05]: This is definitely a drink which is intended to be kind of tossed back rather than sit.
+[SPEAKER_01]: I will go with the vibe of the pub, sit back.
+[SPEAKER_01]: Shall I roll a constitution check?
+[SPEAKER_05]: Yes, please.
+[SPEAKER_05]: Constitution saving card, please.
+[SPEAKER_02]: Give her the five, Caspian.
+[SPEAKER_00]: Thank you, Jake.
+[SPEAKER_04]: He'll be fine.
+[SPEAKER_04]: He'll be fine.
+[SPEAKER_05]: So pretty.
+[SPEAKER_05]: So it burns as it goes down.
+[SPEAKER_05]: It's not a comfortable feeling.
+[SPEAKER_05]: And pretty soon afterwards, your head really begins to swim.
+[SPEAKER_05]: It's
+[SPEAKER_00]: Hmm.
+[SPEAKER_05]: Your head begins to swim, you become a little bit less confident about whether you would be able to kind of easily kind of stand up and walk in a straight line.
+[SPEAKER_05]: The gnomes are watching you very carefully.
+[SPEAKER_04]: In a kind of this is funny kind of way or in a...
+[SPEAKER_05]: In a this is funny or are we concerned kind of a way.
+[SPEAKER_05]: As you sit there, Trevick, everything starts to sound a little bit strange, a little bit underwaterish almost.
+[SPEAKER_01]: Hey.
+[SPEAKER_01]: Okay.
+[SPEAKER_05]: It's not very much that you can necessarily do about it, but let's see, the nerves are definitely watching you relatively closely.
+[SPEAKER_05]: Mags and Fabian, is there anything you guys would like to do?
+[SPEAKER_04]: Well, to be clear, the point of which we have to leave, I can just cast Revevify on him.
+[SPEAKER_04]: And I will.
+[SPEAKER_04]: Revevify.
+[SPEAKER_04]: But I'm going to let him enjoy it first.
+[SPEAKER_05]: I think he's going to kill Travis.
+[SPEAKER_04]: No, no, no.
+[SPEAKER_04]: Revevify will also allow it to end a condition.
+[SPEAKER_04]: And I think this counts as a condition.
+[SPEAKER_05]: I'm not sure you mean Revevify.
+[SPEAKER_04]: Don't I?
+[SPEAKER_04]: Hang on, let me check my healing.
+[SPEAKER_04]: I've got so much healing shit.
+[SPEAKER_04]: Sorry, I mean, lesser restoration.
+[SPEAKER_04]: My point is, my point is, I'm gonna let him enjoy it.
+[SPEAKER_04]: I don't see any reason to intervene at this early stage.
+[SPEAKER_04]: I'm confident I can prevent him from coming to any permanent harm.
+[SPEAKER_01]: As I turn to, to Max and Fabian, I try and like, you know, say,
+[SPEAKER_01]: They see this taste lovely, but I don't know how I'm feeling.
+[SPEAKER_01]: If they talk back to me, am I able to hear them clearly or do they sound far away?
+[SPEAKER_05]: No, everything sounds odd.
+[SPEAKER_05]: And also you kind of turn your head like, you know, nothing really turns and like doesn't move.
+[SPEAKER_05]: Yeah, everything just feels like if you really focus, you can understand what people are saying.
+[SPEAKER_05]: But yeah, your perception is definitely is definitely off.
+[SPEAKER_01]: Fair.
+[SPEAKER_01]: Okay, cool.
+[SPEAKER_01]: Okay, cool.
+[SPEAKER_01]: Okay, I will sip with that and nurse my drink for a moment.
+[SPEAKER_01]: Oh, not my drink.
+[SPEAKER_01]: I will return to the pint that I had half drunk.
+[SPEAKER_05]: Okay, you take another sip of it and then you're like, no, no, that is a bad idea.
+[SPEAKER_05]: I'm not going to ingest any more things.
+[SPEAKER_05]: Fabian and Mags make a quick history check.
+[SPEAKER_04]: I'm so bad at history, but you're pretty good at it, aren't you, sir?
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: I'm equally bad at history and religion.
+[SPEAKER_04]: Let's do history.
+[SPEAKER_04]: Oh, about as good as I got.
+[SPEAKER_05]: OK, so Fabian, now you think back, you do know that
+[SPEAKER_05]: Some people who celebrate shadows meet and in general kind of authoritarian rights and so on.
+[SPEAKER_05]: This type of looking at kind of pupils dilating a bit and his slightly like slurred responses, this type of like mild
+[SPEAKER_05]: hallucinogens, maybe too strong a word, but something that puts you into the kind of this kind of liminal state of awareness is relatively typical of its Aryan rights.
+[SPEAKER_05]: It's quite, if they brewed this foreshadows meat, it is probably designed to have these sort of slightly perception altering qualities.
+[SPEAKER_05]: So you think you think this is probably a, a festival drink for a reason.
+[SPEAKER_05]: Okay.
+[SPEAKER_04]: You should buy a bottle for later.
+[SPEAKER_03]: Yes, I think when Trevik downed it, Fabian would have gone, way, and is going to start getting the pub to sing along to a song called Trevik, the one with fortitude.
+[SPEAKER_03]: Travick of great fortitude, yes.
+[SPEAKER_05]: So you rolled a 28, so you can do that.
+[SPEAKER_05]: And also the names are quite reassured because definitely they have been looking at Travick and like, is he going to be okay?
+[SPEAKER_05]: Kind of a way.
+[SPEAKER_05]: But yeah, you sort of get the middle of the spirit of it.
+[SPEAKER_05]: You can just, you can hear noises, Travick, it's all a bit of a blur.
+[SPEAKER_05]: You're not sure what's going on, but you hear your name from time to time in this song.
+[SPEAKER_05]: another, like a wisdom-saving sort of traffic.
+[SPEAKER_01]: Oh, amazing.
+[SPEAKER_01]: Okay, cool.
+[SPEAKER_03]: See how long we can realize that we're in some real trouble.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: You, you kind of relax into this a little bit.
+[SPEAKER_05]: It's not, you don't, you're not, you're not in control of it.
+[SPEAKER_05]: Your body is not reacting in ways that you can necessarily predict.
+[SPEAKER_05]: Your senses are,
+[SPEAKER_05]: but actually you feel okay.
+[SPEAKER_05]: You know that Mags and Fabian are there to look out for you.
+[SPEAKER_05]: You are, you know, you were thinking that this is, you're not panicking or resisting this necessarily.
+[SPEAKER_05]: You kind of sink into the sensations.
+[SPEAKER_05]: And although they are different, although the mode of perception is different to normal, actually, once you stop trying to control it, it is not necessarily unpleasant.
+[SPEAKER_05]: And it's, it's,
+[SPEAKER_05]: It's interesting.
+[SPEAKER_05]: So yeah, psychologically you're coping fine with this situation.
+[SPEAKER_01]: Okay, fair, perfect, perfect, perfect, okay.
+[SPEAKER_03]: Maybe we'll at some point just, let's go to Max, he's going to be okay, right?
+[SPEAKER_04]: He'll be fine, he'll be fine.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Anyway, what gossip we got?
+[SPEAKER_05]: You guys came in here to get gossip.
+[SPEAKER_04]: We came in to shoot the shit until such time as we're going to break into this fucker's house or track him.
+[SPEAKER_05]: Is there anything you are looking to find out in particular gossip-wise?
+[SPEAKER_03]: Fabian starts asking about, first of all, the festival, second of all, those doppelgangers.
+[SPEAKER_03]: Those are all creepy.
+[SPEAKER_03]: Any news of the doppelgangers recently?
+[SPEAKER_03]: And then slowly, as your conversation naturally drifts that way, Eddie X puts on dragons in the area.
+[SPEAKER_05]: Okay, that's kind of wide ranging chat.
+[SPEAKER_05]: So they are looking forward to the festival, you find out more about kind of how it works on a kind of granular level.
+[SPEAKER_05]: None of them are, no one here is particularly a default follower of Ithoris, but nonetheless, they will regard it as- That's what they would say, wouldn't they?
+[SPEAKER_05]: As a fun thing to join in with.
+[SPEAKER_05]: So yeah, you definitely- Oh, right.
+[SPEAKER_04]: So they're not all Calvarians?
+[SPEAKER_05]: They're not all Calvarians, no.
+[SPEAKER_04]: I think we at least implied at some point earlier that surface moments were super intercalibrate.
+[SPEAKER_04]: But that's just a tendency rather than.
+[SPEAKER_05]: Yeah, it's not a universal thing by any means.
+[SPEAKER_04]: Got it.
+[SPEAKER_05]: But yeah, they definitely, and festivals, because the gods are not exclusive in that sense, even if they were very devout Calvarians, nonetheless, if you're in a place where an interesting festival is happening, you're gonna join in with it.
+[SPEAKER_05]: The only exception to that is Braxton, who lots of people regard as actually a problem.
+[SPEAKER_05]: All the other gods, people will honor if there's a time and a place to be honoring them, even if they're fairly strongly devoted to another day.
+[SPEAKER_05]: They tell you all about the festival.
+[SPEAKER_05]: There's various special drinks and special foods and special places and lots of things that go on.
+[SPEAKER_05]: They are all very well aware, though, that lots of things happen during Shadows Meet that they have no awareness of and maybe don't want any awareness of.
+[SPEAKER_05]: Shadows Meet, it tends to be a thing where you poke around and you try to find things that are interesting enough but not too interesting.
+[SPEAKER_05]: It's quite a delicate dance of staying in the right zone, in the comfort zone, I suppose.
+[SPEAKER_05]: They always brew this bad idea drink every year for the festival.
+[SPEAKER_05]: And some of them just stay in the pub and drink this drink all evening.
+[SPEAKER_05]: And don't go out on the streets at all.
+[SPEAKER_05]: That is their way of honoring if there is just sort of sitting here and tripping together.
+[SPEAKER_04]: And so these aren't these aren't migrants.
+[SPEAKER_04]: These aren't these are homegrown notes who?
+[SPEAKER_05]: So there's a mixture.
+[SPEAKER_05]: So yeah, there's a mixture.
+[SPEAKER_05]: And some of them have come in, some of them have come in from the outer villages as well, and all of these people are, and most of them are visiting the family, so some of them have got family here, but they don't normally live here, they live in other places in the Middle East.
+[SPEAKER_04]: So I wonder if the opportunity presents itself as a way to turn the conversation around, maybe as we're talking about a religious festival, to other religious communities,
+[SPEAKER_04]: in the town and be like, are there any real weirdos down here?
+[SPEAKER_04]: Who else is there?
+[SPEAKER_04]: Who else is there about?
+[SPEAKER_04]: Not using the word fairness brood at all, but just seeing what comes up if I ask that.
+[SPEAKER_05]: Hmm.
+[SPEAKER_05]: So, I mean, they will talk quite freely about, I mean, there's temples of Naelos in the town, as there are absolutely everywhere.
+[SPEAKER_05]: There are temples to Calvia, as there are in most places.
+[SPEAKER_05]: And as you say, some of the gnomes will definitely frequent those most often.
+[SPEAKER_05]: Temples to Braxen are outright banned here, as they are in Cailendor, although not in Crownsfire.
+[SPEAKER_05]: So there's no overt worship to Braxen.
+[SPEAKER_05]: There's not much,
+[SPEAKER_05]: there's not much.
+[SPEAKER_05]: Yeah, I would say that there probably isn't.
+[SPEAKER_05]: Let me have a think about that one.
+[SPEAKER_05]: But yes, they're quite happily chatted, but you don't get the sense that there's secret Carthian cults or anything like that.
+[SPEAKER_05]: Not that these people know about anyway.
+[SPEAKER_05]: What else did you ask me about dragons, about doppelgangers?
+[SPEAKER_05]: Okay, so the people who've come in from the outlying villages, when you start asking about kind of weird stuff that's been going on, 100% they have stories about, you know, meeting people on the road who shouldn't have been in that place, or, you know, meeting people and speaking to them and then at some point they, you know, other
+[SPEAKER_05]: it's very unclear whether any of these stories actually happened or whether they were all kind of friend of a friend of a friend kind of things, but they all of the gnomes here are totally convinced that these sorts of things are a problem and that if you step outside Grey Watch's walls you have to be very careful, ideally you like keep eyes on the person, you don't travel with anyone that you don't know intimately enough to be able to kind of question them and understand if it's just a kind of false
+[SPEAKER_05]: And if you have to travel with someone like there's a there's clearly a system of kind of vouching for people.
+[SPEAKER_05]: So if you have to travel with someone that you don't know well, someone that you do know well has to vouch for that person.
+[SPEAKER_05]: There's a very, yeah, it's almost a kind of chain of relationships which keep things going in that sense.
+[SPEAKER_05]: So yeah, they all agree that doppelgangers are a scary problem.
+[SPEAKER_05]: And they also clearly enjoy slightly scaring Fabian about it.
+[SPEAKER_05]: They're definitely, they're definitely hamming it up.
+[SPEAKER_05]: They don't really know anything about dragons.
+[SPEAKER_05]: So they know that, so some of them start telling you what you already know about the fact that this area was built on where the dragons used to land and so on, but nothing that they tell you about dragons, it's particularly new to you.
+[SPEAKER_03]: Do they know the name of a dragon expert, somebody who does know about dragons?
+[SPEAKER_05]: They do not.
+[SPEAKER_04]: Well, local historians.
+[SPEAKER_05]: Yeah, local.
+[SPEAKER_05]: So, yeah, I mean, yeah, there's definitely people.
+[SPEAKER_05]: It will definitely be like there must be people who study the history.
+[SPEAKER_05]: But none of these guys are particularly.
+[SPEAKER_05]: So, yes, I mean, they're like, yes, these people definitely must exist, but not in this part of town.
+[SPEAKER_03]: What about unicorns?
+[SPEAKER_05]: So now they're just, now they think you're just... All right, well, leave it there for a second and go back to the other guys.
+[SPEAKER_05]: What are you guys up to?
+[SPEAKER_00]: Send in Theodore in.
+[SPEAKER_00]: I will go into a little corner away from everyone and I will watch through his eyes.
+[SPEAKER_00]: Okay.
+[SPEAKER_05]: He goes into, you manage to slip him into the house.
+[SPEAKER_05]: The downstairs is pretty much what you saw kind of glimpse through the door and through the hatch and so on.
+[SPEAKER_05]: There are two rooms downstairs, plus a privy.
+[SPEAKER_05]: One of them is the room where is kind of a kitchen, which leads directly onto the hatch.
+[SPEAKER_05]: As I say, he's tidied up all of his kind of food preparation stuff from earlier, but most of the stuff in here is kitchen stuff.
+[SPEAKER_05]: At the back of the house he has a little living area.
+[SPEAKER_05]: It is similarly relatively bottom, but kind of clean and tidy.
+[SPEAKER_05]: Do you send Theodore upstairs?
+[SPEAKER_00]: Yeah, I assume he'll poof out of existence at some point by that question, but he is going to explore, yes.
+[SPEAKER_05]: So you end up upstairs.
+[SPEAKER_05]: Upstairs is definitely more personal.
+[SPEAKER_05]: There is a bedroom with a double bed in it and a kind of clothes chest and so on.
+[SPEAKER_05]: There is also a relatively heavy kind of wooden kind of cupboard, I suppose.
+[SPEAKER_05]: There are some personal touches here.
+[SPEAKER_05]: There is a drawing of a woman who you actually know you weren't part of the other conversations so you don't know who she is.
+[SPEAKER_05]: There's a drawing of a woman.
+[SPEAKER_05]: It is in a frame and it's kind of on the bedside table.
+[SPEAKER_05]: She is significantly younger than Jareth is now, and the drawing certainly makes her look beautiful, whether or not she, it's a drawing, you can say.
+[SPEAKER_05]: Yeah, that's what you find upstairs.
+[SPEAKER_00]: No other doors, doesn't look like any of the secret passageways.
+[SPEAKER_05]: As I say, like a slopey roof on this side, so it's not as large a space, but as far as you can tell, there are no other doors.
+[SPEAKER_00]: Interesting.
+[SPEAKER_05]: In here there is a kind of heavy wooden cupboard and a clothes, what looks like a kind of clothes, kind of blanket chest sort of a thing.
+[SPEAKER_00]: If Theodore was to go towards both the cupboard and the chest, is there anything that would indicate it's something different or unusual?
+[SPEAKER_00]: Any like symbols on it?
+[SPEAKER_00]: Any, you know, blood, scratchings, any of those things?
+[SPEAKER_00]: Anything like what we've seen in the previous house?
+[SPEAKER_05]: Looking at it from just looking through Theodore's eyes you don't see anything unusual.
+[SPEAKER_00]: I will lay this information to Ravel as I am watching through Theodore's eyes and tell him what I can see and say I am curious about the chests but there is little Theodore can do he is only small.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Yeah, I guess Braille will make note of this.
+[SPEAKER_02]: And if he decides, or if it's decided that we'll head back in sort of nightfall and do a bit of prodding around, then this is a location he will check.
+[SPEAKER_02]: But for now he will, I guess, remind that we saw similar chests in the den in Bridgemarch as well.
+[SPEAKER_02]: Yeah, I am thinking that we obviously had a sealed series of instructions from Bridgemarch for someone to head here and await further or collect further instruction.
+[SPEAKER_02]: So I wonder if there is potential that we just be sovereign and receive that next set of instruction rather than do we have to be so so.
+[SPEAKER_02]: But I will raise that to the wider group once they return, although I will communicate to.
+[SPEAKER_02]: Sorry, I will communicate to Caspian that if he sees the wider group to let me know, or if he knows where they are, I guess, yeah, they didn't communicate with us at all.
+[SPEAKER_00]: Well, I spoke to them because I spoke to Trovik and they were like, we're going to go to the club and I went, I'm not.
+[SPEAKER_00]: I'm going to work.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: So yeah, we'll maybe say that we go either collect the party and bring them here so that I might forge a link with them as well, or go relay to them that perhaps it's worth us just, or rather, worth rel donning a disguise and acting as Soren and collecting our next set of instruction.
+[SPEAKER_02]: The dispatch notice we have, it didn't kind of imply that this, you know, he was known to the agency here in Grey Watch, right?
+[SPEAKER_02]: It was just kind of go here and here's an address, which I guess he wouldn't need the address if he's been here before.
+[SPEAKER_05]: It didn't imply either way.
+[SPEAKER_05]: You do know that Sorin is more typically a female name, but not necessarily.
+[SPEAKER_02]: Got you.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Interesting.
+[SPEAKER_02]: I'll be androgynous.
+[SPEAKER_02]: It's fine.
+[SPEAKER_02]: Yes, I would assume seeing as an address is given, then it's not a repeat visit.
+[SPEAKER_02]: So they might know who to expect, but they haven't met before, I guess.
+[SPEAKER_02]: So it could be flounced around a little bit.
+[SPEAKER_00]: Need some sort of codeword, maybe.
+[SPEAKER_02]: Well, I would assume that was in the dispatch.
+[SPEAKER_00]: Was that?
+[SPEAKER_00]: Yeah.
+[SPEAKER_02]: I don't know.
+[SPEAKER_05]: There was no explicit mention of a codeword.
+[SPEAKER_05]: Right.
+[SPEAKER_00]: okay um i will bring well i will pop him out i'm gonna i don't know i do i feel like i could put theodore more to use while he is in here but there's nothing i can do about the chest of a wardrobe um because he is only small and i cannot cast through him without touch so
+[SPEAKER_00]: Yeah, no, I'll leave, I'll stay in the alley, I'll pop them back out, I'll just poof them out and bring them to me.
+[SPEAKER_00]: And then I guess I will relate to Rel, and I will go find the others, I suppose that they told me they were going to find a gnome pub, so.
+[SPEAKER_05]: I mean, if you ask around, where do those random strangers go?
+[SPEAKER_00]: I'll just go, Trevick, where are you?
+[SPEAKER_00]: It would be useful to catch up.
+[SPEAKER_00]: McQuine with Trevick.
+[SPEAKER_00]: he froze?
+[SPEAKER_05]: Do I recognize you don't need to be messaging me if you can just explain in the chat what it is you're doing.
+[SPEAKER_01]: Perfect.
+[SPEAKER_01]: Do I do I do I recognize that he is talking to me through the coin?
+[SPEAKER_01]: Or am I too far?
+[SPEAKER_04]: Yeah, I've no reason to have sobered up yet.
+[SPEAKER_04]: I don't know.
+[SPEAKER_04]: You're just like,
+[SPEAKER_05]: you know, Casper is talking to me, fair enough.
+[SPEAKER_05]: Cool, fine, that's okay.
+[SPEAKER_05]: You're essentially, for the sound of it, you're essentially shrewd.
+[SPEAKER_05]: Like, you know, you wouldn't necessarily have to be that, but you're just like, cause you are well in your wisdom save.
+[SPEAKER_05]: You're not, you're not bothered by this.
+[SPEAKER_05]: You're just like, oh.
+[SPEAKER_05]: Perfect.
+[SPEAKER_01]: Max, Max, where, where, where are we again?
+[SPEAKER_01]: Uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+[SPEAKER_01]: I should hope so, but where specifically are you?
+[SPEAKER_01]: Mags Casby is asking where specifically are you.
+[SPEAKER_01]: We're in a gnome pub.
+[SPEAKER_04]: No, very coherent.
+[SPEAKER_01]: You're in the Pindlebrack.
+[SPEAKER_04]: You're in the Pindlebrack, dear.
+[SPEAKER_05]: This is the method you're using with the...
+[SPEAKER_05]: I think you may be out of messages for today.
+[SPEAKER_05]: Oh, perfect.
+[SPEAKER_05]: Okay, no worries.
+[SPEAKER_05]: Good luck finding us, babes.
+[SPEAKER_05]: Cool.
+[SPEAKER_05]: Well, people round about will know, especially because Fabian's been leading us in singing.
+[SPEAKER_05]: Yeah, I will ask where a footballing board is.
+[SPEAKER_00]: I'll ask the direction for a footballing board who is probably singing quite a lot.
+[SPEAKER_05]: Yeah, you can find them, that's fine.
+[SPEAKER_00]: Find my way back to the party, find the party, see the state.
+[SPEAKER_00]: Is traffic visually in the state?
+[SPEAKER_05]: Make a perception check.
+[SPEAKER_04]: Difficulty is two.
+[SPEAKER_00]: Probably, then.
+[SPEAKER_05]: OK, yeah, it's pretty obvious to you that something is going on with Travik.
+[SPEAKER_05]: He's got a very contented smile on his face, but he's clearly not following the thread of the conversation.
+[SPEAKER_00]: We're going to look to Travik and then look to Mags and Fab and try and decide whose fault this is.
+[SPEAKER_03]: Caspian, come and try a good idea.
+[SPEAKER_00]: Oh, it's your fault.
+[SPEAKER_00]: I believe we're working.
+[SPEAKER_00]: And again, I understand you all like to drink.
+[SPEAKER_00]: And as useful as that, it doesn't seem useful right now.
+[SPEAKER_00]: So Rel and I have... All right, Fabian.
+[SPEAKER_04]: Caspian is annoyed that someone has gone off and done something without telling him about it.
+[SPEAKER_00]: But you had told me about it.
+[SPEAKER_00]: I'm actually just annoyed that you've gone off and got traffic drunk.
+[SPEAKER_03]: We're culturally assimilating.
+[SPEAKER_03]: We're making friends and we're part of the festival now.
+[SPEAKER_03]: You should have a drink.
+[SPEAKER_00]: I'm not going to do that.
+[SPEAKER_00]: You know what?
+[SPEAKER_04]: God forbid you ever relax, Caspian.
+[SPEAKER_00]: Well, you just get a message that goes, I hate them all.
+[SPEAKER_05]: So, seeing Caspian, that seems to give Trevick a bright idea.
+[SPEAKER_05]: And he rummages in his bag and produces a book which he hands enthusiastically to the
+[SPEAKER_05]: to the group of gnomes that have been kind of seeing and with, you know, what is it?
+[SPEAKER_05]: Is it a token of your appreciation for their hospitality?
+[SPEAKER_01]: Tell us what you're doing here.
+[SPEAKER_01]: This is fantastic.
+[SPEAKER_01]: So Trevick picks up this book, he puts on his glasses again, gives it a nod, pops it off, turns to the patrons beside him.
+[SPEAKER_01]: Specifically, if they are
+[SPEAKER_01]: if they look like they are not from the city that they've come in from the country, even more so if they're like female gnomes, and he will slam that down on the table and say, give that a read, that's a good one.
+[SPEAKER_01]: And then he'll turn back and give Caspian the brightest smile.
+[SPEAKER_01]: All right, tell the group which book you've given to these.
+[SPEAKER_01]: It is a book called
+[SPEAKER_01]: Um, You're So Vain by Ivana... Ivana Moorhead.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: You're So Vain.
+[SPEAKER_02]: How's Vain spelt?
+[SPEAKER_02]: Well, it's...
+[SPEAKER_01]: I bet you think this book is about you, don't you?
+[SPEAKER_01]: The book cover has a pair of luscious lips with fangs on it, so yeah.
+[SPEAKER_05]: Gaspian, what are you doing this time?
+[SPEAKER_05]: Gaspian leaves the room.
+[SPEAKER_05]: You've just come into the pub and you're just going straight back out.
+[SPEAKER_00]: Go back outside.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Traffic is not in a state to be reasoned with, so I have left the room.
+[SPEAKER_00]: Okay.
+[SPEAKER_05]: Fabian and Max, what are you guys doing?
+[SPEAKER_04]: And we're like, so I can sober him up anytime we like.
+[SPEAKER_04]: Is it time to bring this to an end?
+[SPEAKER_03]: Oh, Caspian's going off in a strop.
+[SPEAKER_03]: We should probably get him before we can't find him again.
+[SPEAKER_04]: Yeah, we probably should, shouldn't we?
+[SPEAKER_03]: Come on, Trevik.
+[SPEAKER_04]: All right, I would like to cast Lesser Restoration on Trevik, and I would like this, in this particular instance, Maxis Lesser Restoration, I would like it to just look like a slap.
+[SPEAKER_04]: Ending the drunkenness.
+[SPEAKER_05]: You do that.
+[SPEAKER_05]: Make another constitution saving throw, please.
+[SPEAKER_05]: The gnome ladies that you gave the book to are already flicking through it and giggling.
+[SPEAKER_05]: OK, yeah, with a 15 and with the power of lesser respiration, you find your senses clearing.
+[SPEAKER_05]: You're quite enjoying it.
+[SPEAKER_05]: It's not necessarily, you know, being slapped by mags and being like snapped back in the ass is not necessarily a very pleasant sensation.
+[SPEAKER_05]: But, yeah, you do find your head kind of clearing.
+[SPEAKER_04]: I imagine that all of the pain of dealing with a hangover happens to Trevick, but in like 15 seconds.
+[SPEAKER_05]: It's like really concentrated.
+[SPEAKER_05]: You look over at the gnomes that you gave the book to.
+[SPEAKER_05]: There are a couple of them who kind of got their heads together.
+[SPEAKER_05]: One of them is absolutely blushing scarlet, but the other one gives you like a massive grin.
+[SPEAKER_05]: And yeah, they seem pleased.
+[SPEAKER_01]: Sure, Javik is delighted with himself.
+[SPEAKER_01]: He feels he's done some good into the world.
+[SPEAKER_01]: The world is nice though.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Should we leave that book with them and go find Caspian?
+[SPEAKER_01]: Sounds like a plan.
+[SPEAKER_04]: All right.
+[SPEAKER_04]: Very nice to see you all.
+[SPEAKER_04]: Sorry about the tall types.
+[SPEAKER_05]: No, it's a very good natured bite at this point.
+[SPEAKER_05]: You guys have entertained them.
+[SPEAKER_05]: You haven't broken anything.
+[SPEAKER_04]: It's been miraculously we've given them we've given them a book of erotic fiction is that about vampires it would seem.
+[SPEAKER_01]: You've given to the nerves and potentially why
+[SPEAKER_01]: Oh, do I get to?
+[SPEAKER_01]: Oh, no, I don't want to tell them why.
+[SPEAKER_01]: No, I think I'm already with that.
+[SPEAKER_01]: I'm going to keep that for myself for a bit.
+[SPEAKER_01]: Got to go and browse some more bookshops.
+[SPEAKER_04]: Kevin, don't tell me.
+[SPEAKER_04]: Let's go.
+[SPEAKER_04]: Catherine is presumably outside, sort of kicking the dirt, like a bored teenager.
+[SPEAKER_00]: No, I'm outside and I wait until Trevor comes out and then I stare hard at Trevor.
+[SPEAKER_04]: Come on, let's find Ralph.
+[SPEAKER_00]: Wait, does traffic, do I know that traffic's been less drunk now?
+[SPEAKER_00]: I'm just gonna, I'm gonna...
+[SPEAKER_00]: He rolls very well on your perception check of course.
+[SPEAKER_00]: I think it would be obvious to you now that he's been sobered up.
+[SPEAKER_00]: Okay, okay, cool.
+[SPEAKER_00]: I'm aware that he's sober.
+[SPEAKER_00]: I'm gonna wait until we're walking back towards the house and then I'm... Yeah.
+[SPEAKER_04]: Oh, Fabian, leave a massive tip.
+[SPEAKER_03]: Oh yes, of course.
+[SPEAKER_03]: Aye.
+[SPEAKER_03]: I mean, I feel like the songs were the tip, but... No.
+[SPEAKER_03]: Not how money works.
+[SPEAKER_03]: What would be typical in Gnomish culture?
+[SPEAKER_03]: I think five gold?
+[SPEAKER_05]: Five per cent?
+[SPEAKER_05]: I mean, this is a poor part of town.
+[SPEAKER_05]: Five gold would be a massive tip.
+[SPEAKER_04]: Oh, yeah, I know.
+[SPEAKER_03]: They didn't throw about one silver, which is more than generous.
+[SPEAKER_04]: Max's attempt to redistribute wealth has failed.
+[SPEAKER_04]: All right, fine, come on, let's go find wealth.
+[SPEAKER_04]: Anyone know where he is?
+[SPEAKER_00]: Well, Caspian will basically indicate where he was and say he stayed to watch the house.
+[SPEAKER_00]: If we head back, well, the shop, I guess, if we head back in that direction, he will potentially make himself known.
+[SPEAKER_00]: He has things to discuss.
+[SPEAKER_00]: I think we can discuss plans going forward together.
+[SPEAKER_00]: And then as we are walking back in that direction, Caspian will pull Trevor back and wait for the lads and fabs have walked like a few steps forward.
+[SPEAKER_00]: Likely without noticing because it's only a couple steps and he'll just hiss, where did you get that?
+[SPEAKER_01]: Trevik is gritting so hard and keeping his bag well out of reach of Caspian, he's going to pull out two more novels in Dvorovich that both, one has a very similar cover to the cover he just gave and the other is slightly different.
+[SPEAKER_01]: He was like, don't worry, I'm going to keep, I've got plenty more where that came from.
+[SPEAKER_00]: I was not aware that you could read such things, Trevi.
+[SPEAKER_01]: How did you purchase those books, Trevi?
+[SPEAKER_01]: Plenty of places for... She's a very popular author, as I'm sure you're aware.
+[SPEAKER_01]: I am somewhat aware.
+[SPEAKER_01]: Don't worry, don't worry.
+[SPEAKER_01]: I've spotted a few bookshops around here, might pop in, have a browse, maybe drop some off as I go, we'll see.
+[SPEAKER_01]: Have you read them?
+[SPEAKER_01]: So over the course of the last few days as we were coming into Grey Watch, you would have noticed that traffic had been
+[SPEAKER_01]: He had been spending his evenings reading a book and the book was in like a little leather cover.
+[SPEAKER_01]: So you weren't quite sure what he was reading.
+[SPEAKER_01]: But yeah, yeah, no, it's yeah, I'm halfway into the second book now.
+[SPEAKER_01]: It's thrilling.
+[SPEAKER_00]: I want to know how sincere you are with the word thrilling.
+[SPEAKER_00]: I think Cassian is just fishing for praise at this point.
+[SPEAKER_00]: He's 100%.
+[SPEAKER_00]: Oh, not great though.
+[SPEAKER_05]: Oh, Caspian.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: I mean, Travis is always so enthusiastic and nice.
+[SPEAKER_05]: It's, I mean, it depends on how insecure Caspian's default point is, I suppose.
+[SPEAKER_00]: I'll let go of Travis and walk ahead.
+[SPEAKER_04]: The Caspian is the author of these books.
+[SPEAKER_04]: The Caspian has written the Kale and Dorian Covenant of Heated Rivalry or something.
+[SPEAKER_04]: Fine.
+[SPEAKER_04]: Come on, let's go find Fidel.
+[SPEAKER_04]: All right.
+[SPEAKER_05]: You guys make your way back, you know where Mel is.
+[SPEAKER_05]: Nothing massively has changed in the couple of hours that you spent at home, Bob.
+[SPEAKER_00]: We'll tell Will, psychically, when we're coming back, basically, so he can choose to meet us if he wants.
+[SPEAKER_04]: Is there somewhere that we can speak with each other without being observed?
+[SPEAKER_05]: Not easily.
+[SPEAKER_05]: It's quite a crowded place.
+[SPEAKER_04]: Maybe we want to go back to where we're sleeping, then?
+[SPEAKER_02]: Um, if everyone kind of enters the street where the three copper hatch is, Rell will psychically link with all of you simultaneously.
+[SPEAKER_02]: I don't think I can do this many hours.
+[SPEAKER_04]: This is nice, Rell.
+[SPEAKER_04]: Have you always been able to do this?
+[SPEAKER_02]: uh this many hours um we'll get there we'll get there for one hour it's long enough for a conversation so we need um rel will reply and say uh during our journey to grey watch i have spent some time honing my learned magics this is a new original spell i have created oh very nice expressive
+[SPEAKER_02]: In any case, can you can you can you shout in it?
+[SPEAKER_02]: Hello?
+[SPEAKER_02]: No, yes, yes, you can.
+[SPEAKER_02]: Thank you for that.
+[SPEAKER_03]: Can we mute people?
+[SPEAKER_03]: Can we turn?
+[SPEAKER_05]: Just to be clear, you can only talk to Raoul and Raoul can talk to you.
+[SPEAKER_05]: You can't all talk.
+[SPEAKER_02]: But we can go through like a relay situation where I speak to me and I individually speak to everyone to relate to what you're saying and have a conversation.
+[SPEAKER_05]: If we're in a situation where it's time critical, we will do that.
+[SPEAKER_05]: Otherwise, we won't bother acting it out.
+[SPEAKER_05]: But just for story purposes, yeah, it's not a whole group chat.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: So, Rell will raise... Can we tell each other what we know?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: We'll relate what we know, what has been observed.
+[SPEAKER_02]: And, well, Rell, rather, will raise the proposal that someone act in disguise to act on the dispatch orders received.
+[SPEAKER_02]: making ourselves known to Jorath, representing ourselves as Soren, the lone adventurer that was supposed to be dispatched here to act on the furnace broods information.
+[SPEAKER_02]: We were given a particular rumour in that dispatch as well, so maybe raising that point to Jorath is enough to open conversation, or we can perhaps independently pursue that rumour rather than speaking directly to Jorath about it.
+[SPEAKER_02]: There might be people in town that have some awareness of this rumour.
+[SPEAKER_02]: Did the dispatch actually contain what the rumour was, or was it just go ask about a rumour?
+[SPEAKER_05]: Yeah, so what happened to Catherine's fold?
+[SPEAKER_02]: There we go.
+[SPEAKER_04]: Oh, I didn't know that.
+[SPEAKER_04]: Sorry.
+[SPEAKER_05]: Did we already know that?
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: It was in the document we uncovered from the original house.
+[SPEAKER_04]: Oh, I forgot about that.
+[SPEAKER_04]: All right.
+[SPEAKER_04]: Fine.
+[SPEAKER_04]: Never mind.
+[SPEAKER_04]: All right.
+[SPEAKER_04]: Who's good at lying?
+[SPEAKER_00]: Not me.
+[SPEAKER_02]: There is a general sort of smugness projected psychically.
+[SPEAKER_00]: I think Oliver Well is both good at lying and good at camouflaging his true self.
+[SPEAKER_04]: I'm pretty good at lying and camera logic by yourself.
+[SPEAKER_04]: But I suspect not as good as well.
+[SPEAKER_02]: My assumption is that the contact here in grey watch knows what to expect.
+[SPEAKER_02]: And I feel the risk of approaching three foot tall might immediately betray that that you are not what was expected.
+[SPEAKER_04]: All right, well, I think this goes to you then I think you are
+[SPEAKER_04]: your lady with Beth, so to speak, at this moment.
+[SPEAKER_04]: Do you want us to sort of hang back out of sight as you do this?
+[SPEAKER_02]: Perhaps that would be appropriate, but I just wanted to confirm that this is the approach you wanted to take.
+[SPEAKER_02]: If there is some call sign and counter sign that's expected, it's possible that we will be giving the game away here where we might
+[SPEAKER_04]: Yeah, I mean, you're right.
+[SPEAKER_04]: There's a lot of shit that we could lose.
+[SPEAKER_04]: I think my main priority is that we get one of these fuckers alive this time in contrast to last time so that we can put the thumbscrews on them and find out what's going on.
+[SPEAKER_00]: Well, would you perhaps be able to maintain and detect thoughts whilst you are in this disguise and communicating with this person and perhaps if they are thinking of something that they are expecting to see or expecting to hear from you, you wouldn't know it?
+[SPEAKER_02]: I certainly think it's possible, with the assumption that it's there on their foremost thoughts.
+[SPEAKER_02]: If I need to dig deeper to access this particular piece of information, they would be quite immediately aware of my presence, and I would expect very suspicious.
+[SPEAKER_00]: Of course, but my assumption is that if you present yourself as this person that they are waiting for, if they do have a codeword or
+[SPEAKER_02]: an expectation that expectation would come to the forefront of their mind as they converse with you yep that's not unreasonable i would expect that as soon as someone gives a call sign they would be thinking of the counter sign um so yes i think that's probably a reasonable approach and certainly something that i can manage do you wish to take theodore with you keep him in your clothes and if you do need a hand
+[SPEAKER_00]: Are you happy to maintain?
+[SPEAKER_00]: How many links can you maintain?
+[SPEAKER_00]: I understand you're speaking to us at the same time right now.
+[SPEAKER_02]: Up to three.
+[SPEAKER_02]: So at least one of you is being completely left out of this conversation.
+[SPEAKER_02]: We were just taking a little quiet pause.
+[SPEAKER_00]: My question is also, can you maintain all of those different things at once?
+[SPEAKER_02]: Yes, if I act within the next hour, then yes, I can maintain all of those things simultaneously.
+[SPEAKER_04]: I guess the alternative is we spend a day looking into this rumour, but I think let's just go for it.
+[SPEAKER_00]: Yeah, I don't think we'll find much.
+[SPEAKER_00]: I mean, at most we're going to find little hints of clues.
+[SPEAKER_00]: This seems the most straightforward way to get information.
+[SPEAKER_04]: All right.
+[SPEAKER_04]: Can we position ourselves such as to be out of sight but sufficiently?
+[SPEAKER_04]: What's the range of this psychic thing?
+[SPEAKER_02]: A mile.
+[SPEAKER_02]: Oh, fine.
+[SPEAKER_04]: We want to be new enough to help rather if he needs it.
+[SPEAKER_04]: We want to be out of sight and maybe want to cover all of the exits of this building if this person does something like it, right?
+[SPEAKER_05]: Some of you are naturally not very sneaky, so there will need to be checks to do this if you want to stay this close to be able to be helpful in a practical way.
+[SPEAKER_05]: I'm gonna be invisible again.
+[SPEAKER_05]: Okay, well that sort you out.
+[SPEAKER_00]: That's why I got no stealth about me.
+[SPEAKER_05]: But especially because the rest of you, Jareth already knows who you are and you made quite a strong impression.
+[SPEAKER_05]: If you want to stay, do this discreetly and stay out of sight, you definitely have to make stealth checks.
+[SPEAKER_04]: Oh, interesting.
+[SPEAKER_04]: I will fire my nose and look like a completely different gnome.
+[SPEAKER_05]: Okay, yeah, that'll sort you out, yep.
+[SPEAKER_03]: I am going to wear, as I've been looking through my bags, a costume.
+[SPEAKER_03]: I've been carrying it around apparently and it cost 12 pounds.
+[SPEAKER_02]: And a mask.
+[SPEAKER_02]: I also carry a costume around just for fun, but I only recently read his character.
+[SPEAKER_05]: Not appropriate mask wearing time yet.
+[SPEAKER_05]: So that will be quite a conspicuous thing to do.
+[SPEAKER_04]: Give it a few days.
+[SPEAKER_04]: I reckon the authorians be dead into it.
+[SPEAKER_05]: That's true.
+[SPEAKER_05]: Yes.
+[SPEAKER_02]: All right, no mask.
+[SPEAKER_04]: Maybe they'll think he's just a festival go-at-come-early.
+[SPEAKER_02]: Interestingly, reading what a costume does is it gives you advantage on any ability check to impersonate the type of person it represents, so I absolutely will don my adventurous costume.
+[SPEAKER_05]: Yes, I find it plausible that your costume is an adventurous costume.
+[SPEAKER_05]: Okay, I'm going to accept this costume argument for the minute, although I think it's pretty tenuous.
+[SPEAKER_05]: The baby would have an appropriate costume for blending in, in this particular box.
+[SPEAKER_03]: I've only just discovered that you can press the little bag icon at the top of the sheet, and you get a whole extra pop out of all the things in it.
+[SPEAKER_05]: Oh, yeah, that's all the things in your explorers pack or what have you.
+[SPEAKER_05]: You can also add more bags to your sheet to organize your stuff into other bags.
+[SPEAKER_05]: Oh, traffic.
+[SPEAKER_05]: Are you just making a stealth check or are you taking any special?
+[SPEAKER_05]: I'll just make a stealth check.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: All right, you in various ways managed to consider in appropriate locations.
+[SPEAKER_05]: The shop is is closed up by this point.
+[SPEAKER_05]: What would you like to do?
+[SPEAKER_02]: Okay, so I will cast Disguise Self, opting for something, as mentioned, vaguely androgynous.
+[SPEAKER_02]: So long hair, perhaps elfin features, because they don't lean in any particular... Well, no, no.
+[SPEAKER_02]: Elfin features, not as in an elf, but as in a description for a human person.
+[SPEAKER_02]: As in Elijah Wood.
+[SPEAKER_02]: Yes, I don't look like an elf, that would be a terrible choice.
+[SPEAKER_05]: It would be noticeable, that's fair.
+[SPEAKER_05]: There are people who have Elvish ancestry around occasionally, but it would definitely be striking.
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: I will couple that with my adventurous disguise, which is a physical disguise, and therefore will stand up to a degree of inspection.
+[SPEAKER_02]: combination of the two should work well.
+[SPEAKER_02]: And then I will approach the three copper hatch.
+[SPEAKER_02]: Is it still quite busy?
+[SPEAKER_02]: I guess we're kind of mid afternoon.
+[SPEAKER_05]: It's not busy now.
+[SPEAKER_05]: It's like, yeah, it's like mid late afternoon.
+[SPEAKER_05]: So no, it's not busy.
+Okay.
+[SPEAKER_02]: Um, yeah, I shall, I shall sidle up.
+[SPEAKER_02]: I shall present a degree of swagger that comes with being a lone adventurer who needs no other around him.
+[SPEAKER_02]: Uh, them I should say.
+[SPEAKER_02]: Um, and I shall lean discreetly on the counter and I will place my, my three coppers on the counter.
+[SPEAKER_02]: Um, and I'll say greetings to you, Jorath.
+[SPEAKER_02]: Fare thee well today.
+[SPEAKER_05]: So he looks up at you as you address him by his name, with a little bit of surprise.
+[SPEAKER_05]: He doesn't recognize your face or your voice.
+[SPEAKER_05]: He comes over and he says, not much left, I'm afraid, but enough for a bowl.
+[SPEAKER_05]: You need one or got something in your pack?
+[SPEAKER_02]: I, using a sleight of hand, I am going to perform a series of interesting looking sort of coin tricks.
+[SPEAKER_02]: And during one of those tricks, I am going to cast prestidigitation on one of the coins to embellish the mark of the furnace brood just for a brief moment before flashing away again.
+[SPEAKER_02]: And then I'll say,
+[SPEAKER_02]: I'm actually here.
+[SPEAKER_02]: Well, lunch is kind of an ad extra.
+[SPEAKER_02]: I'm here pursuing a rumour.
+[SPEAKER_02]: I've heard you're a man who might have some information.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: So he doesn't miss your sign.
+[SPEAKER_05]: And he reacts
+[SPEAKER_05]: Yeah, he reacts in a relatively obvious way to it.
+[SPEAKER_05]: You see him, he definitely loses a bit of colour, and he gives you quite an intense stare for like a moment or two, and then he looks away.
+[SPEAKER_02]: Sorry, I will at this point, if possible, also cast detect thoughts, which I forgot to and would have done before approaching, but
+[SPEAKER_05]: Yeah, so he is he is a blank on detect thoughts as though he is wearing some kind of mind shielding expected.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: He gives you he kind of looks away and then he looks back and he gives you a slightly questioning look.
+[SPEAKER_02]: And I'll sort of, I will make a show of kind of looking up and sort of searching my own thoughts.
+[SPEAKER_02]: And I'll say, shit, I completely forgot.
+[SPEAKER_05]: Make an insight check.
+[SPEAKER_02]: Absolutely.
+[SPEAKER_02]: I'm not proficient in insight, so I cannot knack it, I'm afraid.
+[SPEAKER_05]: Yeah, he's waiting for something.
+[SPEAKER_02]: I do have an inspiration though, which I will at this point use.
+[SPEAKER_02]: Oh, much better.
+[SPEAKER_02]: I'll keep the seven.
+[SPEAKER_05]: That's how inspiration works.
+[SPEAKER_05]: You're not sure.
+[SPEAKER_05]: He's waiting.
+[SPEAKER_05]: There's a questioning look in his eyes.
+[SPEAKER_05]: He's waiting for something.
+[SPEAKER_05]: Yeah.
+[SPEAKER_02]: So I'll fish into my shirt and I'll draw forth the amulet and I'll say, look, I showed the sign.
+[SPEAKER_02]: Here's the other bit.
+[SPEAKER_02]: And I really, I could never remember the other stuff.
+[SPEAKER_02]: You know, all these subterfuge isn't my cup of tea.
+[SPEAKER_05]: So at that, as you get out the amulet, he immediately, his eyes go kind of wide and he looks panicked.
+[SPEAKER_05]: And he gives you a like, put that the fuck away gesture.
+[SPEAKER_05]: After you were very kind of subtle with the prestidigitation in display, he gives you a like, put it away gesture.
+[SPEAKER_02]: I once more throw it into my shirt.
+[SPEAKER_05]: And then he immediately goes around to the side door and opens it and it's like, come in here.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: He, he, he's no longer questioning what you're there for, but he's definitely like, what are you doing?
+[SPEAKER_05]: Okay.
+[SPEAKER_02]: Perfect.
+[SPEAKER_05]: So the rest of you see, um, Rel being drawn inside the house and the door closed behind him.
+[SPEAKER_02]: Immuted.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: How long was that door?
+[SPEAKER_00]: Like, I don't know that I would go in, but I do feel that Rel shouldn't be in there on his own, and I am invisible, so I...
+[SPEAKER_00]: Caspian ain't a brave person though.
+[SPEAKER_00]: How long does that door stay open?
+[SPEAKER_00]: Is it like open then shut?
+[SPEAKER_05]: I mean, if the guy is like, get in here and closes it, he's not doing this in a casual way.
+[SPEAKER_05]: But the hatch is still open.
+[SPEAKER_05]: You could try to, I mean, you would have to be careful to do it quietly.
+[SPEAKER_00]: I think I'm going to send Theodore in.
+[SPEAKER_00]: I'll send him in through the hatch and
+[SPEAKER_00]: he'll just basically stick to the shadows and kind of follow and I'll keep an eye on that way because I'm realistically gasping not brave enough to go in there.
+[SPEAKER_00]: So that's fine.
+[SPEAKER_00]: Yeah, I'll do that.
+[SPEAKER_00]: I'm not going to tell well I'm not going to like a distract him with that knowledge but Theodore sneaking.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Jareth brings you inside, well, and he sits down quite heavily at the table, as though his legs are like on the point of kind of giving out underneath him.
+[SPEAKER_05]: There's another chair there that you can choose to sit down or not.
+[SPEAKER_05]: And he kind of puts his head in his hands a little bit and he said, bloody hell, I didn't think it would be like this.
+[SPEAKER_05]: That was a risk.
+[SPEAKER_02]: Well, yeah, as I said, it's hard with all of these little bits and phrases and codes to remember and just, you know, I've been on the road for nearly six weeks.
+[SPEAKER_02]: So it got us where we wanted to be, I suppose.
+[SPEAKER_05]: Well, yeah, right.
+[SPEAKER_05]: They want you to go look into something.
+[SPEAKER_05]: as a village.
+[SPEAKER_05]: It was called Kethon's Fold.
+[SPEAKER_05]: It's about 40 miles south.
+[SPEAKER_05]: It was destroyed.
+[SPEAKER_05]: There was a landslip or a sinkhole or something.
+[SPEAKER_05]: It was swallowed up.
+[SPEAKER_05]: It happens here from time to time.
+[SPEAKER_05]: The land's not very stable.
+[SPEAKER_05]: It happened, I don't know, maybe, maybe 10 weeks ago now, must be in the beginning of Ashland, middle of Ashland, something like that.
+[SPEAKER_05]: They want you to go there.
+[SPEAKER_05]: They want you to, what was it?
+[SPEAKER_05]: There's stories about like, like caves, I guess, or passages or holes, you can you can get in underground.
+[SPEAKER_05]: There's been like stories of people singing or crying, I don't know, something, something under that you can get into the village, they want you to go there.
+[SPEAKER_05]: go in as deep as you can while you're still confident of getting out again and see if you can find anything that doesn't belong to that village, anything that's not something that you might have found in Cethan's Fold.
+[SPEAKER_05]: I don't know what that's supposed to mean but I guess maybe some sort of treasure or something, anything strange down there.
+[SPEAKER_05]: And they want you to bring it back here.
+[SPEAKER_05]: Make a report, I guess.
+[SPEAKER_05]: I think they want to know if it's worth sending a proper, like, more people.
+[SPEAKER_05]: No disrespect, obviously.
+[SPEAKER_05]: I'm sure you're very, very good at what you do, but they want to know what's happening in Katherine's field.
+[SPEAKER_05]: And that's it.
+[SPEAKER_05]: That's the whole of it.
+[SPEAKER_05]: That was the message.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Pretty straightforward.
+[SPEAKER_02]: Look, fellow, you don't have to be quite so nervous.
+[SPEAKER_02]: I know them lot have a bad reputation, but I'm an agent, same as you.
+[SPEAKER_02]: You don't have to hold me to the same degree of severity, I suppose.
+[SPEAKER_02]: Just an adventurer.
+[SPEAKER_05]: He looks at you and he is clearly you can see him with a terrible insight check.
+[SPEAKER_05]: He is clearly terrified.
+[SPEAKER_05]: But as you say that, make another insight check.
+[SPEAKER_02]: Absolutely.
+[SPEAKER_05]: As you say that a certain light of, even though he's still afraid, a certain light of sympathy comes into his eyes.
+[SPEAKER_05]: And he says,
+[SPEAKER_05]: I'm sorry.
+[SPEAKER_05]: I'm sorry.
+[SPEAKER_05]: I didn't think.
+[SPEAKER_05]: Who did they take from you?
+[SPEAKER_02]: I think it's best we don't get into that.
+[SPEAKER_02]: It's no harm, fella.
+[SPEAKER_02]: It's just, it makes life easier, I suppose, if we keep a distance.
+[SPEAKER_05]: You're right.
+[SPEAKER_05]: You're right.
+[SPEAKER_05]: I just I haven't actually.
+[SPEAKER_05]: This is the first time I've actually had to.
+[SPEAKER_05]: You're right.
+[SPEAKER_05]: You're right.
+[SPEAKER_05]: Look, you're supposed to come back here afterwards to tell me what you found.
+[SPEAKER_05]: If you bring back anything, I'm to pass it on.
+[SPEAKER_05]: That's
+[SPEAKER_05]: That's all.
+[SPEAKER_02]: Understood.
+[SPEAKER_02]: Not a problem.
+[SPEAKER_02]: I'll let you know as soon as I find anything.
+[SPEAKER_02]: I'll set off as soon as possible.
+[SPEAKER_02]: I need to gather some resource.
+[SPEAKER_02]: Wasn't quite prepared for a cave dive, but there's plenty of merchants in town for the festival, so I'm sure I can find what I need.
+[SPEAKER_02]: And I'll contact you as soon as I'm back.
+[SPEAKER_05]: All right.
+[SPEAKER_05]: Good luck.
+[SPEAKER_05]: They made it sound
+[SPEAKER_05]: Be careful.
+[SPEAKER_02]: Yeah, we'll be.
+[SPEAKER_02]: No worries.
+[SPEAKER_02]: It's not my first time.
+[SPEAKER_05]: He nods and he is.
+[SPEAKER_05]: He clearly would like you to leave, but he's definitely not going to tell you to leave.
+[SPEAKER_02]: Yeah, no, no.
+[SPEAKER_02]: As he's given what I was here for, I'll stand, I'll give him like a half bow and say, you've done good work and I'll put in a good word for you.
+[SPEAKER_02]: Appreciate it.
+[SPEAKER_05]: With your inside check, he gives you he gives you a kind of weak smile, but is very clear to you that he just like he does not want to get any deeper into this.
+[SPEAKER_05]: Like he does not want his name mentioned to anyone.
+[SPEAKER_05]: He's definitely like, he's putting a good face on it.
+[SPEAKER_05]: He's like, Oh, fuck, don't do that.
+[SPEAKER_05]: But yeah, you you head out.
+[SPEAKER_05]: And as you go, he
+[SPEAKER_05]: Uh, he like closes up the hatch and he is definitely like shutting up shop and going to like lay down for a bit.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: You, you, uh, Casping, you see all this through Theo's eyes and Theo can definitely slip out, um, with rel if he wants to, or he can stay.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Uh, as I am leaving, I will relay the, uh, the detail of the conversation to those who are capable of receiving that.
+[SPEAKER_04]: Um, okay.
+[SPEAKER_04]: So I guess we're not going to throw him to the police because we want to use his contact to find out who he's talking to, right?
+[SPEAKER_02]: Yeah, I think Rell would suggest that that's
+[SPEAKER_02]: Probably not the best course of events.
+[SPEAKER_02]: It seems as though there is a hostage in the mix.
+[SPEAKER_02]: And likely if he is burnt as an asset, it would mean that his wife is too.
+[SPEAKER_02]: Or whomever.
+[SPEAKER_04]: Oh, I think the wife is almost certainly already dead.
+[SPEAKER_00]: We don't know that.
+[SPEAKER_04]: Yeah.
+[SPEAKER_00]: Yeah, I this guy just literally no advantage to the bad place.
+[SPEAKER_00]: He doesn't seem like a necessarily bad person.
+[SPEAKER_00]: He just seems to be trapped in a situation.
+[SPEAKER_00]: So I don't think we actually gain anything from handing him over.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: And we want the link later.
+[SPEAKER_04]: Oh, that's cool.
+[SPEAKER_04]: Let's go find a cave.
+[SPEAKER_04]: Love a cave.
+[SPEAKER_05]: There probably was a little bit more detail in that conversation about Cethansfield and where it is.
+[SPEAKER_05]: You will nonetheless, like he will tell you, you will need to find a guide to take you there.
+[SPEAKER_05]: Because if you don't know it, it's not safe.
+[SPEAKER_05]: So yeah, you probably are already aware that there is a kind of guild of local guides who have certain kind of areas that they know well enough to be able to guide people.
+[SPEAKER_05]: So yeah, you can hire a guide to take you there, but that is...
+[SPEAKER_05]: I mean, you obviously can set out on your own if you want to, but that would not be his advice.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Understood.
+[SPEAKER_00]: If I leave the door there, just to keep an eye for a minute, after Rel leaves, what does he do?
+[SPEAKER_04]: Good point.
+[SPEAKER_05]: He closes up the hatch and so on.
+[SPEAKER_05]: And then he goes around, even though the house is very tidy already, he goes around tidying everything and scraping everything.
+[SPEAKER_05]: He's clearly trying to get his nerves a bit under control.
+[SPEAKER_05]: And once he has done that, yeah, he goes upstairs and lays on the bed.
+[SPEAKER_00]: he doesn't go to sleep he just like lays there yeah okay it doesn't open any cupboards or chests or anything okay cool pathetic yeah uh once he's laid down and it just looks like he's having some sort of panic attack or whatever i'll i'll um i'll move the atoll back out or reappear in my sleeve
+[SPEAKER_02]: Cool.
+[SPEAKER_02]: Real might suggest we convene somewhere further away.
+[SPEAKER_04]: Let's go back to where we're sleeping.
+[SPEAKER_04]: Sounds good.
+[SPEAKER_04]: If anybody's not too, back to the gaff.
+[SPEAKER_05]: No, go back up.
+[SPEAKER_05]: You guys can definitely do that.
+[SPEAKER_05]: It's probably evening-ish by this point.
+[SPEAKER_02]: Cool.
+[SPEAKER_02]: And yes, we can confer and decide on our course of actions.
+[SPEAKER_02]: We will need to hire a guide, I suppose.
+[SPEAKER_02]: It's worth gathering supplies.
+[SPEAKER_02]: That wasn't just a lie.
+[SPEAKER_02]: There may be things for cave diving.
+[SPEAKER_04]: Do we think we can do it this evening instead of tonight?
+[SPEAKER_04]: Or do we want to sleep and do it tomorrow morning?
+[SPEAKER_00]: I think we could do it this evening, isn't it?
+[SPEAKER_00]: I can't imagine that there's many places that are open to be like, hey, can we hire a guide?
+[SPEAKER_02]: The guild itself, I'm sure we can put in a request that then will be answered as opposed to the
+[SPEAKER_04]: That's very official.
+[SPEAKER_04]: Don't we want to find the guys that's been like chucked out the guild for like taking too many risks and he's getting drunk and didn't buy a bar.
+[SPEAKER_05]: It's quite an official system with a good record of like who's going where and yes of course there are people who are not part of that system.
+[SPEAKER_04]: If we want to stay under the radar, which we should consider.
+[SPEAKER_02]: Yeah, that's valid.
+[SPEAKER_02]: And I think once more, there may be useful thieves can signs that point to potential smugglers who would likely have that's fine.
+[SPEAKER_02]: Yes.
+[SPEAKER_04]: Well, do you want to find a bath?
+[SPEAKER_02]: Yeah, I can I can certainly look for the crime bar where crime happens.
+[SPEAKER_05]: You've already got contacts because of your accommodation.
+[SPEAKER_05]: So yes, it's very easy to do that.
+[SPEAKER_02]: Perfect.
+[SPEAKER_05]: So just to get to an efficient point for next week, your plan is to try to secure any equipment that you feel like you might need and to get a guide to take you there who is not part of the official system.
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: Yeah.
+[SPEAKER_05]: I think instead of having to play out exactly how that happens, we can just be like, this happens.
+[SPEAKER_02]: And now you're there.
+[SPEAKER_04]: Perfect.
+[SPEAKER_05]: Well, we might do a bit of the journey, but yeah.
+[SPEAKER_04]: I was really enjoying us hiring, you know, Cleana, Dory and Han Solo.
+[SPEAKER_05]: You're welcome to do that in the chat.
+[SPEAKER_05]: That's no problem at all.
+[SPEAKER_04]: I'll just do it in my head.
+[SPEAKER_05]: But yeah, we might, we'll definitely, I think if we start next session, at least at the leaving Grey Watch.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: point assuming that you want to leave now rather than wait around for the festival or anything like that ah but how long till the festival like two days yeah a couple of days and how far to this place 40 miles so a couple of days well we'll miss the festival
+[SPEAKER_03]: They even would like to stay for the festival.
+[SPEAKER_00]: Other than the vibe, do we gain anything from the festival?
+[SPEAKER_00]: Is there a reason for us to be there other than shits and giggles?
+[SPEAKER_04]: We can carry on monitoring Jareth and find out who his contact is.
+[SPEAKER_00]: But then if someone else comes along and is like, hey, I'm the person you're waiting for.
+[SPEAKER_04]: If someone else comes along, we want to be here in the town so we can kill him.
+[SPEAKER_02]: I would assume if he's awaiting a report and a return of items, he has some way of contacting his contact and signalling for a meeting to take place.
+[SPEAKER_02]: I'm sure it's not, someone's not going to show up at his door.
+[SPEAKER_02]: a couple of days from now if he is there to give instructions to someone else and then wait for them to go on a journey and an adventure and come back with stuff, right?
+[SPEAKER_02]: I would assume it's more likely he reaches out as opposed to he's checked in on constantly.
+[SPEAKER_05]: I think, did you mean what if the real Sauron turns up?
+[SPEAKER_05]: Yeah, that's what I meant.
+[SPEAKER_02]: Oh, we stole the instructions, right?
+[SPEAKER_02]: So he never got his orders.
+[SPEAKER_04]: Yeah, he can't.
+[SPEAKER_02]: Yes.
+[SPEAKER_00]: Yeah.
+[SPEAKER_02]: is the assumption we'll make, and you don't have to correct us, Jess.
+[SPEAKER_00]: I feel like I was, yeah, sure.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Well, anyway, let me say my assumption right now is that you're leaving town.
+[SPEAKER_05]: If instead you decide to stick around, let me know that before next session, because I...
+[SPEAKER_04]: Someone could think of a non-vibes reason why you should stay for the festival, I'm up for it.
+[SPEAKER_04]: But is there one?
+[SPEAKER_00]: Yeah, I don't really feel there's a reason to stay for the festival.
+[SPEAKER_03]: It's just intrinsically good to go to these cultural things.
+[SPEAKER_02]: If it's just for general revelry.
+[SPEAKER_04]: Sorry, go ahead, Will.
+[SPEAKER_02]: No, no, you.
+[SPEAKER_02]: I was gonna say, yeah, if it's just for general revelry, maybe we don't need to do it in chronological order and maybe post adventure we can.
+[SPEAKER_02]: Here's what happened off screen at the festival and we can talk about it then, just so it doesn't disrupt the pace of actual play.
+[SPEAKER_02]: If maybe that would be something we can do.
+[SPEAKER_05]: If you want to be at the festival, that's totally fine.
+[SPEAKER_05]: I'm very happy to have a festival oriented session.
+[SPEAKER_05]: I don't mind doing it, I just want to know which I'm doing.
+[SPEAKER_05]: They're both perfectly viable but very different session plans.
+[SPEAKER_03]: In a matter of wages, is there a festival plot?
+[SPEAKER_03]: Is this something you'd like us to explore?
+[SPEAKER_04]: You literally just said we can do either.
+[SPEAKER_05]: I literally don't mind.
+[SPEAKER_05]: I mean, you know, there's obviously plot going on everywhere and all potential.
+[SPEAKER_05]: I don't mind.
+[SPEAKER_05]: I'm equally happy to do either.
+[SPEAKER_05]: I just would like to know.
+[SPEAKER_04]: I can't really think of a sensible in-character reason why we wouldn't just go immediately.
+[SPEAKER_00]: Yeah, let's just go.
+[SPEAKER_03]: Maybe we'll get back in time.
+[SPEAKER_03]: Sad as I am to miss.
+[SPEAKER_05]: I don't think you're going to get back to it.
+[SPEAKER_05]: I mean, it was only a happenstance that this festival happens.
+[SPEAKER_05]: I mean, it was only total coincidence that the calendar is what it is.
+[SPEAKER_05]: Like, this is not big plan.
+[SPEAKER_05]: It just happened to be the thing.
+[SPEAKER_03]: Oh, OK.
+[SPEAKER_05]: So yeah, it is just occurring in the background rather than being part of the intent.
+[SPEAKER_04]: And I feel like we've got traffic wasted, so that was the important bit.
+[SPEAKER_04]: That's true.
+[SPEAKER_05]: We had your own little mini-shadow feed.
+[SPEAKER_04]: And what an interesting day traffic has had.
+[SPEAKER_04]: In many, in so many ways.
+[SPEAKER_05]: So true.
+[SPEAKER_05]: All right, so next session, we will jump to the, either leaving Grey Watch or arriving at Catherine's Fold, depending on, yeah, depending.
+[SPEAKER_02]: Cool.
+[SPEAKER_05]: Cool.
+[SPEAKER_05]: Yeah, we'll do.
+[SPEAKER_02]: Sounds good.
+[SPEAKER_05]: All right, have a lovely seawall and see you guys next week.
+[SPEAKER_02]: Cheers all.
+[SPEAKER_02]: Have a good one.
+[SPEAKER_02]: Bye.
+[SPEAKER_05]: Bye.
