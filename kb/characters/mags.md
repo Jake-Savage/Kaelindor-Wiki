@@ -21,7 +21,7 @@ relationships:
   - who: caspian-talon
     note: She tolerates his impiety and senses his evasiveness; they grudgingly come to get along.
 first_session: S1.05
-last_session: S2.26
+last_session: S2.29
 tags: [cleric, naelos, gnome, underdark, diplomat, nameweave, petrified]
 summary: A centuries-old gnome cleric of Naelos and the party's blunt, pragmatic moral anchor, who threads diplomacy between Greymere and the Eldryn and is briefly petrified into wood.
 ---
@@ -43,6 +43,7 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
 - S2.20–21: Hosts Nameweave (secretly casting Zone of Truth); her sincerity helps win [[hesk]]'s trust and the Uthrel truth.
 - S2.22: Notices the tampered wards at [[the-bright-gate]] and Rell's odd excitement.
 - S2.24–26: Speak with Dead on [[hethan-kroll]]; helps raid the Korrathian cell; catches [[oscar-wicklow]] lying about the Uthrel.
+- S2.29: Leads the gossip-gathering in [[greywatch]] (helping townsfolk, steering conversation) that surfaces the town's governance and identifies the contact [[jorrith-potter|Jorrith]]. Gives [[trevick]] one of her bones to plant on Jorrith so he can be located, then drops the word "brood" to read his reaction. At the [[the-pindle-brak|gnome pub]] she charms the locals (and, unusually, aids [[fabian-perennius|Fabian]]), then sobers a drunk Trevick with Lesser Restoration.
 
 ## DM notes / secrets
 - Her undead-tinged bone shard (a Naelos relic of her own bones) keys the infernal "half in this world and half of another" doors in the Shifting Library (S2.08) — a detail worth remembering for her nature/longevity.

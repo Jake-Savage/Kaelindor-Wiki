@@ -8,6 +8,7 @@ controlled_by: trevaryn
 connected_to: [greywatch, trevaryn, offendale]
 status: active
 first_session: S2.28
+last_session: S2.29
 tags: [tangles, planar-fragmentation, aberrations, itharis, sorcery, mirrowen]
 summary: A magically-damaged region colloquially called the Tangles, where planar reality is fragmented and the land shifts — technically a country of the League but effectively a client of Trevaryn.
 ---
@@ -35,6 +36,7 @@ The party (chiefly [[fabian-perennius]], taught about it as part of his League e
 
 ## Events here
 - S2.28: The party arrives at the Mirrowen's edge and enters [[greywatch|Greywatch]], pursuing the [[soren-dragan]] lead (see [[the-korrathian-conspiracy]]).
+- S2.29: In [[greywatch]] the party learns the region is ruled through Greywatch's elected **Warden of the Beacon** ([[ivo-pierron|Ivo Pierron]]) with the approval of [[trevaryn|Trevaryn]], and that townsfolk see "two powers" here — the [[itharis|Itharian]] Church and [[drake-mount|Drake Mount]]. Gnome gossip corroborates the region's **identity-mimicry**: travellers tell of meeting people on the road "who shouldn't have been there," and a strong culture of vouching for anyone who travels alone. The destroyed village of [[kethons-fold|Kethon's Fold]] (swallowed by a sinkhole ~10 weeks earlier) is named as the party's next destination.
 
 ## DM notes
 - Canonical spelling is provisional: the DM gives the proper name as "the Mirrowen" (also heard as "Merowen"/"Meroen"; the S2.27 recap used "Meroen"). "The Tangles" is the universal colloquial name.

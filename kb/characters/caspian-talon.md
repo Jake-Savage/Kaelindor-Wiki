@@ -21,7 +21,7 @@ relationships:
   - who: shalfay
     note: Tower of Heaven employer and divination contact; Caspian still corresponds with him.
 first_session: S1.01
-last_session: S2.26
+last_session: S2.29
 tags: [scholar, wizard, divination, uthrel, vampire-suspicious, dragon-bones]
 summary: A coldly rational divination wizard obsessed with studying the Uthrel and dragon remains, who secretly dealt with the vampire Lucien and is evasive about what it cost him.
 ---
@@ -45,6 +45,7 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
 - S2.17: Briefly begins to petrify at [[the-faerie-ring]] but resists; recovers.
 - S2.21–22: Diagnoses the deliberately tampered wards at [[the-bright-gate]].
 - S2.26: Helps stake out and raid the Korrathian cell; catches [[oscar-wicklow]] lying about the Uthrel.
+- S2.29: Runs the [[the-three-copper-hatch|Three Copper Hatch]] stakeout in [[greywatch]] — Invisibility to watch comings and goings, Detect Magic at the hatch (no flare), and [[theodore]] sent inside to scout. Admits he is "not brave enough" to enter himself. Coordinates with [[rell-aetris|Rell]] over the latter's new telepathic link, and is irritated to find [[trevick]] drunk at the gnome pub during work.
 
 ## DM notes / secrets
 - Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. What passed between them is unresolved and worth keeping ambiguous.

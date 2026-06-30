@@ -4,9 +4,11 @@ type: location
 title: Trevaryn
 location_type: region
 region: Valenya
+controlled_by: lord-valcarin
 connected_to: [drake-mount, the-mirrowen, offendale]
 status: active
 first_session: S2.28
+last_session: S2.29
 tags: [kingdom, league, dragons, war-frontier, trevick-homeland]
 summary: A northern League kingdom seated at Drake Mount, historically the realm closest to the dragons; it garrisons the eastern war frontier and effectively controls the Mirrowen.
 ---
@@ -19,7 +21,8 @@ DM-established world facts (S2.28):
 
 - **Standing in the League:** Trevaryn is regarded as a steadfast, valuable member, on good terms with Crownspire. It is not a wealthy country, but it supplies plentiful soldiers for the war and holds the northern boundary — its eastern mountains, the **Stonemarch**, butt against the Elenfain (the Thal'Mirrith front), and Trevaryn garrisons those passes.
 - **Dragon heritage:** In the old days when dragons were still active, Trevaryn had by far the closest connection with them. Drake Mount was a place dragons visited often, and its geography — and Greywatch's walls — were built around the expectation of hosting them.
-- **Control of the Mirrowen:** Though the Mirrowen is technically independent, with its own Council seat, it is effectively a client of Trevaryn. Its supplies come from the north, no one is appointed to rule there without the approval of the council at Drake Mount, and heavy cross-border traffic flows. Crownspire prefers Drake Mount control the Tangles rather than **Mooncross** (in Kalredor, to the south), which is why the arrangement holds.
+- **Rule:** Trevaryn is governed by **eight leading families** who make up its ruling council and elect a ruler for a **twenty-five-year term** (a relic of its older, clan-based system). The current ruler is **[[lord-valcarin|Lord Valcarin]]**, seated at Drake Mount.
+- **Control of the Mirrowen:** Though the Mirrowen is technically independent, with its own Council seat, it is effectively a client of Trevaryn. Its supplies come from the north, no one is appointed to rule there without the approval of [[lord-valcarin|Lord Valcarin]] and the council at Drake Mount, and heavy cross-border traffic flows. Crownspire prefers Drake Mount control the Tangles rather than **Mooncross** (in Kalredor, to the south), which is why the arrangement holds. The outgoing Warden of Greywatch, [[ivo-pierron|Ivo Pierron]], is close to Valcarin.
 
 ## Notable inhabitants & sites
 - **Drake Mount** ([[drake-mount]]) — the principal seat; airships arrive here, and pilgrims travel the Drake's Road south to Greywatch.
