@@ -13,7 +13,7 @@ relationships:
     note: Close to Greywatch's outgoing Warden; will influence the choice of his successor.
 first_session: S2.29
 last_session: S2.29
-tags: [trevaryn, drake-mount, ruler, league, audio-provisional]
+tags: [trevaryn, drake-mount, ruler, league]
 summary: The current ruler of Trevaryn, seated at Drake Mount, whose approval is needed for whoever next governs Greywatch.
 ---
 
@@ -30,5 +30,5 @@ Pierron]]** and will have a hand in choosing his successor.
   Warden succession. Not met in person.
 
 ## DM notes
-- Name transcribed from audio and provisional; the DM also said it variously as "Cairn" and
-  "Artyn" in the moment before settling. Treat "Lord Valcarin" as the working spelling.
+- "Lord Valcarin" is the canonical spelling (the DM also said "Cairn"/"Artyn" aloud before settling
+  on it).

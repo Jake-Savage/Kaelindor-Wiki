@@ -115,10 +115,9 @@ The gnomes' gossip yields little hard intelligence:
 - They look forward to the festival; though not devout Itharians, they hold the gods are not
   exclusive and will join any festival worth joining. Some honour Shadows Meet simply by sitting in
   the pub drinking "the bad idea" all night.
-- Temples to a god heard as "Braxen" (or "Braxton") — regarded as a genuine problem — are banned
-  across Kaelindor, though not in Crownspire, so there is no overt worship of them. Other temples
-  (Naelos, Calvyr) are commonplace. The gnomes know of no secret cults locally. The DM's "Braxen"
-  is very likely Vraxyn, but this was not stated outright.
+- Temples to Vraxyn (rendered "Braxen"/"Braxton") — regarded as a genuine problem — are banned
+  across Kaelindor, though not in Crownspire, so there is no overt worship of her. Other temples
+  (Naelos, Calvyr) are commonplace. The gnomes know of no secret cults locally.
 - On the Mirrowen's identity-mimics, those in from outlying villages firmly believe the danger is
   real — tales of meeting people on the road "who shouldn't have been there" — and describe a
   culture of vouching for anyone who must travel with strangers. They ham it up to scare Fabian.
@@ -222,9 +221,10 @@ a coerced, basically decent man trapped in the Brood's service, and they gain no
 over — whereas keeping him in place preserves a live link to the Brood. Fabian's stated priority is
 to take one of these agents alive this time, in contrast to Bridgemarch, to question them. Rell infers
 a hostage is involved and that burning Jorrith as an asset would doom whomever the Brood hold; Fabian
-guesses the wife is "almost certainly already dead," but Caspian and Mags note this is not known. (The
-gossip has Meera dying of illness years ago; whether Jorrith has any living hostage is left open, and
-the two are not assumed connected.)
+guesses the wife is "almost certainly already dead," but Caspian and Mags note this is not known. The
+inference is correct: the Brood do hold a living hostage of Jorrith's as leverage, someone other than
+Meera (whose death by illness is a separate matter). The party does not yet learn the hostage's
+identity.
 
 The plan is to reach Kethon's Fold, which needs a local guide given the unstable country. There is an
 official guild of guides that keeps records of who goes where; to stay off that record the party

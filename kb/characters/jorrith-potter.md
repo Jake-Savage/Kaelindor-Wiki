@@ -15,12 +15,12 @@ relationships:
     note: Receives Rell — disguised as the Brood agent "Soren" — and passes on the Brood's instructions (S2.29).
 first_session: S2.29
 last_session: S2.29
-tags: [furnace-brood, greywatch, contact, three-copper-hatch, coerced, audio-provisional]
+tags: [furnace-brood, greywatch, contact, three-copper-hatch, coerced, hostage]
 summary: A weary, widowed Greywatch cook who sells cheap meals from the Three Copper Hatch and serves, reluctantly and in evident fear, as the Furnace Brood's local contact.
 ---
 
 ## Overview
-Jorrith Potter (also heard "Joreth"/"Jorath") is a human man in his fifties who cooks and sells
+Jorrith Potter is a human man in his fifties who cooks and sells
 very cheap hot meals from a hatch in his small house in a poor, newly-built part of
 [[greywatch]] — the old dragon-landing ground, now crammed with mismatched houses. His business
 is properly **Potter's Pots**, but everyone calls it the [[the-three-copper-hatch|Three Copper
@@ -61,12 +61,11 @@ man trapped in the Brood's service, and decides not to turn him in so as to keep
 ## DM notes / secrets
 - **Confirmed:** Jorrith is the Brood's Greywatch contact (recognised the sign, gave the orders,
   reads blank to Detect Thoughts as though mind-shielded).
-- **Strongly implied, not confirmed:** that he is coerced via a hostage. The basis is his own
-  line "who did they take from you?" and his evident terror — this establishes that the Brood
-  *take* loved ones as leverage; it does not establish who (if anyone) Jorrith himself has at
-  stake. Keep this **separate** from the gossip that his wife [[meera]] died of illness years ago —
-  the two are not established as connected.
+- **Confirmed (DM):** Jorrith is coerced via a **living hostage** the Brood hold — the leverage
+  that keeps him in their service. His line "who did they take from you?" reflects this. This is
+  **separate** from the gossip that his late wife [[meera]] died of illness years ago; the hostage
+  is someone else, and the party does not yet know who. Burning Jorrith as an asset would endanger
+  the hostage.
 - His house was scouted (by [[theodore]] and from outside): no blunt Bridgemarch-style dampening
   field over the property, no shrine, sigils, or hidden doors found — only Jorrith's own personal
   mind-shielding. A framed drawing of a young woman ([[meera]]) sits by his bed.
-- Name spellings transcribed from audio; provisional.

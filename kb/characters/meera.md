@@ -13,7 +13,7 @@ relationships:
     note: Her husband; they ran the food business together until her death.
 first_session: S2.29
 last_session: S2.29
-tags: [greywatch, deceased, three-copper-hatch, audio-provisional]
+tags: [greywatch, deceased, three-copper-hatch]
 summary: The late wife of Jorrith Potter — the cheerful driving force behind the Three Copper Hatch, who died of a quick illness some years ago.
 ---
 
@@ -35,7 +35,6 @@ tiefling descent**, where planar traits fade after a few generations away from [
 - S2.29: Reconstructed entirely from town gossip while the party investigates [[jorrith-potter|Jorrith]].
 
 ## DM notes
-- Name and details transcribed from audio; provisional.
-- Her death is reported as **illness** in the gossip. Do **not** assume any link between her death
-  and the [[the-furnace-brood|Furnace Brood]]'s hold over Jorrith — the Brood's use of hostages and
-  Meera's illness are, so far, separate facts (see [[jorrith-potter]]).
+- Her death is reported as **illness** in the gossip and is **separate** from the
+  [[the-furnace-brood|Furnace Brood]]'s hold over Jorrith: the Brood's leverage is a living hostage
+  (someone other than Meera) — confirmed (DM) — not Meera's death (see [[jorrith-potter]]).

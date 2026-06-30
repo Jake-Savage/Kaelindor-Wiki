@@ -38,7 +38,6 @@ From the instructions [[jorrith-potter|Jorrith]] passes to the disguised [[rell-
   (with an unofficial guide) and investigate. Not yet visited.
 
 ## DM notes
-- Name spellings transcribed from audio; provisional.
 - **What is actually down there is unknown** — record only the reported stories (caves; singing
   or crying; "something that does not belong"). Do not assume a connection to the
   [[the-uthrel|uthrel]], the [[the-feywild|Feywild]], or any other known thread until established.

@@ -13,7 +13,7 @@ relationships:
     note: Close to Trevaryn's ruler, who will have influence over the choice of his successor.
 first_session: S2.29
 last_session: S2.29
-tags: [greywatch, mirrowen, ruler, warden-of-the-beacon, audio-provisional]
+tags: [greywatch, mirrowen, ruler, warden-of-the-beacon]
 summary: The current Warden of the Beacon — the elected ruler of Greywatch and the Mirrowen — now in the last year of his twelve-year term.
 ---
 
@@ -34,5 +34,5 @@ council and hold Valcarin's approval; only two or three council members are cred
   information in [[greywatch]]. Not met in person.
 
 ## DM notes
-- Name and title transcribed from audio; provisional. The two-or-three likely successor candidates
-  were not yet named (the players asked to learn them later).
+- The two-or-three likely successor candidates were not yet named (the players asked to learn them
+  later).
