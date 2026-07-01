@@ -75,6 +75,12 @@ motivation (see §2) — they simply do so flatly, without a narrator's personal
 - Bullets (`-`) for facts and parallel actions; `---` rules to set off quoted documents.
 - Use punctuation functionally, not for tone. Avoid trailing ellipses, dramatic em-dashes, scare
   quotes, and emphasis added for colour. No bold for emphasis within the prose.
+- **Google-Docs-compatible markdown — do not hard-wrap.** Write **one physical line per
+  paragraph** and **one physical line per bullet** (no mid-paragraph or mid-bullet line breaks),
+  with a single blank line between blocks and headings. Google Docs treats every newline as a
+  real line break, so hard-wrapped paragraphs paste/import as ragged stacks of short lines and the
+  markdown fails to render. Keep only standard constructs Google Docs converts (`#`/`##` headings,
+  `-` bullets, `**bold**`, `*italic*`, `[text](url)`); avoid tables and inline/code fences.
 
 ## 11. Included vs omitted
 - **Include:** who did what; what was learned; social subtext, insight, and grounded inference

@@ -130,6 +130,10 @@ analyse and infer more freely than the KB records, but the fidelity rules still 
 KB — a reading the notes carry as "strongly implied" becomes, in a KB entry, a hedged/attributed
 claim or an open thread, never an unqualified hard fact (report suspicions as suspicions, per G1).
 
+**Formatting — Google-Docs-compatible markdown (per style §10):** do **not** hard-wrap. Write one
+physical line per paragraph and one per bullet, blank line between blocks. Hard-wrapped notes paste
+into Google Docs as broken, non-rendering line-stacks — this is the format the DM actually consumes.
+
 ### 7. Regenerate the wiki
 Run `py generator/build.py`. Confirm it reports **"All wikilinks resolved."** Fix any unresolved
 `[[links]]` (usually a typo'd id or a missing entity) and rebuild.
