@@ -8,8 +8,8 @@ controlled_by: trevaryn
 connected_to: [greywatch, trevaryn, offendale]
 status: active
 first_session: S2.28
-last_session: S2.29
-tags: [tangles, planar-fragmentation, aberrations, itharis, sorcery, mirrowen]
+last_session: S2.30
+tags: [tangles, planar-fragmentation, aberrations, itharis, sorcery, mirrowen, guides, stonehunger]
 summary: A magically-damaged region colloquially called the Tangles, where planar reality is fragmented and the land shifts — technically a country of the League but effectively a client of Trevaryn.
 ---
 
@@ -30,13 +30,32 @@ The party (chiefly [[fabian-perennius]], taught about it as part of his League e
 - It holds **valuable magical resources**: plants that grow nowhere else, and ancient sites that the shifting land occasionally uncovers, unlooted, for brief windows of exploration. Treasure-seekers come to make their fortunes; few return.
 - It is considered **sacred to the [[itharis|Itharians]]** — a place of thresholds, gateways, crossings, and ambiguity. They acknowledge its blighted qualities but find it fascinating and reverent rather than merely horrible.
 
+## Travel & guides
+Crossing the shifting land requires a **guide** (S2.30). There is a licensed **guild** based in
+Greywatch, with a central hall where guides report in and a maintained, updated, **proprietary** body
+of route-knowledge — the changing landscape learned like "the knowledge" a city cabbie carries, by
+memorising the features that *don't* change. Guides generally work in **twos or threes of people who
+already know each other well**, precisely because of the identity-mimic danger to anyone travelling
+alone. **Unofficial (unlicensed) guides** also exist — the party hires two, [[nan-prentic|Nan Prentic]]
+and [[cressan-weller|Cressan Weller]] — who stay off the guild record but lack access to its updated
+maps and must navigate from older rote knowledge plus personal experience. Navigation is by
+memorised landmarks (rock shapes, turn angles, distant peaks lined up as waypoints) and cairns
+marking major waypoints; in the most broken, "scrunched-up" country of steep gullies, long-range
+bearings fail and even experienced guides grow tense.
+
+Some folk of the Mirrowen tell of the **[[the-stonehunger|Stonehunger]]** — a supposed underground
+hunger that swallows whole settlements from below — as the cause of the region's periodic
+village-swallowing collapses; others dismiss it as superstition for ordinary landslips (see the lore
+entry).
+
 ## Notable inhabitants & sites
 - [[greywatch|Greywatch]] ("the Beacon") — the only substantial town, a walled, heavily-warded garrison town at the Mirrowen's northern edge.
 - Roads connect Greywatch north to **Drake Mount** ([[trevaryn|Trevaryn]]) via the Drake's Road, and to **Mooncross** in Kalredor to the (south/west).
 
 ## Events here
 - S2.28: The party arrives at the Mirrowen's edge and enters [[greywatch|Greywatch]], pursuing the [[soren-dragan]] lead (see [[the-korrathian-conspiracy]]).
-- S2.29: In [[greywatch]] the party learns the region is ruled through Greywatch's elected **Warden of the Beacon** ([[ivo-pierron|Ivo Pierron]]) with the approval of [[trevaryn|Trevaryn]], and that townsfolk see "two powers" here — the [[itharis|Itharian]] Church and [[drake-mount|Drake Mount]]. Gnome gossip corroborates the region's **identity-mimicry**: travellers tell of meeting people on the road "who shouldn't have been there," and a strong culture of vouching for anyone who travels alone. The destroyed village of [[kethons-fold|Kethon's Fold]] (swallowed by a sinkhole ~10 weeks earlier) is named as the party's next destination.
+- S2.29: In [[greywatch]] the party learns the region is ruled through Greywatch's elected **Warden of the Beacon** ([[ivo-pierron|Ivo Pierron]]) with the approval of [[trevaryn|Trevaryn]], and that townsfolk see "two powers" here — the [[itharis|Itharian]] Church and [[drake-mount|Drake Mount]]. Gnome gossip corroborates the region's **identity-mimicry**: travellers tell of meeting people on the road "who shouldn't have been there," and a strong culture of vouching for anyone who travels alone. The destroyed village of [[kethrans-fold|Kethran's Fold]] (swallowed by a sinkhole ~10 weeks earlier) is named as the party's next destination.
+- S2.30: The party crosses the Mirrowen south from Greywatch to [[kethrans-fold|Kethran's Fold]] over two days with the unofficial guides [[nan-prentic|Nan]] and [[cressan-weller|Cressan]], seeing the country's guide-craft and folklore first-hand (the [[the-stonehunger|Stonehunger]], the "don't trust anyone who returns alone" custom). The DM establishes that the **[[the-underdark|Underdark]] beneath the Mirrowen is itself twisted** by whatever damaged the region (though less so than the surface), and that some travellers try to cross the Mirrowen *through* the Underdark as the safer route.
 
 ## DM notes
 - Canonical spelling is provisional: the DM gives the proper name as "the Mirrowen" (also heard as "Merowen"/"Meroen"; the S2.27 recap used "Meroen"). "The Tangles" is the universal colloquial name.

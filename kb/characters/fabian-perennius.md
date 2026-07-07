@@ -21,7 +21,7 @@ relationships:
   - who: valeria
     note: His sister, an aberration-scholar he expects to envy his reaching the Mirrowen first.
 first_session: S1.05
-last_session: S2.29
+last_session: S2.30
 tags: [bard, crownspire, fame-seeking, radiant-magic, golden-lute, sunblade]
 summary: A vain, fame-seeking bard and seventh son of a Crownspire dynasty who hungers to be the hero of an epic tale, and who manifests a new golden radiant magic after a selfless act by Mags.
 ---
@@ -46,6 +46,12 @@ His defining motivation is legacy and museum-fame: as a boy he stood beneath the
 - S2.25: Dispatches Kroll's mercenaries to Crownspire (writ to his brother Quintus Palaveus); bonds with [[dakir]].
 - S2.28: His League education gives him (and [[trevick]]) detailed knowledge of [[the-mirrowen|the Mirrowen]]; mentions his aberration-scholar sister [[valeria]] and brother Marcellus; argues against using the Perennius name in Greywatch lest it draw attention.
 - S2.29: Reveals he speaks **fluent Gnomish** (learned from his home mentor) — a surprise to [[mags]] — and uses it, with songs and tales, to win over the [[the-pindle-brak|gnome pub]]. Recalls (History) that the festival's perception-altering brews are typical of Itharian rites. Helps work the town for gossip on the festival, the Mirrowen's identity-mimics, and dragons.
+- S2.30: On leaving Greywatch, uses **Inspiring Leader** — regaling the party with his aberration-scholar
+  sister [[valeria|Valeria]]'s tales of the Mirrowen — for temporary hit points. Charms [[nan-prentic|Nan]]
+  into answering questions on the road. At [[kethrans-fold|Kethran's Fold]] he finds (at [[mags|Mags]]'s
+  direction) the anomalous foreign steel nail and appraises its fine craftsmanship, sourcing its like
+  to [[crownspire|Crownspire]] and the great southern manufactories. Barges to the front to listen at
+  the buried door but hears nothing useful (Rell does).
 
 ## DM notes / secrets
 - Fabian's [[fabians-radiant-magic|radiant magic]] (S2.17) is unexplained in-world — an emergent power tied to selfless/heroic resonance, an active open thread.

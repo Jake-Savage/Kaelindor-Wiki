@@ -20,4 +20,4 @@ Soren Dragan is named in one of three Furnace Brood instruction-scrolls the part
 - S2.29: **Impersonated by [[rell-aetris|Rell]]** (disguised androgynously via Disguise Self) to meet the Greywatch contact [[jorrith-potter|Jorrith]] and collect the Brood's orders. Because the party stole the original dispatch, the real Soren never received his instructions and is not expected to appear. The party notes "Soren" is more typically a **female** name, though not exclusively.
 
 ## DM notes
-Spelling transcribed from a player's spoken recap — provisional. The "rumour" he was sent to chase turns out to be the [[kethons-fold|Kethon's Fold]] assignment (S2.29). Soren himself remains unmet; his species, status, and whereabouts are unknown.
+Spelling transcribed from a player's spoken recap — provisional. The "rumour" he was sent to chase turns out to be the [[kethrans-fold|Kethran's Fold]] assignment (S2.29). Soren himself remains unmet; his species, status, and whereabouts are unknown.

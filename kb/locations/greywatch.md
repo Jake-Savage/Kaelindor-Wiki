@@ -8,7 +8,7 @@ controlled_by: trevaryn
 connected_to: [drake-mount, the-mirrowen]
 status: active
 first_session: S2.27
-last_session: S2.29
+last_session: S2.30
 tags: [furnace-brood, lead, itharis, garrison, the-beacon, mirrowen]
 summary: The only substantial town of the Mirrowen — a walled, heavily-warded garrison town called "the Beacon" — where the party arrives to chase the Furnace Brood lead, days before a major Itharian festival.
 ---
@@ -44,7 +44,11 @@ relationship** — the common view is that the Mirrowen has "two powers," the It
 ## Events here
 - S2.27: Chosen as the party's next destination (named in a Furnace Brood scroll; not yet travelled to).
 - S2.28: The party arrives, days before the Itharian festival [[shadows-meet|Shadows Meet]] (1 Ithar's Veil) has the town overflowing with pilgrims. Accommodation is at a premium — people sleep in haylofts and camp uneasily outside the walls. The party gives **false names** at the gate-checkpoint and states only that they have come to seek adventure/fortune (a common, unremarkable reason here); [[rell-aetris]] follows thieves'-cant markings to discreet, less-reputable lodging. They settle on a low-profile cover story — treasure-seekers, with [[caspian-talon]] as a prospecting wizard and the others as his servants — deliberately avoiding [[fabian-perennius]]'s family name and any mention of hunting a Korrathian ancient, given a possible mole in [[oscar-wicklow|Wicklow]]'s court.
-- S2.29: A full day in town. The party identifies the contact as [[jorrith-potter|Jorrith Potter]] of the [[the-three-copper-hatch|Three Copper Hatch]], gathers town gossip (governance, the festival, the Mirrowen's identity-mimics), drinks at the [[the-pindle-brak|Pindle Brak]] gnome pub, and that evening has [[rell-aetris|Rell]] impersonate the Brood agent [[soren-dragan|Soren]] to collect the [[kethons-fold|Kethon's Fold]] orders (see [[the-korrathian-conspiracy]]). They resolve to leave town for Kethon's Fold rather than stay for the festival, hiring an off-the-record guide.
+- S2.29: A full day in town. The party identifies the contact as [[jorrith-potter|Jorrith Potter]] of the [[the-three-copper-hatch|Three Copper Hatch]], gathers town gossip (governance, the festival, the Mirrowen's identity-mimics), drinks at the [[the-pindle-brak|Pindle Brak]] gnome pub, and that evening has [[rell-aetris|Rell]] impersonate the Brood agent [[soren-dragan|Soren]] to collect the [[kethrans-fold|Kethran's Fold]] orders (see [[the-korrathian-conspiracy]]). They resolve to leave town for Kethran's Fold rather than stay for the festival, hiring an off-the-record guide.
+- S2.30: The party departs at dawn on 30 Dusklin through a small sally-port in the southern wall,
+  having spent the previous day arranging two **unofficial guides** — [[nan-prentic|Nan Prentic]] and
+  [[cressan-weller|Cressan Weller]] — with party gold and pressure from [[rell-aetris|Rell]]'s shadier
+  contacts, and set off for [[kethrans-fold|Kethran's Fold]], missing the festival.
 
 ## DM notes
 - "Greywatch"/"the Beacon" is established world canon as of S2.28 (visited). Earlier audio-provisional notes placing it in "northern Offendale" (S2.27) are superseded: it lies in [[the-mirrowen|the Mirrowen]], reached via [[trevaryn|Trevaryn]]; the Offendale approach was [[soren-dragan]]'s southern route, not the party's.

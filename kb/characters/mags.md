@@ -21,7 +21,7 @@ relationships:
   - who: caspian-talon
     note: She tolerates his impiety and senses his evasiveness; they grudgingly come to get along.
 first_session: S1.05
-last_session: S2.29
+last_session: S2.30
 tags: [cleric, naelos, gnome, underdark, diplomat, nameweave, petrified]
 summary: A centuries-old gnome cleric of Naelos and the party's blunt, pragmatic moral anchor, who threads diplomacy between Greymere and the Eldryn and is briefly petrified into wood.
 ---
@@ -44,6 +44,13 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
 - S2.22: Notices the tampered wards at [[the-bright-gate]] and Rell's odd excitement.
 - S2.24–26: Speak with Dead on [[hethan-kroll]]; helps raid the Korrathian cell; catches [[oscar-wicklow]] lying about the Uthrel.
 - S2.29: Leads the gossip-gathering in [[greywatch]] (helping townsfolk, steering conversation) that surfaces the town's governance and identifies the contact [[jorrith-potter|Jorrith]]. Gives [[trevick]] one of her bones to plant on Jorrith so he can be located, then drops the word "brood" to read his reaction. At the [[the-pindle-brak|gnome pub]] she charms the locals (and, unusually, aids [[fabian-perennius|Fabian]]), then sobers a drunk Trevick with Lesser Restoration.
+- S2.30: The party's expert on rock and the underground. Sets a **Glyph of Warding** (alarm, not
+  explosive) at a camp choke-point to flag anyone entering or leaving. At [[kethrans-fold|Kethran's
+  Fold]] she makes the session's key finding — the collapse was **not natural** (some stone welled up
+  from below) — and reads that the ruin has been **systematically stripped** of material, from tracks
+  left by small, gnome-sized nailed boots. Quietly grants [[nan-prentic|Nan]] Guidance (framed as
+  prayer to [[naelos|Naelos]]) to steady her navigation, and tries but fails to build rapport with the withdrawn
+  [[cressan-weller|Cressan]]. Leads the descent, the passage being comfortably sized for her.
 
 ## DM notes / secrets
 - Her undead-tinged bone shard (a Naelos relic of her own bones) keys the infernal "half in this world and half of another" doors in the Shifting Library (S2.08) — a detail worth remembering for her nature/longevity.

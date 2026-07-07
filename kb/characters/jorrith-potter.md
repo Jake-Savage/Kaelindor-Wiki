@@ -39,7 +39,7 @@ recognises the Brood recognition sign (a flashed sigil plus the [[amulet-of-proo
 and ushers the disguised [[rell-aetris|Rell]] inside to deliver the orders he is holding. His role
 is purely a relay: he holds an agent's instructions, the agent reports back to him, and he passes
 on whatever they bring. The instructions he gives "Soren" are to investigate the destroyed village
-of [[kethons-fold|Kethon's Fold]] (~40 miles south), go underground as deep as is safe, and bring
+of [[kethrans-fold|Kethran's Fold]] (~40 miles south), go underground as deep as is safe, and bring
 back anything strange that "doesn't belong" there, so the Brood can decide whether to send more
 people.
 
@@ -56,7 +56,7 @@ man trapped in the Brood's service, and decides not to turn him in so as to keep
   bones in his pocket so they can locate him. [[mags]] drops the word "brood" and reads a faint,
   guarded flicker from him. That evening [[rell-aetris|Rell]], disguised as the agent
   [[soren-dragan|Soren]], gives the recognition sign; Jorrith takes him in and delivers the
-  Brood's [[kethons-fold|Kethon's Fold]] instructions.
+  Brood's [[kethrans-fold|Kethran's Fold]] instructions.
 
 ## DM notes / secrets
 - **Confirmed:** Jorrith is the Brood's Greywatch contact (recognised the sign, gave the orders,

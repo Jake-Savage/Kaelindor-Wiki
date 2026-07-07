@@ -38,7 +38,7 @@ streets are narrow. It is the **address named in [[soren-dragan]]'s scroll**, an
   [[trevick]] eat here (Caspian watching invisibly, Rell staying at his vantage), and Trevick plants
   one of Mags's bones in Jorrith's pocket. That evening [[rell-aetris|Rell]],
   disguised as [[soren-dragan|Soren]], gives the Brood sign and is taken inside to receive the
-  [[kethons-fold|Kethon's Fold]] instructions.
+  [[kethrans-fold|Kethran's Fold]] instructions.
 
 ## DM notes
 - The property carries **no blunt dampening field** like the Bridgemarch [[the-tiefling-shop]];

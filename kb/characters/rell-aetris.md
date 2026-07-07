@@ -17,7 +17,7 @@ relationships:
   - who: trevick
     note: Comes to understand Trevick as one who has shed the trappings of humanity to live honestly.
 first_session: S1.05
-last_session: S2.29
+last_session: S2.30
 tags: [wizard, aberrant-mind-sorcerer, mind-magic, telepathy, tir-van, horizonborn, horizon-doors, masked, secretive]
 summary: A masked, reclusive Tir'Van who passes publicly as a wizard — secretly an Aberrant Mind sorcerer — whose lifelong search for the Horizon Doors makes him suspiciously excited when the party finds one — the tampered Bright Gate.
 ---
@@ -39,7 +39,14 @@ Morally, Rell is the party's harshest realist. He is bitter that the party "danc
 - S2.21–22: Awed by the intact gate; shows the excitement [[mags]] notices.
 - S2.24: Opens [[hethan-kroll|Kroll]]'s complex locked box; recognises the [[the-furnace-brood]] sigil.
 - S2.28: Alone among the party, theorises that a **unicorn** tampered with the [[the-bright-gate|gate]] — from a centaur's report of a rare forest unicorn lately seen, reasoning that a fey-native, magic-capable creature appearing from nowhere fits an area of a fresh [[the-feywild|Feywild]] crossing. The others are unconvinced ([[mags]] questions the basis); see [[who-tampered-the-gate]].
-- S2.29: Stakes out [[jorrith-potter|Jorrith]]'s [[the-three-copper-hatch|hatch]] with [[caspian-talon]], probing (unsuccessfully) for a Bridgemarch-style concealment field. That evening he **impersonates the Brood agent [[soren-dragan|Soren]]** — Disguise Self for an androgynous "elfin" human look layered over a physical adventurer's costume — and delivers the recognition sign (a Prestidigitation-flashed Brood sigil plus the [[amulet-of-proof-against-detection]]) to gain [[jorrith-potter|Jorrith]]'s trust and collect the [[kethons-fold|Kethon's Fold]] orders. He reads [[jorrith-potter|Jorrith]] as a coerced, frightened man and argues against burning him as an asset. He also debuts a telepathic-link ability, **which he passes off as a self-created wizard spell** (see below) to coordinate the party.
+- S2.29: Stakes out [[jorrith-potter|Jorrith]]'s [[the-three-copper-hatch|hatch]] with [[caspian-talon]], probing (unsuccessfully) for a Bridgemarch-style concealment field. That evening he **impersonates the Brood agent [[soren-dragan|Soren]]** — Disguise Self for an androgynous "elfin" human look layered over a physical adventurer's costume — and delivers the recognition sign (a Prestidigitation-flashed Brood sigil plus the [[amulet-of-proof-against-detection]]) to gain [[jorrith-potter|Jorrith]]'s trust and collect the [[kethrans-fold|Kethran's Fold]] orders. He reads [[jorrith-potter|Jorrith]] as a coerced, frightened man and argues against burning him as an asset. He also debuts a telepathic-link ability, **which he passes off as a self-created wizard spell** (see below) to coordinate the party.
+- S2.30: On night watch at camp, using his excellent darkvision, he privately notices that the guide
+  [[cressan-weller|Cressan]] can **see in the dark better than a human should** — and keeps it to
+  himself (flagged, unexplained). At [[kethrans-fold|Kethran's Fold]] he tests the opened hole with a
+  light-cast ball-bearing, confirming a natural rubble descent rather than a **portal**, and checks the
+  buried door with a mirror-on-a-stick, finding no trap, alarm, or engaged lock. He forms a two-hour
+  telepathic link with the three staying behind and, at session's end, prepares to go through the door
+  with [[trevick|Trevick]].
 
 ## DM notes / secrets
 - **The "wizard" identity is a guise.** Rell is officially known as a wizard and deliberately never names a subclass. In truth he is an **Aberrant Mind sorcerer** (an "aberrant soul" sorcerer), masking his innate, aberrant power behind the studied respectability of wizardry — a concealment that fits the unsettling, many-eyed nature of the [[the-tir-van]].
