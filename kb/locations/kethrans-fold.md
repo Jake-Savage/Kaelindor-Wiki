@@ -130,6 +130,8 @@ inhabited complex:
   interrogates two gleaners — learning the site is now inside the living **[[the-stonehunger|Stonehunger]]**
   ("God"), that the gleaners scavenge its kills (including this village), and the route deeper toward
   the [[the-custodian|custodian]]. Ends with the party planning how to pass the gleaners at the chasm.
+  The descent from here is tracked under [[the-stonehunger-below]] (the party arrived via
+  [[the-korrathian-conspiracy]]).
 
 ## DM notes
 - **The complex is pre-existing; the [[the-gleaners|gleaners]] are squatters.** Turley: "There were

@@ -51,7 +51,9 @@ summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursi
   puts both gleaners to sleep. Seeing the bridge-web and the crowd of gleaners at the chasm, the party
   is split (Fabian: fight through; Rell: cut bridges while invisible / Mass Suggestion) and ends the
   session resolving to devise a plan. Still **not** established: whether any of this is what the Brood
-  sent Soren to find.
+  sent Soren to find. **The discovery beneath Kethran's Fold — the Stonehunger, the gleaners, and the
+  descent toward the deep — is now tracked as its own thread, [[the-stonehunger-below]]**; this quest
+  keeps the Brood-cover angle (why the party is here, and reporting back to Jorrith).
 
 ## Open threads
 - What is the Furnace Brood's ultimate goal in probing the uthrel incursion? (They were sent to find if it "left a trace," not established as its cause — per Speak with Dead they do not know who caused it.)

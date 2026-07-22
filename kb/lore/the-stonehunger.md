@@ -4,7 +4,7 @@ type: lore
 category: threat
 tags: [mirrowen, stonehunger, kethrans-fold, gleaners, god, devourer, folklore]
 summary: The Mirrowen folk-name for the force that swallows whole villages underground — no longer mere folklore, since beneath Kethran's Fold the party finds goblins who worship it as a living "God" and dwell inside it, harvesting the scraps of the settlements it devours.
-related: [the-mirrowen, kethrans-fold, cressan-weller, the-gleaners]
+related: [the-mirrowen, kethrans-fold, cressan-weller, the-gleaners, the-stonehunger-below]
 ---
 
 ## What it is
