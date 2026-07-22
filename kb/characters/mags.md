@@ -21,7 +21,7 @@ relationships:
   - who: caspian-talon
     note: She tolerates his impiety and senses his evasiveness; they grudgingly come to get along.
 first_session: S1.05
-last_session: S2.30
+last_session: S2.31
 tags: [cleric, naelos, gnome, underdark, diplomat, nameweave, petrified]
 summary: A centuries-old gnome cleric of Naelos and the party's blunt, pragmatic moral anchor, who threads diplomacy between Greymere and the Eldryn and is briefly petrified into wood.
 ---
@@ -51,6 +51,10 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
   left by small, gnome-sized nailed boots. Quietly grants [[nan-prentic|Nan]] Guidance (framed as
   prayer to [[naelos|Naelos]]) to steady her navigation, and tries but fails to build rapport with the withdrawn
   [[cressan-weller|Cressan]]. Leads the descent, the passage being comfortably sized for her.
+- S2.31: **Present but largely passive** (her player was absent). As the party's Underdark-born gnome
+  she is the one expected to recognise the **mining machinery** below, and the [[the-gleaners|gleaners]]
+  register the name of [[naelos|Naelos]] on her (heard of, but they dismiss all gods but their "God" as
+  "made up") — but she takes no significant action this session.
 
 ## DM notes / secrets
 - Her undead-tinged bone shard (a Naelos relic of her own bones) keys the infernal "half in this world and half of another" doors in the Shifting Library (S2.08) — a detail worth remembering for her nature/longevity.

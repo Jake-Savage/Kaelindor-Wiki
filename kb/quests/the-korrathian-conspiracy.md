@@ -5,10 +5,10 @@ title: The Korrathian Conspiracy
 status: active
 priority: side
 opened_session: S2.24
-last_updated_session: S2.30
-involves_characters: [caspian-talon, mags, rell-aetris, dakir, trevick, fabian-perennius, hethan-kroll, oscar-wicklow, captain-thoronby, soren-dragan, amir-merillac, tamzin-venik, jorrith-potter, nan-prentic, cressan-weller]
+last_updated_session: S2.31
+involves_characters: [caspian-talon, mags, rell-aetris, dakir, trevick, fabian-perennius, hethan-kroll, oscar-wicklow, captain-thoronby, soren-dragan, amir-merillac, tamzin-venik, jorrith-potter, nan-prentic, cressan-weller, turley, glorta, tuffin, the-custodian]
 involves_locations: [greymere, the-mercenary-camp, bridgemarch, the-tiefling-shop, offendale, greywatch, the-mirrowen, trevaryn, the-three-copper-hatch, kethrans-fold]
-factions: [the-furnace-brood, krolls-mercenaries]
+factions: [the-furnace-brood, krolls-mercenaries, the-gleaners]
 tags: [korrathian, furnace-brood, conspiracy, cliffhanger]
 summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursion and, from the raided Bridgemarch cell, recovers scrolls naming three more Brood operations — choosing to chase one to Greywatch.
 ---
@@ -37,20 +37,41 @@ summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursi
   ends with Rell and [[trevick|Trevick]] about to go through the door. Whether these diggers are the
   Brood, or the "something that does not belong" the Brood want recovered, is **not established**.
 
+- S2.31: Beyond the door the party finds a **pillar chamber** — an ancient [[the-broken-map|wall-map]]
+  of the region in an older configuration (abjuration-preserved), six pillars sheltering bound undead
+  ([[the-glass-smoke|"glass smoke"]]), and a repaired **gargoyle golem** clutching a key. Past a
+  gargoyle-guarded stone door and a spiral stair lies an inhabited **dwarvish** complex; via
+  [[theodore|Theodore]] and, ultimately, [[rell-aetris|Rell]]'s twinned **Suggestion**, the party
+  interrogates two **[[the-gleaners|gleaners]]** ([[turley|Turley]], [[glorta|Glorta]]). They learn
+  the site is now **inside the living [[the-stonehunger|Stonehunger]]** — a devouring "God" the
+  gleaners serve by scavenging its kills (**including this village's collapse**) — and the route
+  deeper: past sleepers, over **bridges** across a chasm of **churning stone** (~40–50 gleaners under
+  boss [[tuffin|Tuffin]]), to the [[the-custodian|custodian]]'s gate onto the deadly deep ("Grommer's
+  Path"). [[trevick|Trevick]] casts **Pass Without Trace**; the party slips past the sleepers, then
+  puts both gleaners to sleep. Seeing the bridge-web and the crowd of gleaners at the chasm, the party
+  is split (Fabian: fight through; Rell: cut bridges while invisible / Mass Suggestion) and ends the
+  session resolving to devise a plan. Still **not** established: whether any of this is what the Brood
+  sent Soren to find.
+
 ## Open threads
 - What is the Furnace Brood's ultimate goal in probing the uthrel incursion? (They were sent to find if it "left a trace," not established as its cause — per Speak with Dead they do not know who caused it.)
-- What is at [[kethrans-fold|Kethran's Fold]]? As of S2.30 the party has found the collapse was
-  unnatural, an **ongoing excavation** by small, dark-seeing diggers (using foreign steel), a buried
-  **grand marble structure**, a **pale glow** behind a door, and **voices/digging below** — but not
-  what any of it is. Not yet tied to the uthrel or any other thread.
-- **Who are the diggers at Kethran's Fold, and is the excavation the Brood's interest?** The Brood
-  sent an agent here *because of* a rumour, but the excavators are **not** established as the Brood
-  (the small feet "could belong to plenty of creatures"). Are they what the Brood want investigated,
-  a rival party, or unrelated? Unknown.
-- **What is the buried marble staircase / grand structure beneath Kethran's Fold**, and what is the
-  **pale, constant glow** behind the door? Unknown.
-- Keep separate: the **folkloric "singing/crying below"** (unverified) versus the **live diggers**
-  the party can actually hear (real) — do not conflate them (see [[the-stonehunger]]).
+- **Is any of this what the Brood want recovered?** As of S2.31 the party has found, beneath
+  Kethran's Fold: an ancient buried complex; the [[the-glass-smoke|glass smoke]] (bound undead); a
+  [[the-broken-map|map]] of the region in an older configuration; a gargoyle golem; and the
+  [[the-gleaners|gleaners]], who dwell inside the living [[the-stonehunger|Stonehunger]]. Any of it
+  could be the "something that does not belong" the Brood sent Soren for — but **none is confirmed**
+  as their object. Still not tied to the uthrel.
+- **The S2.30 excavation** is taken to be the gleaners' work — gleaning a kill's surface leavings is
+  their trade — though the two gleaners seen were soft-shoed rather than in the spiked/foreign-steel
+  boots that left the tracks (presumably other gleaners). The **foreign high-quality steel's origin**
+  is still unexplained.
+- **What is the buried complex** (marble stair, dwarvish machine-room, [[the-broken-map|pillar-chamber
+  map]], [[the-glass-smoke|glass smoke]], gargoyle golem), and **who built it** before the gleaners
+  squatted it? Unknown.
+- **What is the [[the-stonehunger|Stonehunger]] ("God"), truly**, and does the party being **inside
+  it** connect to the Brood's interest, the Mirrowen's damage, or the uthrel? All open; keep separate.
+- Keep separate: the **folkloric "singing/crying below"** (unverified) versus the **live gleaners**
+  the party can now hear (real) — do not conflate them (see [[the-stonehunger]]).
 - **Who is [[jorrith-potter|Jorrith]]'s hostage?** The Brood hold a living loved one of his as leverage (confirmed) — identity unknown, and separate from his late wife [[meera]] (died of illness). Rescuing or identifying the hostage could turn Jorrith fully.
 - How does Jorrith signal his Brood handler / how does the report get "passed on"? The party left this unprobed.
 - Who actually tampered with the gate to cause the incursion? Genuinely unknown — even the Brood do not know.
@@ -63,12 +84,22 @@ summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursi
 - What was worked at the shop's ritual stone — oaths/allegiance to the Brood, tribute, and research-suffering on whom?
 
 ## Leads / next steps
-- **At [[kethrans-fold|Kethran's Fold]] (S2.30 cliffhanger):** Rell and [[trevick|Trevick]] are about
-  to go through the lit door toward the voices and digging below, the other three linked telepathically
-  and holding back. Immediate next step is what lies beyond the door. The party still intends to recover
-  anything anomalous and **report back to [[jorrith-potter|Jorrith]]** as the Brood's agent.
-- Guides [[nan-prentic|Nan]] and [[cressan-weller|Cressan]] are camped ~500m off, waiting a day or two
-  to escort the party back to Greywatch. Note Rell's private observation that Cressan sees in the dark
-  unnaturally well.
+- **At [[kethrans-fold|Kethran's Fold]] (S2.31 cliffhanger):** the party has slipped past the sleepers
+  and put both gleaners to sleep, and now faces the **chasm of churning stone** — a web of
+  **bridges** with ~40–50 [[the-gleaners|gleaners]] (under [[tuffin|Tuffin]]) between them and the
+  [[the-custodian|custodian]]. They ended the night **split and undecided** — Fabian favours fighting
+  through, Rell favours cutting bridges while invisible or a **Mass Suggestion** to clear/pacify the
+  gleaners — and agreed to take time to **devise a cunning plan**. Immediate next step: get across the
+  chasm to the custodian's gate.
+- **Reaching the [[the-custodian|custodian]]:** he is said to be a "soft old fellow," bored and
+  curious, who may let them past onto Grommer's Path if brought **news of "above and beyond."** Beyond
+  him lies the deadly deep and (a rumour) **Dunton**, a place where "godless who found a place" live.
+- The party is on a **clock**: [[turley|Turley]] says "God" will "go below" (move on, crushing the
+  placeless) within days or weeks.
+- The party still intends to recover anything anomalous and **report back to [[jorrith-potter|Jorrith]]**
+  as the Brood's agent.
+- Guides [[nan-prentic|Nan]] and [[cressan-weller|Cressan]] are camped ~500m off the surface, waiting a
+  day or two to escort the party back to Greywatch. Note Rell's private observation that Cressan sees
+  in the dark unnaturally well.
 - Keep [[jorrith-potter|Jorrith]] alive and unaware as a live link to the Brood; consider how he contacts his handler.
 - Press Wicklow; investigate the marked map sites and the northern caches; trace the Crownspire bank payments.

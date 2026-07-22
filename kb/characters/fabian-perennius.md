@@ -21,7 +21,7 @@ relationships:
   - who: valeria
     note: His sister, an aberration-scholar he expects to envy his reaching the Mirrowen first.
 first_session: S1.05
-last_session: S2.30
+last_session: S2.31
 tags: [bard, crownspire, fame-seeking, radiant-magic, golden-lute, sunblade]
 summary: A vain, fame-seeking bard and seventh son of a Crownspire dynasty who hungers to be the hero of an epic tale, and who manifests a new golden radiant magic after a selfless act by Mags.
 ---
@@ -52,6 +52,13 @@ His defining motivation is legacy and museum-fame: as a boy he stood beneath the
   direction) the anomalous foreign steel nail and appraises its fine craftsmanship, sourcing its like
   to [[crownspire|Crownspire]] and the great southern manufactories. Barges to the front to listen at
   the buried door but hears nothing useful (Rell does).
+- S2.31: **Lacking darkvision**, Fabian can barely see in the unlit cave — he navigates by the
+  pillar chamber's faint glow (disadvantage on sight-based checks) until [[rell-aetris|Rell]] raises a
+  light. He still drives the reasoning: he reconstructs the [[the-broken-map|map]] from others'
+  descriptions (History), works the gargoyle's structure ("something repaired its back — it can't
+  have done so itself"), and presses [[turley|Turley]] on gleaner theology — his "You sound guilty!"
+  draws out her admission of a hoarded scrap. At the chasm he is the party's **hawk**, confident they
+  "could easily quash 50 goblins"; the party splits over his push to fight versus Rell's stealth plan.
 
 ## DM notes / secrets
 - Fabian's [[fabians-radiant-magic|radiant magic]] (S2.17) is unexplained in-world — an emergent power tied to selfless/heroic resonance, an active open thread.

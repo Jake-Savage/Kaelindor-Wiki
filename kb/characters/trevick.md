@@ -21,7 +21,7 @@ relationships:
   - who: dakir
     note: Founding companion he confides in about Joster; the two keep contact by Dakir's paired sending-tokens after Dakir's departure (S2.28).
 first_session: S1.01
-last_session: S2.30
+last_session: S2.31
 tags: [ranger, beastmaster, firbolg-favoured, watcher, uthrel, velton, salmeros]
 summary: A tiefling beastmaster ranger and lone survivor of a village destroyed by the Uthrel, revered by the firbolgs as bearing a Rhynharran "Watcher" and chosen as the Eldryn's go-between.
 ---
@@ -52,6 +52,12 @@ In [[greymere]] he becomes the party's conduit to the natural world and the [[th
   to Cressan — who catches it with startling reflexes but is baffled by the kindness. Lends his keen
   eyes and ears to the descent (his broad shoulders make the created passage a tight squeeze), and at
   session's end readies to go through the buried door with [[rell-aetris|Rell]] ahead of the others.
+- S2.31: Uses his **Comprehend Languages** glasses on the [[the-broken-map|map]]'s script (no help —
+  the names are unfamiliar even in sound) and studies the depiction of his home region around
+  [[trevaryn|Trevaryn]]. It is Trevick who offers the surface name "**the Stonehunger**" to the
+  gleaners' "God" — which [[turley|Turley]] accepts as apt — and who asks after their theology. When
+  the party commits to slipping deeper, he casts **Pass Without Trace** to get them silently past the
+  sleepers.
 
 ## DM notes / secrets
 - Trevick's father was a "Salmeros" — a lineage the devil [[joster-sirit]] recognised (he never claimed to have known the man) — and his parentage (with possible infernal/marked lineage beyond ordinary tiefling) is an open mystery seeded since S1.05.

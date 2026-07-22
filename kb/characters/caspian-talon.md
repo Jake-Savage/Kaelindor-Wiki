@@ -21,7 +21,7 @@ relationships:
   - who: shalfay
     note: Tower of Heaven employer and divination contact; Caspian still corresponds with him.
 first_session: S1.01
-last_session: S2.30
+last_session: S2.31
 tags: [scholar, wizard, divination, uthrel, vampire-suspicious, dragon-bones]
 summary: A coldly rational divination wizard obsessed with studying the Uthrel and dragon remains, who secretly dealt with the vampire Lucien and is evasive about what it cost him.
 ---
@@ -52,6 +52,14 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
   [[mags|Mags]] — bluntly — whether her people scavenge such places (she rebuffs him). Reasons the
   excavators must see in the dark from the absence of lamp niches. Cannot re-cast Darkvision to help
   the sighted-in-daylight members descend, having used it that day.
+- S2.31: The party's investigator in the pillar chamber. Copies the ancient [[the-broken-map|broken
+  map]] with his enchanted map-pen; casts **Detect Magic** (abjuration on the map, necrotic on the
+  pillars) and, with an Arcana check, judges the [[the-glass-smoke|glass smoke]] to be **undead**;
+  casts **Identify** on a pillar (the glass shelters rather than cages the spirit) and pulls away in
+  fright as it coils to strike. Runs the reconnaissance with [[theodore|Theodore]]: sends the rat down
+  the spiral stair and through the complex — spotting the pale **gleaners**, their soft leather
+  shoes, their grapnel-poles, the stinking crate-room, and the pipes —
+  and later has Theodore poke into the chasm cavern to see the **bridge-web over the churning stone**.
 
 ## DM notes / secrets
 - Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. What passed between them is unresolved and worth keeping ambiguous.

@@ -12,7 +12,7 @@ relationships:
   - who: caspian-talon
     note: His wizard; Theodore is Caspian's familiar and favoured spy.
 first_session: S1.01
-last_session: S2.29
+last_session: S2.31
 tags: [familiar, rat, scout, spy]
 summary: Caspian's rat familiar and favoured scout, killed by Bartholomew (S2.03) and resummoned.
 ---
@@ -29,3 +29,9 @@ As a familiar, Theodore acts on Caspian's direction. Nameweave is noted (in Casp
 - S2.04: Returns terrified bearing Caspian's letter after Caspian's secret meeting with [[lucien]].
 - S2.19–20: Scouts the Eldryn camp and the burnt zone invisibly alongside [[hawk]].
 - S2.29: Sent into [[jorrith-potter|Jorrith]]'s [[the-three-copper-hatch|house]] in [[greywatch]] to scout the interior (and later to watch Rell's meeting from inside) — finds it tidy and spartan, with no shrine, sigils, or hidden doors, only a framed drawing of [[meera]].
+- S2.31: The party's eyes underground beneath [[kethrans-fold|Kethran's Fold]]. Perches on the
+  gargoyle golem to guard its key during the lock-picking, then scouts the [[the-gleaners|gleaners']]
+  complex ahead of the party — the dwarvish machine-room, the two gleaners (their soft shoes, their
+  grapnel-poles), the stinking crate-room, the climbable pipes — and finally pokes his head into the
+  chasm cavern to reveal the **web of bridges over the river of churning stone** and the gleaners
+  crowding it.

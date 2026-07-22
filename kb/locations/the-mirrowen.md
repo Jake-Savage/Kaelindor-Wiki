@@ -8,7 +8,7 @@ controlled_by: trevaryn
 connected_to: [greywatch, trevaryn, offendale]
 status: active
 first_session: S2.28
-last_session: S2.30
+last_session: S2.31
 tags: [tangles, planar-fragmentation, aberrations, itharis, sorcery, mirrowen, guides, stonehunger]
 summary: A magically-damaged region colloquially called the Tangles, where planar reality is fragmented and the land shifts — technically a country of the League but effectively a client of Trevaryn.
 ---
@@ -45,8 +45,10 @@ bearings fail and even experienced guides grow tense.
 
 Some folk of the Mirrowen tell of the **[[the-stonehunger|Stonehunger]]** — a supposed underground
 hunger that swallows whole settlements from below — as the cause of the region's periodic
-village-swallowing collapses; others dismiss it as superstition for ordinary landslips (see the lore
-entry).
+village-swallowing collapses; others dismiss it as superstition for ordinary landslips. As of S2.31
+this is **no longer only folklore**: beneath [[kethrans-fold|Kethran's Fold]] the party finds the
+[[the-gleaners|gleaners]], goblins who dwell **inside** the thing and worship it as a living "God"
+(see the lore entry). Whether it is a cause or a symptom of the Mirrowen's damage remains open.
 
 ## Notable inhabitants & sites
 - [[greywatch|Greywatch]] ("the Beacon") — the only substantial town, a walled, heavily-warded garrison town at the Mirrowen's northern edge.
