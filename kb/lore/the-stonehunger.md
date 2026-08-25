@@ -41,12 +41,22 @@ theology**, but corroborated by the party physically being inside the complex:
   **read God's signs** to clear out before it moves. Turley warns God will "go below" again in "a
   few weeks, a few days maybe, when we've finished."
 - **A priesthood dwells deeper.** The gleaners are not close to God; **priests, wise men, and holy
-  men deeper down** ("the bigger folk," beyond the [[the-custodian|custodian]]'s gate on Grommer's
+  men deeper down** ("the bigger folk," beyond the [[the-custodian|custodian]]'s gate on Grommar's
   Path) are said to commune with it more directly.
 - **Older tellings (S2.30, still unverified):** that it recurs perhaps once a decade and leaves the
   land "still hungry"; that people pulled from beneath the stone "aren't right" and sometimes go
   **back** under; and that **singing, knocking, and voices** are heard underground weeks after a
   place is taken.
+
+## What the churn carries (S2.32)
+Crossing the bridges over [[the-stone-river|the stone river]] — the chasm of endlessly churning stone
+the gleaners work — [[fabian-perennius|Fabian]] looks down into it. Most of what passes below is **old
+rock worn smooth** by repeated tumbling; the fresher, jagged stone matches the rockslide on the
+surface and carries **pieces of what were people's houses**, the scrambled remains of
+[[kethrans-fold|Kethran's Fold]]. But every so often something appears that **could not have come from
+Kethran's Fold**: a piece of a **column**, a piece of **marble floor tile**. Where that worked stone
+came from is **not established** — other settlements taken earlier, the buried complex itself, or
+something else again.
 
 ## Open questions
 - **What is it, truly?** The gleaners' "God" is corroborated as a real, vast, devouring thing the
@@ -65,4 +75,6 @@ theology**, but corroborated by the party physically being inside the complex:
   interest. Do not assume one.
 - Is the "singing/crying below" folklore the **living gleaners** the party can now hear, or
   something else again? Still open.
-</content>
+- **What else has it eaten?** The worked stone in the churn (columns, marble tiles) that cannot be
+  Kethran's Fold is unexplained, and is the first physical hint of the Stonehunger's older meals —
+  though it may equally be debris of the buried complex. Do not settle it either way.

@@ -56,4 +56,3 @@ the myth of **Dunton**, a place deeper where godless who "found a place" are sai
 - The party's read that Turley is **"up to something"** is a grounded suspicion — an **Insight read**
   of her behaviour and body language, backed by her admitted hoarding — **not** a confirmed scheme.
   Keep it as suspicion: something concealed or in the works, contents unknown.
-</content>

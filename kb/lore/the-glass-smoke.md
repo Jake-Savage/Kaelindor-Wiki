@@ -39,4 +39,3 @@ Established by the party's spells in the pillar chamber:
 - What are they, exactly, and what "home" and lost "world" does the lonely half remember? The map on
   the same wall (see [[the-broken-map]]) shows a region in an older configuration — whether the two
   are connected is **not established**.
-</content>

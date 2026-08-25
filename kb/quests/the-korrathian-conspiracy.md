@@ -5,9 +5,9 @@ title: The Korrathian Conspiracy
 status: active
 priority: side
 opened_session: S2.24
-last_updated_session: S2.31
+last_updated_session: S2.32
 involves_characters: [caspian-talon, mags, rell-aetris, dakir, trevick, fabian-perennius, hethan-kroll, oscar-wicklow, captain-thoronby, soren-dragan, amir-merillac, tamzin-venik, jorrith-potter, nan-prentic, cressan-weller, turley, glorta, tuffin, the-custodian]
-involves_locations: [greymere, the-mercenary-camp, bridgemarch, the-tiefling-shop, offendale, greywatch, the-mirrowen, trevaryn, the-three-copper-hatch, kethrans-fold]
+involves_locations: [greymere, the-mercenary-camp, bridgemarch, the-tiefling-shop, offendale, greywatch, the-mirrowen, trevaryn, the-three-copper-hatch, kethrans-fold, the-stone-river, the-golden-courtyard]
 factions: [the-furnace-brood, krolls-mercenaries, the-gleaners]
 tags: [korrathian, furnace-brood, conspiracy, cliffhanger]
 summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursion and, from the raided Bridgemarch cell, recovers scrolls naming three more Brood operations — choosing to chase one to Greywatch.
@@ -46,7 +46,7 @@ summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursi
   the site is now **inside the living [[the-stonehunger|Stonehunger]]** — a devouring "God" the
   gleaners serve by scavenging its kills (**including this village's collapse**) — and the route
   deeper: past sleepers, over **bridges** across a chasm of **churning stone** (~40–50 gleaners under
-  boss [[tuffin|Tuffin]]), to the [[the-custodian|custodian]]'s gate onto the deadly deep ("Grommer's
+  boss [[tuffin|Tuffin]]), to the [[the-custodian|custodian]]'s gate onto the deadly deep ("Grommar's
   Path"). [[trevick|Trevick]] casts **Pass Without Trace**; the party slips past the sleepers, then
   puts both gleaners to sleep. Seeing the bridge-web and the crowd of gleaners at the chasm, the party
   is split (Fabian: fight through; Rell: cut bridges while invisible / Mass Suggestion) and ends the
@@ -55,14 +55,29 @@ summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursi
   descent toward the deep — is now tracked as its own thread, [[the-stonehunger-below]]**; this quest
   keeps the Brood-cover angle (why the party is here, and reporting back to Jorrith).
 
+- S2.32: Still under the Brood's commission, the party gets **past the gleaners without a fight**.
+  [[fabian-perennius|Fabian]] — shrunk by [[caspian-talon|Caspian]]'s potion of diminution and
+  disguised as a gleaner — casts **Mass Suggestion** from [[rell-aetris|Rell]]'s scroll to send the
+  workforce up to the surface after imaginary "shiny things," and the holdouts are talked away by
+  Fabian and [[mags|Mags]]. Crossing [[the-stone-river|the stone river]], Fabian spots **worked stone
+  in the churn that cannot have come from Kethran's Fold**. Mags and Fabian find
+  [[the-golden-courtyard|a buried courtyard]] holding a large, pristine, apparently gold
+  **[[the-golden-dragon-statue|dragon statue]]** — the first thing seen down here that might answer
+  the Brood's brief for something that "does not belong," though **untested and unlinked**, and far
+  too large to carry out. At the far archway the [[the-custodian|custodian]] — an **earth elemental**
+  (Caspian, Arcana) — forms out of the rock and asks whether they mean to walk
+  **[[grommar|Grommar's Path]]**. The descent itself is tracked under [[the-stonehunger-below]].
+
 ## Open threads
 - What is the Furnace Brood's ultimate goal in probing the uthrel incursion? (They were sent to find if it "left a trace," not established as its cause — per Speak with Dead they do not know who caused it.)
-- **Is any of this what the Brood want recovered?** As of S2.31 the party has found, beneath
+- **Is any of this what the Brood want recovered?** As of S2.32 the party has found, beneath
   Kethran's Fold: an ancient buried complex; the [[the-glass-smoke|glass smoke]] (bound undead); a
-  [[the-broken-map|map]] of the region in an older configuration; a gargoyle golem; and the
-  [[the-gleaners|gleaners]], who dwell inside the living [[the-stonehunger|Stonehunger]]. Any of it
-  could be the "something that does not belong" the Brood sent Soren for — but **none is confirmed**
-  as their object. Still not tied to the uthrel.
+  [[the-broken-map|map]] of the region in an older configuration; a gargoyle golem; the
+  [[the-gleaners|gleaners]], who dwell inside the living [[the-stonehunger|Stonehunger]]; a bound
+  **earth elemental** serving as the gate to the deep; and a buried
+  [[the-golden-courtyard|courtyard]] with a pristine **[[the-golden-dragon-statue|gold dragon
+  statue]]**. Any of it could be the "something that does not belong" the Brood sent Soren for — but
+  **none is confirmed** as their object. Still not tied to the uthrel.
 - **The S2.30 excavation** is taken to be the gleaners' work — gleaning a kill's surface leavings is
   their trade — though the two gleaners seen were soft-shoed rather than in the spiked/foreign-steel
   boots that left the tracks (presumably other gleaners). The **foreign high-quality steel's origin**
@@ -94,7 +109,7 @@ summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursi
   gleaners — and agreed to take time to **devise a cunning plan**. Immediate next step: get across the
   chasm to the custodian's gate.
 - **Reaching the [[the-custodian|custodian]]:** he is said to be a "soft old fellow," bored and
-  curious, who may let them past onto Grommer's Path if brought **news of "above and beyond."** Beyond
+  curious, who may let them past onto Grommar's Path if brought **news of "above and beyond."** Beyond
   him lies the deadly deep and (a rumour) **Dunton**, a place where "godless who found a place" live.
 - The party is on a **clock**: [[turley|Turley]] says "God" will "go below" (move on, crushing the
   placeless) within days or weeks.

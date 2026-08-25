@@ -4,10 +4,10 @@ type: location
 title: Kethran's Fold
 location_type: village
 region: the-mirrowen
-connected_to: [greywatch, the-mirrowen]
+connected_to: [greywatch, the-mirrowen, the-stone-river, the-golden-courtyard]
 status: destroyed
 first_session: S2.29
-last_session: S2.31
+last_session: S2.32
 tags: [mirrowen, furnace-brood, lead, ruin, underground, excavation, marble-stairs, stonehunger, gleaners]
 summary: A village a couple of days' travel south of Greywatch, buried by a collapse ten weeks ago — beneath which the party finds an ancient buried complex now inhabited by the gleaners, who dwell inside the living Stonehunger they call "God."
 ---
@@ -113,10 +113,28 @@ inhabited complex:
   crates** (above), asleep but liable to **wake at a scent** — down to the **bridges** spanning the
   **chasm**, a "river" that is in fact **endlessly churning stone**
   — where a "dozen or two" gleaners work and "forty, fifty" more are near the boss [[tuffin|Tuffin]];
-  then on to the [[the-custodian|custodian]]'s **gate** onto **Grommer's Path**, the deadly deep.
+  then on to the [[the-custodian|custodian]]'s **gate** onto **Grommar's Path**, the deadly deep.
 - The party (via Theodore) glimpses the **web of bridges** over the churning-stone chasm and the
   many gleaners on bridges and shore. The session ends with the party debating how to get past ~50
   gleaners — and resolving to take time to devise a plan (see [[the-korrathian-conspiracy]]).
+
+## The chasm level (S2.32)
+Beyond the gleaners' machine-room and the **sweepers**' crate-room (recorded in S2.31 as "the
+sleepers"; **"sweepers"** is the gleaners' own name for them) the complex opens into the great cavern
+of **[[the-stone-river|the stone river]]** — a chasm of endlessly churning stone, worked by dozens of
+gleaners from its edges and from **three narrow, widely-spaced bridges**. See that entry for the
+crossing and what the churn carries.
+
+Two things lie beyond the crossing:
+
+- **The gate.** On the far rock face, a **large carved archway** with no door in it. Approached, the
+  stone flows and forms into a huge face — an **earth elemental** (Caspian, Arcana), taken by the
+  party to be the [[the-custodian|custodian]] — which asks whether they intend to walk
+  **[[grommar|Grommar's Path]]**, the deep beyond.
+- **[[the-golden-courtyard|The golden courtyard]].** North of the canyon, among many gleaner-built
+  doors, a **natural cleft** in the rock opens into a lavishly decorated courtyard with porticoes
+  leading nowhere, murals resembling the [[the-broken-map|map mural]] above, and a pristine,
+  apparently gold **[[the-golden-dragon-statue|dragon statue]]** on a plinth.
 
 ## Events here
 - S2.29: Named as the target of the Brood's instructions; the party resolves to travel there
@@ -132,6 +150,11 @@ inhabited complex:
   the [[the-custodian|custodian]]. Ends with the party planning how to pass the gleaners at the chasm.
   The descent from here is tracked under [[the-stonehunger-below]] (the party arrived via
   [[the-korrathian-conspiracy]]).
+- S2.32: The party empties the chasm cavern with a **Mass Suggestion** about shiny things on the
+  surface, crosses [[the-stone-river|the stone river]] by the middle bridge, discovers
+  [[the-golden-courtyard|the golden courtyard]] and its [[the-golden-dragon-statue|dragon statue]],
+  and reaches the archway, where the [[the-custodian|custodian]] forms out of the rock and asks
+  whether they mean to walk [[grommar|Grommar's Path]].
 
 ## DM notes
 - **The complex is pre-existing; the [[the-gleaners|gleaners]] are squatters.** Turley: "There were

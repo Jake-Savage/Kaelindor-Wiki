@@ -27,4 +27,3 @@ grapnel-pole, and comes up the stairs under [[rell-aetris|Rell]]'s **Suggestion*
 - S2.31: Beckoned close by [[rell-aetris|Rell]], who whispers the trigger word "**sleep**"; Glorta
   obediently lays out a makeshift pillow and falls asleep. [[turley|Turley]] takes it for the boy
   simply dozing off. He is later left sleeping as the party moves deeper.
-</content>

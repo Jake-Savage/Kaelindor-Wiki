@@ -46,4 +46,6 @@ ones:
   or its aftermath; kept as an open lead, not fused with any other thread.
 - Who made it and in what language? What is it doing in a buried complex now inhabited by the
   [[the-gleaners|gleaners]], on the same wall as the [[the-glass-smoke|glass smoke]]?
-</content>
+- **Related murals elsewhere.** S2.32: the walls of [[the-golden-courtyard|the golden courtyard]],
+  below and across the chasm, carry murals described as **not that dissimilar** to this one. They have
+  not been examined, and whether they are the same hand, the same period, or more maps is **unknown**.

@@ -21,7 +21,7 @@ relationships:
   - who: valeria
     note: His sister, an aberration-scholar he expects to envy his reaching the Mirrowen first.
 first_session: S1.05
-last_session: S2.31
+last_session: S2.32
 tags: [bard, crownspire, fame-seeking, radiant-magic, golden-lute, sunblade]
 summary: A vain, fame-seeking bard and seventh son of a Crownspire dynasty who hungers to be the hero of an epic tale, and who manifests a new golden radiant magic after a selfless act by Mags.
 ---
@@ -59,6 +59,17 @@ His defining motivation is legacy and museum-fame: as a boy he stood beneath the
   have done so itself"), and presses [[turley|Turley]] on gleaner theology — his "You sound guilty!"
   draws out her admission of a hoarded scrap. At the chasm he is the party's **hawk**, confident they
   "could easily quash 50 goblins"; the party splits over his push to fight versus Rell's stealth plan.
+
+- S2.32: The session's instrument. Drinks [[caspian-talon|Caspian]]'s **potion of diminution** and is
+  made up with a disguise kit as a gleaner (strong performance check), then casts **Mass Suggestion**
+  from [[rell-aetris|Rell]]'s scroll — above his own level, on an ability check with advantage and a
+  reroll — telling the cavern that God has brought more gifts and that shiny things wait on the
+  surface, brandishing the [[the-golden-lute|golden lute]] as proof. Talks a wavering group into
+  going, then helps [[mags|Mags]] persuade the last holdouts. On the bridge he inspires himself and
+  studies the churn, spotting worked stone that **could not have come from Kethran's Fold**. Explores
+  [[the-golden-courtyard|the courtyard]] with Mags and appraises the
+  [[the-golden-dragon-statue|gold dragon statue]] ("just because I'm not buying doesn't mean I can't
+  look at the menu"). His **history** check (advantage) supplies the legend of [[grommar|Grommar]].
 
 ## DM notes / secrets
 - Fabian's [[fabians-radiant-magic|radiant magic]] (S2.17) is unexplained in-world — an emergent power tied to selfless/heroic resonance, an active open thread.

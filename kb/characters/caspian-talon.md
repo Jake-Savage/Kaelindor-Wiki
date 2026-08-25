@@ -21,7 +21,7 @@ relationships:
   - who: shalfay
     note: Tower of Heaven employer and divination contact; Caspian still corresponds with him.
 first_session: S1.01
-last_session: S2.31
+last_session: S2.32
 tags: [scholar, wizard, divination, uthrel, vampire-suspicious, dragon-bones]
 summary: A coldly rational divination wizard obsessed with studying the Uthrel and dragon remains, who secretly dealt with the vampire Lucien and is evasive about what it cost him.
 ---
@@ -60,6 +60,14 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
   the spiral stair and through the complex — spotting the pale **gleaners**, their soft leather
   shoes, their grapnel-poles, the stinking crate-room, and the pipes —
   and later has Theodore poke into the chasm cavern to see the **bridge-web over the churning stone**.
+
+- S2.32: Hands [[fabian-perennius|Fabian]] his **potion of diminution** so Fabian can pass as a
+  gleaner, and burns a **Portent** 5 on the nearest group of gleaners to help the Mass Suggestion
+  land. Crosses the middle bridge under Pass Without Trace. At the archway his **Arcana** check
+  identifies the forming stone face as an **earth elemental**, and he recalls that such creatures can
+  be **bound into service by magic** — relaying it to [[rell-aetris|Rell]] over the telepathic link
+  rather than aloud, and staying behind him. States plainly that he will fight back if attacked
+  regardless of [[mags|Mags]]'s objections to violence.
 
 ## DM notes / secrets
 - Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. What passed between them is unresolved and worth keeping ambiguous.

@@ -24,4 +24,3 @@ itself.
 Turley doubts Tuffin would allow the gleaners to escort "godless" across the bridge, which is why
 crossing to the [[the-custodian|custodian]] openly is not straightforward. He has **not been seen**;
 nothing else about him is established.
-</content>

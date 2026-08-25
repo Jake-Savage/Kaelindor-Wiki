@@ -17,7 +17,7 @@ relationships:
   - who: trevick
     note: Comes to understand Trevick as one who has shed the trappings of humanity to live honestly.
 first_session: S1.05
-last_session: S2.31
+last_session: S2.32
 tags: [wizard, aberrant-mind-sorcerer, mind-magic, telepathy, tir-van, horizonborn, horizon-doors, masked, secretive]
 summary: A masked, reclusive Tir'Van who passes publicly as a wizard — secretly an Aberrant Mind sorcerer — whose lifelong search for the Horizon Doors makes him suspiciously excited when the party finds one — the tampered Bright Gate.
 ---
@@ -59,6 +59,14 @@ Morally, Rell is the party's harshest realist. He is bitter that the party "danc
   first [[glorta|Glorta]] and later [[turley|Turley]] to sleep. He argues for the **stealthy** option
   at the chasm — cutting bridges while invisible, or a Mass Suggestion — against Fabian's push to
   fight; the party ends undecided.
+
+- S2.32: Supplies the **scroll of Mass Suggestion** for [[fabian-perennius|Fabian]] to cast (he also
+  carries a scroll of invisibility), casts **Disguise Self** to pass as a gleaner, and moves for the
+  far side the moment the suggestion lands — reasoning that even if everything else fails he will be
+  on the right side of the bridge. First to reach the carved archway, where the rock forms into a
+  face; he waits for it to finish, then **deliberately drops his disguise** to present himself as an
+  outsider with news of the world above, the price the gleaners said the
+  [[the-custodian|custodian]] takes.
 
 ## DM notes / secrets
 - **The "wizard" identity is a guise.** Rell is officially known as a wizard and deliberately never names a subclass. In truth he is an **Aberrant Mind sorcerer** (an "aberrant soul" sorcerer), masking his innate, aberrant power behind the studied respectability of wizardry — a concealment that fits the unsettling, many-eyed nature of the [[the-tir-van]].

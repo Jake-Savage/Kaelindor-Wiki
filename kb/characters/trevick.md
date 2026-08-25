@@ -21,7 +21,7 @@ relationships:
   - who: dakir
     note: Founding companion he confides in about Joster; the two keep contact by Dakir's paired sending-tokens after Dakir's departure (S2.28).
 first_session: S1.01
-last_session: S2.31
+last_session: S2.32
 tags: [ranger, beastmaster, firbolg-favoured, watcher, uthrel, velton, salmeros]
 summary: A tiefling beastmaster ranger and lone survivor of a village destroyed by the Uthrel, revered by the firbolgs as bearing a Rhynharran "Watcher" and chosen as the Eldryn's go-between.
 ---
@@ -58,6 +58,10 @@ In [[greymere]] he becomes the party's conduit to the natural world and the [[th
   gleaners' "God" — which [[turley|Turley]] accepts as apt — and who asks after their theology. When
   the party commits to slipping deeper, he casts **Pass Without Trace** to get them silently past the
   sleepers.
+
+- S2.32: Maintains **Pass Without Trace** throughout the crossing — his own summary is that he can do
+  little else — crosses the middle bridge behind [[rell-aetris|Rell]], and keeps watch on the
+  passages for returning gleaners while the others deal with the gate.
 
 ## DM notes / secrets
 - Trevick's father was a "Salmeros" — a lineage the devil [[joster-sirit]] recognised (he never claimed to have known the man) — and his parentage (with possible infernal/marked lineage beyond ordinary tiefling) is an open mystery seeded since S1.05.

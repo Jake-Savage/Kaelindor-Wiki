@@ -21,7 +21,7 @@ relationships:
   - who: caspian-talon
     note: She tolerates his impiety and senses his evasiveness; they grudgingly come to get along.
 first_session: S1.05
-last_session: S2.31
+last_session: S2.32
 tags: [cleric, naelos, gnome, underdark, diplomat, nameweave, petrified]
 summary: A centuries-old gnome cleric of Naelos and the party's blunt, pragmatic moral anchor, who threads diplomacy between Greymere and the Eldryn and is briefly petrified into wood.
 ---
@@ -55,6 +55,19 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
   she is the one expected to recognise the **mining machinery** below, and the [[the-gleaners|gleaners]]
   register the name of [[naelos|Naelos]] on her (heard of, but they dismiss all gods but their "God" as
   "made up") — but she takes no significant action this session.
+
+- S2.32: Active again. Confirms she knows **nothing of this "God"**, and nothing of anywhere like
+  this place, from her own time underground. Her ecumenical response — that there are all kinds of
+  faiths down here, "one god, many faces" — is about **monotheism as a form**, faiths that call their
+  deity "God" in the singular; it is **not** recognition of the entity the [[the-gleaners|gleaners]]
+  describe. Argues **against** violence on tactical as well as moral grounds — the
+  party does not know what the [[the-furnace-brood|Korrathians]] want here, and should not do their
+  work for them — and backs the Mass Suggestion plan in a non-lethal form. Casts **Disguise Self** to
+  pass as a gleaner ("an assertive female"), helps talk the wavering group up to the surface, and then
+  wins the key **persuasion (18)** that moves the last suspicious dozen off the far bridge, having
+  first circled the group so their backs are to the crossing. Explores
+  [[the-golden-courtyard|the courtyard]] with [[fabian-perennius|Fabian]], insisting that looking is
+  not stealing.
 
 ## DM notes / secrets
 - Her undead-tinged bone shard (a Naelos relic of her own bones) keys the infernal "half in this world and half of another" doors in the Shifting Library (S2.08) — a detail worth remembering for her nature/longevity.
