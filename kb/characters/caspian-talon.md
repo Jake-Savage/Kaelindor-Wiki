@@ -21,7 +21,7 @@ relationships:
   - who: shalfay
     note: Tower of Heaven employer and divination contact; Caspian still corresponds with him.
 first_session: S1.01
-last_session: S2.32
+last_session: S2.33
 tags: [scholar, wizard, divination, uthrel, vampire-suspicious, dragon-bones]
 summary: A coldly rational divination wizard obsessed with studying the Uthrel and dragon remains, who secretly dealt with the vampire Lucien and is evasive about what it cost him.
 ---
@@ -68,6 +68,15 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
   be **bound into service by magic** — relaying it to [[rell-aetris|Rell]] over the telepathic link
   rather than aloud, and staying behind him. States plainly that he will fight back if attacked
   regardless of [[mags|Mags]]'s objections to violence.
+
+- S2.33: The courtyard's analyst. Ritual-casts **Detect Magic** on the
+  [[the-golden-dragon-statue|dragon statue]] and reads its three signatures — powerful **abjuration**,
+  **evocation**, and a capacity to **absorb** magic — then half-senses a further magical thing he cannot
+  place, tells the group about it, and finally pins it down with a full ten-minute casting (advantage,
+  plus [[mags|Mags]]'s Guidance): a **hidden flagstone** under the northern portico. Offers
+  **Dispel Magic** to open it and withdraws the offer on being warned the flagstone's ward and the
+  statue's are one field. Supplies the compass by which the statue's facings are tracked, and
+  recognises the passage beyond the gate as a [[calvyr|Calvyr]] temple-way.
 
 ## DM notes / secrets
 - Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. What passed between them is unresolved and worth keeping ambiguous.

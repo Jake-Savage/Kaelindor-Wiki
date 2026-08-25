@@ -21,7 +21,7 @@ relationships:
   - who: valeria
     note: His sister, an aberration-scholar he expects to envy his reaching the Mirrowen first.
 first_session: S1.05
-last_session: S2.32
+last_session: S2.33
 tags: [bard, crownspire, fame-seeking, radiant-magic, golden-lute, sunblade]
 summary: A vain, fame-seeking bard and seventh son of a Crownspire dynasty who hungers to be the hero of an epic tale, and who manifests a new golden radiant magic after a selfless act by Mags.
 ---
@@ -70,6 +70,14 @@ His defining motivation is legacy and museum-fame: as a boy he stood beneath the
   [[the-golden-courtyard|the courtyard]] with Mags and appraises the
   [[the-golden-dragon-statue|gold dragon statue]] ("just because I'm not buying doesn't mean I can't
   look at the menu"). His **history** check (advantage) supplies the legend of [[grommar|Grommar]].
+
+- S2.33: Examining whether the [[the-golden-dragon-statue|statue]] could be stolen, finds instead that
+  its **plinth rotates** and has been **rotated before**. Throws Vicious Mockery into it to no effect.
+  On a Guidance-aided history check, places the [[the-draconic-regalia|regalia]]'s cut as made for
+  someone taller and slimmer than a human and recalls the legends of the
+  [[the-dragon-touched|dragon-touched]]. At the gate — still shrunk and painted as a gleaner — he opens
+  the negotiation, and when refused buys the creature's interest with an embellished tale of
+  [[shadows-meet|Shadows Meet]] and his festival mask (performance 25), which turns the conversation.
 
 ## DM notes / secrets
 - Fabian's [[fabians-radiant-magic|radiant magic]] (S2.17) is unexplained in-world — an emergent power tied to selfless/heroic resonance, an active open thread.

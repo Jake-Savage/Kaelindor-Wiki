@@ -58,6 +58,32 @@ Kethran's Fold**: a piece of a **column**, a piece of **marble floor tile**. Whe
 came from is **not established** — other settlements taken earlier, the buried complex itself, or
 something else again.
 
+## The eyes of God (S2.33)
+The stone face at the gate beyond [[the-stone-river|the stone river]] describes itself as **"the eyes
+of God in this part,"** and speaks of **"the eyes of God below"** as its **brothers** — implying a
+series of watchers stationed through the Stonehunger, of which the party has met one. It watches its
+stretch closely enough to have seen the party's Mass Suggestion empty the cavern, and holds that being
+amused is proper to its office. This is **its own account of itself** (see [[the-custodian]]); nothing
+independently confirms the arrangement.
+
+Two things it said bear on what the Stonehunger is:
+
+- **It speaks of the party's homelands as prospects.** What it wanted from Rell's wager was **"those
+  threads that would lead us back to lands more worthy of God's sight"** — the surrounding country
+  being, in its judgement, **paltry fare**.
+- **It believes its kind's reach has shrunk.** Under [[mags|Mags]]'s natural-20 Insight it **genuinely
+  believes** there is now **a limit to the lands they can claim**, is baffled by it, and feels
+  something like **shame** at a diminished power. It had also **begun to suspect that more promising
+  lands were no longer in the world**. The cause is **unexplained** — do not fuse it with the
+  [[the-mirrowen|Mirrowen]]'s fragmentation or any other thread.
+
+**Does it swallow places whole and keep them?** [[the-golden-courtyard|The golden courtyard]] (S2.33)
+is **demonstrably not in the position or orientation it was built in**, the rock **actively presses in**
+on it, something is **holding that off**, and something has tried to **force its cleft entrance closed**
+and failed. The party's reading — that the Stonehunger **swallowed** the courtyard and that its magic is
+what keeps it from being **digested** — is a **supposition**, not established. Recorded as evidence plus
+the party's inference; do not write it up as a fact about the Stonehunger.
+
 ## Open questions
 - **What is it, truly?** The gleaners' "God" is corroborated as a real, vast, devouring thing the
   party is inside — but whether it is literally a deity, a living titan/beast, an ancient construct,
@@ -77,4 +103,8 @@ something else again.
   something else again? Still open.
 - **What else has it eaten?** The worked stone in the churn (columns, marble tiles) that cannot be
   Kethran's Fold is unexplained, and is the first physical hint of the Stonehunger's older meals —
-  though it may equally be debris of the buried complex. Do not settle it either way.
+  though it may equally be debris of the buried complex. The displaced
+  [[the-golden-courtyard|golden courtyard]] may be a second such hint, if the party's reading of it is
+  right. Do not settle either.
+- **Why do the eyes of God believe their reach is shrinking?** Recorded as the creature's sincere
+  belief plus its shame, not as a fact about the world.

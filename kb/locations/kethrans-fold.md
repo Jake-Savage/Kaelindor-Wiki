@@ -4,10 +4,10 @@ type: location
 title: Kethran's Fold
 location_type: village
 region: the-mirrowen
-connected_to: [greywatch, the-mirrowen, the-stone-river, the-golden-courtyard]
+connected_to: [greywatch, the-mirrowen, the-stone-river, the-golden-courtyard, grommars-path]
 status: destroyed
 first_session: S2.29
-last_session: S2.32
+last_session: S2.33
 tags: [mirrowen, furnace-brood, lead, ruin, underground, excavation, marble-stairs, stonehunger, gleaners]
 summary: A village a couple of days' travel south of Greywatch, buried by a collapse ten weeks ago — beneath which the party finds an ancient buried complex now inhabited by the gleaners, who dwell inside the living Stonehunger they call "God."
 ---
@@ -153,8 +153,13 @@ Two things lie beyond the crossing:
 - S2.32: The party empties the chasm cavern with a **Mass Suggestion** about shiny things on the
   surface, crosses [[the-stone-river|the stone river]] by the middle bridge, discovers
   [[the-golden-courtyard|the golden courtyard]] and its [[the-golden-dragon-statue|dragon statue]],
-  and reaches the archway, where the [[the-custodian|custodian]] forms out of the rock and asks
-  whether they mean to walk [[grommar|Grommar's Path]].
+  and reaches the archway, where the [[the-custodian|custodian]] forms out of the rock. (The DM later
+  **scratched** the exchange that followed; see S2.33.)
+- S2.33: The party solves [[the-golden-courtyard|the golden courtyard]] — radiant magic into the
+  [[the-golden-dragon-statue|dragon statue]], aligned to the courtyard's *original* east, opens a hidden
+  cache of **[[the-draconic-regalia|regalia]]** — then bargains with the [[the-custodian|gate]], which
+  names itself "the eyes of God in this part," and passes through onto
+  **[[grommars-path|Grommar's Path]]**. The stone closes behind them.
 
 ## DM notes
 - **The complex is pre-existing; the [[the-gleaners|gleaners]] are squatters.** Turley: "There were

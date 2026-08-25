@@ -5,9 +5,9 @@ title: The Korrathian Conspiracy
 status: active
 priority: side
 opened_session: S2.24
-last_updated_session: S2.32
+last_updated_session: S2.33
 involves_characters: [caspian-talon, mags, rell-aetris, dakir, trevick, fabian-perennius, hethan-kroll, oscar-wicklow, captain-thoronby, soren-dragan, amir-merillac, tamzin-venik, jorrith-potter, nan-prentic, cressan-weller, turley, glorta, tuffin, the-custodian]
-involves_locations: [greymere, the-mercenary-camp, bridgemarch, the-tiefling-shop, offendale, greywatch, the-mirrowen, trevaryn, the-three-copper-hatch, kethrans-fold, the-stone-river, the-golden-courtyard]
+involves_locations: [greymere, the-mercenary-camp, bridgemarch, the-tiefling-shop, offendale, greywatch, the-mirrowen, trevaryn, the-three-copper-hatch, kethrans-fold, the-stone-river, the-golden-courtyard, grommars-path]
 factions: [the-furnace-brood, krolls-mercenaries, the-gleaners]
 tags: [korrathian, furnace-brood, conspiracy, cliffhanger]
 summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursion and, from the raided Bridgemarch cell, recovers scrolls naming three more Brood operations — choosing to chase one to Greywatch.
@@ -68,15 +68,25 @@ summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursi
   (Caspian, Arcana) — forms out of the rock and asks whether they mean to walk
   **[[grommar|Grommar's Path]]**. The descent itself is tracked under [[the-stonehunger-below]].
 
+- S2.33: In [[the-golden-courtyard|the golden courtyard]] the party opens a cache hidden beneath the
+  floor and recovers **[[the-draconic-regalia|ceremonial regalia]]** — a magical crown and hand-piece,
+  crumbled robes, decayed ceremonial weapons. This is the **strongest candidate so far** for the
+  "something that does not belong" the Brood sent Soren to recover, and unlike the
+  [[the-golden-dragon-statue|dragon statue]] it is **portable** — though it is unidentified and
+  **nothing confirms** it is their object. The party then talks its way past the
+  [[the-custodian|gate]] and descends **[[grommars-path|Grommar's Path]]**, which seals behind them —
+  taking them further from [[jorrith-potter|Jorrith]] and the report the cover story requires.
+
 ## Open threads
 - What is the Furnace Brood's ultimate goal in probing the uthrel incursion? (They were sent to find if it "left a trace," not established as its cause — per Speak with Dead they do not know who caused it.)
 - **Is any of this what the Brood want recovered?** As of S2.32 the party has found, beneath
   Kethran's Fold: an ancient buried complex; the [[the-glass-smoke|glass smoke]] (bound undead); a
   [[the-broken-map|map]] of the region in an older configuration; a gargoyle golem; the
   [[the-gleaners|gleaners]], who dwell inside the living [[the-stonehunger|Stonehunger]]; a bound
-  **earth elemental** serving as the gate to the deep; and a buried
-  [[the-golden-courtyard|courtyard]] with a pristine **[[the-golden-dragon-statue|gold dragon
-  statue]]**. Any of it could be the "something that does not belong" the Brood sent Soren for — but
+  **earth elemental** serving as the gate to the deep; a buried [[the-golden-courtyard|courtyard]] with
+  a pristine **[[the-golden-dragon-statue|gold dragon statue]]**; and, beneath its floor, the
+  **[[the-draconic-regalia|draconic regalia]]** — the first candidate that is both anomalous **and
+  portable**. Any of it could be the "something that does not belong" the Brood sent Soren for — but
   **none is confirmed** as their object. Still not tied to the uthrel.
 - **The S2.30 excavation** is taken to be the gleaners' work — gleaning a kill's surface leavings is
   their trade — though the two gleaners seen were soft-shoed rather than in the spiked/foreign-steel

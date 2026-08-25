@@ -27,10 +27,14 @@ and laid **elaborate and dastardly traps** for anyone who tried to approach him.
 
 ## Grommar's Path
 The deep beneath [[kethrans-fold|Kethran's Fold]], beyond the [[the-custodian|custodian]]'s gate, is
-called **Grommar's Path**. The [[the-gleaners|gleaners]] describe it as deadly and not their place —
-where "the bigger folk" and the priests closer to "God" dwell (S2.31) — and the gate's stone face asks
-outsiders directly whether they intend to **walk Grommar's Path**, in a tone the DM describes as
-sardonic, amused and slightly pitying (S2.32).
+called **[[grommars-path|Grommar's Path]]**. The [[the-gleaners|gleaners]] describe it as deadly and
+not their place — where "the bigger folk" and the priests closer to "God" dwell (S2.31) — and the gate
+itself calls sending anyone down it a **waste**, reckoning they will "fall and fail" (S2.33). The party
+entered it at the end of S2.33.
+
+Its entrance passage is a **hewn ceremonial way** of the kind that fronts the more sacred and secretive
+dwarven temples of **[[calvyr|Calvyr]]** (Mags, Caspian and Rell, S2.33) — a detail that has **not**
+been connected to Grommar himself by anything in the fiction, beyond both being dwarven.
 
 ## Open questions
 - **Why is the deep named for him?** Whether Grommar went down there, ended there, worked there, or
@@ -39,3 +43,6 @@ sardonic, amused and slightly pitying (S2.32).
   says so; this is only the obvious question raised by the naming.
 - **Are the traps of the legend the traps of the path?** The gleaners call the deep deadly; the legend
   calls Grommar trap-happy. The two have **not** been connected by the source.
+- **Why does a dwarven sacred way to [[calvyr|Calvyr]] front the path?** Grommar was a dwarf and, in one
+  telling, a runecrafter; Calvyr is the god of thought and craft. That is suggestive and **nothing
+  more** — the source does not link them.

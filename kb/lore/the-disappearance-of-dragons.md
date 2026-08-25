@@ -16,6 +16,15 @@ Roughly 300 years ago, dragons — which had never been common — began to disa
 - The party found a near-complete **silver dragon skeleton** in a sacred grove in the Eldryn forest ([[the-dragon-grove]], S2.15). [[dakir|Dakir]] felt his bronze draconic magic resonate with the bones — "different yet familiar" — and secretly took some (the [[the-dragon-bones]]); [[fabian-perennius|Fabian]] dreamed of the Crownspire Museum; the Eldryn guard the grove as sacred (Reflections, multiple entries 15).
 - The first dragon remains returned to civilisation after the disappearance came from "Aelorin Vaelthas' Stonemarch Expedition" (Fabian, Reflections entry 15).
 
+- **The Kethran's Fold dragon.** Beneath [[kethrans-fold|Kethran's Fold]] the party finds a
+  **naturalistic, true-to-life gold [[the-golden-dragon-statue|dragon statue]]** at the heart of a
+  swallowed [[the-golden-courtyard|courtyard]], inscribed in **archaic Draconic** ("The Lord of Light
+  greets the dawn of a new age"), together with [[the-draconic-regalia|regalia]] cut for someone taller
+  and slimmer than a human (S2.32–33). Note that dragons were **commonly depicted** until relatively
+  recently, so the statue is not by itself evidence of great age — but the courtyard is old, and
+  [[fabian-perennius|Fabian]] connects the regalia to legends of the
+  [[the-dragon-touched|dragon-touched]]. **Nothing links any of this to the disappearance itself.**
+
 ## Open questions
 - **Why did the dragons vanish?** No in-world explanation is established. [[dakir|Dakir]] explicitly asks whether the bones could tell him "more about what happened to the dragons" and whether any remain alive (Reflections, Dakir entry 15).
 - Is the disappearance connected to the source of Dakir's own draconic magic (quest [[dakirs-draconic-heritage]])?

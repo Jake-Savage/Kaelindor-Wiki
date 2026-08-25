@@ -15,6 +15,14 @@ Calvyr is the god of **thought, craft, invention, and ingenuity** — the fusion
 - About 300 years ago the priests of Calvyr produced great innovations — flying **airships** between cities, reliable **compasses** for safer sea travel, and autonomous **[[constructs|constructs]]** (see [[the-disappearance-of-dragons]] for that era).
 - The Church made [[dakir|Dakir]], a uniquely advanced construct, roughly ten years ago — **where is never stated**. Later, in a side chapel of a Church of Calvyr temple, the artificer-priest [[talan-pryce|Talan Pryce]] finished Dakir's spell-storing device (S2.10); the ex-paladin [[bartholomew-crane|Bartholomew Crane]] was a Calvyr cleric.
 
+- **Sacred ways.** The more seriously sacred and secretive dwarven temples of Calvyr are fronted by a
+  distinctive **narrow, hewn ceremonial passageway**. [[mags|Mags]], [[caspian-talon|Caspian]] and
+  [[rell-aetris|Rell]] recognise exactly that style in the passage beyond the Stonehunger's gate
+  beneath [[kethrans-fold|Kethran's Fold]] — the entrance to [[grommars-path|Grommar's Path]] (S2.33).
+  What a Calvyr temple-way is doing down there is **unexplained**.
+
 ## Open questions
 - What is the **Hidden Flame**, and how does it commune with Calvyr?
+- **Why does a Calvyr-style sacred way front [[grommars-path|Grommar's Path]]?** The style is
+  recognised; nothing yet says a temple is down there, or whose it was.
 - Why did the Church create a construct as advanced as Dakir, and is his draconic magic part of the design? (Quest [[dakirs-draconic-heritage]].)

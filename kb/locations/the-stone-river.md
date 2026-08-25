@@ -4,10 +4,10 @@ type: location
 title: The Stone River
 location_type: dungeon
 region: the-mirrowen
-connected_to: [kethrans-fold, the-golden-courtyard]
+connected_to: [kethrans-fold, the-golden-courtyard, grommars-path]
 status: active
 first_session: S2.31
-last_session: S2.32
+last_session: S2.33
 tags: [stonehunger, gleaners, kethrans-fold, chasm, bridges, underground]
 summary: The great chasm of endlessly churning stone inside the Stonehunger, worked by the gleaners from three narrow bridges, with the custodian's carved archway in the rock face beyond.
 ---
@@ -49,10 +49,16 @@ in God's **throat** — and it carries what God has swallowed.
   house-debris from Kethran's Fold, and, occasionally, **worked stone that could not have come from
   Kethran's Fold** — a column fragment, a marble floor tile.
 
+- S2.33: The cavern is still deserted while the party works the courtyard and then the gate. By the
+  time they leave it has been the best part of an hour since the clearance, and the DM notes that the
+  gleaners who left under ordinary persuasion (rather than the Mass Suggestion) will be drifting back.
+  The party departs through the gate onto [[grommars-path|Grommar's Path]] rather than facing them.
+
 ## DM notes
-- The clearance is **temporary**. The gleaners went up under a suggestion to find shiny things and
-  will return, and no alarm was raised — but nothing stops a returning shift from finding the party on
-  the far side.
+- The clearance was **temporary**, and the party never had to deal with the consequences — they left
+  through the gate before the gleaners returned. Whatever the returning shift makes of the emptied
+  cavern, the opened courtyard, and the vanished "godless" is **unplayed**.
+- The gate at the western face **watched all of it**. See [[the-custodian]].
 - The non-Kethran worked stone in the churn is an **unexplained** observation. It is not established
   whether it comes from other settlements the Stonehunger has taken, from the buried complex itself,
   or from somewhere else. Keep it separate from the question of who built the complex.

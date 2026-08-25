@@ -21,7 +21,7 @@ relationships:
   - who: caspian-talon
     note: She tolerates his impiety and senses his evasiveness; they grudgingly come to get along.
 first_session: S1.05
-last_session: S2.32
+last_session: S2.33
 tags: [cleric, naelos, gnome, underdark, diplomat, nameweave, petrified]
 summary: A centuries-old gnome cleric of Naelos and the party's blunt, pragmatic moral anchor, who threads diplomacy between Greymere and the Eldryn and is briefly petrified into wood.
 ---
@@ -68,6 +68,14 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
   first circled the group so their backs are to the crossing. Explores
   [[the-golden-courtyard|the courtyard]] with [[fabian-perennius|Fabian]], insisting that looking is
   not stealing.
+
+- S2.33: Tests the [[the-golden-dragon-statue|statue]] with a fingernail and triggers its protective
+  ward; casts her bones before the party turns it; reads the **weathering on the tiles** (survival 22)
+  to recover the courtyard's **original orientation**; and lands the solution — a **Guiding Bolt**,
+  the one **radiant** magic tried, which makes the statue emit the beam that opens the cache. At the
+  gate her **natural 20 Insight (27)** reads the creature twice over: that it sincerely believes its
+  kind's reach is **shrinking** and is ashamed of it, and that it has **no power to grant** the wager
+  it is agreeing to. Stows the crown in her robes.
 
 ## DM notes / secrets
 - Her undead-tinged bone shard (a Naelos relic of her own bones) keys the infernal "half in this world and half of another" doors in the Shifting Library (S2.08) — a detail worth remembering for her nature/longevity.
