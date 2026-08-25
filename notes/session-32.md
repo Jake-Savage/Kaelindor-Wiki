@@ -12,22 +12,22 @@ The party establishes the following about the place and its people:
 
 - On the far side of the canyon is a relatively sheer rock face carrying a large carved archway, as though a very large door belongs there. There is no sign of a door; it looks like plain rock. This is where the gleaners indicated the gate would be.
 - A number of other doors of varying kinds open off the area, offering directions the party has not explored.
-- The gleaners, though the party keeps calling them goblins, are not straightforwardly goblins. They do not look like the goblins Mags would know, presumably as a result of generations underground. They are roughly one size smaller than a human, and there are no other human-sized people down here at all.
+- The gleaners, though the party keeps calling them goblins, are not straightforwardly goblins. They do not look like the goblins Mags would know, presumably as a result of generations underground. They are noticeably smaller than a human, and there are no other human-sized people down here at all.
 - They are not creatures of darkness. They work by light and candlelight and go up to the surface at night, so real sunlight would be a shock rather than a familiar thing.
-- Mags is not familiar with anything resembling this place from her own experience underground, and no check is judged worthwhile. Nor does she know the gleaners' "God." What is familiar to her is only the form of the thing: she has met faiths that refer to their deity as "God" in the singular, and is untroubled by them, holding that it is one god under many faces. That is not what the gleaners are describing, and she does not recognise it. Their earlier dismissal of Naelos does not offend her.
+- Mags is not familiar with anything resembling this place from her own experience underground. Nor does she know the gleaners' "God." What is familiar to her is only the form of the thing: she has met faiths that refer to their deity as "God" in the singular, and is untroubled by them, holding that it is one god under many faces. That is not what the gleaners are describing, and she does not recognise it. Their earlier dismissal of Naelos does not offend her.
 
-Options are weighed: sneaking across, releasing the sweepers to cause havoc, or using fireballs. Trevick's Pass Without Trace will not carry the party across a wide, populated, open cavern; that would need invisibility or disguise. Mags argues against violence on tactical as much as moral grounds: the party does not know what the Korrathians want from this place, whether it is to be destroyed or repaired, and should not do their work for them by accident. Rell's proposal of a Mass Suggestion covering the whole cavern is adopted, with the DM allowing loose wording given the number of actors involved.
+Options are weighed: sneaking across, releasing the sweepers to cause havoc, or using fireballs. Trevick's Pass Without Trace will not carry the party across a wide, populated, open cavern; that would need invisibility or disguise. Mags argues against violence on tactical as much as moral grounds: the party does not know what the Korrathians want from this place, whether it is to be destroyed or repaired, and should not do their work for them by accident. Rell's proposal of a Mass Suggestion covering the whole cavern is adopted; with a crowd this size, the exact wording will matter less than the weight behind it.
 
 The party debates what the suggestion should be. "Ignore us" is rejected in favour of sending the gleaners away: an order that keeps them present risks one of them shaking it off at close quarters, while an order to leave clears the ground entirely. Fabian's version is that there is a fresh discovery on the surface, which the shift leaders would then pass down as a command of their own.
 
 The party assembles its disguises:
 
-- Caspian, checking his bag, produces a potion of diminution and gives it to Fabian. Fabian drinks it, becomes small, and is made up as a gleaner with a disguise kit, which the DM allows on a strong performance check.
+- Caspian, checking his bag, produces a potion of diminution and gives it to Fabian. Fabian drinks it, becomes small, and is made up as a gleaner with a disguise kit, to convincing effect.
 - Mags casts Disguise Self and takes the form of a gleaner, choosing an assertive female on the strength of what the party has observed of their hierarchy. She cannot mimic seniority; the party has not watched them closely enough to know what rank looks like.
 - Rell casts Disguise Self as a gleaner as well.
 - Fabian retains an unused potion of invisibility; Rell retains an unused scroll of invisibility.
 
-Mass Suggestion is not on Fabian's spell list, so Rell hands over his scroll and Fabian casts from it. Casting a sixth-level spell from a scroll requires an ability check, which Fabian makes with advantage and a reroll, using the golden lute to raise his spell save DC to 16. He steps out alone, in disguise, and projects the suggestion in four directions at those who look like leaders, on the reasoning that a command passed down by the shift's own leaders will carry further than his voice does.
+The spell is beyond Fabian's own repertoire, so Rell hands over his scroll and Fabian casts from it, stretching to reach a working of that order and holding it together with the golden lute. He steps out alone, in disguise, and projects the suggestion in four directions at those who look like leaders, on the reasoning that a command passed down by the shift's own leaders will carry further than his voice does.
 
 Fabian's suggestion, delivered aloud:
 
@@ -37,7 +37,7 @@ God has brought gifts, and has turned up more than we thought. Look at the shiny
 
 ---
 
-He shows the lute itself as evidence of the sort of thing that has been found up there. The DM resolves the crowd in four groups, working from nearest to furthest, and Caspian spends a Portent 5 on the nearest group.
+He shows the lute itself as evidence of the sort of thing that has been found up there. The crowd takes it in four groups, from the nearest to the furthest, and Caspian bends one of his portents against the nearest.
 
 - The nearest group takes it at once, gossiping excitedly and packing up their equipment.
 - The second group splits. Some are enthusiastic; others object that they were told to do this work, and that they went up yesterday and there were no shiny things. They remain in two minds.
@@ -46,7 +46,7 @@ He shows the lute itself as evidence of the sort of thing that has been found up
 
 A little over half the gleaners head up. They do not use only the large passageways: they disperse into small gaps, holes and tunnels in the walls, some of which the party could follow and many of which it could not. The most senior gleaner of the shift is judged to have gone with them, leaving others of some seniority behind.
 
-Fabian and Mags, both still disguised, walk in on the wavering second group and press the argument directly, on the line that it will all be gone by the time they get up there and that it is first come, first served. The check succeeds. Having already seen the lute up close, the group decides that others will get there first, and they follow their companions, packing their belongings properly as they go.
+Fabian and Mags, both still disguised, walk in on the wavering second group and press the argument directly, on the line that it will all be gone by the time they get up there and that it is first come, first served. Having already seen the lute up close, the group decides that others will get there first, and they follow their companions, packing their belongings properly as they go.
 
 Rell moves for the far side as soon as the suggestion lands, reasoning that even if everything else fails he will at least be on the correct side of the bridge. He crosses the middle bridge, which the departing crowd has left empty apart from discarded gleaner equipment stacked against the wall, and makes for the archway. Caspian and Trevick follow him across; Trevick maintains Pass Without Trace and otherwise holds himself in reserve. Caspian states, in advance and plainly, that if the party is attacked he will fight back and will disregard anything Mags says about not harming people, though he will do nothing until hostile action is taken.
 
@@ -54,13 +54,13 @@ Rell moves for the far side as soon as the suggestion lands, reasoning that even
 
 Twelve to fifteen gleaners remain on the far bridge to the north, unpersuaded and now openly suspicious. They turn on Fabian and Mags as the two approach, accusatory and unhappy: they were told to do this work, they are still trying to do it, everyone has left, and they want to know what they are supposed to do now.
 
-Fabian and Mags deliberately circle to the north of the group, so that facing them means turning their backs on the bridge and on the three party members crossing it. Fabian challenges them on their lack of interest in shiny things and in the will of God; Mags takes the opposite tack, agreeing that it is all a bit odd and suggesting that they ought to go and check that their companions are all right. Mags's persuasion succeeds at 18. The group is already unsettled — some curious, some anxious, some annoyed enough to want to drag their friends back to work — and one way or another they accept that with everyone gone it is better to find out what is happening. They pack their equipment away properly and pointedly before leaving, in contrast to those who abandoned theirs.
+Fabian and Mags deliberately circle to the north of the group, so that facing them means turning their backs on the bridge and on the three party members crossing it. Fabian challenges them on their lack of interest in shiny things and in the will of God; Mags takes the opposite tack, agreeing that it is all a bit odd and suggesting that they ought to go and see that their companions are all right. It works. The group is already unsettled — some curious, some anxious, some annoyed enough to want to drag their friends back to work — and one way or another they accept that with everyone gone it is better to find out what is happening. They pack their equipment away properly and pointedly before leaving, in contrast to those who abandoned theirs.
 
-The DM notes that among their own the gleaners are consistently kind, thoughtful and courteous to one another, whatever contempt they showed the party as "godless."
+Among their own the gleaners are consistently kind, thoughtful and courteous to one another, whatever contempt they showed the party as "godless."
 
 ## Crossing
 
-The bridges are small and rickety, and crossing one is intimidating for anyone of medium size. The stone river below would crush and roll anything that fell into it.
+The bridges are small and rickety, and crossing one is intimidating for anyone of full human size. The stone river below would crush and roll anything that fell into it.
 
 Fabian pauses on the crossing to look down, inspiring himself for the attempt. The party learns the following about what the river carries:
 
@@ -84,7 +84,7 @@ At the centre, on a large plinth, stands a statue of a golden dragon. Its neck i
 
 Rell reaches the archway and stands in front of it. The stone begins to flow and shape itself. Forewarned by Turley that a face would form here, he waits rather than reacting, and asks whether it is now safe to be seen undisguised; the cavern is empty for the moment, though nobody knows how long it will be before gleaners come back to find out what happened.
 
-Caspian, Rell and Trevick each study the forming shape. Caspian's Arcana check identifies it: the way it shapes the stone and the craggy planes of its face mark it as an earth elemental of some sort. Rell and Trevick learn nothing beyond what they were told to expect. Caspian relays what he knows to Rell over the party's telepathic link rather than aloud, and stays behind him.
+Caspian, Rell and Trevick each study the forming shape. Caspian alone knows it for what it is: the way it shapes the stone and the craggy planes of its face mark it as an earth elemental of some sort. Rell and Trevick learn nothing beyond what they were told to expect. Caspian relays what he knows to Rell over the party's telepathic link rather than aloud, and stays behind him.
 
 Caspian's knowledge extends further:
 
@@ -95,7 +95,7 @@ Rell waits for the face to finish forming and then deliberately drops his disgui
 
 The face that forms is large and humanoid. Its expression is not hostile: interested and curious, perhaps a little mocking. It registers immediately that these are not gleaners and appears more intrigued by that rather than annoyed. The archway does not look like a door at present, though it has the potential to be one. It speaks aloud, in a deep, earthy voice rather than mind to mind, and asks whether they intend to walk Grommar's Path. The question is put sardonically, with amusement and a degree of pity, rather than as a warning or a challenge.
 
-Fabian, at the far end of the cavern, can hear a rumbly voice but not its words; it blends with the other rumbling and rocky noise of the place. His history check, made with advantage, recovers what is known of the name. The party learns the following about Grommar:
+Fabian, at the far end of the cavern, can hear a rumbly voice but not its words; it blends with the other rumbling and rocky noise of the place. He does, however, recall what is known of the name. The party learns the following about Grommar:
 
 - He is a semi-legendary, semi-historical dwarven figure, and a smith of very great skill.
 - In his later years he sought to forge a weapon that could kill death — a thing that would kill Death itself when it came for him. He disappeared before he could complete it.
