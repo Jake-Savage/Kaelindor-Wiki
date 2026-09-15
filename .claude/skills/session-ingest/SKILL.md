@@ -5,7 +5,8 @@ description: >-
   base. Separates in-game canon from out-of-game table chatter, then produces two artifacts:
   (1) KB + wiki updates (new/updated entity files, quest progress, a session recap, regenerated
   HTML), and (2) prose session notes matching style/session-notes-style.md. Use whenever a new
-  session recording/transcript needs to be turned into canon + notes.
+  session recording/transcript needs to be turned into canon + notes. Invoked bare, it pulls the
+  repo and ingests whatever transcripts the latest transcript-adding commit brought in.
 ---
 
 # Session Ingest
@@ -46,18 +47,82 @@ Express confidence in **prose** (hedging words + attribution) and in the `## Ope
 correct output is an **open thread**, not an assertion.
 
 ## Inputs
-- A transcript file (usually in `transcripts/`), or pasted transcript text.
-- The session's real-world date (ask if not given) and, if known, the in-world date.
+- **Nothing.** By default the skill finds its own work: it pulls the repo and ingests the
+  transcripts the pull brought in (Step 0). This is the normal invocation.
+- Optionally, an explicit transcript file (usually in `transcripts/`) or pasted transcript text —
+  give one of these to ingest a specific transcript and **skip Step 0 entirely**.
+- The session's real-world date (Step 0 derives it from the filename; ask if it can't) and, if
+  known, the in-world date.
 - **`dm` (optional but recommended):** which speaker is the Dungeon Master — a diarisation
   label (e.g. `SPEAKER_00`) or a name. Diarisation labels are per-recording, so this is given
-  per run. The DM is a special speaker (see Step 2). If omitted, infer the DM (the speaker doing
-  the narration/adjudication) and record that assumption in the Step 8 ledger for correction.
-  The same input may carry a speaker→character map; the DM is the high-value one — infer the rest.
+  per run — and **per transcript** when Step 0 finds more than one. The DM is a special speaker
+  (see Step 2). If omitted, infer the DM (the speaker doing the narration/adjudication) and record
+  that assumption in the Step 8 ledger for correction. The same input may carry a speaker→character
+  map; the DM is the high-value one — infer the rest.
 
 ## Procedure
 
+### 0. Sync and find the transcripts
+**Skip this step** if the user handed you a specific transcript path or pasted text — they have
+already chosen the input. Otherwise the skill selects its own input, as follows.
+
+**a. Pull.** Check the tree is clean first (`git status --porcelain`); if it is dirty, stop and
+report rather than pulling over uncommitted work. Then:
+
+```sh
+BEFORE=$(git rev-parse HEAD)
+git pull --ff-only
+AFTER=$(git rev-parse HEAD)
+```
+
+If the pull fails (diverged branch, no upstream, no network), stop and report — do not ingest
+against a stale tree without saying so.
+
+**b. Collect candidates.** Transcripts added by the pull:
+
+```sh
+git diff --name-only --diff-filter=A "$BEFORE".."$AFTER" -- transcripts/
+```
+
+If `BEFORE` = `AFTER` (nothing came down — usually the user already pulled) or that list is empty,
+fall back to the **most recent commit that added a transcript**, which is the "latest commit" that
+matters here — note it is often *not* `HEAD`, since the ingest commits that follow it are newer:
+
+```sh
+C=$(git log -1 --format=%H --diff-filter=A -- transcripts/)
+git show --name-only --format= --diff-filter=A "$C" -- transcripts/
+```
+
+Say which of the two paths you took, and name the commit(s).
+
+**c. Drop what is already ingested.** Transcript filenames carry the real session date
+(`Record YYYY-MM-DD at HHhMMmSSs.txt`), and every session file records the same value as
+`date_real`. So a transcript is already canon iff a session file matches its date:
+
+```sh
+grep -l '^date_real: 2026-08-25$' kb/sessions/*.md
+```
+
+Drop every candidate that matches, and list what you dropped. If **all** candidates are already
+ingested, report that and stop — do not re-ingest.
+
+**d. Order them.** Sort the survivors by the **date in the filename, ascending**, and ingest oldest
+first. Do not take session numbers or ordering from commit messages: they are written by hand and
+have been wrong before (the commit titled "Session 33 transcript" added session **32**'s recording).
+The filename date is the reliable key.
+
+**e. Confirm before ingesting.** Report the transcripts you are about to ingest, in order, with the
+session id each will become, and ask the user for the `dm` speaker label **for each** (diarisation
+labels are per-recording, so a label from a previous session does not carry over). Then proceed.
+
+**f. Run the ingest once per transcript, serially, oldest first.** Complete Steps 1–7 in full for a
+transcript — including the wiki rebuild — before starting the next. Never run them in parallel and
+never batch them: a later session's recap, quest **Progress log** entries, entity `last_session`
+values and session numbering all depend on the earlier session already being canon. Give one Step 8
+report per transcript, then a short combined summary at the end.
+
 ### 1. Orient
-- Read the transcript fully.
+- Read the transcript fully (the one Step 0 selected, or the one the user gave).
 - Determine the new session id: the next number after the latest `kb/sessions/ch02-sNN.md`
   (the campaign is currently in Chapter 2). If the user says a new chapter has started, begin
   `ch03-s01`. Confirm the number if ambiguous.
