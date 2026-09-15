@@ -50,9 +50,9 @@ The party's responses run in parallel:
 - Mags reads the swings as building towards something rather than simply repeating, and holds an action to stop the blade with Thorn Whip, which can move a large creature ten feet. Fabian offers to back this with a Shield spell, and the plan is set aside when it becomes clear the caster would have to stand in the path of the axe.
 - Rell ignores the discussion and builds a pulley. He hammers a piton into the wall on one side of the axe's arc, ties a rope to the bottom of the far portcullis, runs it up through a loop at the piton and across the corridor, and fixes the loose end to a second piton on the other side of the arc, so the blade must strike the taut rope mid-swing and the momentum can only pull the portcullis end.
 
-It works on the seventh cycle of the party's deliberations and the sixth swing of the axe. The blade snags the rope, its momentum is arrested short, and the far portcullis rises far enough for the party to duck and roll under it. Fabian rolls a natural 20 and scoops up Mags, who had been committed to her held action; Trevick matches it. Everyone gets through.
+It works on the sixth swing of the axe. The blade snags the rope, its momentum is arrested short, and the far portcullis rises far enough for the party to duck and roll under it. Fabian, moving fastest, scoops up Mags, who had committed herself to the Thorn Whip and is slow to break off. Trevick matches him. Everyone gets through.
 
-After the session the DM confirms that the axe was building to something, and that the party stopped it in the nick of time: on the seventh swing it would have begun to do what it was intending to do.
+The axe had been building toward something rather than simply repeating, and the party stopped it in the nick of time: on the seventh swing it would have begun to do whatever it was intended to do.
 
 ## Saint Sargrim Hexward
 
@@ -60,7 +60,7 @@ The next relief is Sargrim Hexward, the runecrafter of the seven, known for bein
 
 The party declines to take them. Rell argues there is no time to chisel them out intact, and that gems are easily liquidated where ancient runes are not. Mags declines on the grounds that removing the gems did not make axes swing out of the walls and this might. Caspian notes the inconsistency and lets it go, and the runes are deferred to the way out.
 
-Searching the ground in front of the carving, Rell finds that some but not all of the stones of the floor, and of the wall beneath the relief up to the level of the carving itself, carry very faint marks. They are not cut into the stone; they look more like shadows on it, and read as the trace effect of magic having been cast upon them. He can see a path between them. Rather than talk the party through it, he chalks the route out as he goes, which lets everyone follow it with advantage. Two of the party roll natural ones on the way across and the chalked path carries them through regardless.
+Searching the ground in front of the carving, Rell finds that some but not all of the stones of the floor, and of the wall beneath the relief up to the level of the carving itself, carry very faint marks. They are not cut into the stone; they look more like shadows on it, and read as the trace effect of magic having been cast upon them. He can see a path between them. Rather than talk the party through it, he chalks the route out as he goes. Two of them badly misplace their footing on the way across; the chalked route carries them through regardless.
 
 ## The Inscription
 
@@ -117,7 +117,7 @@ Caspian sends Theo under the canopy. Something comes at the familiar almost at o
 
 Rell reads the absence of webs and the immediate pounce together as confirmation that they are not biological: a living spider would stalk rather than rush, and would have webbed the place.
 
-Fabian probes the ledge with an unseen servant, which can be sent about sixty feet from him. It walks two-thirds of the way round making noise, with no reaction. It waves a pebble, with no reaction, and then throws the pebble hard enough that it skitters along the ledge and drops into the water.
+Fabian probes the ledge with an unseen servant, which can be sent about sixty feet from him. It walks two-thirds of the way round making noise, and nothing stirs. It waves a pebble, and nothing stirs, and then throws the pebble hard enough that it skitters along the ledge and drops into the water.
 
 Trevick notices a shift in the patterns on the surface, subtle, and beyond what the falling stone accounts for. The party tests this by having the unseen servant drop rations into the water along an arc, fifty feet in each direction, and the result is consistent: the movement follows where things are dropped, concentrating near them, spread over a wide area but not the whole pool. Nothing is ever seen. The party cannot agree among themselves where in the water it is, and Mags asks directly whether the disagreement indicates that some of them are being magically compromised. It does not: the movement is simply difficult to read.
 

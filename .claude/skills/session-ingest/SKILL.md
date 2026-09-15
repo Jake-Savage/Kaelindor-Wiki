@@ -195,6 +195,23 @@ analyse and infer more freely than the KB records, but the fidelity rules still 
 KB — a reading the notes carry as "strongly implied" becomes, in a KB entry, a hedged/attributed
 claim or an open thread, never an unqualified hard fact (report suspicions as suspicions, per G1).
 
+**Strip the table, not just the chatter (style §11) — this is the most-repeated mistake.** The notes
+carry **in-character understanding only**. The KB recap may cite checks and DM rulings as evidence; the
+**notes may not**. Cut every one of these and state the outcome in-fiction instead:
+
+- **Named checks and roll totals** ("a religion check", "sleight of hand 16", "a natural 20", "with
+  advantage", "rolls well"). Write what happened: *"Mags knows the figure,"* *"the gems come away
+  scratched."*
+- **Rules vocabulary**: saving throws, death saves, hit points, bonus actions, reactions, spell slots,
+  upcasting, concentration, attunement, initiative, short/long rest as a mechanic, "mechanically".
+- **Any reference to the DM** ("the DM confirms", "the DM warns", "after the session"). A DM ruling is
+  simply what is true: *"The axe had been building toward something."*
+- **Rules debate at the table** — how a spell works, what a skill covers, what an edition allows.
+
+**Keep:** spell names, capitalised (§7); distances, loot and gold stated directly; and mechanical
+outcomes rendered plainly in the fiction ("the spell takes hold," "it resists"). `notes/session-32.md`
+is the reference for the register — check a new file against it before finishing.
+
 **Formatting — Google-Docs-compatible markdown (per style §10):** do **not** hard-wrap. Write one
 physical line per paragraph and one per bullet, blank line between blocks. Hard-wrapped notes paste
 into Google Docs as broken, non-rendering line-stacks — this is the format the DM actually consumes.
