@@ -21,7 +21,7 @@ relationships:
   - who: caspian-talon
     note: She tolerates his impiety and senses his evasiveness; they grudgingly come to get along.
 first_session: S1.05
-last_session: S2.33
+last_session: S2.35
 tags: [cleric, naelos, gnome, underdark, diplomat, nameweave, petrified]
 summary: A centuries-old gnome cleric of Naelos and the party's blunt, pragmatic moral anchor, who threads diplomacy between Greymere and the Eldryn and is briefly petrified into wood.
 ---
@@ -76,6 +76,24 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
   gate her **natural 20 Insight (27)** reads the creature twice over: that it sincerely believes its
   kind's reach is **shrinking** and is ashamed of it, and that it has **no power to grant** the wager
   it is agreeing to. Stows the crown in her robes.
+
+- S2.34: Identifies **Orvan Smokeglass** from the first relief and supplies the party's frame for the
+  whole corridor — that this is a Calvyran temple and that its saints might date it. Loses her staff to
+  the **ceiling hammer** when it is used to spring the trap. Presses hardest on the
+  **[[khazar-vuk-varag|Khazar Vuk Varag]]** inscription, insisting that "oldest enemy" is not the same claim as
+  "death" and that whoever carved it wanted an inference drawn; her religion check finds no tradition of
+  the name. Argues, correctly, that the axe was building toward something and offers to hold the swing
+  with Thorn Whip. Goes into the pool with the rest when the stairs give way, and is the one
+  [[rell-aetris|Rell]] fails to catch.
+
+- S2.35: Holds the party together in the water. Casts **Water Walk** to lift everyone onto the surface
+  of the pool — ducking under first, at the cost of an opportunity attack, to get [[trevick|Trevick]]
+  into range — then **Daylight** straight down into forty feet of filthy water, which is what lets the
+  party see the hydra and Trevick both, and what later shows Trevick the drain. Heals Trevick out of
+  danger with Healing Word, burns two third-level slots doing all this, and drinks two disappointing
+  healing potions. Takes **[[the-handlet|the handlet]]** on identification, on the grounds that she
+  backs her own saving throws above anyone else's — which the DM allows is statistically right — and the
+  memory of [[the-shifting-library|the library]].
 
 ## DM notes / secrets
 - Her undead-tinged bone shard (a Naelos relic of her own bones) keys the infernal "half in this world and half of another" doors in the Shifting Library (S2.08) — a detail worth remembering for her nature/longevity.

@@ -17,7 +17,7 @@ relationships:
   - who: trevick
     note: Comes to understand Trevick as one who has shed the trappings of humanity to live honestly.
 first_session: S1.05
-last_session: S2.33
+last_session: S2.35
 tags: [wizard, aberrant-mind-sorcerer, mind-magic, telepathy, tir-van, horizonborn, horizon-doors, masked, secretive]
 summary: A masked, reclusive Tir'Van who passes publicly as a wizard — secretly an Aberrant Mind sorcerer — whose lifelong search for the Horizon Doors makes him suspiciously excited when the party finds one — the tampered Bright Gate.
 ---
@@ -75,6 +75,31 @@ Morally, Rell is the party's harshest realist. He is bitter that the party "danc
   reach** — provoking the slip [[mags|Mags]] reads — then offers the **wager** (a thread to pull if
   they fail, its acknowledgement if they succeed) and gives the formal acknowledgement that opens the
   stone.
+
+- S2.34: The party's trapfinder for the whole of [[grommars-path|Grommar's Path]]'s first leg, and the
+  session's decisive mind. Spots the spent needle-trap at the first relief, reads the repaired floor
+  under the **ceiling hammer**, marks the safe jump over the **spike line** with a chalk X, and picks
+  out the **warded stones** at Sargrim Hexward's relief and chalks a path through them for everyone
+  else. Prises the **green gem eyes** out of Vero's relief (arguing the temple has already been eaten
+  and is no longer a temple), which springs the **portcullis-and-axe** trap that seals the party in —
+  then defeats it with a **piton-and-rope pulley** that converts the axe's momentum into hauling the far
+  grate up, stopping the trap one swing before it escalated. Reads the Dwarvish
+  **[[khazar-vuk-varag|"Khazar Vuk Varag — I defy you"]]** aloud and argues it is Grommar's own note of triumph
+  at having survived the path. At [[the-foul-pool|the pool]] he theorises the spiders sense by
+  divination and steps off the stairs to test his
+  [[amulet-of-proof-against-detection|amulet of proof against detection]] against them — the moment the
+  staircase snaps flat. He keeps his footing, grabs for [[mags|Mags]] as she goes past, and fails to
+  hold her, ending the session the only one dry.
+
+- S2.35: Safe on the ledge while the rest of the party is in the water, and spends the session making
+  that useful. Anchors a rope with his **climber's kit** for everyone to climb out on, and drives the
+  hydra off again and again with **Dissonant Whispers**, forcing it away each time it comes up. Then
+  takes the blade-trapped carving alone — grazed, not pierced — and **proves his own theory** on the way:
+  the spiders ignore him entirely, so their sense is **magical** and his
+  [[amulet-of-proof-against-detection|amulet of proof against detection]] blinds them to him. First into
+  **[[the-ancient-forge|the forge]]** above, he searches it, judges the party to be in the temple
+  complex proper, and relays it all down the telepathic link. Afterwards he rigs the rope clear of the
+  wall with loops tied into it so the others can climb without triggering the blades.
 
 ## DM notes / secrets
 - **The "wizard" identity is a guise.** Rell is officially known as a wizard and deliberately never names a subclass. In truth he is an **Aberrant Mind sorcerer** (an "aberrant soul" sorcerer), masking his innate, aberrant power behind the studied respectability of wizardry — a concealment that fits the unsettling, many-eyed nature of the [[the-tir-van]].

@@ -5,9 +5,9 @@ title: The Korrathian Conspiracy
 status: active
 priority: side
 opened_session: S2.24
-last_updated_session: S2.33
+last_updated_session: S2.35
 involves_characters: [caspian-talon, mags, rell-aetris, dakir, trevick, fabian-perennius, hethan-kroll, oscar-wicklow, captain-thoronby, soren-dragan, amir-merillac, tamzin-venik, jorrith-potter, nan-prentic, cressan-weller, turley, glorta, tuffin, the-custodian]
-involves_locations: [greymere, the-mercenary-camp, bridgemarch, the-tiefling-shop, offendale, greywatch, the-mirrowen, trevaryn, the-three-copper-hatch, kethrans-fold, the-stone-river, the-golden-courtyard, grommars-path]
+involves_locations: [greymere, the-mercenary-camp, bridgemarch, the-tiefling-shop, offendale, greywatch, the-mirrowen, trevaryn, the-three-copper-hatch, kethrans-fold, the-stone-river, the-golden-courtyard, grommars-path, the-foul-pool, the-ancient-forge]
 factions: [the-furnace-brood, krolls-mercenaries, the-gleaners]
 tags: [korrathian, furnace-brood, conspiracy, cliffhanger]
 summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursion and, from the raided Bridgemarch cell, recovers scrolls naming three more Brood operations — choosing to chase one to Greywatch.
@@ -76,6 +76,24 @@ summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursi
   **nothing confirms** it is their object. The party then talks its way past the
   [[the-custodian|gate]] and descends **[[grommars-path|Grommar's Path]]**, which seals behind them —
   taking them further from [[jorrith-potter|Jorrith]] and the report the cover story requires.
+
+- S2.34: Still nominally the Brood's errand, though nothing Brood-related surfaces. The party walks the
+  trapped [[calvyr|Calvyr]] temple corridor at the head of [[grommars-path|Grommar's Path]] and reaches
+  [[the-foul-pool|the pool]] below, where the staircase collapses under them. The
+  [[the-draconic-regalia|regalia]] recovered in S2.33 remains the only candidate for the "something that
+  does not belong" the Brood sent [[soren-dragan|Soren]] to recover, and it is now going **further from**
+  [[jorrith-potter|Jorrith]] rather than back to him. Tracked in full under [[the-stonehunger-below]].
+
+- S2.35: [[caspian-talon|Caspian]] ritually **identifies** the regalia during a short rest in
+  [[the-ancient-forge|the forge]]: [[the-dragon-crown|a crown]] that circumstantially sharpens charisma
+  and turns its wearer's thoughts to **Draconic**, and [[the-handlet|a handlet]] made for a
+  **bodyguard**. The party also restates its own brief out loud, and corrects itself while doing so:
+  [[rell-aetris|Rell]] notes they intercepted the Brood's instructions to go beneath the destroyed
+  village and find **something that should not be there**, and that this never named the
+  [[the-stonehunger|Stonehunger]] itself — his reading is that the Stonehunger has swallowed things from
+  across its range, and the Brood may want one of them. [[mags|Mags]] counters that
+  [[the-golden-courtyard|the courtyard]] may already **be** the thing. The party commits to going
+  deeper, which takes it further from [[jorrith-potter|Jorrith]] and the report still owed.
 
 ## Open threads
 - What is the Furnace Brood's ultimate goal in probing the uthrel incursion? (They were sent to find if it "left a trace," not established as its cause — per Speak with Dead they do not know who caused it.)

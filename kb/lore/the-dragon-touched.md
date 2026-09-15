@@ -4,7 +4,7 @@ type: lore
 category: people
 tags: [dragons, draconic, legend, prehistory, tieflings, kethrans-fold]
 summary: Legendary people of an age well before recorded history said to have been physically changed by draconic magic, much as Korrathian planar magic marks tieflings.
-related: [the-disappearance-of-dragons, the-draconic-regalia, the-golden-courtyard, korrathian]
+related: [the-disappearance-of-dragons, the-draconic-regalia, the-dragon-crown, the-golden-courtyard, korrathian]
 ---
 
 ## What is told
@@ -28,6 +28,11 @@ made for one of the dragon-touched, and that this "lines up with all the other s
 That is a reading of converging evidence, **not** an identification — and it is the party's, not the
 world's.
 
+**S2.35 adds one thing that is not a reading.** The [[the-dragon-crown|crown]] from the cache, once
+identified and worn, turns its wearer's thoughts toward **Draconic** — [[fabian-perennius|Fabian]]
+catches the Draconic word rising to mind ahead of the common one. Whoever the regalia was made for, it
+was made by people for whom Draconic was the language of the head as well as of the inscription.
+
 ## Open questions
 - **Were the courtyard's builders the dragon-touched?** Height, script, subject and regalia all point
   the same way, but nothing states it.
@@ -36,3 +41,5 @@ world's.
   connected by anything in the fiction.
 - Is the **"Lord of Light"** of the statue's inscription one of them, a dragon, or something else
   again?
+- **What is the crown doing to its wearer?** The Draconic drift is established; whether it goes further
+  than vocabulary is unexplored.

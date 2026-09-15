@@ -5,7 +5,7 @@ kind: artifact
 title: The Draconic Regalia
 owner: null
 status: held
-tags: [regalia, crown, draconic, kethrans-fold, stonehunger, unidentified, dragon-touched]
+tags: [regalia, crown, draconic, kethrans-fold, stonehunger, identified, dragon-touched]
 summary: A cache of ceremonial regalia hidden beneath the golden courtyard — a tiered crown and a chained hand-piece, both magical and untouched by time, with crumbled robes and decayed ceremonial weapons cut for someone taller and more slender than a human.
 ---
 
@@ -31,9 +31,18 @@ The rest has not survived:
   swords** and something that **shot darts** of some kind. Non-magical, badly decayed, **unusable**, and
   bearing no markings the party can place.
 
-**Neither magical item has been identified.** The party wrapped everything up to carry out, intending an
-Identify or an expert opinion in a city later; they were out of time, with the [[the-gleaners|gleaners]]
-due back.
+**Both magical pieces were identified in S2.35**, by [[caspian-talon|Caspian]]'s ritual **Identify**
+during the short rest in [[the-ancient-forge|the ancient forge]]. They now have their own entries:
+
+- **[[the-dragon-crown|The Dragon Crown]]** — an enchantment that circumstantially sharpens
+  charisma-based checks, and which turns the wearer's thoughts toward **Draconic**. Worn by
+  [[fabian-perennius|Fabian]].
+- **[[the-handlet|The Handlet]]** — made for a **protector or bodyguard**: the wearer may take on a
+  saving throw for someone within five feet and, succeeding, extend that success to them. Requires
+  attunement. Worn by [[mags|Mags]].
+
+Taken together the set reads as a household rather than a wardrobe: **someone wore the crown, and
+someone stood beside them whose business was absorbing what was aimed at its wearer.**
 
 ## History
 Unknown. The cache sat beneath a flagstone whose abjuration is **bound to** the one protecting
@@ -49,6 +58,10 @@ regalia was made for such a person; that is a reading of the evidence, **not** a
 ## DM notes
 - The cache is the most promising thing the party has found for the [[the-furnace-brood|Brood]]'s brief
   of "something that does not belong" (see [[the-korrathian-conspiracy]]) — and, unlike the statue, it
-  is **portable**. Whether it is what the Brood want is **not established**.
+  is **portable**. In S2.35 [[mags|Mags]] raised exactly that: the courtyard and its contents may
+  already *be* the thing the Brood sent for.
+- **The Draconic drift.** The crown's effect on its wearer's language is the first thing in the cache to
+  do something rather than merely look like something, and it points the same way as the statue's
+  archaic Draconic inscription.
 - Everything else in the courtyard was left as found: the statue restored to its original facing, the
   flagstone replaced.

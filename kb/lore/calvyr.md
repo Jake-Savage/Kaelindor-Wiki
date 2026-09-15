@@ -2,9 +2,9 @@
 id: calvyr
 type: lore
 category: deity
-tags: [calvyr, the-unity, craft, invention, deity]
+tags: [calvyr, the-unity, craft, invention, deity, saints]
 summary: God of thought, craft, and ingenuity, worshipped through the Church of Calvyr — the Sacred Unity of Thought and Deed.
-related: [church-of-calvyr, constructs, dakir, the-disappearance-of-dragons, the-brass-tower]
+related: [church-of-calvyr, constructs, dakir, the-disappearance-of-dragons, the-brass-tower, the-seven-saints-of-calvyr]
 ---
 
 ## Overview
@@ -19,10 +19,20 @@ Calvyr is the god of **thought, craft, invention, and ingenuity** — the fusion
   distinctive **narrow, hewn ceremonial passageway**. [[mags|Mags]], [[caspian-talon|Caspian]] and
   [[rell-aetris|Rell]] recognise exactly that style in the passage beyond the Stonehunger's gate
   beneath [[kethrans-fold|Kethran's Fold]] — the entrance to [[grommars-path|Grommar's Path]] (S2.33).
-  What a Calvyr temple-way is doing down there is **unexplained**.
+  What a Calvyr temple-way is doing down there is **unexplained**. In S2.34 the passage proves to open
+  into an actual **Calvyr temple corridor**, lined with devotional reliefs of the saints — so this is
+  not merely a borrowed style, though whose temple it was is still unknown.
+- **The seven saints.** Dwarvish Calvyr worship holds **seven classical saints**, real or supposedly
+  real exemplars of particular crafts, all of them ancient by the standards of the present era. Five
+  have been seen and four named — see [[the-seven-saints-of-calvyr]] (S2.34).
+- **Dwarven religious metalwork** is treated in ways that stop it corroding and corrupting, so
+  uncorroded metal in such a space is ordinary rather than a sign of enchantment (DM, S2.34).
 
 ## Open questions
 - What is the **Hidden Flame**, and how does it commune with Calvyr?
-- **Why does a Calvyr-style sacred way front [[grommars-path|Grommar's Path]]?** The style is
-  recognised; nothing yet says a temple is down there, or whose it was.
+- **Whose temple fronts [[grommars-path|Grommar's Path]]?** As of S2.34 there *is* a Calvyr temple
+  down there — the corridor's own devotional reliefs establish it. Who built it, when, and why it lies
+  inside the [[the-stonehunger|Stonehunger]] are all unanswered, as is **who trapped it afterwards**.
+- **Who are the two unidentified saints of the seven**, and can a temple be dated by which of them it
+  depicts? (The DM allowed the method; the party never used it.)
 - Why did the Church create a construct as advanced as Dakir, and is his draconic magic part of the design? (Quest [[dakirs-draconic-heritage]].)

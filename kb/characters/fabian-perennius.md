@@ -21,7 +21,7 @@ relationships:
   - who: valeria
     note: His sister, an aberration-scholar he expects to envy his reaching the Mirrowen first.
 first_session: S1.05
-last_session: S2.33
+last_session: S2.35
 tags: [bard, crownspire, fame-seeking, radiant-magic, golden-lute, sunblade]
 summary: A vain, fame-seeking bard and seventh son of a Crownspire dynasty who hungers to be the hero of an epic tale, and who manifests a new golden radiant magic after a selfless act by Mags.
 ---
@@ -78,6 +78,20 @@ His defining motivation is legacy and museum-fame: as a boy he stood beneath the
   [[the-dragon-touched|dragon-touched]]. At the gate — still shrunk and painted as a gleaner — he opens
   the negotiation, and when refused buys the creature's interest with an embellished tale of
   [[shadows-meet|Shadows Meet]] and his festival mask (performance 25), which turns the conversation.
+
+- S2.34: Carries the light for the party down the corridor, switching to a hooded lantern to spare the
+  others' darkvision and later putting out his flame on [[rell-aetris|Rell]]'s warning about the gas.
+  Rolls the natural 20 that gets the party clear under the portcullis and scoops up [[mags|Mags]] with
+  it. At [[the-foul-pool|the pool]] his **unseen servant** does the probing the party cannot risk in
+  person — making noise part-way round the ledge, waving and throwing a pebble, then dropping rations in
+  an arc across the water, which is how they learn that whatever is down there **follows the drops**.
+
+- S2.35: Thoroughly out of his depth and useful anyway. Discovers he has no rope, fails to throw one
+  thirty feet to his unseen servant, throws up **Mirror Image** instead, and then wins the fight's
+  decisive moment: he ducks his head (and all three images) under the filthy water and **Commands** the
+  hydra to *drop* — which it does, releasing [[trevick|Trevick]]. Afterwards he takes
+  **[[the-dragon-crown|the crown]]** from Caspian, wears it through the short rest, and finds his
+  thoughts beginning to surface in **Draconic**.
 
 ## DM notes / secrets
 - Fabian's [[fabians-radiant-magic|radiant magic]] (S2.17) is unexplained in-world — an emergent power tied to selfless/heroic resonance, an active open thread.

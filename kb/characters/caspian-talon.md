@@ -21,7 +21,7 @@ relationships:
   - who: shalfay
     note: Tower of Heaven employer and divination contact; Caspian still corresponds with him.
 first_session: S1.01
-last_session: S2.33
+last_session: S2.35
 tags: [scholar, wizard, divination, uthrel, vampire-suspicious, dragon-bones]
 summary: A coldly rational divination wizard obsessed with studying the Uthrel and dragon remains, who secretly dealt with the vampire Lucien and is evasive about what it cost him.
 ---
@@ -77,6 +77,21 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
   **Dispel Magic** to open it and withdraws the offer on being warned the flagstone's ward and the
   statue's are one field. Supplies the compass by which the statue's facings are tracked, and
   recognises the passage beyond the gate as a [[calvyr|Calvyr]] temple-way.
+
+- S2.34: Recognises **Keldra the Golden-Faced** and reads the runes on **Sargrim Hexward**'s relief as
+  genuinely potent and worth money — and is talked out of chiselling them free. Sends
+  [[theodore|Theo]] ahead twice: down the stair to find [[the-foul-pool|the pool]], the ledge and the
+  canopy, and then under the canopy itself, where the familiar is rushed by one of the **construct
+  spiders** and pulled out of existence just in time. The information the party has about the spiders is
+  almost all Theo's.
+
+- S2.35: Gets himself out early with **Spider Climb**, taking [[rell-aetris|Rell]]'s rope up the wall
+  with him, and spends the fight trying to hit a thing he cannot see — eventually placing a **fireball**
+  underwater, closer to [[trevick|Trevick]] than he would like, on a good Arcana read of how it would
+  behave. It is the blow that makes the hydra let go. Later he ritually casts **Identify** twice on
+  [[the-draconic-regalia|the regalia]], handing [[the-dragon-crown|the crown]] to Fabian with the
+  observation that he would suit it more than anyone, and ends the session having prepared and spent an
+  upcast **Shatter** that destroys the spiders outright.
 
 ## DM notes / secrets
 - Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. What passed between them is unresolved and worth keeping ambiguous.

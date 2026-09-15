@@ -21,7 +21,7 @@ relationships:
   - who: dakir
     note: Founding companion he confides in about Joster; the two keep contact by Dakir's paired sending-tokens after Dakir's departure (S2.28).
 first_session: S1.01
-last_session: S2.33
+last_session: S2.35
 tags: [ranger, beastmaster, firbolg-favoured, watcher, uthrel, velton, salmeros]
 summary: A tiefling beastmaster ranger and lone survivor of a village destroyed by the Uthrel, revered by the firbolgs as bearing a Rhynharran "Watcher" and chosen as the Eldryn's go-between.
 ---
@@ -66,6 +66,20 @@ In [[greymere]] he becomes the party's conduit to the natural world and the [[th
 - S2.33: Reads the archaic Draconic inscription around the statue's base through his
   [[glasses-of-comprehend-languages|Comprehend Languages glasses]] and gives the party the line the
   whole puzzle turns on — **"The Lord of Light greets the dawn of a new age."**
+
+- S2.34: The party's second pair of eyes on the corridor, aiding [[rell-aetris|Rell]]'s searches. Swings
+  Mags's staff at the suspected floor-trap on the strength of his reach, and while the party is boxed in
+  by the portcullises notices the **rectangular gaps opening along the floor** as the axe swings — a
+  detail nobody explained. Later, at [[the-foul-pool|the pool]], he is the one who spots the **shift in
+  the water** that a thrown stone cannot account for, and reports that something is moving down there.
+
+- S2.35: Takes the worst of the fight. A hydra head closes on his ankle in the opening moments and
+  drags him under; he spends most of the fight submerged, one round from death saves, firing a bolt that the water
+  spoils and failing to twist free, until [[fabian-perennius|Fabian]]'s Command and
+  [[caspian-talon|Caspian]]'s fireball between them make it let go. Surfaces prone, summons
+  [[hawk|Hawk]] to watch the water, and climbs out. Afterwards it is Trevick who processes what the
+  Daylight showed him on the bottom — the **drain** with bones and a glint of treasure in the silt, and
+  the **clear patch** opposite — and who is talked out of diving back for it.
 
 ## DM notes / secrets
 - Trevick's father was a "Salmeros" — a lineage the devil [[joster-sirit]] recognised (he never claimed to have known the man) — and his parentage (with possible infernal/marked lineage beyond ordinary tiefling) is an open mystery seeded since S1.05.

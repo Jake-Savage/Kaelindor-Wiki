@@ -12,7 +12,7 @@ relationships:
   - who: caspian-talon
     note: His wizard; Theodore is Caspian's familiar and favoured spy.
 first_session: S1.01
-last_session: S2.31
+last_session: S2.34
 tags: [familiar, rat, scout, spy]
 summary: Caspian's rat familiar and favoured scout, killed by Bartholomew (S2.03) and resummoned.
 ---
@@ -35,3 +35,9 @@ As a familiar, Theodore acts on Caspian's direction. Nameweave is noted (in Casp
   grapnel-poles), the stinking crate-room, the climbable pipes — and finally pokes his head into the
   chasm cavern to reveal the **web of bridges over the river of churning stone** and the gleaners
   crowding it.
+- S2.34: Scouted [[the-foul-pool|the pool]] twice for [[caspian-talon|Caspian]]. The first trip, down
+  the stair and along the ledge, produced everything the party knew before they descended: the size of
+  the pit, the filthy warm water, the damaged ledge, the carved chimney and the dark shapes roosting
+  under its canopy. The second trip, under the canopy itself, produced the **construct spiders** — one
+  came at him almost at once, metal-clattering and fast — and he was dismissed out of existence a moment
+  before it reached him.
