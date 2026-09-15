@@ -1,0 +1,1858 @@
+[SPEAKER_02]: 13, not much better, but better than two.
+[SPEAKER_04]: All right.
+[SPEAKER_04]: And then a two, because I thought you'd given me guidance, but that was a different one.
+[SPEAKER_02]: Sorry, I withdrew it.
+[SPEAKER_05]: All right, Max and Gaspian, you don't notice anything unusual as you make your way along this corridor.
+[SPEAKER_05]: Have you put any kind of light up at this point?
+[SPEAKER_04]: I got dark vision.
+[SPEAKER_04]: We're not.
+[SPEAKER_00]: I need light up.
+[SPEAKER_00]: I guess I'm going to cast light unless we can think of a... Do we have one of those spy lantern things, I want to say?
+[SPEAKER_02]: Or if he casts it in red frequencies, it won't undermine our darkvision.
+[SPEAKER_05]: I learnt that from Scouts.
+[SPEAKER_02]: Common problem with Scouts.
+[SPEAKER_02]: Well, if you want to be able to turn a light on and off quickly instead of dark vision after it.
+[SPEAKER_05]: It would be very hard if you were like, if you cast light, everyone else loses their dark vision, that would be a very harsh judgement.
+[SPEAKER_00]: I like it though, I like the idea that I can disrupt everybody else's senses.
+[SPEAKER_00]: I feel like somebody had a covered lantern when we were going down those stairs earlier, is that true?
+[SPEAKER_04]: We have had a lantern previously, yeah.
+[SPEAKER_04]: I don't know who had it.
+[SPEAKER_04]: I'm happy for this to be a thing that you...
+[SPEAKER_01]: I indeed have a hooded lantern there in my inventory.
+[SPEAKER_05]: If you would like one of those, it just gives a relatively narrow beam of light.
+[SPEAKER_05]: You're welcome to have that.
+[SPEAKER_00]: Yes, I will use that to avoid disrupting the dark vision.
+[SPEAKER_00]: Unless Mags annoys me.
+[SPEAKER_05]: Mags and Caspian have gone forward about 20 feet or so away from the group in order to look at the first of these carvings on the wall.
+[SPEAKER_05]: You have neither of you have noticed anything unusual happening when you do that.
+[SPEAKER_05]: We're safe, we're fine.
+[SPEAKER_05]: But you do make it up for the carvings and the ill effects.
+[SPEAKER_05]: It is a carving of a dwarvish figure who, let me list.
+[SPEAKER_05]: A dwarvish figure who is holding what looks like a flask of some sort.
+[SPEAKER_05]: There appears to be vapour coming out of it, and there is another flask on a table in front of them.
+[SPEAKER_05]: Make a quick religion check.
+[SPEAKER_02]: Oh, come on Max, yes!
+[SPEAKER_02]: 19!
+[SPEAKER_04]: I think you'll win here.
+[SPEAKER_04]: Actually, you know what, I'm studious, so who knows.
+[SPEAKER_04]: Not today, I'm not.
+[SPEAKER_02]: Framelessly atheistic, right?
+[SPEAKER_05]: Yeah, it's true.
+[SPEAKER_05]: Catherine just shrugs, but Mags, you know that in what you presume to be a Calvarian
+[SPEAKER_05]: temple, you know that this is probably a depiction.
+[SPEAKER_05]: And there are seven in Wawish Calvary in worship, there are seven kind of classical saints of whom this is one.
+[SPEAKER_05]: They are all either real people or supposedly real people who were kind of exemplars of particular crafts.
+[SPEAKER_05]: This one is our Orvan Smokeglass, who is the alchemist in that seven.
+[SPEAKER_02]: This is Old Smokeglass the Alchemist, she says.
+[SPEAKER_00]: Does this match the style of the engravings in the entrance hall?
+[SPEAKER_00]: Good question.
+[SPEAKER_05]: It does not.
+[SPEAKER_05]: Interesting.
+[SPEAKER_02]: But this was a perfectly standard thing to have in a Calvaryan temple.
+[SPEAKER_05]: Yeah.
+[SPEAKER_02]: Are there, can we date the temple from whether all seven of the saints are present?
+[SPEAKER_05]: potentially, you could try to do that.
+[SPEAKER_05]: I mean, as far as in the present era, all seven of these saints are pretty ancient.
+[SPEAKER_02]: So it would have to be old as fuck to not have all of them.
+[SPEAKER_01]: If I might quickly interject, we are reminded that this is Grommer's path, said to be an endless trial likely to result in our death.
+[SPEAKER_01]: I might suggest slower pace and perhaps checking the way for traps.
+[SPEAKER_04]: Yes, I had got distracted.
+[SPEAKER_04]: You're right.
+[SPEAKER_04]: Absolutely right.
+[SPEAKER_04]: But this was quite interesting.
+[SPEAKER_04]: And I, yes, you're right.
+[SPEAKER_04]: I take it back.
+[SPEAKER_04]: But we're fine.
+[SPEAKER_04]: Nothing happened, Max.
+[SPEAKER_04]: Nothing happened.
+[SPEAKER_04]: What?
+[SPEAKER_04]: We weren't immediately killed when we wandered over to here.
+[SPEAKER_02]: Not yet.
+[SPEAKER_01]: Many poisons are invisible and odorous.
+[SPEAKER_02]: Oh, you're a real barrel of sunshine, kiddo.
+[SPEAKER_05]: So the carvings alternate on each side of the corridor, around 10 to 15 feet or so between them.
+[SPEAKER_05]: Rest of the party catching up with Maxim Caspian or doing something different?
+[SPEAKER_01]: Just quickly, you mentioned it was stinky and there was, well, I guess there was the scent of burnt, but what was, can we determine any other smells in amongst the stink?
+[SPEAKER_05]: It is, make a perception.
+[SPEAKER_01]: Absolutely.
+[SPEAKER_01]: That was the wrong kind.
+[SPEAKER_05]: But no worries.
+[SPEAKER_05]: Yeah, I mean, it's it's stinky relative to say.
+[SPEAKER_05]: It's not yeah, it's hard to really pick out necessarily more than that.
+[SPEAKER_05]: But there is there is a mix of smells here, which is partly why it's hard to identify.
+[SPEAKER_02]: I wonder if you'd permit a survival check to work out if there's anything we should be worried about in these smells.
+[SPEAKER_05]: Oh, in what sense worried?
+[SPEAKER_05]: You mean if there's a poison in the air?
+[SPEAKER_02]: Yeah, survival ought to be about sort of smelling poisons and, you know, things that we can't breathe and stuff like that.
+[SPEAKER_02]: Come on, Max.
+[SPEAKER_02]: Another 19.
+[SPEAKER_05]: There's nothing here which strikes you as obviously dangerous rather than unpleasant.
+[SPEAKER_05]: Certainly not in the kind of acute sense.
+[SPEAKER_05]: Yeah, not in the kind of acute sense of being an active poison.
+[SPEAKER_05]: There's probably isn't air you'd want to breathe over a protracted period, but that's a rather different issue.
+[SPEAKER_04]: Is the carving that we're looking at, is it just like one scene and then is there more that I'm not going to go look at immediately, but it doesn't look like there's more further on or just the carving span like the length of the wall?
+[SPEAKER_05]: So this one is maybe eight to 10 feet kind of in width, and possibly about six feet or so high is kind of a bath relief carving almost quite stylized.
+[SPEAKER_05]: Saint Smokecloth in his workshop, I suppose, surrounded by the typical symbols of the things he's patron saint of.
+[SPEAKER_05]: As I say, it's a relatively familiar sort of depiction.
+[SPEAKER_05]: You can see around 10 to 15 feet or so ahead of you on the other side of the corridor, there is a similar-ish looking kind of scene.
+[SPEAKER_05]: You'd have to get closer to it to look at it properly, but there's something which seems to be kind of similar in proportion over there.
+[SPEAKER_01]: At this point, Raoul will start making a conscious effort to look for traps of any kind, searching the floors, walls, and ceilings.
+[SPEAKER_05]: Sure, make an investigation check.
+[SPEAKER_01]: Absolutely.
+[SPEAKER_01]: I will add a phrenic neck dye to that as well before you tell me the result.
+[SPEAKER_05]: Investigation feels like not the most reasonable skill per rel to be using here.
+[SPEAKER_05]: So I'm happy for you to use perception in these instances.
+[SPEAKER_01]: Let's add four to that then.
+[SPEAKER_01]: And then also this dice.
+[SPEAKER_01]: So we're up to 19.
+[SPEAKER_01]: So with a 19,
+[SPEAKER_05]: As you come over to where casket and rail are, you notice along the side of this carving, very small holes.
+[SPEAKER_05]: You look at them more closely.
+[SPEAKER_05]: This was definitely a trap of some sort.
+[SPEAKER_05]: You can tell that it has been triggered, but its mechanism clearly was no longer operable.
+[SPEAKER_01]: Can I identify what that mechanism was?
+[SPEAKER_01]: Is there an obvious pressure plate?
+[SPEAKER_01]: Is there some invisible sensor?
+[SPEAKER_05]: With your 19, you can tell that it has been triggered recently.
+[SPEAKER_05]: So presumably by Mags and Caspian's action.
+[SPEAKER_05]: But with nothing there, it would actually go off.
+[SPEAKER_02]: But to Ryl's point, can he tell what we did that triggered it?
+[SPEAKER_05]: No, with the 19, no.
+[SPEAKER_01]: If I might draw your attention, it seems you were most fortunate this time.
+[SPEAKER_01]: We suggest again, caution moving forward.
+[SPEAKER_01]: Can you tell what we did to trigger it?
+[SPEAKER_01]: I'm afraid not.
+[SPEAKER_01]: How do you know it's been triggered then?
+[SPEAKER_05]: How did you know this was ours?
+[SPEAKER_05]: So I will answer that.
+[SPEAKER_05]: By looking at the holes themselves, you can see there are little wires inside which have been licked down and because of the
+[SPEAKER_05]: Yeah, you can tell that that has happened, you can see those fresh scrapes on the stone, you can see that it's happened in, I mean, you would have heard it, you just weren't paying any attention.
+[SPEAKER_05]: Why that happened is a different question, which you would have needed to do better on this perception check.
+[SPEAKER_01]: Cool, yeah, understood.
+[SPEAKER_01]: I will relay, clearly there is recent movement here.
+[SPEAKER_01]: You can see these holes were not there moments ago.
+[SPEAKER_01]: I'm not sure exactly what this was meant to deliver, but based on the size, I would assume either needles or, as suggested, a gas of some kind.
+[SPEAKER_01]: Step careful.
+[SPEAKER_04]: Your point is made.
+[SPEAKER_04]: Would you like to go ahead, Raoul?
+[SPEAKER_04]: There is another carving further down.
+[SPEAKER_01]: There are several, yes.
+[SPEAKER_04]: Shall we head further down?
+[SPEAKER_04]: Would you keep an eye out?
+[SPEAKER_04]: You seem quite good with the traps.
+[SPEAKER_01]: I would invite everyone to keep an eye out.
+[SPEAKER_01]: The more eyes the better.
+[SPEAKER_04]: Well, someone has to go first.
+[SPEAKER_01]: I see.
+[SPEAKER_04]: Max is already walking, I think.
+[SPEAKER_01]: Sure, I'm happy to go first.
+[SPEAKER_01]: I feel if one does trigger, I'm the most likely to avoid it anyway.
+[SPEAKER_01]: items.
+[SPEAKER_01]: Thanks.
+[SPEAKER_01]: And yes, walking slowly and keeping eyes at, I think on the ground level, Mags is quite low down.
+[SPEAKER_01]: So I would assume if, if triggered, it would likely be something lower down.
+[SPEAKER_05]: Uh, make another perception check.
+[SPEAKER_05]: I guess if you pay close attention as you go along.
+[SPEAKER_02]: That's more like it.
+[SPEAKER_02]: Okay.
+[SPEAKER_05]: With your 23, as you come close to this other, as you come close to this other carving, you see a patch of the floor where there are
+[SPEAKER_05]: Kind of similar to where you saw upstairs, where the stone had been broken and remade several times.
+[SPEAKER_05]: There is a particular patch of floor here that it's been mended with more subtlety than some of the stone you saw upstairs, but it has definitely been broken and mended more than once.
+[SPEAKER_05]: Some kind of impact has happened here.
+[SPEAKER_01]: Okay, expecting an Indiana Jones sequence at this point.
+[SPEAKER_05]: You've noticed it before, you're going too close to it.
+[SPEAKER_01]: Yeah, I'll point to the area and I'll suggest likely something will fall from above.
+[SPEAKER_02]: Should we throw something at it and see?
+[SPEAKER_01]: I would guess that since the floor has been repeatedly repaired, that yes, whatever it is retracts.
+[SPEAKER_02]: Might learn something about the repair man as well.
+[SPEAKER_02]: All right, Mags is going to take out, I don't know, an old piece of cheese from her bag or something to chuck that.
+[SPEAKER_05]: I have more cheese that comes out of your bag.
+[SPEAKER_02]: I'm imagining just something rock hard, right?
+[SPEAKER_05]: My question is, how heavy is this cheese of Mags?
+[SPEAKER_02]: It's a dwarf battle bread levels of, you know, gnomish underdark cheese.
+[SPEAKER_02]: It says rock solid.
+[SPEAKER_05]: OK.
+[SPEAKER_05]: Even so, I don't think the cheese is going to.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Antifung.
+[SPEAKER_02]: Should we look around for a brick or something or a bit of rock?
+[SPEAKER_05]: Antifung.
+[SPEAKER_05]: This is a very cleanly dressed kind of stone corridor.
+[SPEAKER_05]: There isn't really any debris here.
+[SPEAKER_04]: Carrying spare weapons on that person.
+[SPEAKER_04]: Not that particularly.
+[SPEAKER_02]: We could whack it with my stick.
+[SPEAKER_02]: What sticks are for?
+[SPEAKER_02]: That's what sticks are for.
+[SPEAKER_02]: Can I give it a whack with my stick?
+[SPEAKER_04]: Feels like you would have to be quite close.
+[SPEAKER_02]: Sticks quite long is the point.
+[SPEAKER_04]: Quite small, so how long is your stick?
+[SPEAKER_02]: All right, I shall hand my stick to someone with a larger arm span.
+[SPEAKER_00]: The stick doesn't get longer.
+[SPEAKER_02]: No, but the rotational...
+[SPEAKER_00]: I vote Trevick.
+[SPEAKER_03]: Yeah, I was about to say, Trevick grabs the stick, uses long lengthy arms to like whack in the general direction that he would expect the trigger to fall to, yeah.
+[SPEAKER_05]: You do that.
+[SPEAKER_05]: There is no... Again, assuming that you are just... You're not exerting very much force on this stick.
+[SPEAKER_05]: only a regular amount that you would do with that kind of motion.
+[SPEAKER_05]: Nothing to break the stick.
+[SPEAKER_01]: How avoidable is this patch of floor?
+[SPEAKER_05]: Looking at the patch, which appears to have been damaged and repaired, if you were careful, you could probably edge around it.
+[SPEAKER_02]: I got a good plan B, but I think you should try and learn something by triggering it.
+[SPEAKER_01]: I do wonder if perhaps we might trigger it once we are passed in case it does sort of stop.
+[SPEAKER_03]: Yeah, that sounds reasonable.
+[SPEAKER_01]: Nice one.
+[SPEAKER_01]: That's a very good idea.
+[SPEAKER_01]: Yeah, I'm happy with that.
+[SPEAKER_03]: Yeah.
+[SPEAKER_01]: So yeah, I guess we'll edge around.
+[SPEAKER_05]: I want to make acrobatics checks just in case.
+[SPEAKER_05]: Oh my god.
+[SPEAKER_05]: DC is so low for this.
+[SPEAKER_05]: I just want to see if anyone
+[SPEAKER_05]: Right.
+[SPEAKER_02]: Basically, we need to not critically fail.
+[SPEAKER_02]: Is that correct?
+[SPEAKER_05]: I mean, it depends on your it depends on your model.
+[SPEAKER_05]: Well, you could bags is nimble.
+[SPEAKER_02]: She's a
+[SPEAKER_04]: Oh, you know what?
+[SPEAKER_04]: I did alright.
+[SPEAKER_04]: Fia got me through, it's fine.
+[SPEAKER_05]: You've wasted so many good rolls here, everyone.
+[SPEAKER_05]: Maybe you rolled yours privately from me.
+[SPEAKER_03]: Oh shit, did I?
+[SPEAKER_03]: It was a 21.
+[SPEAKER_05]: Was it?
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Great.
+[SPEAKER_05]: In that case, everyone with great care edges around this damage.
+[SPEAKER_02]: Hilariously, rel is the worst.
+[SPEAKER_01]: I was just so focused on making sure you all got across.
+[SPEAKER_01]: I forgot to pay attention to my own repeat.
+[SPEAKER_05]: I feel like Rel's reactions may be proportional to the actual difficulty of the task.
+[SPEAKER_01]: Yes, I walked across.
+[SPEAKER_05]: Everyone else carefully did too.
+[SPEAKER_05]: But yeah, you'll make it around if anything were to, nothing happened.
+[SPEAKER_01]: OK, once we are all comfortably passed then,
+[SPEAKER_01]: I guess if we take the stick, we can lean on it and apply enough pressure.
+[SPEAKER_01]: Put your weight on it.
+[SPEAKER_01]: That's nice.
+[SPEAKER_01]: Yeah.
+[SPEAKER_04]: I know that we're assuming that the thing retracts here, but we don't know that it retracts if something simply falls and rolls.
+[SPEAKER_01]: Well, there would be more damage on the floor further, right?
+[SPEAKER_01]: If it continues to be.
+[SPEAKER_04]: You can only see one area of repair.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Okay.
+[SPEAKER_01]: So yeah, I think I will take Meg's profit staff and I'll at the very sort of edge and just sort of lean heavily on it.
+[SPEAKER_05]: This is actually a super easy thing to do.
+[SPEAKER_05]: So I'm going to have you make a...
+[SPEAKER_05]: I'm really far away.
+[SPEAKER_05]: I'm like three steps back.
+[SPEAKER_02]: What kind of check is that?
+[SPEAKER_05]: Athletics check to try to exert enough force via the stop.
+[SPEAKER_02]: Interesting.
+[SPEAKER_01]: Guidance.
+[SPEAKER_01]: Thanks.
+[SPEAKER_02]: That's not great.
+[SPEAKER_05]: We did 10.
+[SPEAKER_05]: I mean, you do your best and you leave all the staff, but you're still not putting anything like the weight of a person through that thing.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: And nothing happens.
+[SPEAKER_02]: Fabian, you should help him.
+[SPEAKER_03]: Travick, you should help him.
+[SPEAKER_01]: Come on.
+[SPEAKER_01]: Lean on the stick.
+[SPEAKER_01]: If everyone sort of gets on each other's shoulders, then only the bottom doesn't.
+[SPEAKER_01]: Obviously Caspian is useless.
+[SPEAKER_04]: I'm willing to accept that in this role, I am useless.
+[SPEAKER_05]: All right, Raleigh, you can roll again with advantage if people are helping you.
+[SPEAKER_01]: Thanks.
+[SPEAKER_01]: There we go.
+[SPEAKER_01]: Better.
+[SPEAKER_05]: 16.
+[SPEAKER_05]: Just about.
+[SPEAKER_05]: Beautiful for free people.
+[SPEAKER_05]: Yeah.
+[SPEAKER_02]: Chronically unbalanced party.
+[SPEAKER_02]: We know this, right?
+[SPEAKER_05]: You do manage to trigger this trap.
+[SPEAKER_05]: And it is a large, heavy, it's almost like a sort of very large war hammer kind of a thing.
+[SPEAKER_05]: It's certainly that shape.
+[SPEAKER_05]: And it falls from the ceiling.
+[SPEAKER_05]: uh, it.
+[SPEAKER_05]: crushes Max's stick, so that's now gone.
+[SPEAKER_02]: So remove it from my inventory.
+[SPEAKER_05]: But it's not, you know, you're able to kind of jump back out of the way before it injures anyone.
+[SPEAKER_05]: It does put, it doesn't break through the floor, but it does put massive kind of cracks in the floor.
+[SPEAKER_05]: If people had been standing there, it definitely would have been bad for them.
+[SPEAKER_05]: There is a chain which attaches it to the ceiling still, which is presumably how it retracts, but it does not immediately retract.
+[SPEAKER_05]: But now it just lays back.
+[SPEAKER_03]: How high is the ceiling?
+[SPEAKER_05]: Oh, it's probably about 10 feet or so.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: And if we looked up, did like, did a hatch open up or has there been a hammer up there in the entire time we just didn't look up?
+[SPEAKER_05]: No, it was, it did look, well, I said you can't tell for now, but now there is a hole in the ceiling, I suppose, because it didn't look up until now.
+[SPEAKER_05]: There's no obvious kind of wooden hatch or so on that's open, but yeah, right now there's a hole.
+[SPEAKER_02]: I would like to use chill touch to try and break the chain.
+[SPEAKER_05]: It's not cold, is it?
+[SPEAKER_02]: All right, fuck it.
+[SPEAKER_02]: What a thorn whip do.
+[SPEAKER_02]: How about that?
+[SPEAKER_05]: This is a big fuck off chain that was holding a very, very heavy weight, so I don't think cantrips are going to do too much to damage it.
+[SPEAKER_01]: But now I counter and say if I did a cold sorcerer's burst and then followed that with a hot sorcerer's burst, would it explode?
+[SPEAKER_05]: Wouldn't be the easiest thing because this is, you know, this is a dangling chain.
+[SPEAKER_01]: Yeah, it's reasonable.
+[SPEAKER_05]: But you're welcome to give it a try if you would like to.
+[SPEAKER_01]: But if Mag seems very keen on breaking this chain, I might give it a half-hearted single attempt.
+[SPEAKER_01]: I've got an idea.
+[SPEAKER_04]: Is it possible to get either side of this thing though?
+[SPEAKER_04]: So is it blocking the exit now?
+[SPEAKER_05]: No, it's come down in the middle of the corridor and because the chain is holding it up, it hasn't fallen onto its side at this point, it's still roughly upright.
+[SPEAKER_05]: You could do exactly the same maneuver you just did and tiptoe around it to the other side if you wanted to.
+[SPEAKER_01]: I don't know, I might have missed it when Niamh asked a similar question, but is there now just like a void in the ceiling that we can see into?
+[SPEAKER_01]: Is there like a complex set of machinery we can suddenly see?
+[SPEAKER_05]: You can't see a complex set of machinery, but you can looking up there is a space in the ceiling.
+[SPEAKER_05]: It is probably large enough for someone to climb up into if you wanted to try to do that.
+[SPEAKER_02]: Rebels rise to my plan.
+[SPEAKER_01]: Some kind of counterweight system and that's why you want to break the chain and one of us holds on to it.
+[SPEAKER_02]: I think if we break the chain, worst case scenario, we might have access to go and have a look and worst case scenario, it'll really fuck up their internal system.
+[SPEAKER_05]: The chain is not filling up the whole of the space.
+[SPEAKER_05]: You could climb up the chain and get into whatever space is up there without breaking it.
+[SPEAKER_02]: It's kind of a track sooner or later.
+[SPEAKER_05]: Well, the evidence of it not having been down is suggestive.
+[SPEAKER_01]: It wasn't there when we got here, so at some point it went back up.
+[SPEAKER_01]: OK, so it does just look like a void, though.
+[SPEAKER_01]: There's no obvious signs of entrance either side of it.
+[SPEAKER_01]: It's just simply a space that once held a hammer.
+[SPEAKER_05]: Yeah, it's a space.
+[SPEAKER_05]: The chain is coming down through it.
+[SPEAKER_05]: It's just an opening.
+[SPEAKER_02]: Can we see the mechanisms if we look a bit further up?
+[SPEAKER_05]: Not from where you are.
+[SPEAKER_01]: Just a hole that the chain goes into that is roughly chain sized.
+[SPEAKER_05]: No, it's bigger than the chain because the hammer came through it, right?
+[SPEAKER_01]: No, I mean, sorry, I assumed that the chain keeps disappearing into some unseen mechanism.
+[SPEAKER_01]: Yes.
+[SPEAKER_05]: Well, possibly.
+[SPEAKER_05]: Yes.
+[SPEAKER_05]: You can't see from where you are.
+[SPEAKER_01]: I guess in that case stepping up onto the hammer so I have a more direct view of the immediate above.
+[SPEAKER_01]: Yeah, I am.
+[SPEAKER_05]: So you do that, you climb up onto the hammer, maybe a little way up onto the chain, which is pretty easy to do.
+[SPEAKER_05]: There is a space above where the hammer was kind of stored.
+[SPEAKER_05]: There does not appear to be a very complex mechanism up there.
+[SPEAKER_05]: It doesn't seem that, yeah, it does not seem that elaborate.
+[SPEAKER_05]: But there is, if we go up and inspect it more closely, it doesn't, it looks like a relatively small space up there.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Mag site.
+[SPEAKER_05]: I mean, I think someone larger than Max could certainly get up there and be cramped, but it could be done.
+[SPEAKER_01]: I think we're looking for like a crawl space type thing.
+[SPEAKER_01]: And I think that's not happening.
+[SPEAKER_01]: I do want it.
+[SPEAKER_01]: Well, I guess now that I'm up there, does the chain just disappear into the solid rock or is there?
+[SPEAKER_05]: No, the chain was wrapped around something.
+[SPEAKER_01]: There's a big gear or something up there.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: Does this chain feel or seem like it's magically preserved like the other stuff?
+[SPEAKER_00]: This is not a rusty chain, is it?
+[SPEAKER_05]: It's not a rusty chain, but you would expect in a dwarven temple almost everything, all the metal and so on, to be treated in ways that stops it from corroding and corrupting.
+[SPEAKER_05]: So that would be much more surprising if it were kind of corruptible.
+[SPEAKER_05]: It doesn't mean it's necessarily magical in any profound sense, just that it's kind of the sort of metals it draws with religious spaces.
+[SPEAKER_02]: That makes my hypothesis, which is that there was a service corridor enabling us to avoid all the traps.
+[SPEAKER_01]: I knew that was what you were looking for.
+[SPEAKER_02]: Of course you did.
+[SPEAKER_02]: Calvarians believe in repairs, right?
+[SPEAKER_02]: They would have had a sensible protocol for making sure that maintenance happens.
+[SPEAKER_02]: Let's get into the steam.
+[SPEAKER_00]: if they are um trapped there what's the word uh pressure pads um do we have any way to keep us slightly off the floor like uh air walk or similar but it feels like a clericky thing yeah no 5e doesn't have many fun not like that
+[SPEAKER_04]: Do I have Levitate?
+[SPEAKER_04]: I do have it.
+[SPEAKER_04]: I don't think I've put it on.
+[SPEAKER_02]: In any case, I would need to rest.
+[SPEAKER_02]: It's not something I've prepared.
+[SPEAKER_02]: Yes.
+[SPEAKER_04]: I do in fact have Levitate.
+[SPEAKER_04]: But yeah, I also have it.
+[SPEAKER_04]: If I have a short rest, I can change the spell.
+[SPEAKER_01]: I think all of us won't have to touch the ground.
+[SPEAKER_04]: That's it.
+[SPEAKER_04]: That's all that's enough for you.
+[SPEAKER_02]: Well, assuming that this is a very badly designed temple and all of the traps are designed in exactly the same way, we now are wise to what they're going to look like.
+[SPEAKER_00]: Nobody has something like some large animal that we can send just running down the thing.
+[SPEAKER_04]: How close are we to the next carving after we've come through the hammer?
+[SPEAKER_05]: I mean, not far at all.
+[SPEAKER_04]: Arina, for the while they're fucking around with the hammer, I can look at the carving, or would that set another trap?
+[SPEAKER_05]: So do you mean the carving that was associated with this hammer, because that one you've had a lot of chance to look at while you've been here, or do you mean the next one?
+[SPEAKER_05]: The next one.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: I'm not going to walk up to it if it's further away from the group, but if it's like right next door, so I'm going to look at it.
+[SPEAKER_05]: OK.
+[SPEAKER_05]: There is a...
+[SPEAKER_05]: It depicts a figure wearing a mask.
+[SPEAKER_05]: He has a much smaller set of, they're kind of hammer and tongs that you would use for very fine work, goldsmithing, that sort of thing, silversmithing.
+[SPEAKER_05]: Make a quick religion check.
+[SPEAKER_04]: Okay.
+[SPEAKER_01]: Deep subtle brainwave.
+[SPEAKER_03]: No, just curiosity.
+[SPEAKER_03]: Are the murals like all on one wall or is it like the... No, they all need to be.
+[SPEAKER_03]: The first one and then the second one and then the next one.
+[SPEAKER_03]: Perfect.
+[SPEAKER_03]: Okay, cool.
+[SPEAKER_05]: Ah, this one, Gaspin, you do recognise, whatever it is, the story is done with you.
+[SPEAKER_05]: So, this is Saint Kalka, who is associated indeed with a kind of fine precision work of crafting, and he was known for, in his youth,
+[SPEAKER_05]: He crafted this golden mask, whether it is a true likeness of his youthful face, or whether it's a kind of wish fulfillment, whether he was horribly injured at some point in the pursuit of his gratitude and so on.
+[SPEAKER_05]: But he continued to wear this very youthful, very beautiful golden mask until his old age.
+[SPEAKER_05]: And he's called St. Keldra the Golden-faced, the Cosmer.
+[SPEAKER_04]: And is this similar to the other one in that the other imagery around it is more silversmithing type?
+[SPEAKER_05]: Yeah, it's all the sorts of things that you would kind of, yeah, that would be the typical symbols and tools of the craft.
+[SPEAKER_05]: Okay, cool.
+[SPEAKER_05]: These are quite reverend portraits.
+[SPEAKER_05]: They're definitely intended as kind of devotional works.
+[SPEAKER_02]: emotional works in a corridor that's been trapped.
+[SPEAKER_04]: I'm staring at it while they fuck around on the hammer until they're done fucking around.
+[SPEAKER_02]: I've run out of fuckery ideas about you.
+[SPEAKER_02]: I'm happy to keep going.
+[SPEAKER_04]: As they come over, I'll tell them what I know of this and share that information.
+[SPEAKER_04]: Well, I think I read a book once.
+[SPEAKER_04]: I don't really know why I know this, but I assume it was in a book.
+[SPEAKER_04]: Same distance to the next one again.
+[SPEAKER_05]: Are you taking any precautions or waiting?
+[SPEAKER_05]: I haven't moved any further.
+[SPEAKER_05]: I'm asking whether you have or not.
+[SPEAKER_04]: I have stopped at this carving, I've looked further ahead to see where the next carving is and then I await the group figures.
+[SPEAKER_04]: No, no, understood, understood.
+[SPEAKER_03]: Yeah, no, before, before Caspian storms ahead, can I help Raoul with, with presuming investigation of the next area?
+[SPEAKER_03]: I look up high, you look up, look down low, because I can give you an advantage.
+[SPEAKER_03]: Yeah, cool.
+[SPEAKER_05]: I'm happy to, yeah, it's a perception or investigation, whichever feels, yeah, I'm happy to use whichever feels more appropriate to your character.
+[SPEAKER_01]: Cool.
+[SPEAKER_05]: And I believe Al has given you some guidance also.
+[SPEAKER_05]: Oh, you've added that.
+[SPEAKER_05]: Okay, well, so you notice a few things as you look ahead.
+[SPEAKER_05]: There is, looking up, there is a narrow rectangular opening in the ceiling.
+[SPEAKER_05]: And looking at the floor, you can notice some corresponding little points of damage as though kind of spiky bits had come down here.
+[SPEAKER_03]: Nice.
+[SPEAKER_05]: With your good perception check, looking a little further ahead, you can also see, similar to the one that's in the ceiling here, you can also see very slender narrow openings about 10 feet further on, on either side of the walls.
+[SPEAKER_00]: Trigger mechanism.
+[SPEAKER_01]: Blades from above and the sides.
+[SPEAKER_01]: No sign of a trigger mechanism, just the openings.
+[SPEAKER_05]: Yeah, assuming you're not going forward to actually look at them, you're just looking from where you are.
+[SPEAKER_05]: That's what you...
+[SPEAKER_01]: I'll point to the impact spaces where it's obvious something has come down from above and then I'll... We're having a cat off, are we?
+[SPEAKER_01]: Two cats that don't want to play.
+[SPEAKER_02]: Let's see if I can summon some of mine.
+[SPEAKER_01]: No, he's sleeping.
+[SPEAKER_01]: And then, yeah, I'll point to the area.
+[SPEAKER_01]: So the ones that are, I guess, in the walls, are they the full height of the walls or are they up to a certain point?
+[SPEAKER_01]: Are they only at a certain point?
+[SPEAKER_05]: No, they go they from the top of the wall down to about two feet above the floor.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Oh, all right.
+[SPEAKER_02]: So if I just stooped, I'd be fine.
+[SPEAKER_02]: Magda's three feet tall, she's a gnome, so she could bend over.
+[SPEAKER_01]: Well, she's lost her stick now, so she's probably about two feet tall.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Um, and then the, the, I guess the impact points, there's only one slit in the above, but there are, the impact points are quite spread out or are they in like kind of central?
+[SPEAKER_05]: Uh, they're maybe about eight inches or so apart from each other in a kind of row of little pointy spikes.
+[SPEAKER_01]: Oh, right.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: This is, okay.
+[SPEAKER_01]: There's a series of them as opposed to.
+[SPEAKER_01]: Yeah, there's a series of them.
+[SPEAKER_01]: It's not a grouping.
+[SPEAKER_01]: It's a spread.
+[SPEAKER_05]: No, it's a spread.
+[SPEAKER_05]: It's a line.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Um, interesting.
+[SPEAKER_03]: So is there enough room that we might be able to shimmy around the one that slides down and then we can scoop or crawl past the ones that...
+[SPEAKER_01]: It's an Indian Jones slide.
+[SPEAKER_01]: We have to run and then slide.
+[SPEAKER_05]: I think some of us can probably jump.
+[SPEAKER_05]: Based on where these points are, if you wanted to try to kind of, as I said, they're about 80 inches or so apart, so they'd be pretty difficult to squeeze past.
+[SPEAKER_05]: It's certainly for anyone other than maybe Mags, but even so, it's going to be difficult to squeeze past these ones.
+[SPEAKER_02]: But how about jumping?
+[SPEAKER_02]: How big a distance are we talking at?
+[SPEAKER_05]: What do you mean by jumping?
+[SPEAKER_01]: Like over the window?
+[SPEAKER_01]: The assumption is they come from above, not below.
+[SPEAKER_05]: I mean, they come from above and they come from the sides.
+[SPEAKER_01]: Yeah.
+[SPEAKER_05]: So these are two different places, right?
+[SPEAKER_05]: In front of you, about 10 feet or so, you can see a dark line across the ceiling where there's a gap.
+[SPEAKER_05]: And on the floor underneath that dark line, you can see these spiky points where the floor has been impacted by spiky things.
+[SPEAKER_05]: And then about
+[SPEAKER_05]: 10 to 15 feet further on than that.
+[SPEAKER_05]: In fact, interrupting the carving, there are two very narrow slits in the walls on either side, from the top of the ceiling down to about two feet above the ground.
+[SPEAKER_05]: And from where you are, you can't see any further than that in an inspection kind of a way.
+[SPEAKER_01]: Okay, I think Rell would indicate that maybe I tell everyone to stand back a little bit so I can take a slightly closer look at the ones from above to see how they might be evaded, because it seems like we need to avoid the mechanism there as opposed to just getting out of the slam zone.
+[SPEAKER_01]: So yeah, I will tentatively approach, careful to pick my foot placement, looking for any difference in the pavers or anything like that.
+[SPEAKER_05]: So this one, I think definitely will be an investigation check and the kind of thing.
+[SPEAKER_01]: Yes, yeah, it's quite a close study.
+[SPEAKER_01]: And I won't add a Frederick Day, so I will trust in the fates.
+[SPEAKER_05]: You don't, you can't see anything in this immediate area, which would act as a prison mechanism.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I might.
+[SPEAKER_01]: And sorry, the space between these two sets of traps is what kind of distance?
+[SPEAKER_05]: About 10 to 15 feet.
+[SPEAKER_01]: Oh, okay.
+[SPEAKER_01]: So there's definitely, there is a, you know, there's, there's an empty space between them where... Oh yeah, there's an empty space.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Then I might go for a big sort of standing jump kind of clearing.
+[SPEAKER_01]: If they're only about eight inches across or so, then yeah, just going... Yeah, so they're eight inches between them, but they're only one line.
+[SPEAKER_05]: So they, it's a very easy line to cross.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: I'll go for a standing jump then from, from where I am now, where it obviously isn't happening and then just beyond the set of the trap.
+[SPEAKER_04]: Sure.
+[SPEAKER_01]: What I might do first though is reach down and with, I'll pull a small piece of chalk from my pocket and just put an X directly between my feet so that everyone knows exactly where it's safe.
+[SPEAKER_05]: Sure.
+[SPEAKER_05]: You do that.
+[SPEAKER_05]: Nothing obviously happens.
+[SPEAKER_05]: You land safely on the other side.
+[SPEAKER_05]: Perfect.
+[SPEAKER_01]: And yeah, I guess it wasn't that much of a jump.
+[SPEAKER_01]: Seeing as no check was required or anything.
+[SPEAKER_01]: So yeah, I'll say it.
+[SPEAKER_05]: Yeah, I mean, I assumed you weren't trying to jump super far.
+[SPEAKER_05]: You were just... No, no, I was literally just trying to get past them.
+[SPEAKER_05]: Yeah, yeah, exactly.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: OK, then yeah, I'll call back and say stand exactly where I did and jump as I did.
+[SPEAKER_01]: Seems safe enough.
+[SPEAKER_01]: Do that too?
+[SPEAKER_02]: Are we going to run out of room if we all jump to this intermediate space?
+[SPEAKER_05]: I mean, you will have to shuffle around a little bit, but you will end up in a very tight bunch.
+[SPEAKER_05]: That's wrong.
+[SPEAKER_05]: If you're okay with doing that.
+[SPEAKER_02]: Don't threaten me with a good time.
+[SPEAKER_05]: Is everyone making this jump or something?
+[SPEAKER_03]: Yes.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: you will do that.
+[SPEAKER_05]: You will end up on the other side of the line on the floor.
+[SPEAKER_05]: You are now all bunched up, maybe a couple of feet from that line, about eight to 10 feet from where you can see the slits in the wall.
+[SPEAKER_05]: You can also see from here the other, the next bath relief.
+[SPEAKER_05]: It is of a,
+[SPEAKER_05]: dwarf who is depicted with, most of these are not very kind of adorned, there's maybe little accents picked out in gold and so on, but not very much decoration, whereas this one and the eyes of the dwarf are done in green gems.
+[SPEAKER_05]: And I'm going to let you guys roll with your all-right religion checks up to this point and know that this is St. Vero, who is considered the kind of Calvary saint of kind of jewel and lenses and glassware.
+[SPEAKER_02]: Oh, I was hoping for makeup.
+[SPEAKER_05]: Well, who can say?
+[SPEAKER_02]: Yes, Queen.
+[SPEAKER_05]: Lenses and jewels and anything that requires that kind of sort of cutting and faceting or like crafting something into a lens, that kind of precision kind of grinding and cutting kind of craft.
+[SPEAKER_05]: I think Max would probably be relatively familiar with this sort of thing because of the need for different sorts of diamonds, for different sorts of divine spells and so on.
+[SPEAKER_01]: How high off the ground are these green gem eyes?
+[SPEAKER_05]: They're a bit higher than, they're probably about six or seven feet or so.
+[SPEAKER_05]: They're intended to be looked up at by dwarves who would be about five feet or so.
+[SPEAKER_05]: So yeah, six or seven feet.
+[SPEAKER_01]: Any naysayers on me prying the eyes out of this particular leaf?
+[SPEAKER_04]: I would imagine that
+[SPEAKER_04]: the dwarven craft does not make it so easy to steal gems.
+[SPEAKER_02]: Yeah, I think you probably won't succeed.
+[SPEAKER_02]: And I have a slight worry about dissipating temples on principle, but no one's seen this for ages.
+[SPEAKER_01]: I will also add this temple seems to have been eaten and it certainly isn't being a temple anymore.
+[SPEAKER_00]: You'll be saving these gems from the next time it gets eaten.
+[SPEAKER_02]: Right, so you're going to donate them to some sort of historical preservation society, is that what you're telling me?
+[SPEAKER_02]: I will donate them.
+[SPEAKER_00]: Exactly, Mags, exactly.
+[SPEAKER_05]: So you guys are not standing in front of this thing at the moment.
+[SPEAKER_05]: As far as I know, you're all bunched up and still in this place where you landed.
+[SPEAKER_03]: Is this the relief that has the potential, that has the spaces that could have things jutting out for them?
+[SPEAKER_03]: Yes.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Let's take a moment to think.
+[SPEAKER_03]: If we try to pull out the eyes, that might be the trigger.
+[SPEAKER_04]: I do think it curious that this is the only one.
+[SPEAKER_03]: His name was Jimmy Green Eye, what do you want from him?
+[SPEAKER_02]: Yeah, patron saint of drag.
+[SPEAKER_02]: Of course he's fabulous.
+[SPEAKER_04]: I stand back with Trevick, we bunch back.
+[SPEAKER_01]: Are we saying that the projection point of this trap is within this, like I'd have to get in front of it to stand in front of this particular dwarf carving?
+[SPEAKER_05]: Yeah, it doesn't go directly through the dwarf carving is to one side of it.
+[SPEAKER_05]: But you'd have to be Yeah, you'd have to get pretty close to it.
+[SPEAKER_05]: But if you were careful, you wouldn't.
+[SPEAKER_01]: Yeah, you wouldn't need to lean over and definitely get impaled, right?
+[SPEAKER_01]: No, no, no, no.
+[SPEAKER_05]: If you were if you were careful, you could avoid.
+[SPEAKER_05]: Okay.
+[SPEAKER_01]: Well, yes, I'll be careful.
+[SPEAKER_05]: All right.
+[SPEAKER_05]: So your plan is to move forward to be broadly in front of this statue with it with this carving with the aim of
+[SPEAKER_01]: not being broadly in front of being narrowly in front of the traffic.
+[SPEAKER_05]: Avoiding that avoiding the traffic in the immediate line of the of the things but being.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: You do that.
+[SPEAKER_05]: As you've seen, the rest of you, maybe jump back a little as the as a portcullis clangs down in front in that area that you will just jump across.
+[SPEAKER_05]: And the second one does so about 20 feet, there's about 20 feet between the two, a second one does so on the other side of this carving.
+[SPEAKER_05]: realm, you are no doubt called as a cucumber, as a large, a large, very slender kind of axe shaped blade swings out from one side of this, swings out from one side of this thing, sweeps across the floor next to you, and disappears into the wall on the other
+[SPEAKER_01]: As it swings past, I put the end of my cigar into it to perfectly cut it off.
+[SPEAKER_01]: Okay, so am I separated from the remainder by this portcullis or are we?
+[SPEAKER_05]: No, no, you're all inside the portcullis area.
+[SPEAKER_01]: Okay, so we're both, we're all trapped between these two portculli.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Uh, well, can I continue to pry out these gems?
+[SPEAKER_05]: You can, yes.
+[SPEAKER_05]: Uh, make a, what kind of, can I, can I do a sleight of hand?
+[SPEAKER_01]: Would that be invited?
+[SPEAKER_05]: Delicate work as opposed to be some force here, but, but yes, but it's leverage, right?
+[SPEAKER_01]: As opposed to it's I'm finding the right point to lever as opposed to just slamming it.
+[SPEAKER_01]: Thanks.
+[SPEAKER_05]: 16, it's not very delicate.
+[SPEAKER_05]: And the gems are slightly damaged as you pry them out.
+[SPEAKER_05]: They're kind of scratched and so on.
+[SPEAKER_05]: But nonetheless, you do manage to do so.
+[SPEAKER_05]: And you end up with, it wasn't kind of one big gem for each eye.
+[SPEAKER_05]: It was kind of gems kind of set to produce an effect.
+[SPEAKER_05]: So you end up with a handful of a few pretty nice emeralds and stone which you're not sure what it is, but it's a slightly darker kind of more aquamarine colour.
+[SPEAKER_05]: Not aquamarine, but purple.
+[SPEAKER_05]: As you complete that, maybe 30 seconds or so have passed since the last time the axe-type blade swept across, and it sweeps back to the other side of the corridor.
+[SPEAKER_01]: Understood.
+[SPEAKER_05]: What are the rest of you doing?
+[SPEAKER_03]: Okay, so we're shot between two four-colossus.
+[SPEAKER_03]: How, oh my God.
+[SPEAKER_03]: Is it about, is it around 10 feet between the two?
+[SPEAKER_03]: Is it the length of the?
+[SPEAKER_05]: About 20 feet.
+[SPEAKER_03]: About 20 feet, okay.
+[SPEAKER_03]: And in the middle of that, we've got the swinging, the swinging axe.
+[SPEAKER_05]: No, quite in the middle, but roughly the middle, yeah.
+[SPEAKER_03]: Okay, cool.
+Okay.
+[SPEAKER_00]: Fabian has been like gripping onto Trevick's arm as the tallest and most reassuring member of the party.
+[SPEAKER_00]: Swinging this torture and going, Trevick, where's the corridor gone?
+[SPEAKER_01]: That's a good point, actually.
+[SPEAKER_01]: Are they gated or are they solid, these porcollises?
+[SPEAKER_05]: How do you mean gated?
+[SPEAKER_01]: As in, as there are gaps in them.
+[SPEAKER_05]: Oh, there are gaps.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: There's like a crosswise pattern.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Oh, okay.
+[SPEAKER_00]: I can see the pattern, all right.
+[SPEAKER_01]: How big are the gaps?
+[SPEAKER_01]: I got a few quarts of oil.
+[SPEAKER_05]: I mean, they're big enough to put your arm through, but not your head through.
+[SPEAKER_03]: In the same way, on the ceiling, we can see where it drops down.
+[SPEAKER_03]: Is there a sizable gap or is there just enough gap for the thing to come down?
+[SPEAKER_05]: Another thing is to go so fast as you guys are thinking about this and the blade swishes back across the corridor again for a third time.
+[SPEAKER_01]: I will at this point return to the group.
+[SPEAKER_01]: I don't just stand directly next to this axe, completely ignoring it.
+[SPEAKER_03]: Okay, are we on the... Has the hammer gone back up yet?
+[SPEAKER_03]: We can't see it.
+[SPEAKER_03]: It's too far.
+[SPEAKER_03]: Oh, it hasn't.
+[SPEAKER_00]: It hasn't.
+[SPEAKER_00]: It's going to be here for ages.
+[SPEAKER_03]: So we are on the...
+[SPEAKER_04]: Needs visuals.
+[SPEAKER_05]: I'm going to call it the left hand side.
+[SPEAKER_05]: If you're heading in the right direction.
+[SPEAKER_03]: They're all curled up on the left hand side with the axe swinging.
+[SPEAKER_03]: And the axe swinging is that
+[SPEAKER_03]: Is that swinging directly between the dwarf's face with green eyes?
+[SPEAKER_05]: It's slightly to your side of it.
+[SPEAKER_05]: That does not actually mar the portrait itself, but it is in the carving.
+[SPEAKER_05]: extra equipment and so I'm part of the carving and it's on your side, so when Rell was standing there defacing the carving, he was on the other side.
+[SPEAKER_03]: Okay, purely curiosity and I do not expect this to work, but if Trevig was to go over to the Four Colours and squat down and try and lift it up, is there any movement there whatsoever?
+[SPEAKER_03]: Make an athletic shift.
+[SPEAKER_03]: Another 30 seconds or so pass as Trevick tries to do that and the axe swings back across the corridor for fourth time.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Is the axe, is it, is the head the full size of the corridor?
+[SPEAKER_01]: Or is there like, you know, a handle?
+[SPEAKER_05]: No, the axe is very, the head is very large, but it does have a shaft that's swinging it.
+[SPEAKER_05]: So the head is maybe two and a half feet or so tall in itself.
+[SPEAKER_05]: But then there's a handle part.
+[SPEAKER_01]: I have a complex and intricate proposal that involves Peton's rope and the momentum of that axe.
+[SPEAKER_01]: I think we can possibly assemble a pulley system
+[SPEAKER_01]: tying a rope to the bottom of the portcullis and then a peat and Hammond into the wall above, forming a loop around that and then pulling that taut between the two so the axe in its momentum hits the taut rope and yanks on the portcullis, freeing us immediately.
+[SPEAKER_02]: You absolute mad lad.
+[SPEAKER_02]: Let's do it.
+[SPEAKER_02]: I'm in.
+[SPEAKER_01]: I'm in.
+[SPEAKER_02]: I'm totally there.
+[SPEAKER_00]: Sounds ingenious.
+[SPEAKER_01]: So yeah, I'll assemble as described.
+[SPEAKER_01]: We've got climbing kits, so we have pitons and we have small hammers for those and whatnot.
+[SPEAKER_01]: So we can hammer a piton into the wall at a suitable height above the bottom of the portcullis.
+[SPEAKER_05]: OK, so you do that with the piton.
+[SPEAKER_05]: It is not at all easy to hammer it in, because as I say, this is hard, kind of dwarvish stone.
+[SPEAKER_05]: But for the sake of argument, I would say you do manage to do it.
+[SPEAKER_05]: In the time it takes you to do that, the axe swings back across the corridor for a fifth time.
+[SPEAKER_03]: Well, while the axe completes its fifth swing, Trevor will migrate over to the other side.
+[SPEAKER_03]: Oh my God, hold on.
+[SPEAKER_03]: Yes, he will.
+[SPEAKER_03]: But is there a matching slit on the other side of the mural?
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: Fabulous.
+[SPEAKER_03]: Cool.
+[SPEAKER_05]: Make a quick perception check, Trevick, as you check for that.
+[SPEAKER_03]: Thank you.
+[SPEAKER_03]: Oh nice.
+[SPEAKER_05]: Okay, Trevor, you need to see whether there is a matching space on the other side of the mural, and there is not.
+[SPEAKER_05]: But as you are looking there, you notice that at the floor level on both sides, little rectangular gaps have opened up as though the tiles of the floor have kind of shifted subtly.
+[SPEAKER_05]: You're almost certain it wasn't, now you look, it's right the way along this section of corridor, you're always certain it wasn't like that before, but it is now.
+[SPEAKER_03]: Okay, shall we go point this out to the group?
+[SPEAKER_03]: Have they sunken down or have they popped up?
+[SPEAKER_05]: I think they would have had to, some of the stones of floor would have to have sunk down slightly.
+[SPEAKER_03]: Okay.
+[SPEAKER_02]: Okay, I think, well, if we can't execute your plan in the next swing of the axe, we need to we need to arrest the momentum of the axe because I think it's, it's like ticking towards something.
+[SPEAKER_02]: It's building momentum.
+[SPEAKER_01]: I agree.
+[SPEAKER_01]: My plan was to part it.
+[SPEAKER_01]: I thought at best we might arrest the momentum of the axe if it could not yank the pork colors up.
+[SPEAKER_02]: Okay, in which case, while you try your yanking plan, which I'm not required for, right?
+[SPEAKER_02]: No.
+[SPEAKER_02]: I would like to hold as an action a thorn whip, which is capable of moving a large creature 10 feet.
+[SPEAKER_02]: So I feel like that might be capable of stopping an axe.
+[SPEAKER_05]: I will make you make an attack roll, but if you manage to keep the axe, which is moving quite quickly, then yes, I agree, it would have the force to stop.
+[SPEAKER_00]: Should I add to that with a shield?
+[SPEAKER_01]: Which is standing in the way.
+[SPEAKER_01]: Oh, so it can't deflect.
+[SPEAKER_01]: A shield spell as opposed to an actual shield.
+[SPEAKER_01]: Sorry.
+[SPEAKER_01]: Yes, yes.
+[SPEAKER_00]: Because a shield spell is presumably quite good at arresting axes.
+[SPEAKER_05]: You have to be attached to something.
+[SPEAKER_05]: So if you're proposing to cast a spell on yourself and then stand at the path of the axe, then yes.
+[SPEAKER_02]: Put it on me.
+[SPEAKER_02]: Put it on me.
+[SPEAKER_02]: Put it on me, Fabian.
+[SPEAKER_02]: It's fine.
+[SPEAKER_00]: Magsy stick?
+[SPEAKER_05]: Yeah, I was going to say a target itself.
+[SPEAKER_05]: As you guys are discussing this plan.
+[SPEAKER_01]: I'm ignoring the discussion and simply assembling my complex pulley system.
+[SPEAKER_05]: You can take one more action.
+[SPEAKER_05]: This is doing this about every 30 to 40 seconds, but you can take one more action in your pulley system.
+[SPEAKER_01]: So I'm going to put another piton on the other side of the axe so that I can tie a noose for my pulley and then immediately drop it onto that piton.
+[SPEAKER_01]: So the momentum can only pull one side of the rope.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Do you want me to try and stop it this time, Ro?
+[SPEAKER_05]: The axe swings across for a sixth time.
+[SPEAKER_05]: You have your held action mags that you can use it if you want to.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Am I using it, Ro?
+[SPEAKER_02]: No.
+[SPEAKER_01]: One more swing and then as you were.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Seven is an important number to Calvaryans.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: So in this instance, I will tie my noose end to the other, completing the pulley system.
+[SPEAKER_05]: So where are you going to tie your loose end to?
+[SPEAKER_05]: Sorry, to the...
+[SPEAKER_01]: Sorry, my loose end is to the piton on the other side of the axe.
+[SPEAKER_01]: So there is, there is... Piton here, piton here.
+[SPEAKER_01]: This is a hard stop.
+[SPEAKER_01]: This is a pulley down to the portcullis, which is here.
+[SPEAKER_01]: So the axe will hit the rope in the middle, pulling this end, yanking the portcullis up, or just snapping the rope.
+[SPEAKER_01]: Okay.
+[SPEAKER_05]: Anyone else doing anything in this last 30 to 40 second period before the axe swings again?
+[SPEAKER_03]: I was going to keep terrible will happen, but I've got nothing to do.
+[SPEAKER_03]: Right.
+[SPEAKER_03]: I was going to keep an eye on the floor to see if the if any more of the stones move as the axis swinging if to to determine if it is the swings of the axe that is causing the adjustments in the stone.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Make a perception check.
+[SPEAKER_05]: Now that you notice anything happens.
+[SPEAKER_05]: So what kind of role do you think it would be appropriate to make well to see how successful this attempted interruption of Axwing is?
+[SPEAKER_01]: I suppose light of hunt is arranged.
+[SPEAKER_01]: That could be argued.
+[SPEAKER_05]: Yeah, I can see a case for that.
+[SPEAKER_01]: It's finessing a mechanism.
+[SPEAKER_01]: I don't think tools will be applicable.
+[SPEAKER_01]: I think it's either going to be sleight of hand or it's going to be some intelligence based check, which I would shy away from.
+[SPEAKER_05]: Yeah, that seems, that seems harsh in the circumstances.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Let's have a sleight of hand roll.
+[SPEAKER_02]: Can I hold my action and give guidance at the same time?
+[SPEAKER_05]: No, you cannot.
+[SPEAKER_01]: I will go ahead and I will add a side bolstered neck to that as well so we can really guarantee success here.
+[SPEAKER_01]: Oh, well.
+[SPEAKER_05]: It's pretty good.
+[SPEAKER_05]: So, Rell, the mechanism works as you intended it to do.
+[SPEAKER_01]: Everyone really believed it would work, and was ready to jump under the portcullis as soon as it rose up, right?
+[SPEAKER_01]: I was absolutely in favour of doing this!
+[SPEAKER_05]: Just to be totally clear, because I don't think this was clear while you were doing it.
+[SPEAKER_05]: We're talking about the further port cutters.
+[SPEAKER_01]: Yes, we're progressing.
+[SPEAKER_01]: We're going deeper.
+[SPEAKER_01]: We're going deeper.
+[SPEAKER_05]: Good.
+[SPEAKER_05]: All right.
+[SPEAKER_05]: Describe what happens when your mechanism works, isn't it?
+[SPEAKER_01]: Okay, so the, the rope in its, in its path snags the, the, sorry, the axe in its path snags the rope perfectly.
+[SPEAKER_01]: There is a, a sudden seizure of momentum, but it doesn't stop all the way and carries on swinging just enough for the pot collars to gently raise up and for the party to dash through.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: I'm just going to do a quick, I'm just going to do a quick roll to see how this into acts.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: You do that.
+[SPEAKER_05]: And it actually arrests the swing of the axe enough that the axe does not trigger the next stage of what would happen to get to the full upswing of what it was intending to do.
+[SPEAKER_01]: I'm the smartest guy ever.
+[SPEAKER_05]: And you guys, yeah, you kind of duck and roll under the portcullis as it rises enough to...
+[SPEAKER_01]: I had everything in hand the entire time.
+[SPEAKER_01]: And now have a handful of gems.
+[SPEAKER_02]: Very interesting wizarding school, you must have gone to as well.
+[SPEAKER_01]: Yes, yeah, well, physics was part of the basic process, you know, understanding of the world working.
+[SPEAKER_05]: I will again just have everyone make a quick acrobatics check because this is not the easiest thing to do to get everyone under the pork cutlet.
+[SPEAKER_05]: Again, it's not going to be a difficult one, only if anyone fails very badly are we going to have a problem.
+[SPEAKER_03]: Please, please, please, please, please.
+[SPEAKER_01]: Oh, no.
+[SPEAKER_01]: I'll use my last cipossum.
+[SPEAKER_01]: Motherfucker.
+[SPEAKER_00]: Oh no.
+[SPEAKER_05]: I can see why Max would fail this because Max, you were like ready with your phone whipping.
+[SPEAKER_02]: Fabian has rolled a nat 20.
+[SPEAKER_02]: Can he scoop me up?
+[SPEAKER_05]: That is fair.
+[SPEAKER_05]: I give them rolls of nat 20.
+[SPEAKER_05]: I do normally let them give assistance to someone else in these types of situations.
+[SPEAKER_05]: So yeah, Fabian, do you want to grab Max?
+[SPEAKER_00]: I want to grab a like Indiana Jones.
+[SPEAKER_00]: I would have expected the phone whip on the Fort Coliseum swing under, you know.
+[SPEAKER_05]: Okay, so natural 20 from traffic also.
+[SPEAKER_02]: So yeah, collectively, I gotta drink first.
+[SPEAKER_05]: You guys narrow escape, but you make it through.
+[SPEAKER_05]: You can see now the end of this corridor, which is maybe 30 feet ahead.
+[SPEAKER_05]: You can see the beginnings of this opening on the
+[SPEAKER_05]: right hand side of the corridor, and you can see the first few steps that seem to lead down there.
+[SPEAKER_00]: Well, that was fantastic.
+[SPEAKER_00]: Make sure we jot down the diagram of what you just did before we forget.
+[SPEAKER_00]: Absolutely.
+[SPEAKER_01]: It can go next to the eyes.
+[SPEAKER_01]: Yes, yes.
+[SPEAKER_01]: There's a representation of the historic artistry of the dwarves.
+[SPEAKER_01]: We're capturing a description of the trap itself.
+[SPEAKER_00]: Absolutely.
+[SPEAKER_00]: And a measure of how impressive it is that these eyes are in the exhibits.
+[SPEAKER_00]: Exactly.
+[SPEAKER_01]: This is what it took to retrieve them.
+[SPEAKER_00]: There's 30 feet less.
+[SPEAKER_00]: How far have we actually come down this corridor?
+[SPEAKER_05]: Maybe 60 feet or 60, 70 feet.
+[SPEAKER_00]: Jesus.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So there's maybe one trap left.
+[SPEAKER_00]: Maybe.
+[SPEAKER_01]: It doesn't mean that we, I guess those of us with dark vision can now see, in fact, within 30 feet, I think everyone can now see the end of the corridor.
+[SPEAKER_05]: Yeah, that's why I was telling you, as you can see that the corridor ends and then all kind of turns to the right and then you can see steps that begin to lead down with questions.
+[SPEAKER_01]: It's important.
+[SPEAKER_01]: Is this corridor, has it been level the entire time?
+[SPEAKER_01]: Is it on a downward slope?
+[SPEAKER_05]: It's a downward slope, but quite a gentle one.
+[SPEAKER_01]: Right, okay.
+[SPEAKER_04]: Has the smell in this area changed at all with our progression?
+[SPEAKER_04]: Getting worse.
+[SPEAKER_01]: Now we've got a canary.
+[SPEAKER_00]: Surely that's what Hawke is for.
+[SPEAKER_03]: Oh, that is very true.
+[SPEAKER_03]: Holy fair enough.
+[SPEAKER_00]: You agree to that far too easily.
+[SPEAKER_03]: Do you know what?
+[SPEAKER_03]: I had just forgotten about Hawk.
+[SPEAKER_03]: So that's fine.
+[SPEAKER_05]: In most of these circumstances, Hawk wouldn't mind being forgotten about too much.
+[SPEAKER_05]: He's probably, you know.
+[SPEAKER_01]: He's keeping a low profile.
+[SPEAKER_01]: No.
+[SPEAKER_01]: Before we do...
+[SPEAKER_03]: take that into consideration.
+[SPEAKER_03]: Have we run out of murals?
+[SPEAKER_03]: Is there another mural coming up?
+[SPEAKER_05]: No, there are three more.
+[SPEAKER_05]: In fact, it probably means a bit more than 30 lead to the end.
+[SPEAKER_05]: There's one right where you are now, which is Sargrim Hex Ward, who is the runecrafter among the saints, and there's two further along.
+[SPEAKER_00]: Any shiny things on this one?
+[SPEAKER_05]: Coming out, boys.
+[SPEAKER_05]: there aren't shiny things on this one, but there are glowy things.
+[SPEAKER_05]: Yeah, there are runes which those of you with arcane with the ability to recognise what you're seeing, there are stones that are carved with runes that I mean, if you were to sort of chisel them out, probably do have a certain amount of power and value.
+[SPEAKER_04]: Is it possible to know?
+[SPEAKER_04]: I guess what those runes are there to like represent?
+[SPEAKER_04]: Are they, or are they just shiny runes?
+[SPEAKER_05]: Make a quick religion check.
+[SPEAKER_05]: I mean, you could, if you took time to study this, you could definitely work that out.
+[SPEAKER_04]: Can I argue my knowledge in magic?
+[SPEAKER_05]: No, you would need to, cause that would take, well, it depends.
+[SPEAKER_05]: If you want to take time, then yes, you can use Arcanus to study them.
+[SPEAKER_05]: But if you just want to think, do I know what would be represented here?
+[SPEAKER_05]: Then it would be a religion check.
+[SPEAKER_03]: Do ruins count as a form of written language?
+[SPEAKER_03]: Sorry?
+[SPEAKER_03]: Do ruins count as a form of...
+[SPEAKER_05]: But it depends where you mean...
+[SPEAKER_02]: I mean, you would... What is language, guys?
+[SPEAKER_03]: If traffic was to pop down his glasses, would he be able to... Oh, right.
+[SPEAKER_03]: There's the rune for whatever, would it translate into common?
+[SPEAKER_03]: No, I would say no.
+[SPEAKER_01]: Yeah, they're more pictographed as opposed to like alphabet traits.
+[SPEAKER_05]: Yeah, they're not intended to communicate there.
+[SPEAKER_05]: And again, I don't want to get into that, but they're acts rather than representations.
+[SPEAKER_05]: You're doing facts?
+[SPEAKER_05]: No.
+[SPEAKER_05]: So, typically speaking,
+[SPEAKER_05]: In this kind of, in the depiction of this saint, he was known for being equally proficient with curses and wards against curses.
+[SPEAKER_05]: And typically speaking, he would be represented with five rooms.
+[SPEAKER_05]: two of which represent his ability to set curses or hexes, two of which represent his ability to set wards.
+[SPEAKER_05]: Now what those might be will vary a little bit from depiction to depiction, and then there'll be one which represents his keeping those two forces in balance.
+[SPEAKER_04]: Interesting.
+[SPEAKER_05]: Now, depending on the quality of the thing, people might or might not put the effort into making these actually potent
+[SPEAKER_05]: runes in themselves in the representation.
+[SPEAKER_05]: But you know enough about magic to see that in this instance, the cover has done that.
+[SPEAKER_05]: And a bit like with the gems, there's not extraordinary valuable things, but if you were to take the time to chill them out, yeah, they would be valuable, potentially useful for something, but it would certainly take more time.
+[SPEAKER_05]: And yeah, a hundred percent.
+[SPEAKER_05]: Most people would regard this as
+[SPEAKER_05]: I mean, particularly.
+[SPEAKER_04]: But just to check, am I the only one here in this party who knows that that is sick?
+[SPEAKER_04]: Like, that is a bad thing.
+[SPEAKER_04]: Can I?
+[SPEAKER_02]: We all know that shit happened when Rell took shit off the wall last time.
+[SPEAKER_00]: But it also worked out.
+[SPEAKER_04]: It did work out.
+[SPEAKER_04]: Look how stupid Rell was.
+[SPEAKER_04]: Well.
+[SPEAKER_02]: The survival instinct of newborn foals.
+[SPEAKER_04]: Look, we all like shiny things, and we like different shiny things, okay?
+[SPEAKER_04]: I like glowing things.
+[SPEAKER_04]: I will point out to the group- I feel like a monkey at that moment when a lamp is reaching for the lamp.
+[SPEAKER_04]: Point out to the group that the runes would probably be valuable.
+[SPEAKER_02]: Why don't we get them on the way out?
+[SPEAKER_01]: Yeah, I don't think we have time to sit and chisel them out and hope we keep them intact.
+[SPEAKER_01]: Its value is hard to extract.
+[SPEAKER_01]: And whilst gems are easily liquidated, I would imagine ancient runes are a little bit more complex.
+[SPEAKER_04]: I could definitely find someone who would take those runes.
+[SPEAKER_01]: Interesting.
+[SPEAKER_01]: By all means, go ahead.
+[SPEAKER_01]: No, no, not by all means.
+[SPEAKER_02]: Let's get out of this fucking corridor.
+[SPEAKER_04]: It's okay to desecrate the place for taking gems, but you won't take magical effects, but fine.
+[SPEAKER_02]: I was fine with it when taking the gems out, didn't make axes swing through the ceiling.
+[SPEAKER_03]: Speaking of axes, can we investigate the area before?
+[SPEAKER_01]: Yes, exactly.
+[SPEAKER_05]: Sure, you definitely can.
+[SPEAKER_03]: Well, I will help you again.
+[SPEAKER_01]: Absolutely.
+[SPEAKER_01]: I seek guidance from Mayloss.
+[SPEAKER_01]: You get it.
+[SPEAKER_01]: Inexplicably, frankly.
+[SPEAKER_01]: Oh, I didn't have advantage.
+[SPEAKER_01]: Sorry, let me try again.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: You notice that some, but not all, of the stones around the carving of the Runecrafter, including the ones on the floor and the ones on the wall beneath the stone car, up to the level of the carving itself, have very faint and very subtle
+[SPEAKER_05]: not even carved into them, they're almost more kind of, they look like shadows on the stone, which you might or might not recognize as the trace effect of magic having been cast upon them.
+[SPEAKER_05]: But yeah, there are, without perception check, well, you can see how to pick your way between these things, but yeah, you would need to do so with
+[SPEAKER_01]: And yeah, I guess I would volunteer that information to the group and suggest that I spend some time chalking out the path as I go along rather than trying to talk you through it.
+[SPEAKER_01]: And then I'll do it.
+[SPEAKER_05]: So, well, you don't need to make any kind of role to do this because you can, you know, you can directly see what you're doing.
+[SPEAKER_05]: The fact that you have talked it out for people, it's going to mean that everyone can roll with a bondage, but we will roll more acrobatics checks just to see if anyone really messes up.
+[SPEAKER_01]: Motherfucker.
+[SPEAKER_05]: Well, some people definitely needed that advantage.
+[SPEAKER_05]: What do you mean?
+[SPEAKER_02]: You mean two of us independently wrote natural ones.
+[SPEAKER_05]: But you all managed to follow Rell's...
+[SPEAKER_05]: Thanks, Rell.
+[SPEAKER_05]: ...and make it past this particular sculpture.
+[SPEAKER_05]: And now you can see, not very far ahead of you, that turn in the corridor where it descends to the right.
+[SPEAKER_05]: You can also make a quick perception check, anyone who is paying attention to things.
+[SPEAKER_05]: Okay, Max and Raoul.
+[SPEAKER_05]: Okay, Max, Raoul and Casper.
+[SPEAKER_05]: You will notice that the smell is getting stronger.
+[SPEAKER_05]: You also start to hear the sound of
+[SPEAKER_05]: Not the sound of running water, but the odd sound of kind of water, like a single kind of slap of water against something.
+[SPEAKER_05]: Yeah, there's definitely water down here somewhere, but it's not kind of running water like an underground river.
+[SPEAKER_02]: Like the ebb of a tide.
+[SPEAKER_05]: No, not much less regular than that.
+[SPEAKER_05]: Just every now and again, there's a kind of splash.
+[SPEAKER_05]: Not even a flash, just a sort of like slap of water.
+[SPEAKER_05]: Yeah, but it's something moving in the pool.
+[SPEAKER_05]: Could be that, yes.
+[SPEAKER_05]: But it's irregular.
+[SPEAKER_01]: Can I invite a survival role to see if Rel would know that the presence of certain gases would affect the colour and behaviour of flames?
+[SPEAKER_05]: Sure, although I feel like you probably wouldn't know that.
+[SPEAKER_01]: If I just know it, then I think I would prestigiate a small flame just to study its behaviour and colour.
+OK.
+[SPEAKER_05]: Is there anything in particular you're hoping to find out?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: You know, if there's like, if there's fire damp here, if there's a methane, if we're about to all die in carbon monoxide, those kinds of things.
+[SPEAKER_05]: Sure.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: So I'm not sure your prestidigitated flame is necessarily going to respond in the same way as a natural flame.
+[SPEAKER_01]: I sort of meant to light some things more.
+[SPEAKER_00]: I have a natural flame on right now, don't I?
+[SPEAKER_00]: That's true.
+[SPEAKER_05]: Second.
+[SPEAKER_01]: We realised that actually... We should have exploded five minutes ago.
+[SPEAKER_01]: ...extinguished about five minutes ago.
+[SPEAKER_01]: Slight raise of eyebrows.
+[SPEAKER_01]: Oh, we've exploded, oh no.
+[SPEAKER_05]: I would say...
+[SPEAKER_05]: I would say the flame has a subtle kind of bluish tinge around its edges.
+[SPEAKER_05]: But it's only quite subtle.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: And it doesn't indicate to rel that there's anything immediately dangerous about that.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: But I guess anybody will say quite possibly the source of the smell.
+[SPEAKER_01]: It seems as a natural buildup of methane in the area.
+[SPEAKER_01]: Be careful with that flame, Fabian.
+[SPEAKER_01]: It'll probably get worse the deeper we go.
+[SPEAKER_00]: Should I put it out or?
+[SPEAKER_01]: Yes, I might suggest magical light for now.
+[SPEAKER_00]: thing.
+[SPEAKER_00]: I put it out and ruin everybody else's dark vision.
+[SPEAKER_01]: We all stumbled backwards into the last trap.
+[SPEAKER_01]: Yeah, I guess we've got through five traps.
+[SPEAKER_02]: Is that right?
+[SPEAKER_01]: Yeah.
+[SPEAKER_02]: Two more to go.
+[SPEAKER_01]: And also, I guess, make sure your breath comes easy and your thoughts are clear.
+[SPEAKER_01]: These are both signs that the gas is affecting us.
+[SPEAKER_01]: Or rather the opposite.
+[SPEAKER_00]: Should we stuff damp rags in our mouths or something?
+[SPEAKER_00]: People do.
+[SPEAKER_01]: Fabian, if you would stuff a damp rag in your mouth, I'm sure everyone would be pleased.
+[SPEAKER_00]: How dare you.
+[SPEAKER_02]: Russo.
+[SPEAKER_00]: Will, we had a very well worked out poisonous gas procedure with rags.
+[SPEAKER_00]: This can't be too difficult to recreate.
+[SPEAKER_02]: We did.
+[SPEAKER_05]: You're not feeling any ill effects at the moment, as I say.
+[SPEAKER_05]: Well, although the smell is very unpleasant.
+[SPEAKER_05]: So I suppose it depends how much of an ill effect you think of that being in an office.
+[SPEAKER_02]: Maybe I'm over.
+[SPEAKER_02]: valuing that survival role earlier that told me I didn't have anything to worry about.
+[SPEAKER_02]: Should I repeat that survival role?
+[SPEAKER_05]: In what sense saying that you don't have anything to worry about?
+[SPEAKER_02]: That there was nothing injurious to health that we were breathing in.
+[SPEAKER_05]: Yeah, as I say, I think it's still reasonable to say that and certainly in the acute sense, it wouldn't necessarily be healthy to stay down here and breathe this indefinitely, but there's nothing that's poisoning you in the sense of you're going to start to feel acute effects of it.
+[SPEAKER_02]: Of course, there could be a magical effect, couldn't there?
+[SPEAKER_01]: Well, a magical production of a physical gas effect, if it's affecting a physical flame, right, would be the suggestion.
+[SPEAKER_01]: All right, let's keep going.
+[SPEAKER_01]: It's fine for now, but it might get worse.
+[SPEAKER_01]: So just, yeah, keep your heads on straight.
+[SPEAKER_04]: Are we at the next image, the next carving?
+[SPEAKER_05]: If you are heading forward, you certainly can be.
+[SPEAKER_05]: You guys head forward and you find yourself in front of the next relief.
+[SPEAKER_05]: It is a.
+[SPEAKER_05]: This is a saint that actually was probably the most celebrated outside of kind of immediate dwarven culture of these saints.
+[SPEAKER_05]: and he is the Saint of Brewing basically.
+[SPEAKER_05]: He is fitted with his with his classic kind of vats and tankards and yeah that's that's who you see here.
+[SPEAKER_00]: Oh the smell couldn't be related to a brewery could it?
+[SPEAKER_05]: doesn't have anything in common with a brewery immediately, unfortunately.
+[SPEAKER_00]: More pleasant.
+[SPEAKER_05]: Because you've rolled well, all of you, or some of you, most of you, on your religion checks so far, I will say
+[SPEAKER_05]: There would be generally like, Margaret is considered a symbol of kind of hospitality and respite.
+[SPEAKER_05]: Putting a trap here would be generally considered
+[SPEAKER_01]: for form, or even black, depending.
+[SPEAKER_05]: Yeah, I mean, from all you have heard about Rama, he was insane by the end of his life.
+[SPEAKER_05]: So who knows to what extent those constraints still, he felt that they applied to him.
+[SPEAKER_05]: But yeah, that would be, that would be the traditional view.
+[SPEAKER_01]: Keep looking for the traps then.
+[SPEAKER_01]: Yeah, yeah, always be cautious, but progress.
+[SPEAKER_01]: At some point we'll meet the extra saint grommer and a big scythe will come down and cut our heads off or whatever.
+[SPEAKER_01]: Something that makes it his path.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: I guess, uh, keeping eyes peeled.
+[SPEAKER_01]: Thank you.
+[SPEAKER_01]: Nobody mentioned helping me.
+[SPEAKER_01]: So I rolled that one flat.
+[SPEAKER_03]: You don't see any obvious evidence of traps.
+[SPEAKER_01]: You do see, as you edge forward carefully,
+[SPEAKER_05]: a line of dwarvish carved into the floor, which appears, it doesn't really match the kind of the rest of the coherence of the thing.
+[SPEAKER_05]: Does it say?
+[SPEAKER_05]: Do you speak dwarvish?
+[SPEAKER_01]: Sure do.
+[SPEAKER_01]: Yes.
+[SPEAKER_05]: It says,
+[SPEAKER_05]: So in, again, this is, it's all into what we said translating part of it seems weird.
+[SPEAKER_05]: But because one of these is kind of a proper name, I suppose.
+[SPEAKER_05]: So it.
+[SPEAKER_05]: It says Kazavukvarag, which is presented clearly as a name, but which means something like ancient hatred or oldest of hatreds or oldest enemy, something like that.
+[SPEAKER_05]: And then it says, I defy you.
+[SPEAKER_05]: interesting and then and then the ceiling collapses ceiling does not collapse so this is not kind of graffiti written in haste this has been carved you know with with care and attention it's taking time um but that but as i say it's definitely been done after the rest of this that will correct
+[SPEAKER_02]: Do you do you share this information?
+[SPEAKER_01]: Yeah, I'll relate to the that there is a name carved here.
+[SPEAKER_01]: And the literal translation is something like oldest enemy, I defy you.
+[SPEAKER_02]: Casper, does that come up in your history lessons?
+[SPEAKER_04]: Yes, does that come up?
+[SPEAKER_02]: Fabian doesn't come up in your history lessons.
+[SPEAKER_01]: Oh, Fabian, look, Alexander pants.
+[SPEAKER_02]: Well, it was very exciting to sort of surge towards them.
+[SPEAKER_00]: The cats decided doesn't like my laptop.
+[SPEAKER_00]: Yes, have I heard a history lesson on this?
+[SPEAKER_05]: If anyone wants to make a history check.
+[SPEAKER_01]: Guidance to Fabian.
+[SPEAKER_01]: I will know myself a role simply because I know Dwarvish.
+[SPEAKER_05]: Okay, so almost for those of you who are better informed who have rolled 15 or above, if you read this in a text in the context of Gromar, who, you know, who's classically whose enemy was death that he tried to defeat, you would almost certainly interpret this as a reference to death.
+[SPEAKER_05]: That is not a traditional dwarvish way of referring to death by any means.
+[SPEAKER_05]: It's certainly not a Calvaryan way of referring to death.
+[SPEAKER_05]: But in the context of what you know about grammar, outside of this particular circumstance, 100% that is how you would interpret it.
+[SPEAKER_02]: By the Calvaryan,
+[SPEAKER_02]: What is my greatest adversary?
+[SPEAKER_05]: Stagnancy and a lack of thought and change.
+[SPEAKER_05]: Laziness.
+[SPEAKER_02]: I don't know if I've got any ideas.
+[SPEAKER_00]: I'm thinking stagnant water.
+[SPEAKER_00]: somewhere with only small amount of movement in this feels like it could link up.
+[SPEAKER_00]: Can we hear the water any louder?
+[SPEAKER_05]: Yeah, every time you come kind of further down the corridor closer, which you are now very close to that, they tend to the steps.
+[SPEAKER_05]: Yeah, the water is definitely you definitely moving toward it.
+[SPEAKER_05]: And stagnant water is not a bad description of the smell that you're smelling, or at least parts of it.
+[SPEAKER_02]: Yeah.
+[SPEAKER_04]: Why would someone... Is it still an irregular beat of water?
+[SPEAKER_04]: It hasn't increased in pace?
+[SPEAKER_04]: It hasn't changed at all?
+[SPEAKER_05]: No.
+[SPEAKER_05]: Still occasional.
+[SPEAKER_01]: I wonder if there's any significance that this carving is next to the nicest one.
+[SPEAKER_02]: Right, why do you come to the patron saint of hospitality and you write this message?
+[SPEAKER_02]: Right.
+[SPEAKER_02]: Sometime later, we infer from the fact that it's too different.
+[SPEAKER_04]: Everything else had traps, this one didn't.
+[SPEAKER_01]: But why is that a defiance of death?
+[SPEAKER_04]: No idea.
+[SPEAKER_02]: But also, even if you are a defying death or you're defying, say whatever, why do you bother to sit down and patiently write it out for other people to see?
+[SPEAKER_02]: Yeah, it's like carving it into the wall.
+[SPEAKER_02]: This is something you wanted other people to draw an inference from.
+[SPEAKER_01]: I wonder if this is simply Grommer celebrating the success of passing through this sequence of traps that were intended to kill you.
+[SPEAKER_01]: And this is this is he's reached the end and is now stating I've defied death.
+[SPEAKER_02]: Ches, can you give us the wording one more time?
+[SPEAKER_05]: So I put the name Kazavak Bukvarag, which would be as it could be ancient hatred, or the oldest hatred, or maybe the oldest enemy, something like that.
+[SPEAKER_02]: I would.
+[SPEAKER_02]: But the message in total says something like.
+[SPEAKER_05]: And then it says, I defy you.
+[SPEAKER_05]: I defy you.
+[SPEAKER_05]: Yeah, clearly addressed to that.
+[SPEAKER_05]: This is all of the linguistic markers give this as a name.
+[SPEAKER_05]: And then the I defy you is addressed to that name.
+[SPEAKER_02]: What if this is a religion check?
+[SPEAKER_02]: Who is the oldest adversary?
+[SPEAKER_02]: Come on, Mags, do you remember anything about this?
+[SPEAKER_01]: Well, if this was added later on.
+[SPEAKER_01]: She does!
+[SPEAKER_05]: Unfortunately, even with a 19, you can you can hypothesize along the lines that we've suggested, but there's nothing which immediately leaps to you.
+[SPEAKER_01]: Yeah, I wonder.
+[SPEAKER_05]: One thing everyone knows about Kromer is that his his adversary was death.
+[SPEAKER_05]: That's the whole point of the Kromer legend.
+[SPEAKER_02]: But that's not the same as the oldest adversary.
+[SPEAKER_01]: Right, but if it's Grommer's oldest of history, that's the thing that I want to draw attention to is the fact that the denizens of this big god being know who Grommer is.
+[SPEAKER_01]: They don't seem to know anything else about any of the other buildings that are in here, which sort of implies Grommer was here, and that's why they know him.
+[SPEAKER_01]: So I'm wondering if, you know, this is, again, if Grommer made it down this path, which was later named for him,
+[SPEAKER_05]: And at the end, and he sits down and shows us that something over I see any of you that Gromit is a real person who actually hears his best the kind of semi legendary, right, which would take him to be a dwarfish kind of fantasy.
+[SPEAKER_05]: He's like a cautionary, it's a bit like Midas, I suppose.
+[SPEAKER_05]: It's like a cautionary tale of what happens if you get too afraid of death and devote all of your efforts to fighting.
+[SPEAKER_02]: You become immortal, I see.
+[SPEAKER_02]: But that doesn't seem to be the oldest adversary, does it?
+[SPEAKER_01]: Well, in the context of grammar, yes, but outside of that context, no, I suppose.
+[SPEAKER_02]: I but maybe maybe dwarfs they live underground they just really hate fire damp you know and that's the oldest have we seen us have we seen a single written reference to grow my round 10th not so far no this is just a template calvary yeah yeah what do you think so far it's relatively typical temple of calvary
+[SPEAKER_02]: All right.
+[SPEAKER_02]: I think we're not going to work it out immediately, but so I say we keep going.
+[SPEAKER_02]: Yeah, that's fair enough.
+[SPEAKER_04]: Was this the last one?
+[SPEAKER_04]: This is the last one.
+[SPEAKER_04]: I'm sorry?
+[SPEAKER_01]: This was the last carving, yes.
+[SPEAKER_01]: Which is again, if he got to the end of the path and didn't die, that's his death defiance.
+[SPEAKER_01]: That's just so great.
+[SPEAKER_03]: Yeah.
+[SPEAKER_01]: Yeah.
+[SPEAKER_05]: So you guys, there's only really one place to go here, which is to turn to, it's a direct right angle turn to the right.
+[SPEAKER_05]: And there is a flight of stone steps, which lead downward in a, not quite in a kind of spiraling, but in a kind of irregularly angled descent.
+[SPEAKER_04]: I guess there's no way to know how far that goes down, if it's tiffed.
+[SPEAKER_05]: Not from where you are now.
+[SPEAKER_04]: Let's go.
+[SPEAKER_04]: I could send Theo ahead.
+[SPEAKER_04]: We'll offer to the group.
+[SPEAKER_02]: Sounds very good.
+[SPEAKER_02]: You could.
+[SPEAKER_05]: Do you want to do that?
+[SPEAKER_04]: Yeah, I'll shake him out of my sleeve, hop him on the floor, and he will hug the wall as close as possible and descend the stairs.
+[SPEAKER_04]: Sure.
+[SPEAKER_03]: I got mildly distracted there.
+[SPEAKER_03]: Did we, are we able to see how far down the steps to go?
+[SPEAKER_03]: Okay.
+[SPEAKER_05]: So you do send Theo down.
+[SPEAKER_05]: He goes down, probably descends around 50 feet or so from your position.
+[SPEAKER_05]: Stairs go down pretty steeply.
+[SPEAKER_05]: As I say, they're not a circular spiral, but they're a kind of quite slightly irregular kind of sort of square spiral almost.
+[SPEAKER_05]: But then around 50 feet or so down from where you are, they open up.
+[SPEAKER_05]: and they turn into one steeply, very steeply descending set of stairs toward a large pit with water in it.
+[SPEAKER_05]: So it is kind of the top of the stairs there.
+[SPEAKER_05]: It's a very steep set of stairs down to then a ledge, which goes all the way around
+[SPEAKER_05]: the pit with about 30 feet or so from the ledge down to the surface of the water, which is very obviously pretty filthy.
+[SPEAKER_05]: You can see stuff floating in it.
+[SPEAKER_05]: You can see kind of oily patches.
+[SPEAKER_05]: The smell through Theo's senses is pretty strong.
+[SPEAKER_05]: The water is definitely very unwholesome.
+[SPEAKER_05]: You can also, the other thing that Theo can see is partway round the ledge.
+[SPEAKER_05]: So the stairs come down, they're partway round the ledge.
+[SPEAKER_05]: There is a patch of stonework, which goes all the way down to disappear into the water and all the way up into the ceiling and is surrounded by almost a sort of,
+[SPEAKER_05]: sort of canopy kind of arrangement.
+[SPEAKER_05]: So there are stone four stone pillars that kind of shelter this area, which again has carvings on it, which goes all the way down to the water and all the way up disappearing up into the ceiling.
+[SPEAKER_05]: That is that is what you see.
+[SPEAKER_04]: And we'll relate that to the group as I step in, Theo's surprised.
+[SPEAKER_05]: It's about 70 feet or so across this pit.
+[SPEAKER_05]: It's big.
+[SPEAKER_05]: It's big enough to count as a kind of mini lake.
+[SPEAKER_05]: Well, not quite a mini lake, but it's about 70 feet across.
+[SPEAKER_02]: This is what we came here to see.
+[SPEAKER_04]: I guess Theo didn't see anything moving, nothing in weight.
+[SPEAKER_05]: You can make a perception check.
+[SPEAKER_05]: I'm guessing you're staying at the top of where these stairs are, so you're quite far away.
+[SPEAKER_05]: The 23, is that Theo's perception, no?
+[SPEAKER_05]: You meant to be using his?
+[SPEAKER_04]: I'm looking through his eyes and I can never remember which perception check we used for that, so.
+[SPEAKER_05]: It doesn't matter for the minute.
+[SPEAKER_05]: I think it's his when you're using his senses, but anyway, it doesn't matter.
+[SPEAKER_05]: You see, from where you are,
+[SPEAKER_05]: there are definitely lumps in the water.
+[SPEAKER_05]: There's stuff in there, but whether or not, and it is also occasionally there are clearly bubbles that kind of are releases of gas.
+[SPEAKER_05]: So there is movement in the water, but whether or not there's anything in there moving it in other ways, it's very difficult to tell.
+[SPEAKER_05]: What you do notice though, is that there are dark shapes underneath that kind of canopy above the carvings, where those stone pillars are kind of beside the carving that goes up into the ceiling.
+[SPEAKER_05]: There are kind of these dark shapes underneath there as though something is kind of roosting or nesting under there.
+[SPEAKER_05]: But it's not moving.
+[SPEAKER_04]: We'll relay all of that.
+[SPEAKER_04]: I assume that the wet sound that we've been hearing is popping up bubbles then.
+[SPEAKER_05]: It's quite warm in this chamber as well.
+[SPEAKER_05]: The water is definitely giving off some heat.
+[SPEAKER_01]: I don't know if it holds true to D&D, but rarely does methane naturally escape the silt at the bottom of stagnant water.
+[SPEAKER_01]: It has to be disturbed.
+[SPEAKER_02]: You think this is a limonic system?
+[SPEAKER_02]: That's cool.
+[SPEAKER_02]: We could set off a massive detonation, like in Congo.
+[SPEAKER_05]: You guys are still at the top of the stairs, right, at the minute?
+[SPEAKER_05]: Yeah.
+[SPEAKER_02]: I think we should go down and have a look.
+[SPEAKER_02]: I mean, there's nothing else to do, right?
+[SPEAKER_01]: Does Theo breathe air?
+[SPEAKER_01]: Did he prove that we could actually breathe down there?
+[SPEAKER_01]: I suppose he's lower to the ground as well, so he would have been more impacted by gas.
+[SPEAKER_04]: I don't think he does breathe air.
+[SPEAKER_04]: Oh, he lives in a pocket dimension.
+[SPEAKER_04]: I can't imagine he does breathe air.
+[SPEAKER_01]: I see.
+[SPEAKER_04]: I'm going to leave Theo at the bottom of the stairs to like... Well, in that case, put him in the water.
+[SPEAKER_04]: Why would I do that?
+[SPEAKER_02]: It's a good point, absolutely.
+[SPEAKER_05]: 40 is about 30 feet below the ledge.
+[SPEAKER_05]: I don't think it would be an easy way of getting Theo down there.
+[SPEAKER_05]: And again, can be guilt.
+[SPEAKER_04]: So he's going to stay down there and alert us, basically, if things seem to be alerted to our presence.
+[SPEAKER_04]: Colonia Bats is about to come out and eat our faces, I guess.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: But then, yeah, if people want to head.
+[SPEAKER_02]: I'll follow.
+[SPEAKER_00]: Can we do any kind of look for where these things are roosting?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Are there large piles of that poop at the bottom?
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: I've already been relatively generous from what Theo can see from where he is.
+[SPEAKER_05]: If you want any more information, you're going to have to get a bit closer and in person.
+[SPEAKER_02]: Is there a plan to go down and kill them or talk to them?
+[SPEAKER_02]: Because there was talk to them.
+[SPEAKER_02]: I think I identified them first.
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: Identify them and then progress from there because it might be kill them if they are not talky things.
+[SPEAKER_04]: Or we can be real quiet and try and avoid them.
+[SPEAKER_04]: So stairs are pretty narrow.
+[SPEAKER_05]: What is your marching order?
+[SPEAKER_02]: I think Rell will offer- Oh shit, I do have speak with animals because I'm a gnome.
+[SPEAKER_02]: Of course I do.
+[SPEAKER_01]: Yeah, Rell will offer to sneak down as quietly as he can to try and get a better idea of what we're dealing with.
+[SPEAKER_03]: I will sneak down with Relm.
+[SPEAKER_04]: I'll be in the middle to alert anyone if Theo alerts me that there is movement.
+[SPEAKER_05]: Okay, so so far I have Rel, Mags, Caspian.
+[SPEAKER_05]: Where were you going Trevik?
+[SPEAKER_03]: I was behind Caspian.
+[SPEAKER_02]: Really heroic, Fabian.
+[SPEAKER_02]: Really heroic.
+[SPEAKER_04]: Keep my Rexit open.
+[SPEAKER_05]: All right.
+[SPEAKER_05]: So proceeding in that order, you make your way down the stairs until, Rell, you get to the point where you can see what Caspian described to you with the O-size.
+[SPEAKER_05]: It opens up into this large cavern.
+[SPEAKER_05]: You can see the water below.
+[SPEAKER_05]: There's about 20 feet more steps between you and where the ledge goes both sides.
+[SPEAKER_05]: So the ledge goes all the way around the
+[SPEAKER_05]: pool of water.
+[SPEAKER_05]: And it is on from coming down the stairs, it's on the left hand side about third of the way around that you can see that long carving on the wall.
+[SPEAKER_01]: Okay, sorry, the ledge is a manmade formation.
+[SPEAKER_01]: And is it like perfect?
+[SPEAKER_01]: Like this is a perfect circular pool?
+[SPEAKER_01]: Or is this
+[SPEAKER_05]: No, it is it is what looks to be an initially natural chamber.
+[SPEAKER_05]: So it is not kind of perfect.
+[SPEAKER_05]: And the ledge itself appears to have taken some damage over the years.
+[SPEAKER_05]: It's enough for one person to easily kind of walk along without being precarious.
+[SPEAKER_05]: Two people probably would be quite tricky.
+[SPEAKER_05]: But there are places where bits of it have fallen away and so on.
+[SPEAKER_05]: There are places where it's it's perfect.
+[SPEAKER_05]: It's definitely yes, definitely taken some damage over the years.
+[SPEAKER_01]: Okay, and sorry, the carving, I might have missed what it was, or maybe we just don't know yet.
+[SPEAKER_05]: You haven't really got close enough to see it yet, but you can see that there is a flat, or not flat, but
+[SPEAKER_05]: sort of smooth area.
+[SPEAKER_05]: It's about 15 feet wide, I would say.
+[SPEAKER_05]: And as I say, it goes all the way down into the water and all the way up outside of above what would that's the kind of the roof of the cabin above you.
+[SPEAKER_05]: And this goes further up it like a kind of chimney almost.
+[SPEAKER_05]: The carving goes out of sight.
+Interesting.
+[SPEAKER_01]: And then these roosting creatures, I guess, now that we're here, can we see any better from our, you know, our higher up perspectives?
+[SPEAKER_05]: You can make another perception check if you would like to.
+[SPEAKER_05]: But as it is, it's difficult to see.
+[SPEAKER_05]: Yeah, you're just behind us.
+[SPEAKER_05]: You can give guidance if you want.
+[SPEAKER_02]: Just tapping in my shoulder going, look over there.
+[SPEAKER_05]: You're not, you are able to see exactly what, uh, Caspian was describing.
+[SPEAKER_05]: There's definitely something there, but you're not able to make out any additional details.
+[SPEAKER_01]: I listen really hard.
+[SPEAKER_01]: Sorry.
+[SPEAKER_01]: Sorry.
+[SPEAKER_00]: After you Alec.
+[SPEAKER_00]: I just want to listen really hard.
+[SPEAKER_00]: There must be some kind of breathing or scratching of... You're quite far back at this point.
+[SPEAKER_05]: So probably everyone will need to come forward.
+[SPEAKER_05]: Only when Rel and Mags are in a position to sort of look over the chamber, unless you guys all want to come further down.
+[SPEAKER_05]: So there's plenty of space for you all to stand on the steps before you get above the thing, but I'm assuming you've paused at the earliest obvious pausing point.
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: Survival checks are about natural hazards.
+[SPEAKER_05]: Sometimes.
+[SPEAKER_02]: So I wonder if, construing the check broadly, given the information we have in front of us, could we sort of think about, I don't know how smart these things are, how
+[SPEAKER_02]: Can I see, are they organized in nests?
+[SPEAKER_02]: Have they built nests?
+[SPEAKER_02]: Can I hear them?
+[SPEAKER_05]: Can we talk to each other?
+[SPEAKER_05]: All you can see from where you are is that there's a kind of irregular shape under there, which you think is probably something, nesting or roosting or something.
+[SPEAKER_01]: Is it under?
+[SPEAKER_01]: I thought it was above.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Okay.
+[SPEAKER_05]: So yeah, no, what happened is they built this kind of, so from the ledge, so there's a kind of plough.
+[SPEAKER_05]: So from the ledge there, there's bits that stick out a little bit in that particular place and they've built these pillars.
+[SPEAKER_05]: And then there's a kind of almost roof, which goes up on a slant to shelter the top part of the carvings.
+[SPEAKER_05]: And it's beneath that sloping roof that you can see the shapes.
+[SPEAKER_00]: I think we're just gonna have to get closer.
+[SPEAKER_02]: Yeah, like, what the fuck are they, right?
+[SPEAKER_02]: Like, you know, what can you eat down here?
+[SPEAKER_02]: Like, what kind of ecosystem is there?
+[SPEAKER_04]: Well, it's very likely also something in the water.
+[SPEAKER_05]: There's definitely organic matter in the water.
+[SPEAKER_05]: That's obvious.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: So I whisper to Roel, if they're beasts, I can talk to them.
+[SPEAKER_02]: But brackets because of the weird way which spells work in this universe.
+[SPEAKER_02]: If they're not beasts, if they're sentient, I can't.
+[SPEAKER_02]: Is that right?
+[SPEAKER_01]: Regardless of them being animals?
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: They're not beasts.
+[SPEAKER_02]: So if they're sentient, animals are sentient.
+[SPEAKER_02]: Whenever the relevant threshold point is in the D&D universe.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: I mean, I'm happy to be broadly reasonable with this, but there are going to be some things that you think you're going to be able to talk to that you're not going to be able to talk to.
+[SPEAKER_05]: That is true.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Yeah, I'll talk that out.
+[SPEAKER_02]: I think I can try and talk to them well.
+[SPEAKER_02]: What do you think?
+[SPEAKER_01]: Well, I suppose, worst case, we make our way back up the stairs in a hurry.
+[SPEAKER_05]: At the moment, you're a long way too far away to talk to them.
+[SPEAKER_01]: shout at them yeah i guess i don't recommend just shouting i think we try and sneak up and spend more time trying to figure out what they are and then just get past them if that isn't all possible but what is the past them is it down into the water at the moment the only
+[SPEAKER_05]: these steps lead down to the ledge.
+[SPEAKER_05]: The ledge goes all the way around the pool in a circle.
+[SPEAKER_05]: About a third of the way around the pool to your left, if you were to step off the stairs, there is this 15 foot strip on the wall, which is carved in some way, goes all the way down to the level of the water and all the way up into the ceiling.
+[SPEAKER_05]: That is the only
+[SPEAKER_05]: Insofar as there is an exit from this room, which there may be at the top of that carving, it's unclear from where you are, but it appears to go higher than the roof of the thing.
+[SPEAKER_05]: But it's a little bit concealed by this structure that they have constructed over it.
+[SPEAKER_05]: That is the only obvious exit from here.
+[SPEAKER_01]: Are they, sorry, you're saying they, I assume you mean whatever these things are.
+[SPEAKER_01]: Whoever the current creators of this.
+[SPEAKER_01]: This is their structure as opposed to just them.
+[SPEAKER_05]: No, no, I'm not.
+[SPEAKER_05]: No, no, no.
+[SPEAKER_05]: That's not what I mean.
+[SPEAKER_05]: When I say they, I mean just the people who created this space.
+[SPEAKER_01]: Gotcha.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Sorry.
+[SPEAKER_01]: Yes.
+[SPEAKER_05]: It's obviously man-made and not natural.
+[SPEAKER_05]: It's man-made, not animal-made.
+[SPEAKER_05]: It's not a natural thing.
+[SPEAKER_05]: Did bats make it?
+[SPEAKER_01]: Okay, I think still approaching stealthily, whether that's to gather more information or to simply try and bypass them is still the right path here.
+[SPEAKER_01]: I don't think calling out blindly in a variety of languages or beast sounds is the move.
+[SPEAKER_04]: Agreed.
+[SPEAKER_01]: So let's sneakily shuffle.
+[SPEAKER_01]: Do we want to go to collective or do we want to send a scout?
+[SPEAKER_04]: Yeah, we could again send Theo towards the carving to see if there is anything of note there before we step into this area, because we as a group are not particularly stealthy as a group.
+[SPEAKER_00]: But if they are beasts, they're less likely to attack us if they're scared.
+[SPEAKER_00]: So perhaps moving as a clump is scary.
+[SPEAKER_02]: Hang on.
+[SPEAKER_02]: OK, so here's a thing I could do.
+[SPEAKER_02]: In order to cast Enhance Ability at this point anyway, I have to upcast it.
+[SPEAKER_02]: to what I could give real advantage on stealth and my self-advantage on charisma with respect to those two strategies for the next hour.
+[SPEAKER_04]: Why don't we discuss the deal to see what, because we don't even know if there's any point.
+[SPEAKER_05]: I'm guessing at this point, you guys, because the nature of the conversation you're having, I'm guessing you've all come probably halfway down the stairs now, so you can do that standing on the stairs and seeing what everyone's seeing.
+[SPEAKER_04]: So why don't we just send Theo and then we can at least see what the carving is and see if it is something that we need to get to before we start trying to converse with.
+[SPEAKER_02]: I think you're just, you're getting past your strategy.
+[SPEAKER_02]: If I understood what just said correctly, it's kind of moot, we can't.
+[SPEAKER_02]: because whatever they've built is right by the exit.
+[SPEAKER_04]: So that could be.
+[SPEAKER_01]: I guess it's going to be like seeing front row of the IMAX for Theo, right?
+[SPEAKER_01]: He's not going to be able to tell anything that's happening when he's that small and it's that huge.
+[SPEAKER_04]: No, no.
+[SPEAKER_04]: So what are we doing?
+[SPEAKER_02]: I think we might be at the limit to what Theo can learn.
+[SPEAKER_02]: I think we should send a human.
+[SPEAKER_02]: Yeah, I agree.
+[SPEAKER_04]: He's not learning it.
+[SPEAKER_04]: I look through his eyes.
+[SPEAKER_04]: He's not learning anything.
+[SPEAKER_03]: I don't think there's a disadvantage we're sending you.
+[SPEAKER_03]: Yeah, go for it.
+[SPEAKER_04]: He doesn't see anything than fair use of two spells.
+[SPEAKER_01]: I guess my concern is that he's probably, to them, a prey animal, right?
+[SPEAKER_01]: There's all these already organic bits of material in there and if these are beasts and they spot Theo, then he'll die.
+[SPEAKER_04]: I also feel like we are prey animals, though.
+[SPEAKER_02]: That I'm actually fine with.
+[SPEAKER_02]: If we see one of them pounce and kill Theo, we learn important information.
+[SPEAKER_04]: OK, yeah, yeah.
+[SPEAKER_04]: Well, before he dies, I proof him out of existence, if that is a thing.
+[SPEAKER_04]: But I'll send Theo.
+[SPEAKER_05]: OK. You send Theo down.
+[SPEAKER_05]: It would definitely be the quickest route for Theo to come off the stairs to the left to get round to this area with the carvings.
+[SPEAKER_05]: You could also send him to the right, which is a longer way around, but you could do it.
+[SPEAKER_05]: in the wall in the quickest way.
+[SPEAKER_05]: You do that.
+[SPEAKER_05]: He jumps off the stairs, goes round to the left.
+[SPEAKER_05]: As he approaches closer to the canopy, which is over the carvings, make a perception check for him, please.
+[SPEAKER_04]: I will bring his sheet up one second.
+[SPEAKER_04]: I do not have it up.
+[SPEAKER_04]: I'll just do a wisdom check.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: You see a few things as you approach.
+[SPEAKER_05]: So the carvings here are almost certainly made certainly in very much the same style as the carvings that you saw in the corridor.
+[SPEAKER_05]: They're not made by the same person, they're very much after the same style.
+[SPEAKER_05]: They are very extensive.
+[SPEAKER_05]: They are also marred by a very great many openings of kind of similar little kind of narrow openings which appear to have been added after the carving was done.
+[SPEAKER_05]: In terms of the creatures that are here, as Theo goes under the canopy and kind of looks up, almost at once, something starts to come toward him pretty quick.
+[SPEAKER_05]: You can, Casper, if you want to, it's pretty clear he is under threat.
+[SPEAKER_04]: Yeah, I'll poof him out.
+[SPEAKER_05]: Make a sleight of hand check to see if you do that quick enough.
+[SPEAKER_05]: Okay, you do manage to do it quickly enough.
+[SPEAKER_05]: What was coming towards you was definitely
+[SPEAKER_05]: basically, I think you would certainly interpret it as arachnid in nature.
+[SPEAKER_05]: But there was very much the kind of clatter of metal rather than the kind of scritch of hairy legs or whatever.
+[SPEAKER_05]: These are spiders that are either fully construct or they have been very significantly modified by artifice.
+[SPEAKER_05]: And if the tac instinct was pretty immediate,
+[SPEAKER_00]: I don't think you're talking to those mags.
+[SPEAKER_04]: Yes.
+[SPEAKER_02]: I've had some great conversations with spiders in my time.
+[SPEAKER_04]: Get across them, because they attack, and Theo was very small and very slight, and they very much- I mean, this within was big compared to Theo, it was not particularly big compared to a person.
+[SPEAKER_04]: Oh, interesting.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: I imagined huge, but I guess Theo would see them.
+[SPEAKER_05]: I mean, huge for a spider, but yeah, maybe the size of like a small to medium sized dog.
+[SPEAKER_00]: Oh, still too big, isn't it?
+[SPEAKER_02]: Too big.
+[SPEAKER_02]: When I was only 200 years old, we used to ride on spiders.
+[SPEAKER_02]: It was great.
+[SPEAKER_02]: Metal ones, Max?
+[SPEAKER_02]: Sometimes, sometimes.
+[SPEAKER_02]: Yeah, you don't ask, right?
+[SPEAKER_04]: Well, yes, so that's the thing.
+[SPEAKER_04]: I don't know what we do about that.
+[SPEAKER_04]: I think we might have to... Back on my shoulder and in my cloak.
+[SPEAKER_02]: Can we generate a big continuous fire?
+[SPEAKER_02]: Spiders are afraid of fire.
+[SPEAKER_04]: I can make a large fire.
+[SPEAKER_00]: Or metal spiders afraid of fire.
+[SPEAKER_04]: I feel like metal spiders might not be as afraid of fire.
+[SPEAKER_01]: I'm inclined to believe that if they simply attacked on principle it's likely because they are not biological spiders in any way.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: I would assume a biological spider would make more of an effort to stalk rather than to immediately pounce, and there would probably be webbing in place.
+[SPEAKER_05]: Yeah, and you haven't seen, so what Theo did not see was any sign of webs.
+[SPEAKER_05]: Interesting.
+[SPEAKER_05]: Spider shaped things, but no webs.
+[SPEAKER_05]: So they likely are constructs.
+[SPEAKER_00]: How many holes-ish did he see?
+[SPEAKER_05]: Well, he didn't really have a chance to see too much, but there was like the whole ceiling of this is like irregularly shaped and lumpy with these things.
+[SPEAKER_02]: The emendations to the carving.
+[SPEAKER_02]: Because that made me think, oh, culture, civilization, language, right?
+[SPEAKER_02]: Like, these are civilized beings.
+[SPEAKER_02]: But he didn't see anything about them before he got poofed.
+[SPEAKER_05]: No, I mean, as I said, there's just lots of like, dark gaps in the carvings.
+[SPEAKER_05]: Oh, right.
+[SPEAKER_00]: Well, they don't have webs now.
+[SPEAKER_00]: Does anybody have the ability to create a giant web covering up the holes or similar?
+[SPEAKER_04]: I actually can create webs, but I don't know that I can create enough webs as large as we need.
+[SPEAKER_04]: Also, they're quite easy to break the webs I create.
+[SPEAKER_04]: These are constructed arachnids.
+[SPEAKER_00]: Anybody think they could make anything stronger?
+[SPEAKER_01]: If we get enough pittance and a rope set up.
+[SPEAKER_02]: Which is our now plan to basically just leg it through the area of combat.
+[SPEAKER_04]: No, we can't like it through that because they are very, very quick.
+[SPEAKER_04]: And that's all we know so far.
+[SPEAKER_04]: They are quick.
+[SPEAKER_00]: Shall we see what they respond to?
+[SPEAKER_00]: We could send one of those illusions down.
+[SPEAKER_00]: That's true, actually.
+[SPEAKER_01]: I guess if they passed on Theo, he was at ground level, would we have seen them at all?
+[SPEAKER_01]: Like, the rest of us observing the situation, not through Theo's eyes?
+[SPEAKER_05]: Yeah, you probably would have seen that.
+[SPEAKER_05]: I mean, the thing is, once you poofed there, the thing, yeah, it retreated pretty instantly.
+[SPEAKER_05]: But yeah, you would have seen like a shape coming down.
+[SPEAKER_05]: And the way it came down, it was not scuttling.
+[SPEAKER_05]: It was clearly letting itself down on some sort of like, you know, steel cable system.
+[SPEAKER_05]: Yeah, basically.
+[SPEAKER_05]: Yeah, kind of movement.
+[SPEAKER_00]: I make an image of Theo again, where Theo was before, and see if the thing jumps down onto it.
+[SPEAKER_05]: I think you're probably much too far away from this, no?
+[SPEAKER_00]: 30 feet.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: I'll go carefully up to where I can do that.
+[SPEAKER_05]: You can if you want to.
+[SPEAKER_05]: Can I move the image?
+[SPEAKER_00]: Yeah.
+[SPEAKER_01]: As long as it's within 30 feet.
+[SPEAKER_05]: So you're much further than 30 feet away from the thing now, much further.
+[SPEAKER_02]: What about Rolnai?
+[SPEAKER_02]: How far away are we?
+[SPEAKER_05]: Yeah, you're all on the stairs.
+[SPEAKER_05]: You're all on the stairs.
+[SPEAKER_05]: So it's at least, and again, with my rough diagram of radices and circumferences and so on, this thing, this pool is about 70 feet across.
+[SPEAKER_05]: That means I think you're probably around 60 to 70 feet in terms of distance going around the edge.
+[SPEAKER_01]: A third of it, yes.
+[SPEAKER_01]: Um, those of us that are capable of invisibility.
+[SPEAKER_01]: Oh, oh wait.
+[SPEAKER_01]: I've got a really wacky plan.
+[SPEAKER_02]: I've got a really wacky idea.
+[SPEAKER_02]: Sorry, do you want your back?
+[SPEAKER_00]: Okay.
+[SPEAKER_02]: While you're finding the perfect spell, I can grant us all the ability to move through the water safely.
+[SPEAKER_04]: How safely?
+[SPEAKER_01]: The water is a 30 foot drop below the ledge to remind.
+[SPEAKER_04]: And I do wonder if there's anything in the water.
+[SPEAKER_01]: I feel like all of these points have gone against what Will was thinking, which was we could maybe run up and just be there without ever having to go across the ledge.
+[SPEAKER_04]: Oh, unseen servant fun.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Fabian will try and cast a Theo over there, realize it only makes 30 feet away and go, eh.
+[SPEAKER_00]: And then we'll do a longer, more elaborate spell.
+[SPEAKER_00]: We'll go, ooh, Theo's servant, walk over there.
+[SPEAKER_01]: Asking just to walk over to points and waves.
+[SPEAKER_01]: Is maybe something that you need to factor in her.
+[SPEAKER_01]: How bold you're right.
+[SPEAKER_02]: But the unseen servers can generate noise, right?
+[SPEAKER_02]: It can like, you know,
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: That's a good point.
+[SPEAKER_00]: Go over there and clap your hands.
+[SPEAKER_00]: Um, or may, you know, make, make some sound.
+[SPEAKER_00]: Okay.
+[SPEAKER_05]: You do that with your unseen servant.
+[SPEAKER_05]: Again, I think I'm going to say this is at the very limit of how far you can get your unseen servant to go from you while maintaining the spell.
+[SPEAKER_05]: I know there's no technical limit on it, but I think this is about as far as it, well, 60 feet.
+[SPEAKER_05]: Oh, no, you're right.
+[SPEAKER_01]: There is a very technical limit of 60 feet.
+[SPEAKER_01]: Yeah.
+[SPEAKER_05]: Oh yeah, moves you on the 60 feet away.
+[SPEAKER_05]: Yeah, unfortunately, where you are, it is going to be more than... Well, you can definitely go a bit of the way and make noise if you want to, but to get near to where, to go to where Theo was, is going to be further than 60 feet.
+[SPEAKER_04]: It is finding out if a warpoint is getting attacked.
+[SPEAKER_04]: So if it moves 60 feet and makes noise and isn't attacked, that's useful to know.
+[SPEAKER_05]: Sure, so you move it as far as you can, which is about two thirds of the distance around the ledge toward where the carvings are, and your unseen servant makes noise there and nothing appears to change.
+[SPEAKER_00]: Okay, I'll bring it back, hand it a little pebble, and have it go now wave the pebble around so there's some motion.
+[SPEAKER_04]: It can throw the pebble, it can do simple tasks.
+[SPEAKER_04]: Throw the pebble, I thought you were going to...
+[SPEAKER_05]: Sure.
+[SPEAKER_05]: So you, you recut...
+[SPEAKER_00]: I think you can do it.
+[SPEAKER_05]: Yeah, you do that.
+[SPEAKER_05]: You take the pebble, you go back to the same spot and you, what, wave it around?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Or I guess you toss it towards, yeah.
+[SPEAKER_05]: Sure.
+[SPEAKER_05]: You do that.
+[SPEAKER_05]: Are you going to toss it?
+[SPEAKER_00]: I wave it first.
+[SPEAKER_00]: Does anything jump on it?
+[SPEAKER_05]: No.
+[SPEAKER_00]: Now I'll toss it.
+[SPEAKER_05]: Okay, you do that.
+[SPEAKER_05]: How carefully or how hard or gently are you tossing it?
+[SPEAKER_00]: Pretty hard.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: You do that, because you're throwing it quite hard, it kind of skitters along the ledge and then goes into the water.
+[SPEAKER_03]: Do we hear anything other than this?
+[SPEAKER_02]: Wait, Jess is pulling a face.
+[SPEAKER_02]: I've done the normal green thing, haven't I?
+[SPEAKER_02]: Just throw me down the well.
+[SPEAKER_01]: Something has just happened.
+[SPEAKER_05]: Make a quick perception check if you wish to.
+[SPEAKER_05]: If you're paying close attention to what's happening.
+[SPEAKER_01]: I think we all are.
+[SPEAKER_05]: Any of us?
+[SPEAKER_05]: Anyone who's paying close attention can make a...
+[SPEAKER_02]: I think we all are.
+[SPEAKER_02]: All of a took.
+[SPEAKER_05]: I really am not.
+[SPEAKER_05]: Okay, Trevick, you notice a subtle shift in the patterns on the water, beyond what would be accounted for just by the stone falling in.
+[SPEAKER_05]: Do you think there's something else is shifting down there?
+[SPEAKER_03]: Oh, I relay that to the group.
+[SPEAKER_03]: Ah, is Theo still around?
+[SPEAKER_03]: Can Theo look over the edge?
+[SPEAKER_04]: Yeah, he's still here.
+[SPEAKER_04]: He's on my shoulder.
+[SPEAKER_02]: Sorry, could you say that again, Jess?
+[SPEAKER_02]: I'm having connectivity issues.
+[SPEAKER_05]: Oh, sorry.
+[SPEAKER_05]: Trevik only noticed a slight shift in the kind of patterns on top of the water.
+[SPEAKER_05]: It's pretty subtle, but it's not something which Trevik thinks can be accounted for by the stone falling into the water.
+[SPEAKER_03]: There's definitely something lurking around that water, which I can see.
+[SPEAKER_03]: Just had a look over the edge.
+[SPEAKER_02]: Well, if I may, now that I have worked into it again, can I also attempt a perception check?
+[SPEAKER_04]: Oh, I'll send Theo to the edge.
+[SPEAKER_02]: No better, never mind.
+[SPEAKER_05]: Theo's not really in a, I mean, even going to the edge, Theo's not really in a much better position than you guys are standing on the steps at this point.
+[SPEAKER_05]: You're only about 10 feet up from the ledge.
+[SPEAKER_04]: Yeah, that's further.
+[SPEAKER_01]: But he doesn't need to breathe.
+[SPEAKER_01]: I think we might be thinking about this the wrong way.
+[SPEAKER_03]: I'm not sending him into the water.
+[SPEAKER_03]: That's perfect, that's perfect.
+[SPEAKER_02]: If these are Calvary and Ultronis,
+[SPEAKER_02]: they will have authentication protocols and whatever.
+[SPEAKER_02]: There'll be a way in which we can like indicate to them that we're not hostile.
+[SPEAKER_02]: And then there's also the fucking monster in the water.
+[SPEAKER_01]: Is the assumption on automata grounded in anything or is that Will saying that?
+[SPEAKER_01]: That's Will, that's Will.
+[SPEAKER_02]: Well, automata are mechanistic beings, right?
+[SPEAKER_01]: I don't know how much Max knows about...
+[SPEAKER_01]: They might just be endlessly desired to attack everything so nothing ever gets here ever again, ever.
+[SPEAKER_05]: Yeah, I mean, it depends whether or not you're planning personally to come back to the place that you left your automata.
+[SPEAKER_02]: If I was setting up a temple, there would be some way in which I could authenticate myself to the automata and say, look, I am one of the faithful.
+[SPEAKER_01]: This is kind of a pyramid situation, though, and this was sealed up with a dead man in it and nobody was ever supposed to go in ever again.
+[SPEAKER_02]: Yeah, okay.
+[SPEAKER_03]: How far are we from the edge of the pool of water?
+[SPEAKER_05]: So you're, I'm assuming you're still in roughly the same order standing on the stairs, which are pretty single file, but Rel and Mags are about, so you're about 10 feet from the bottom of the stairs where it turns into the ledge, and then the water is about 30 feet further down from there.
+[SPEAKER_03]: Okay.
+[SPEAKER_02]: Is your unseen servant still going strong?
+[SPEAKER_02]: Yeah, he's for an hour.
+[SPEAKER_02]: Jump in the water again.
+[SPEAKER_01]: Yeah.
+[SPEAKER_02]: Jump in.
+[SPEAKER_03]: Tell him to go in the water.
+[SPEAKER_02]: If you could make whatever this sea monster appear and then the automaton attack it, that would be great, wouldn't it?
+[SPEAKER_04]: I feel like they're friends.
+[SPEAKER_00]: Like it though.
+[SPEAKER_00]: Yeah, let's drop a couple more.
+[SPEAKER_00]: I'm going to drop a ration in the water.
+[SPEAKER_05]: By giving you your unseen servant?
+[SPEAKER_00]: Yes.
+[SPEAKER_05]: Okay, you do that.
+[SPEAKER_05]: And I will say even without making more perception checks, although it's still relatively subtle, more of you now observe that, yep, there is definitely something shifting.
+[SPEAKER_05]: But I will say none of you agree on where exactly that is in the water.
+[SPEAKER_04]: Or if you tied a Russian to a robe and then held it above something fishing guys.
+[SPEAKER_02]: Is our disagreement consistent with us being epistemically compromised in some way?
+[SPEAKER_02]: Good question.
+[SPEAKER_04]: Sorry, Will.
+[SPEAKER_02]: So Jess said, you don't agree on what you see in the water.
+[SPEAKER_02]: Is it that, for example, Trevor sees it in the northeast quadrant and Mag sees it in the southwest quadrant and so on?
+[SPEAKER_02]: Is this consistent with at least some of us being compromised, at least some of us hallucinating?
+[SPEAKER_05]: Yeah, I was unclear that, and I definitely left that expert.
+[SPEAKER_05]: What I meant was, it's confusing.
+[SPEAKER_05]: I didn't mean it's conceivable in that sense.
+[SPEAKER_02]: You're not that diabolically evil to us.
+[SPEAKER_02]: That would be a cool way to design a dungeon, wouldn't it?
+[SPEAKER_00]: If we circle the pool, dropping small things in a circle, does the motion start to move in a circular motion?
+[SPEAKER_05]: So you can't circle the pool because there's a gap between that in the ledge where the carving is.
+[SPEAKER_05]: And it's more than 60 meters, I suppose.
+[SPEAKER_05]: Yeah, but you could send your unseen object in an arc, going kind of 50 feet in one direction and 50 feet in the other direction.
+[SPEAKER_05]: You could do that.
+[SPEAKER_01]: Yes, that.
+[SPEAKER_01]: Okay.
+[SPEAKER_05]: Okay, you do that.
+[SPEAKER_05]: You're getting short of rations.
+[SPEAKER_05]: It's a Bob's in there.
+[SPEAKER_05]: I will say
+[SPEAKER_05]: the movement, as you're all paying attention and observing it very closely, the movement does seem to follow where the unseen servant is dropping things.
+[SPEAKER_05]: It's still spread over a relatively wide area, but it's not the whole area of the pool, and it is concentrating near to where the unseen servant is dropping things into them.
+[SPEAKER_01]: I have an interesting question.
+[SPEAKER_01]: If these are ontometer and therefore powered by magic, you would assume that perception is some kind of divination magic, allowing them to... Nice.
+[SPEAKER_01]: Very nice.
+[SPEAKER_01]: Would my amulet of proof against detection work for their capacity to detect me?
+[SPEAKER_02]: One way to find out.
+[SPEAKER_02]: Good question.
+[SPEAKER_05]: Well, there certainly are practical experimental ways to find out, but I assume you're asking me whether you can reason it out.
+[SPEAKER_01]: Yeah, I will consult with my other arcane academics.
+[SPEAKER_04]: Yes, science.
+[SPEAKER_04]: Anyone?
+[SPEAKER_04]: Amulet slightly as well, once, twice maybe.
+[SPEAKER_05]: When you studied it, you mean?
+[SPEAKER_05]: Yeah.
+[SPEAKER_04]: Yeah, you did study it.
+[SPEAKER_05]: I'm happy for those with proficiency in Arcana who are thinking about this question to make an Arcana roll if you would like to.
+[SPEAKER_04]: Terrible role for me.
+[SPEAKER_04]: Terrible.
+[SPEAKER_01]: I'm not proficient if you're waiting for me.
+[SPEAKER_05]: If it's your ambulance, you can roll anyway.
+[SPEAKER_02]: OK, thank you.
+[SPEAKER_02]: You're next, too, so I can give you guidance.
+[SPEAKER_02]: I actually am.
+[SPEAKER_03]: There we go.
+[SPEAKER_01]: Oh, I've just written this with 1D4.
+[SPEAKER_01]: That's not how that works.
+[SPEAKER_01]: It doesn't matter.
+[SPEAKER_01]: Fabian's nailed it.
+[SPEAKER_05]: OK.
+[SPEAKER_02]: Everyone's beaten a Caspian.
+[SPEAKER_02]: That's the important thing.
+[SPEAKER_02]: Yes.
+[SPEAKER_05]: Fabian, with great confidence, you think that you can't be sure because you don't know anything about how these automata are constructed.
+[SPEAKER_05]: But intuitively, Rell's theory makes sense to you.
+[SPEAKER_01]: Interesting.
+[SPEAKER_01]: I am willing to experiment, but I think what I will do is hold a cast of invisibility when I do.
+[SPEAKER_01]: So there is some fallback of being spotted.
+[SPEAKER_01]: I think it'd be fine.
+[SPEAKER_04]: If they detect, there's a strong chance that they could detect you through invisibility.
+[SPEAKER_04]: So if they do detect you, I feel like they detect you, you know?
+[SPEAKER_01]: Well, one is if they see you with sight and the other is if they sense you with magic, I suppose.
+[SPEAKER_01]: Those are two very different things.
+[SPEAKER_00]: I suppose the worst case is that they've gone both.
+[SPEAKER_00]: What's the answer to that?
+[SPEAKER_01]: Right, right.
+[SPEAKER_01]: Surely they've only got one or the other, yes.
+[SPEAKER_04]: Do it for science.
+[SPEAKER_04]: Academic pursuit, do it.
+[SPEAKER_01]: So yeah, I think I will do exactly that.
+[SPEAKER_01]: I will very tentatively approach with my cast of invisibility prepared and
+[SPEAKER_05]: OK, so you are proceeding down to the bottom of the stairs and stepping off the stairs to go around to the left, the shorter way around to the bottom?
+[SPEAKER_01]: Yes, I am being stealthy to avoid disturbing anything in the water also, not just the automata.
+[SPEAKER_01]: I'm being as undetectable as possible.
+[SPEAKER_05]: Azrael steps off the stairs.
+[SPEAKER_02]: I'm going to hold a cantrip to attack anything that attacks him.
+[SPEAKER_05]: OK, good for you.
+[SPEAKER_05]: What actually happens is the rest of the stairs all immediately snap up into a deep slope, and everyone has got some help, or shoot down into the water at quite a pace.
+[SPEAKER_05]: So we will...
+[SPEAKER_02]: Into the water?
+[SPEAKER_05]: Into the water.
+[SPEAKER_05]: Oh, damn it.
+[SPEAKER_02]: So it's a 30 feet jump, right?
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: Do I have time to cast a spell before that happens?
+[SPEAKER_04]: If it's a reaction, do we have time to guess the spell?
+[SPEAKER_04]: If it's a reaction, sure.
+[SPEAKER_02]: It's not a reaction, it's a very cool spell.
+[SPEAKER_04]: I thought it was a reaction.
+[SPEAKER_04]: Oh, it's not.
+[SPEAKER_02]: I would like to give all of us the ability to walk on water.
+[SPEAKER_05]: No, it's not a reaction.
+[SPEAKER_05]: And this has happened without any warning.
+[SPEAKER_05]: I mean, you might be able to do it.
+[SPEAKER_05]: You might be able to do it in a sec, potentially.
+[SPEAKER_05]: But yeah, Raoul, you see everyone fertile down into the water.
+[SPEAKER_05]: And you are, because you've got high dexterity, I'm not going to make you, Raoul, to see if you're successful.
+[SPEAKER_05]: It just tells me you have a high dexterity.
+[SPEAKER_05]: uh yeah so i think we will finish there because we will be entering we will be entering this you have fallen into pond yes very very nasty pond
+[SPEAKER_00]: There is still a ledge around this pond.
+[SPEAKER_01]: Yeah, you just got shot off of it like a big water slide.
+[SPEAKER_01]: You just shunted us into it.
+[SPEAKER_05]: Yeah, you know where the stairs are, you know, right angles and then suddenly the stairs just flip down so that it becomes very steep.
+[SPEAKER_02]: Anyone got that ability to swap around a dish to water things?
+[SPEAKER_05]: I mean, I will say it is a very hard check, but I will say if anyone wants to roll an acrobatic check to see if they are able to jump out onto the ledge.
+[SPEAKER_01]: Can I ask for help responsively?
+[SPEAKER_01]: If I turn around and suddenly everyone's shooting pass, can I reach out a hand and try and grab just one?
+[SPEAKER_05]: You can also roll a check.
+[SPEAKER_05]: You do risk being pulled in by them if you roll poorly.
+[SPEAKER_01]: That's all right, I'll still do it.
+[SPEAKER_01]: I'm a loyal friend.
+[SPEAKER_04]: I failed, needless to say, with my zero decks.
+[SPEAKER_01]: I would probably get whoever thinks first, which I think is Mags here.
+[SPEAKER_05]: He's directly behind you, that's true.
+[SPEAKER_01]: Well, it's not a great role though.
+[SPEAKER_05]: Fortunately, Mags' role wasn't too bad, so collectively you don't manage to pull Rell in after you.
+[SPEAKER_02]: Yeah, I say fuck off!
+[SPEAKER_05]: I'm going swimming!
+[SPEAKER_05]: So everyone will take a little bit of fall damage from going, I mean you're not hitting the ground, you're only hitting the water, so it would be 1d6 fall damage to begin with.
+[SPEAKER_02]: 30 feet drop, I mean that shouldn't be any damage.
+[SPEAKER_02]: It's quite solid.
+[SPEAKER_02]: It was flat.
+[SPEAKER_05]: Yeah, but if you hit the water, yeah.
+[SPEAKER_02]: At least the first, I think everyone else should.
+[SPEAKER_02]: Hang on, hang on.
+[SPEAKER_02]: People go to, 10 year old children go to like swimming pools in this city and jump 30 feet into swimming pools.
+[SPEAKER_02]: Yeah, and if they have made it, they take full damage every time.
+[SPEAKER_05]: If they've made the proper shape, they're fine, but you're not making the shape.
+[SPEAKER_02]: Are you suggesting that a T6 damage is what you get from a belly flop?
+[SPEAKER_05]: Uh, from 30 feet?
+[SPEAKER_05]: Yeah, pretty much.
+[SPEAKER_05]: All right.
+[SPEAKER_05]: I don't know why.
+[SPEAKER_05]: All right, fine.
+[SPEAKER_05]: I've been argued down to one D4.
+[SPEAKER_05]: Nonsense.
+[SPEAKER_00]: And is the entrance of this pool, sorry, is it, is it going to be easy to climb out or is it quite a high edge?
+[SPEAKER_01]: There's a big overhang everywhere else.
+[SPEAKER_05]: Yes.
+[SPEAKER_05]: So you can climb out in other areas of the thing.
+[SPEAKER_05]: It is possible, but difficult.
+[SPEAKER_05]: But the carving relatively easy to climb off.
+[SPEAKER_04]: And then the spiders will attack us, which is great.
+[SPEAKER_04]: But not me.
+[SPEAKER_01]: So I avoid this one and the next one.
+[SPEAKER_01]: I'm just walking out of here.
+[SPEAKER_04]: I'm going to drag you in.
+[SPEAKER_04]: Max, you can use whatever whip that you have and drag him in.
+[SPEAKER_01]: Max is up here dry as well, right?
+[SPEAKER_05]: No, you didn't manage to get him.
+[SPEAKER_05]: You didn't help him.
+[SPEAKER_02]: No, the effect of my good
+[SPEAKER_01]: I'm going to order the unseen servant to push him.
+[SPEAKER_01]: I mean, he would probably dodge.
+[SPEAKER_00]: Yeah, the strength of two so you have to roll a very minor pressure and it's fine.
+[SPEAKER_02]: It wouldn't really add to anything.
+[SPEAKER_05]: But yeah, I'll make an actual battle map for this for next time.
+[SPEAKER_02]: Splendid.
+[SPEAKER_02]: And also you bastard.
+[SPEAKER_05]: I couldn't believe how long you were standing on the stairs.
+[SPEAKER_05]: I was like, how long can this conceivably go on before someone spits off these stairs?
+[SPEAKER_05]: As long as possible.
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: Well, you should have known us better.
+[SPEAKER_02]: We've barricaded for a long time, but here we are.
+[SPEAKER_05]: To avoid taking any damage up until this point.
+[SPEAKER_05]: Yeah, that's true.
+[SPEAKER_05]: Yes.
+[SPEAKER_01]: And executed a rather genius pulley system, I must say.
+[SPEAKER_03]: Absolutely, absolutely the MPP of this week 7.
+[SPEAKER_01]: Perfect.
+[SPEAKER_00]: Do you want to tell us what was going to happen with the axe?
+[SPEAKER_03]: Oh, yes.
+[SPEAKER_05]: Well, we might go back that way.
+[SPEAKER_05]: But it is fair to say you stopped in the absolute nick of time.
+[SPEAKER_05]: Whoever said seven was an important number was correct.
+[SPEAKER_05]: On the seventh swing, it would have begun to do what it was going to do.
+[SPEAKER_02]: Thank you.
+[SPEAKER_02]: Wonderful.
+[SPEAKER_05]: Cool.
+[SPEAKER_05]: All right.
+[SPEAKER_05]: Come back next session.
+[SPEAKER_05]: That'll be fun.
+[SPEAKER_05]: Not next week, but the week after.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Perfect.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Have a good night, everyone.
+[SPEAKER_01]: Thank you so much for your time.
+[SPEAKER_02]: Have a good one.
+[SPEAKER_02]: Bye.
