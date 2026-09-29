@@ -1,0 +1,1344 @@
+[SPEAKER_00]: Hello.
+[SPEAKER_05]: Hello, Graham.
+[SPEAKER_00]: What was the quickest?
+[SPEAKER_05]: It was great.
+[SPEAKER_05]: Yes, it was excellent.
+[SPEAKER_05]: It was such a nice, relaxing day out, but it did mean even leaving early.
+[SPEAKER_05]: I literally just sat down two minutes ago.
+[SPEAKER_02]: Was this a county match or something?
+[SPEAKER_05]: No, this was England-Sri Lanka One Day International.
+[SPEAKER_02]: Oh, One Day, right.
+[SPEAKER_05]: Yes, Durham unfortunately is rarely best with test matches, but they usually get at least a couple of ODIs.
+[SPEAKER_02]: Probably test matches at the county level if you're willing to slum it with non-international matches.
+[SPEAKER_05]: That's true.
+[SPEAKER_05]: Yeah, of course there are county championship matches.
+[SPEAKER_05]: Not so often international matches, but yeah, it was excellent.
+[SPEAKER_05]: I mean, Sri Lanka are, I don't know if you guys follow the cricket, but Sri Lanka are not in great form at the moment.
+[SPEAKER_05]: So it was a very, reasonably protectable England victory, but no, it was perfect weather, not too busy in the ground.
+[SPEAKER_05]: Yeah, it was a very, it was one of those days where it was extremely relaxing, pleasant, you know, sort of, it wasn't a day of high drama, but it was very, very nice.
+[SPEAKER_02]: Isn't one day cricket sufficiently unpredictable that, if I remember correctly, you and I listened to Ireland beat England once?
+[SPEAKER_05]: I mean, it does happen from time to time.
+[SPEAKER_02]: I think it has happened precisely once.
+[SPEAKER_05]: It does happen from time to time that there's a major upset.
+[SPEAKER_05]: And Sri Lanka were not a total pushover in this match, they had a fight back.
+[SPEAKER_05]: But yeah, I mean T20 is more unpredictable, which is one reason why I don't like this very much.
+[SPEAKER_02]: It was very funny when Ireland won, because they were all of these, you know, professional cricket players with enormous salaries just having their asses handed to them, and the commentator kept being like, and he's just a bricklayer from Kerry.
+[SPEAKER_02]: They've pulled it off the street tonight.
+[SPEAKER_05]: And it's one of the nice things about the...
+[SPEAKER_05]: So, mostly the non... Again, for those of you who don't follow cricket, there's like a roster of teams that play each other on a two-year cycle in cricket, but every now and again they have the World Cup, where minor nations are allowed to come in, who aren't part of the regular cricket playing circuit, and they often, as we'll say, are not professional players, and they come in and because... A bunch of random lads.
+[SPEAKER_05]: Basically sometimes.
+[SPEAKER_05]: And there's lots of very cute stories about how the firefighters or hosties or whatever in their day jobs.
+[SPEAKER_00]: I'm just looking up the Irish cricket team, which didn't exist in my mind before now.
+[SPEAKER_02]: That must be an interaction Irish cricketers have quite often.
+[SPEAKER_02]: What do you do?
+[SPEAKER_02]: Oh, I play the sport of the enemy, right?
+[SPEAKER_05]: Yeah, it was very, very nice.
+[SPEAKER_05]: Yeah, really lovely place.
+[SPEAKER_05]: But it did mean that I, even leaving a good couple of hours early, still only very just made it back here.
+[SPEAKER_02]: Oh, delightful to see you.
+[SPEAKER_05]: And we have an Alec.
+[SPEAKER_05]: I was having a nice day, Alec.
+[SPEAKER_02]: My day was horrendous.
+[SPEAKER_05]: Oh no.
+[SPEAKER_05]: Because of children coming back?
+[SPEAKER_02]: No, because of some moron that Jess and I both know that works at Royal Holloway who decided in his infinite wisdom to get AI to design the student registration lists.
+[SPEAKER_05]: Oh my, is this the thing I'm thinking of?
+[SPEAKER_02]: Well, I think you only know one other person who works in my department at Royal Holloway, right?
+[SPEAKER_05]: In your department, that's true.
+[SPEAKER_03]: Well, does that mean I know who this person is too?
+[SPEAKER_03]: Yes, it is.
+[SPEAKER_03]: Does he begin with D?
+[SPEAKER_02]: Yes, so he's an idiot because all of the student lists for everything were wrong.
+[SPEAKER_02]: Just made-up students, students not appearing, students put in the wrong year groups.
+[SPEAKER_02]: All day I have been dealing with that.
+[SPEAKER_02]: So right now I could strangle the fucker, but I'm sure I'll forgive him eventually.
+[SPEAKER_05]: But it's a good lesson for how to use it and not use it, I suppose.
+[SPEAKER_03]: Do you have an admin department for that kind of thing?
+[SPEAKER_02]: Oh, sweet summer child.
+[SPEAKER_02]: In a British university.
+[SPEAKER_02]: We recently went through an administrative reform, so all of the administrative staff that were in the schools have been moved from schools to faculties.
+[SPEAKER_02]: So everyone has been reshuffled and no one understands what's going on in any department at all.
+[SPEAKER_02]: It has the effect of all administrative reforms in university, which is to transfer jobs from administrators to academics so that they can then fire administrators and say, look at what a wonderful budget saving job we did.
+[SPEAKER_02]: That's very sad.
+[SPEAKER_02]: It works every time and we fall for it every time.
+[SPEAKER_05]: Well, maybe Dave is doing you a favour then by being so monumentally incompetent.
+[SPEAKER_02]: So we're saying we need a fucking administrator, not Claude.
+[SPEAKER_02]: Yeah, maybe, maybe.
+[SPEAKER_03]: A PhD in Plato is not necessarily the thing that would give me confidence that somebody could do that.
+[SPEAKER_05]: No, no.
+[SPEAKER_05]: I mean, even amongst academics, Dave is not the person that I would delegate an administrative task to.
+[SPEAKER_02]: Yes, you might well think that.
+[SPEAKER_02]: I could not possibly comment.
+[SPEAKER_02]: Did we not have a long rest?
+[SPEAKER_05]: No, we're going to begin thinking about having a long rest.
+[SPEAKER_05]: But no, a long rest has not been even started at this stage.
+[SPEAKER_02]: That's why I don't have any spells, great.
+[SPEAKER_05]: That's why you don't have any spells.
+[SPEAKER_05]: Yep, I'll be you.
+[SPEAKER_05]: So, you guys have climbed all the way up, well, I was going to say you've climbed up these carvings, you haven't, you've destroyed the carvings and then climbed up the shattered remains thereof.
+[SPEAKER_05]: And you find yourselves in the remnants of what looked like they were part of a working forge above.
+[SPEAKER_05]: Now, everything here, as I say, is very old.
+[SPEAKER_05]: There's nothing really, there's certainly nothing still working here, there's very little that's really even still kind of recognisable as its original function beyond the kind of broadest sweep of things.
+[SPEAKER_05]: I'm going to break on slightly from last time though and say one thing that you would notice having a look around these few rooms is that there is evidence that other people have been here and camped here.
+[SPEAKER_05]: There's evidence of people having made kind of fires on the floor.
+[SPEAKER_05]: There's a little bit of kind of low value kind of debris and so on about from other
+[SPEAKER_05]: Groups having made camp here previously in not the ancient past, but in the, you know, not recent past, but you know, months and years rather than necessarily like thousands years ago.
+[SPEAKER_05]: Well done.
+[SPEAKER_05]: Yes, you guys can.
+[SPEAKER_05]: There is another exit from this selection of rooms, which is a spiral staircase which leads downwards.
+[SPEAKER_05]: You can see there's an arch, it doesn't have a doorway in it, it's just an open arch.
+[SPEAKER_05]: The spiral stairway does not match the rest of what you were seeing here, it looks like it's been kind of grafted on.
+[SPEAKER_05]: You obviously can take it if you want to, or if you want to settle down and think about having a long rest, you can, or if you want to do anything else, you can.
+[SPEAKER_03]: When you think grafted on, is it also
+[SPEAKER_03]: well, but is a different style of architecture that's been shoved onto it?
+[SPEAKER_03]: Or is it like a roughly human kind of thing?
+[SPEAKER_05]: Well, it's somewhere in between, I guess.
+[SPEAKER_05]: It's not as beautifully made as this kind of temple forge that you're in at the moment is very beautifully made.
+[SPEAKER_05]: The staircase looks significantly less
+[SPEAKER_05]: The masonry is less perfect, it's less fancy, there's no pretty tiles or decoration here, it's relatively workman-like.
+[SPEAKER_05]: It looks like it came from a building and has been positioned here, not that it's been carved out of the rock here.
+[SPEAKER_03]: Ok, so it was a previously existing staircase that's been attached to this room, rather than they've dug a staircase out of this room?
+[SPEAKER_05]: Correct, yes.
+[SPEAKER_05]: There is evidence of other exits to this room that were there originally, but they've just now got rock kind of pressed up.
+[SPEAKER_05]: It's almost as though if you kind of press something to a mold, it kind of pushes forward a little bit.
+[SPEAKER_05]: The rock kind of pushes forward into those doorways.
+[SPEAKER_05]: It's a slight kind of bulge to it.
+[SPEAKER_05]: So it's pressed against them.
+[SPEAKER_03]: And we do a search of anything that's been left behind by previous campers.
+[SPEAKER_05]: Sure.
+[SPEAKER_05]: What sort of thing would you like to do for your search?
+[SPEAKER_03]: An investigation.
+[SPEAKER_03]: I'm going to ask Trevic to investigate because a random phone number is calling me.
+[SPEAKER_00]: Oh, perfect.
+[SPEAKER_00]: I got your back.
+[SPEAKER_02]: Is Trevic good at investigation?
+[SPEAKER_00]: He is.
+[SPEAKER_00]: Hopefully he was.
+[SPEAKER_00]: He is.
+[SPEAKER_02]: I was about to give you an advantage on that, Shrek, but never mind.
+[SPEAKER_05]: So, Travis, do you have a poke around?
+[SPEAKER_05]: You don't really find anything which gives you any clues.
+[SPEAKER_05]: What you do find though is a hatchway into the ceiling which takes you up to a small upper chamber.
+[SPEAKER_05]: It looks as though potentially in the past this might have been concealed, that has gone by the by over time and so on.
+[SPEAKER_05]: You make your way up into this chamber.
+[SPEAKER_05]: You also don't find anything here, but what you do notice here is that this place appears to have been, it looks like there was something here more recently and it has been cleared out.
+[SPEAKER_05]: Okay, cool.
+[SPEAKER_02]: So where is that?
+[SPEAKER_05]: So I'm not going to, unless something drastic happens, I'm not going to bother and mouth out these rooms, but there are three, basically.
+[SPEAKER_05]: The one that you've come up into, and then two other rooms leading off this.
+[SPEAKER_05]: There's the one which I'm going to call the kind of room you're in, I'm going to call the Western Room.
+[SPEAKER_05]: The next one is the Southern Room.
+[SPEAKER_05]: That's where the staircase leads down from.
+[SPEAKER_05]: And then the Northern Room has got this hatch into the ceiling, which leads to a relatively small room above it.
+[SPEAKER_05]: Not tiny, but
+[SPEAKER_05]: Much more intimate scale than the rooms.
+[SPEAKER_05]: This room is also by far the most ornately decorated, that upstairs room.
+[SPEAKER_05]: Again, you're seeing these kind of relief carvings of religious figures and so on up there.
+[SPEAKER_05]: That room has this evidence that someone has that something was up here and someone has kind of collected up.
+[SPEAKER_05]: You can see kind of scrape marks across the floor and so on.
+[SPEAKER_05]: And there's a few little scraps of paper even up here, which is probably not paper, maybe a magical paper could be.
+[SPEAKER_05]: There's a few little scraps of paper that indicate there was some kind of written material up here, but as I say, it has been removed.
+[SPEAKER_00]: Okay, I will gather up all the scraps and bring them down to Caspian.
+[SPEAKER_05]: Yeah, I mean, as I said, only tiny bits, not anything.
+[SPEAKER_00]: We can patch them together.
+[SPEAKER_00]: And I will let Mags know that there are vague religious bits and bobs up there if she wants a glance, but there's nothing of use up there from Tremix perspective.
+[SPEAKER_02]: Caspian, should we go have a look at the vague religious bits and bobs?
+[SPEAKER_04]: Sounds like a good plan I say as I look at these little scraps of paper and look at Trevick and these tiny little scraps.
+[SPEAKER_04]: It's a jigsaw!
+[SPEAKER_04]: Thank you Trevick and then I pop them just in a pocket and I follow Max.
+[SPEAKER_05]: So if you guys go up and have a closer look at these, these are not too dissimilar to what you've seen before.
+[SPEAKER_05]: They are a fairly traditional dwarven artistic style.
+[SPEAKER_05]: They are definitely depictions of Calvaryan themes.
+[SPEAKER_05]: They wouldn't look super familiar, I don't think, to any of you.
+[SPEAKER_05]: In fact, I think some of you rolled for this last time, but definitely recognizable as kind of Calvaryan devotional works.
+[SPEAKER_05]: You can see quite a lot of evidence of kind of staining on the bottom of them, which you would indicate would be like people have lit incense and so on beneath them as a kind of devotional practice.
+[SPEAKER_05]: It looks like they were actively used as kind of sites of prayer.
+[SPEAKER_05]: But yeah, otherwise.
+[SPEAKER_04]: How big is this room?
+[SPEAKER_05]: It's probably about...
+[SPEAKER_05]: It's probably about 20 by 25 feet, something like that.
+[SPEAKER_04]: Okay, I was imagining like a tiny little chamber.
+[SPEAKER_05]: No, it's not a cupboardy kind of room, but the other rooms downstairs are large.
+[SPEAKER_05]: They were a working forge, they would have had multiple people working there.
+[SPEAKER_05]: This is by far and away the smallest of the rooms.
+[SPEAKER_04]: Okay, and the evidence of something that has been taken from here, what?
+[SPEAKER_04]: I guess not what was taken, obviously we don't know that, but is there a size indication of what was taken?
+[SPEAKER_04]: Was it on some sort of pedestal?
+[SPEAKER_04]: How do we know something has been taken?
+[SPEAKER_05]: There are some kind of straight marks on the floor from things that have been pulled away from the walls and those look relatively fresh.
+[SPEAKER_05]: As I say, there are some little scraps of paper and so on indicating there might have been scrolls or other kind of things.
+[SPEAKER_05]: written material stored here.
+[SPEAKER_05]: But yeah, as I say, it's been anything that has been of any use has been removed.
+[SPEAKER_05]: There probably still are objects up here.
+[SPEAKER_05]: I imagine there are some remains of kind of furniture or storage things, but as I say, these things are incredibly old, so they're going to probably kind of crumble to dust as soon as you have any contact with them.
+[SPEAKER_04]: If I was to look at the scraps of paper that Trevick handed me, is there anything on them?
+[SPEAKER_05]: No, I've tried to be very clear about this.
+[SPEAKER_05]: No.
+[SPEAKER_04]: That's fair.
+[SPEAKER_04]: Totally fair.
+[SPEAKER_04]: I'll look at Mags and I'll say, I'm not really sure what Trevick gave me these for, but it's literally just paper.
+[SPEAKER_05]: Either they are magical and they've survived, or they are
+[SPEAKER_05]: Or they're much more recent.
+[SPEAKER_05]: You could do tests on them to try to determine that if you wanted to.
+[SPEAKER_04]: Look at Mags and her depleted levels of power.
+[SPEAKER_04]: We should probably get some sleep, shouldn't we?
+[SPEAKER_02]: Probably get some sleep, yeah.
+[SPEAKER_04]: Where are we sleeping?
+[SPEAKER_04]: I can do the hut, which will protect us.
+[SPEAKER_04]: Are we staying in the chamber downstairs?
+[SPEAKER_01]: This chamber only has one entrance, right?
+[SPEAKER_01]: So it's probably the better, more defensible one.
+[SPEAKER_02]: We see that other people have slept here and not been like...
+[SPEAKER_05]: There's no evidence of people having lit fires or anything here.
+[SPEAKER_05]: You can see evidence of people having camped in the chambers below, but there's no evidence of anyone having camped here.
+[SPEAKER_03]: Well, no evidence that they left safely.
+[SPEAKER_03]: They could have been eaten in their sleep.
+[SPEAKER_04]: I assume, Jess, that there are no bloodstains around.
+[SPEAKER_04]: There's no obvious bloodstains around, though.
+[SPEAKER_04]: There's no obvious bloodstains around, though.
+[SPEAKER_04]: There's no obvious bloodstains around, though.
+[SPEAKER_04]: There's no obvious bloodstains around, though.
+[SPEAKER_04]: There's no obvious bloodstains around, though.
+[SPEAKER_02]: There's no obvious bloodstains around, though.
+[SPEAKER_02]: It would be relatively clear, I would imagine, whether they left tidily and voluntarily or whether they didn't.
+[SPEAKER_05]: There's no evidence of a struggle or anything like that.
+[SPEAKER_05]: It looks like people have camped here before and picked up most of their stuff.
+[SPEAKER_05]: There's a little bit of detritus and odds and ends left around, but pretty much picked up most of their stuff and gone elsewhere.
+[SPEAKER_05]: That's what it looks like.
+[SPEAKER_04]: And regardless, I'll use that new spell I got, it seems quite useful and nothing will be able to pass through as long as we all stay in it, it'll be fine.
+[SPEAKER_04]: You can pass through freely if you want, but obviously you probably shouldn't.
+[SPEAKER_05]: So your plan is to stay in the upper chamber and cast the Gleam and Steiny Heart, that's your plan?
+[SPEAKER_05]: Yep.
+[SPEAKER_05]: Okay, you can certainly do that, there's space to do that up here.
+[SPEAKER_05]: Okay, I'm all custard.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: So, are you planning to all just bed down, or are you going to keep watches?
+[SPEAKER_00]: I'll keep you watch, absolutely, watch no.
+[SPEAKER_00]: Okay.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: I tell you what, would this work?
+[SPEAKER_02]: Yeah, I've got one level three spell left, I may as well.
+[SPEAKER_02]: Let's give ourselves some extra protection.
+[SPEAKER_02]: Can I inscribe a glyph of warm according?
+[SPEAKER_05]: Where would you like to inscribe it?
+[SPEAKER_02]: Ну, мы в тенте, в хоте, верно?
+[SPEAKER_02]: Да.
+[SPEAKER_02]: Я могу, оно говорит, что я могу специфицировать, я могу поставить триггер.
+[SPEAKER_02]: Да.
+[SPEAKER_02]: Я могу поставить триггер, если какой-либо из партий обвинен в офицерской действии?
+[SPEAKER_02]: Я думаю, что это будет трудно для Глифта.
+[SPEAKER_02]: Я думаю, что ты можешь поставить офицерскую действию более точно, для того, чтобы исполнить.
+[SPEAKER_05]: Я думаю, что это будет трудно, для того, чтобы исполнить.
+[SPEAKER_05]: Я думаю, что это будет трудно, для того, чтобы исполнить.
+[SPEAKER_05]: Я думаю, что это будет трудно, для того, чтобы исполнить.
+[SPEAKER_05]: Я думаю, что это будет трудно, для того, чтобы исполнить.
+[SPEAKER_05]: Я думаю, что это будет трудно, для того, чтобы исполнить.
+[SPEAKER_05]: Я думаю, что это будет трудно, для того, чтобы исполнить.
+[SPEAKER_02]: Я думаю, что это будет трудно, для
+[SPEAKER_02]: You want a mechanical thing, whereas I want something more poetic, you know?
+[SPEAKER_05]: Well, also, I'm not even sure of the party is going to work for this kind of spell.
+[SPEAKER_05]: I'm not sure the spell can know who's in the party.
+[SPEAKER_05]: So you can don't do creature types, but I don't think you can do specific.
+[SPEAKER_02]: It's really openly worded, this spell.
+[SPEAKER_02]: I suppose it's your call on...
+[SPEAKER_05]: Yeah, I'm gonna say you have to be something which is a bit more of a clear cut, yes or no.
+[SPEAKER_05]: I don't mind the party.
+[SPEAKER_02]: So it doesn't actually matter, does it?
+[SPEAKER_02]: So it does actually matter because only the party is supposed to be in here.
+[SPEAKER_02]: So if anyone hurts anyone else within the area circumscribed by the spell, I would like you to trigger and blow them up.
+[SPEAKER_05]: Okay, by which I'm going to say causes damage or issues of compulsion, maybe something like that.
+[SPEAKER_05]: We just need some kind of definition of hurts.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: That causes damage, impairs.
+[SPEAKER_02]: Some sort of weird charm effect.
+[SPEAKER_02]: I think cancer's giving it a condition of harm, right?
+[SPEAKER_01]: So, are you leaving room for creatures that aren't hostile?
+[SPEAKER_01]: Is that why you're choosing this specific?
+[SPEAKER_01]: Because you could just say, like, doesn't speak the password, right?
+[SPEAKER_01]: Like, and that would just cover everyone.
+[SPEAKER_01]: Well, we'll be asleep, right?
+[SPEAKER_05]: It's triggering on a hostile action, right?
+[SPEAKER_05]: Not on a presence or something.
+[SPEAKER_01]: Right, that's what I'm saying, yeah.
+[SPEAKER_02]: Which will make you all behave each other yourselves when I'm asleep.
+[SPEAKER_02]: So I'm happy with that as well.
+[SPEAKER_05]: Okay, so you're going to cast, and you're going to cast this kind of in front of the Liamen's tiny hut, or like in the Liamen's tiny hut?
+[SPEAKER_02]: Well, I think we're in it, right?
+[SPEAKER_02]: Okay, sure.
+[SPEAKER_02]: I think I can just do it on the floor of the hut.
+[SPEAKER_05]: Sure, you can do that.
+[SPEAKER_05]: Is it going to explode?
+[SPEAKER_05]: It's in the hut with us.
+[SPEAKER_05]: And what's going to happen if it gets triggered?
+[SPEAKER_01]: I enjoy the idea that someone does something mean to us and we explode.
+[SPEAKER_00]: That's a good one.
+[SPEAKER_02]: It can target the creature that triggered the glyph.
+[SPEAKER_02]: And take 5d8 damage of my choice, or half that on a successful saving throw.
+[SPEAKER_00]: Can someone come into the hush without a ritual?
+[SPEAKER_04]: No, a creature can't enter the hush.
+[SPEAKER_00]: Then it doesn't matter.
+[SPEAKER_05]: I presume you're thinking if the hut gets dispelled, right?
+[SPEAKER_05]: And then someone's there.
+[SPEAKER_05]: Is that what you're thinking?
+[SPEAKER_05]: Yeah.
+[SPEAKER_02]: It's just insurance, I've never cast it before, so I'm kind of up for it.
+[SPEAKER_01]: Why does it say you can target the creatures?
+[SPEAKER_01]: It says creatures in the area, does it not?
+[SPEAKER_05]: Yeah, it does say each creature in the area.
+[SPEAKER_01]: Yeah, so we would just explode.
+[SPEAKER_05]: But when you look at a spell glyph... Yeah, you put a spell in it, which it depends if you're going to make an explosive rune or put a spell in it.
+[SPEAKER_02]: Oh, alright, I'll put a spell in it.
+[SPEAKER_02]: I'll put a spell in it.
+[SPEAKER_02]: I think I might have another one spell left.
+[SPEAKER_04]: You don't have any spells?
+[SPEAKER_02]: Yeah, I'll put a guiding bolt in it.
+[SPEAKER_04]: There we are.
+[SPEAKER_05]: Okay, sure.
+[SPEAKER_02]: So if someone attacks us, they'll be glittery.
+[SPEAKER_02]: So there we are.
+[SPEAKER_05]: Okay, so you do these preparatory steps.
+[SPEAKER_05]: It's also at the time at some point, but it's quite late in the evening now.
+[SPEAKER_05]: Is there anything else you guys would like to do before you try to sleep?
+[SPEAKER_05]: Or what's your planned watch schedule?
+[SPEAKER_04]: I'll take the first watch, I've still got spells.
+[SPEAKER_00]: I'll take the second watch.
+[SPEAKER_00]: I have three mystery crackers left.
+[SPEAKER_00]: I'd like just to use them to see if they set off back to this fucking cliff.
+[SPEAKER_00]: What?
+[SPEAKER_00]: No!
+[SPEAKER_00]: Not!
+[SPEAKER_04]: Tremik, no!
+[SPEAKER_04]: Another crack as it went!
+[SPEAKER_02]: Think about what happened last time, Tremik, and put them back in the bag.
+[SPEAKER_04]: Tremik, are you just really wanting to cause chaos lately?
+[SPEAKER_04]: I feel like you have something in you that is chaotic.
+[SPEAKER_05]: So I don't know, to be fair, where I've got the notes for what these crackers do, but I can find it.
+[SPEAKER_04]: I can 100% find it if you would like.
+[SPEAKER_04]: We need four watches, right?
+[SPEAKER_04]: Is that right?
+[SPEAKER_02]: We need four watches?
+[SPEAKER_02]: Correct, correct.
+[SPEAKER_02]: Mags is gonna have a sleep.
+[SPEAKER_01]: She's an old woman, the rest of you can do this.
+[SPEAKER_01]: She set up a landmine, that was her contribution to sleep.
+[SPEAKER_02]: I've watered you.
+[SPEAKER_02]: I'm gonna get my beauty rest.
+[SPEAKER_05]: I've forgotten about these crackers.
+[SPEAKER_05]: Do you want to...
+[SPEAKER_05]: I mean, I don't think pulling them inside the thing is a good idea.
+[SPEAKER_00]: Do not do this!
+[SPEAKER_00]: I was more conscious that one, I would forget them, or two, you would lose the notes on them.
+[SPEAKER_00]: So I just wanted to get them out of the way, but equally... No, no, totally fine.
+[SPEAKER_00]: It's a good reminder.
+[SPEAKER_00]: And they are around somewhere.
+[SPEAKER_00]: We'll save them for the next time we're in a safer location.
+[SPEAKER_05]: Yes, that's one way to think about it for sure.
+[SPEAKER_05]: Okay, anything, having talked traffic down out of Christmas crackers, is there anything else anyone would like to do?
+[SPEAKER_04]: During our watch, I'll continue to make notes of the place that we're in and make notes of... We'll come to the watches in just a second, but anything else anyone's saying before we settle down for speed?
+[SPEAKER_01]: Well, I'll set up a series of bells and string.
+[SPEAKER_04]: Okay, yep.
+[SPEAKER_05]: Yep, you can definitely do that.
+[SPEAKER_05]: So we've got Caspian, and then Travik, and then who's taking third watch?
+[SPEAKER_05]: I'll take the third watch, sure.
+[SPEAKER_05]: Fabian is going, okay.
+[SPEAKER_03]: We've run out of watches in the necessary book.
+[SPEAKER_05]: No, I think, well, Bagsy's having a sleep.
+[SPEAKER_05]: Okay, so Shadi, you have been continuous, as you say, to make notes on places that you've been and someone settled down.
+[SPEAKER_05]: How much of that attention was you absorbing?
+[SPEAKER_05]: Are you meaningfully keeping a watch at the same time as doing this, or are you just
+[SPEAKER_04]: Realistically think that Caspian is so sure of his Leaven's Tiny Hut spell that he's like, we're totally safe and protected, and isn't realistically paying as much attention as he should.
+[SPEAKER_04]: All right, make a perception check of disadvantage.
+[SPEAKER_04]: Absolutely fair.
+[SPEAKER_05]: And are you staying in, you are definitely staying inside the hut.
+[SPEAKER_05]: I'm staying inside, yes.
+[SPEAKER_04]: That's the whole point.
+[SPEAKER_04]: Yeah.
+[SPEAKER_05]: You do that, you fully absorb yourself in your note-making, you don't really pay too much attention on what's going on around you, but nothing overtly and obviously comes up here to disturb you, nothing sets off Max's glyph of warding, you pass the time relatively peacefully.
+[SPEAKER_04]: Cool, sweet, I'll wake up the next person.
+[SPEAKER_05]: Okay, which is Trevik, I believe.
+[SPEAKER_04]: Trevik, it was fine, nothing happened, all's well, I'm going to sleep, good night.
+[SPEAKER_00]: Tragic will crack open the door of the hut and lean against it and just watch for the night.
+[SPEAKER_05]: Okay, but you're staying up in that upper chamber still?
+[SPEAKER_00]: Yes.
+Okay.
+[SPEAKER_00]: Well, that's a noise that lures me away!
+[SPEAKER_05]: Have you got the hatch shut to that or open, incidentally?
+[SPEAKER_01]: Closed, but there's a series of bells and strings in the room below.
+[SPEAKER_05]: Oh, they're in the room below, are they?
+[SPEAKER_01]: Okay, fine.
+[SPEAKER_05]: Yeah, all right, noted.
+[SPEAKER_05]: They make you a perception check, Trevik, if you're paying proper attention.
+[SPEAKER_02]: He is!
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: I hear his bells and whistles go off.
+[SPEAKER_05]: So you do, you do hear.
+[SPEAKER_05]: So the first thing you hear is this sort of pitter-pattery sound of sort of gravel or small stones falling from the ceiling onto the stone below.
+[SPEAKER_05]: And then you hear one or two of those bells that Rel has set up begin to chime.
+[SPEAKER_05]: It's not as though someone's kind of tripped over it, but over a very sit and listen for a few minutes, and every now and again one will just tinkle softly.
+[SPEAKER_00]: Okay, I would like to subtly make my way over and peek down, if that's all right.
+[SPEAKER_05]: Okay, yeah, you can do that.
+[SPEAKER_05]: It is dark, you have dark vision.
+[SPEAKER_05]: You stay in a role with your existing perception check.
+[SPEAKER_00]: Okay.
+[SPEAKER_05]: Sie sehen, auf der Flurre von der Kammer drüben, ein Netzwerk von feinen Bracken.
+[SPEAKER_05]: Und Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem Ceiling kommen Sie sehen, wenn Sie von dem
+[SPEAKER_05]: You can also hear, you look down and you can see these, this is what is occasionally disturbing Braille's crap that he has left.
+[SPEAKER_05]: Now you can't from here see out into the other two rooms, the western room or the southern room, but you can hear from this vantage point and your good perception check, slightly more substantial sounds of stone kind of crunching or grinding coming from that western room.
+[SPEAKER_00]: Okay, did I hear you correctly and say I can I can see fine tracks.
+[SPEAKER_00]: Yeah, perfect.
+[SPEAKER_00]: Okay, cool.
+[SPEAKER_00]: Grand.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: And so on.
+[SPEAKER_00]: And I, as I watch there, they are like,
+[SPEAKER_05]: It's not as dramatic as that at the moment, but you're pretty sure they were not there when you came up, that the floor was pretty pristine when you came up.
+[SPEAKER_05]: And now it is networked with this fine tracery of cracks.
+[SPEAKER_00]: Okay, and the room we are in still feels solid.
+[SPEAKER_05]: Yep.
+[SPEAKER_00]: And stable.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Okay.
+[SPEAKER_05]: You can hear more substantial sounds from the western room.
+[SPEAKER_05]: You're in the northern room at the moment.
+[SPEAKER_05]: You're just looking down into that room.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: I'm gonna summon Hock.
+[SPEAKER_00]: And I'm going to kindly ask Hock to fly his way down into the north, no, into the, hold on.
+[SPEAKER_00]: Western room.
+[SPEAKER_00]: I just, I just,
+[SPEAKER_00]: If there's something concerning there, if there's a physical entity, come back and squawk twice.
+[SPEAKER_00]: If it looks similar to the room below, squawk once.
+[SPEAKER_05]: Okay, Hulk comes back and gives two loud squawks.
+[SPEAKER_00]: Ooh, okay, cool.
+[SPEAKER_00]: Okay, okay, okay, okay.
+[SPEAKER_00]: What else do I have?
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So the I'm currently upstairs we go if they're currently nothing in the room below, but the rooms the if the is there a signal is is there like an arch between the two rooms or is there like a door or an arch?
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Okay, if I was to...
+[SPEAKER_00]: Okay, I'm going to stealthily make my way down there and hug onto the earth and my peak... Yeah, you can do that.
+[SPEAKER_05]: You've got a very good stealth check, so you can...
+[SPEAKER_05]: Excellent.
+[SPEAKER_05]: You tread very delicately over all of Rell's elaborately set up.
+[SPEAKER_05]: Well, I mean, I think a 25 will.
+[SPEAKER_05]: I'm tempted to have Rell roll to see how well he set this thing up, but with a 25, I'll say you can make it.
+[SPEAKER_05]: And you saw him do it, so you have some advantages.
+[SPEAKER_05]: So you do that.
+[SPEAKER_05]: You creep over to the art and you look out.
+[SPEAKER_05]: What you see are significantly more substantial cracks forming in this room.
+[SPEAKER_05]: And in particular, you can see close to the open...
+[SPEAKER_05]: So this room looks out onto the open area where you climbed up the...
+[SPEAKER_05]: Over there, the wall is moving, quite evidently, and you can see the cracks spreading out from that movement of the wall.
+[SPEAKER_05]: OK. As you look down to the very lip of that crack where the carvings were, the kind of jagged edge of the broken carvings are, you can see something looks very odd inside the stone.
+[SPEAKER_05]: There's kind of a crust of stone there, but beneath it there is some sort of whitish kind of
+[SPEAKER_05]: almost gelatinous looking substance, which is moving much more, it's kind of coming up through the stone, it's kind of moving the stone, it looks, yeah, it looks, it looks alive, I would say.
+[SPEAKER_00]: Okay, cool.
+[SPEAKER_05]: But as I say, the walls of this chamber are no longer static.
+[SPEAKER_05]: And here, there's much more substantial.
+[SPEAKER_05]: You can see some of the blocks have already been pushed quite significantly out of place.
+[SPEAKER_00]: This is the wall that we came up that there is the pool of water at the bottom, right?
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: I don't want to disturb people's sleep, but I feel like this is something that people should know about.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Traffic is going to wake Rell, because Rell is going to be the next person on the list to be waking anyway.
+[SPEAKER_05]: Rell and Boat are very quiet, so you can do that without disturbing anyone else, for sure.
+[SPEAKER_00]: Excellent, excellent.
+[SPEAKER_00]: I will wake Rell and panic whisper, there's something wrong over here.
+[SPEAKER_00]: Help me make a decision.
+[SPEAKER_00]: Okay, and I...
+[SPEAKER_05]: It's still over, it points out, yeah.
+[SPEAKER_05]: Sure.
+[SPEAKER_05]: Yeah, you guys can do that, but you don't need to make more roles while you set up this thing, so you can easily, it shapes your way through it.
+[SPEAKER_05]: And you can stand along with Trevor and observe what Trevor could observe.
+[SPEAKER_05]: This thing is not moving fast, but yeah, it's fast enough that as you watch it, you can see its gradual progress.
+[SPEAKER_05]: It appears to be trying to, it's making, it's gradually kind of squeezing the chamber inward.
+[SPEAKER_01]: Sorry, it's covering every wall, not just one wall.
+[SPEAKER_05]: No, the only part you can see where it's exposed, where the cracks have kind of opened up enough that you can see this thing, is at that top area lip where you turned over, but you can see the chamber, the walls are kind of bulging in, the stonework is being displaced, that is happening all across this chamber, but you can only see that whitish stuff actually kind of pushing through around the lip of the opening.
+[SPEAKER_01]: Right, okay.
+[SPEAKER_01]: Yes, I'm not really sure what decision would be appropriate to make here.
+[SPEAKER_01]: I feel like this is alarming enough, but it's not affecting the chamber we're in.
+[SPEAKER_01]: I suggest that every watch from now on keeps a careful eye and see if it progresses, and if so, we move.
+[SPEAKER_00]: If it starts to, where is our boundary line here?
+[SPEAKER_00]: If it completely
+[SPEAKER_00]: If it makes its way into the Western Chamber, or if it gets into the Northern Chamber, or...
+[SPEAKER_00]: I think, yes, if it... Maybe we can't quit the panic.
+[SPEAKER_01]: If it enters the Forge itself, then it'll be difficult for us to move through any of the other exits.
+[SPEAKER_01]: So I would say, yes, if it extends beyond the chamber below and into the one above, that's when it's time to move before our options are cut off.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: I'm going to look really closely at this thing and see if...
+[SPEAKER_00]: If there's any hope that I might be able to identify what it is, I don't think so.
+[SPEAKER_00]: I don't know this creature, do I?
+[SPEAKER_05]: You've never, no, I don't think you would have heard of anything like this before.
+[SPEAKER_05]: I mean, you know about things like earth elementals and so on?
+[SPEAKER_05]: It is possible for things to look stony and be alive, like you're well aware of that.
+[SPEAKER_00]: What I was expecting was that this was, this is part of the stone hunger and
+[SPEAKER_00]: But I wasn't expecting it to be gooey, so Trevick has put that part aside.
+[SPEAKER_00]: It looks like...
+[SPEAKER_05]: it doesn't look like, from the perspective you have, it doesn't look like a separate entity to the stone.
+[SPEAKER_05]: It looks like it is, the stone is almost a kind of skin on this thing, and it's, because it's moving and adapting, its skin is kind of cracking open as it kind of moves, I suppose.
+[SPEAKER_05]: So that's the impression that you would get, rather than that there's a discrete creature within the stone.
+[SPEAKER_00]: Cool, okay, okay, okay.
+[SPEAKER_00]: Alright, with that decision made, Travis will go and try and get some bit of rest.
+[SPEAKER_00]: Can I have the rest of my sleep first?
+[SPEAKER_01]: I would assume I was awoken pretty early into your...
+[SPEAKER_00]: Into the what?
+[SPEAKER_00]: Yeah, because you...
+[SPEAKER_00]: Into my channel, that's totally fair.
+[SPEAKER_00]: Yeah, yeah.
+[SPEAKER_00]: Cool, yeah.
+[SPEAKER_00]: Trevik will keep watch and then wake Rell up at an appropriate time.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: So Trevik, the rest of your watch, this is definitely a progressing situation.
+[SPEAKER_05]: As you watch this, that chamber to the west becomes increasingly distorted.
+[SPEAKER_05]: There is...
+[SPEAKER_05]: While it had these very beautifully tailored masonry stone walls, several blocks have now been pushed significantly out of place.
+[SPEAKER_05]: Nothing has collapsed yet, but the walls are clearly being pushed inward.
+[SPEAKER_05]: You can see the stones protruding from their places.
+[SPEAKER_05]: And the floor is that kind of crackling, almost, of the cracking and opening.
+[SPEAKER_05]: It's progressing from the lip further into the chamber.
+[SPEAKER_05]: In the chamber where you're standing, there's no obvious evidence just yet of any kind of overt movement within this chamber, but if you sit and watch it near to the archway, you are pretty dusty with stone dust that has fallen from the ceiling as those stones also begin to shift a bit by the time you finish your watch.
+[SPEAKER_05]: So this thing is definitely not starting and every now and again a kind of bulge of that whitish substance kind of becomes more visible, almost a kind of bubble popping up or kind of something like a grub moving beneath and it kind of bunches its muscles and kind of pops up for a second and then kind of goes flatter and the surface of the stone kind of comes back together.
+[SPEAKER_05]: So you continue to see kind of glimpses of this
+[SPEAKER_00]: Oh, I'm very caught between I don't want to alert it to my presence, but I also want to touch it and see what happens.
+[SPEAKER_00]: Okay, Travic is quite panicked at the idea of us resting so close to this, but he's also conscious that we that we need a rest.
+[SPEAKER_00]: So,
+[SPEAKER_00]: Yeah, he will relay that information to Rell on when it is appropriate to wake him up and try to have a stressful rest after that.
+[SPEAKER_01]: Oh, okay.
+[SPEAKER_01]: Yeah, I think Rell will take his watch directly in the Smith Chambers or the Forge and sort of keep a very immediate and direct eye
+[SPEAKER_01]: I guess there was fires burning here, or there was evidence that fires had been burned here, right?
+[SPEAKER_01]: So maybe...
+[SPEAKER_01]: both in the olden days of the porch there's kind of you know the remains of but also in more modern times there's burnt marks on the floor where people have lit fires and such yes yeah so i think well i guess a lot of animals are afraid of fire i think is is ral's basic reasoning there so he'll assemble a small campfire kind of stoking it kind of close to the like the the edge of the chamber where this thing is starting to encroach
+[SPEAKER_05]: Sure.
+[SPEAKER_05]: Yeah, you can definitely do that.
+[SPEAKER_01]: Perfect.
+[SPEAKER_01]: I suppose I'll take down my series of strings and bells because they're getting quite annoying.
+[SPEAKER_05]: They have definitely been ringing more often, I think.
+[SPEAKER_05]: Yeah, Raoul, you've known that Travik is waiting down there so you haven't worried about it too much, and maybe Travik you've been taking steps to kind of still them when they've been going off so they don't wake people up, but I imagine, Raoul, you have been aware that they have been kind of, as I say, not ringing as though someone has tripped on them, but as the chamber shifts, like just gently tinkling from time to time.
+[SPEAKER_01]: Yes, yeah, yeah.
+[SPEAKER_05]: Okay, so I've just been rolling a D10 each time to see how quickly this thing is progressing.
+[SPEAKER_05]: Raoul, as you sit down there and you watch,
+[SPEAKER_05]: Well, actually, everyone will be aware at this point, because as you watch, you can see what Trebek has described, the chamber to the west becoming increasingly distorted, the walls kind of bulging inward.
+[SPEAKER_05]: The cracks that are on the floor of this chamber become more pronounced as they're kind of
+[SPEAKER_05]: the tension from the stone in the western chamber is going to pass along and probably only about less than half an hour into your watch well there is a collapse in the western chamber so one of the walls the masonry that makes up the wall crashes in all of a sudden with a very loud noise exposing initially quite a large patch of that whitish material underneath
+[SPEAKER_05]: But quite quickly it begins, and you might or might not see this depending on whether you're going to go straight back up and talk to the others or not.
+[SPEAKER_05]: But if you do stick around, you see it quite quickly begin to kind of crust over with the new stonework.
+[SPEAKER_05]: But initially at the moment at which that is kind of pushed out and collapses onto the floor, initially there's quite a large patch of that exposed whitish material.
+[SPEAKER_05]: Everyone else, you will definitely hear this.
+[SPEAKER_05]: This is very loud.
+[SPEAKER_05]: It will wake you all up.
+[SPEAKER_05]: You mentioned it crusts over, does it become quite static once it does, or does the stone itself seem to... No, it's still moving, it's still, yeah, it kind of does this, it sort of does a almost, as I say, it's almost like a muscle kind of flexing.
+[SPEAKER_05]: It does this push and the stonework on one side of the chamber collapses in.
+[SPEAKER_05]: This chamber is still possible, if you wanted to, you could still climb over this masonry and get back down that hole that you came up, but this chamber is now
+[SPEAKER_05]: I mean, it's not the relatively clear space that it was.
+[SPEAKER_05]: It's now very cluttered with debris.
+[SPEAKER_05]: The other side of it is also bulging very substantially, and once that falls, it's likely to... Then it will be pretty much impossible to come through here.
+[SPEAKER_05]: Yeah.
+[SPEAKER_01]: Okay.
+[SPEAKER_02]: Rell, what was that?
+[SPEAKER_02]: Stop dancing.
+[SPEAKER_02]: We were swearing on it.
+[SPEAKER_02]: It's Christmas morning!
+[SPEAKER_01]: I'm not sure it's anything to be alarmed about just yet, but it does appear that some kind of organism is slowly consuming the stonework down here.
+[SPEAKER_01]: I would assume this is the stone hunger we... Well, it's physical form.
+[SPEAKER_01]: It's some kind of gelatinous white mass that...
+[SPEAKER_01]: It rather dislikes the stone that's been put in place and seems to shove it out of its way before hardening its flesh to replace it.
+[SPEAKER_03]: Well, all of those words were very concerning.
+[SPEAKER_00]: That concerned me.
+[SPEAKER_01]: Now, I appreciate that.
+[SPEAKER_01]: Perhaps it is best we move, but I suppose there is risk that the chambers beyond will be even more dangerous than waiting here for another couple of hours.
+[SPEAKER_04]: Jess, have any cracks appeared in the chamberware yet?
+[SPEAKER_04]: No?
+[SPEAKER_04]: No.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Did you go investigate?
+[SPEAKER_04]: Did you go look any further?
+[SPEAKER_04]: Have you just been into the the West Room?
+[SPEAKER_01]: Sorry, I didn't climb back down the hole, if that's what you're asking.
+[SPEAKER_04]: Oh yeah, I didn't know how far you had gone.
+[SPEAKER_05]: My understanding is he's been sitting in the northern room beneath the chamber and looking out of the western room and observing what's been happening there.
+[SPEAKER_05]: Yes, exactly.
+[SPEAKER_04]: I am reluctant to stay here if further rooms are also being cracked open by some sort of grub-like rock creature.
+[SPEAKER_04]: This is the best room, isn't it?
+[SPEAKER_04]: Yes, but if all of the other rooms become a problem, this is the room we die in, I guess.
+[SPEAKER_01]: As I say, it seems to be progressing relatively slowly.
+[SPEAKER_01]: I feel we could perhaps endure a little longer, but certainly there are signs that it's starting to creep into this room.
+[SPEAKER_01]: Which is the room.
+[SPEAKER_05]: The rest of you kind of look out and see where, I mean, yeah, there is much more, there's not a kind of fine layer of cracks and other relatively substantial cracks across the floor and so on.
+[SPEAKER_05]: Yeah, this room is definitely, this room is definitely under significant stress by this point.
+[SPEAKER_04]: The Western room, correct, yeah.
+[SPEAKER_05]: No, the Western room is already half collapsed.
+[SPEAKER_05]: This is the Northern room, which is beneath where you are.
+[SPEAKER_02]: Why don't we say that this room isn't affected by it at all?
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: Is it like a really hard, like you can sort of see the cracks coming and then they just stop?
+[SPEAKER_02]: Or is it just that they haven't got this far yet?
+[SPEAKER_05]: At the moment, the cracks in the northern room are mostly on the floor rather than high up.
+[SPEAKER_05]: So it's not a, yeah, at the moment they haven't really
+[SPEAKER_05]: Well, although there has been dust falling through the ceiling, so I would say, yeah, there is definitely some evidence that the upper level of that room is being affected, and you've had nothing at all like that in the room that you're in.
+[SPEAKER_05]: There's been nothing in the room that you're in.
+[SPEAKER_03]: Was the architecture distinct in our room compared to the others?
+[SPEAKER_03]: Like, is this more fancy dwarven likely to be better made?
+[SPEAKER_05]: It had those devotional carvings that you had, but other than that, no, it was the same kind of dress stone and so on, but that was the only real...
+[SPEAKER_03]: I think we're protected in some way.
+[SPEAKER_03]: Oh, like that dragon shrine from upstairs, where the statue we didn't steal was doing something.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: We haven't stolen yet, sorry.
+[SPEAKER_04]: Might not be able to.
+[SPEAKER_04]: Okay, well, there is the possibility that we're protected in this room, but I don't know that that matters if every other room is destroyed.
+[SPEAKER_01]: Then I suppose we progress deeper with what limited resource we have left.
+[SPEAKER_03]: Suppose Rell's right that we only need a few more hours.
+[SPEAKER_04]: How long has this taken to progress this far?
+[SPEAKER_04]: When I had my watch, I saw and heard nothing.
+[SPEAKER_01]: No doubt your nose is in a book.
+[SPEAKER_04]: No wrong, I admit.
+[SPEAKER_04]: However, that still says to me that this has progressed fairly quickly.
+[SPEAKER_04]: So how long is a watch?
+[SPEAKER_04]: Is a watch two hours?
+[SPEAKER_04]: Yeah, so in a couple of hours this area, again, might not exist.
+[SPEAKER_04]: I don't know that we have that time.
+[SPEAKER_04]: I would appreciate it as much as any of us.
+[SPEAKER_01]: Obviously, I would get a lot of my power back, but... Look, as long as we're all awake for no longer than ten minutes, it's perfectly fine.
+[SPEAKER_04]: I am wearing out of staying here for too long.
+[SPEAKER_04]: Whose watch is next?
+[SPEAKER_04]: Fabian's watch is next.
+[SPEAKER_05]: We're only about half an hour into the world's watch.
+[SPEAKER_01]: There's only two and a half hours.
+[SPEAKER_01]: That's not terrible.
+[SPEAKER_01]: Yeah, I think we'd be fine for one more.
+[SPEAKER_04]: Three and a half hours.
+[SPEAKER_04]: Yeah, more.
+[SPEAKER_01]: But I do think we'd be fine for one more.
+[SPEAKER_01]: And worst case Fabian can just tell us we have to move.
+[SPEAKER_01]: There's no real risk.
+[SPEAKER_04]: I'm very perceptive.
+[SPEAKER_01]: I'll know if anything is wrong.
+[SPEAKER_04]: Oh my god.
+[SPEAKER_04]: Has Max gone back to sleep?
+[SPEAKER_02]: I'm not really following any of this, if I'm honest.
+[SPEAKER_02]: There's so many words.
+[SPEAKER_04]: Perhaps at the start of, we can try and sleep longer.
+[SPEAKER_04]: At the end of your watch, Raoul, and the start of Fab's watch, perhaps you two can make a decision.
+[SPEAKER_04]: If it has progressed too far, we move.
+[SPEAKER_01]: That's a good compromise.
+[SPEAKER_01]: Sensible, yes.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: I won't do that again.
+[SPEAKER_01]: So I will continue to stay at the edge of this chamber with my little fire lit for the remainder of my watch, keeping a good eye on the progress.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Yes.
+[SPEAKER_05]: Now I've rolled a channel my D10 for progress.
+[SPEAKER_05]: So that is not going to be a viable position for the entirety of your watch, I'm afraid.
+[SPEAKER_05]: Pretty soon after you have collectively made this decision to go back to bed and let things...
+[SPEAKER_05]: see how things progress.
+[SPEAKER_05]: The other side of that western chamber collapses, which creates a big cloud of dust.
+[SPEAKER_05]: It leads to pretty much
+[SPEAKER_05]: Potentially you could still kind of clamber over that debris, but it would be very difficult.
+[SPEAKER_05]: That exit is pretty much blocked at this point.
+[SPEAKER_05]: Raoul, you start to feel the floor beneath you in this chamber sort of shiffer a little bit and move, and there are points in the chamber floor where the tiles start to kind of buckle upwards as though something is kind of pushing into them from below.
+[SPEAKER_05]: start to see the same sort of evidence that you saw in the western chamber of blocks beginning to bulge outwards from the walls.
+[SPEAKER_05]: You can hear from the southern chamber the same sort of cracking sounds which indicate that similar things are probably happening there or that you haven't been in to have a look at that.
+[SPEAKER_05]: Yeah, so it's not too dissimilar to what you're seeing here.
+[SPEAKER_05]: There are cracks spreading along the floor and up the walls of this chamber and in particular you can see there's one quite large crack that's opened on the wall and between the the blocks have kind of parted and behind them you can see the kind of layer of the the rocky substance but you can see again
+[SPEAKER_05]: that whitish substance beneath it, which is periodically almost like a heartbeat pulsing outward in a little way, out of the rock and then retreating a little bit.
+[SPEAKER_05]: Where there's been a deeper slice, you can see through to that layer in this room as well.
+[SPEAKER_05]: And again, with rolling a 10 on the D10 of progress, it is not going to be viable to stay where you're staying for the rest of your watch without risking actual damage from kind of falling masonry and so on.
+[SPEAKER_05]: You can obviously retreat up to the room where you are, which is still, again, the rest of you who are asleep are definitely being disturbed by noise at this point.
+[SPEAKER_05]: But other than that, there's no evidence
+[SPEAKER_05]: Other than that, there's no evidence that the present of anything amiss in the chamber that you were in.
+[SPEAKER_01]: Yeah, I think at this point, Rell will raise the alarm all of the way and suggest that it is time we move on.
+[SPEAKER_01]: If the surrounding chambers, if our points of progress are already starting to crackle, regardless of whether we are safe here or not, we will be trapped, I'm afraid.
+[SPEAKER_02]: Time to head on.
+[SPEAKER_01]: If there is sort of quite an exposed area of this kind of white flesh, I think I'll make a closer study of it and maybe give it a little prod.
+[SPEAKER_05]: Yeah, so going back into the Western Chamber, there are, now that both sides of the masonry have fallen in, the walls are kind of, the walls are very inactive movement and every now and again that exposes an area of this kind of whitish underlying substance.
+[SPEAKER_05]: So if you're a little bit patient, definitely there'll be an opportunity to do that.
+[SPEAKER_05]: Or you can go into the southern room where, as I say, there's this one relatively long crack running most of the length of the wall, where it's relatively kind of deep into it, but you can also see it in there.
+[SPEAKER_01]: Yeah, I guess we are going into the southern room anyway, because that's the next room along, so I guess I will do that.
+[SPEAKER_01]: And yeah, I'll maybe take a small brand from the fire as well, and I'll see how fleshy it seems.
+[SPEAKER_01]: And if it is particularly fleshy, I may not like stab it, but bring the heat to it to see if it reacts at all.
+[SPEAKER_05]: Sure, so while the rest of everyone is packing up bags and what have you and coming bleary-eyed back downstairs into this chamber to have a look around, you go into that southern chamber and you have a look at what's exposed in the split in the masonry map.
+[SPEAKER_05]: Are you doing a kind of visual inspection first off?
+[SPEAKER_01]: Have a look, then a touch and then see if it responds to heat at all.
+[SPEAKER_05]: So when you're looking at it, it has a
+[SPEAKER_05]: there's a kind of, it's a whitish colour with a kind of slightly pearlescent sheen on it when you look at it closely.
+[SPEAKER_05]: While you're just observing it visually, mostly it has quite a smooth surface on it, but when it kind of pulses outward a little bit, it seems to kind of grow and move by that
+[SPEAKER_05]: smooth skin itself kind of splits a little bit and there's a much more gooey substance, I suppose, inside, something a little bit more liquid looking, more elastic looking than the skin that forms on it once it's moved.
+[SPEAKER_05]: And once it's moved and it's been there for a minute or two, then the stony skin starts to form over that skin.
+[SPEAKER_05]: That is making a kind of constant, consistent effort to push this crack apart until you keep seeing the exposed white substance.
+[SPEAKER_04]: I'm gonna be two seconds, there's a giant spider on my floor and I don't want my cats to know.
+[SPEAKER_02]: Can I attempt, would this be a survival track?
+[SPEAKER_02]: I'm interested in looking at this white shit if I can see any of it from where I am, maybe I can't.
+[SPEAKER_05]: I mean you can if you want to, it depends how quickly you've organised yourself to come
+[SPEAKER_05]: I think she sleeps packed up and ready to go.
+[SPEAKER_02]: Can I make a survival check looking at the rocks and the pattern and the white shit?
+[SPEAKER_02]: Is what's happening here intentional?
+[SPEAKER_02]: This could be a survival check, yep.
+[SPEAKER_02]: Come on.
+[SPEAKER_02]: Oh, motherfucker.
+[SPEAKER_05]: Hard to say, hard to say.
+[SPEAKER_05]: Did you want to go ahead, Rell, with your attempt to... Oh, sorry.
+[SPEAKER_01]: Touch first, yes.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Bye, Rell.
+[SPEAKER_05]: Touch it with your bare hand, is the plan?
+[SPEAKER_01]: Yes, yes.
+[SPEAKER_01]: My hand.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: You reach your hand in and touch it.
+[SPEAKER_05]: It is warm.
+[SPEAKER_05]: It is sticky.
+[SPEAKER_05]: Traces of it come away on your fingers.
+[SPEAKER_05]: If you touch the skin of it, it's dry, it's not sticky.
+[SPEAKER_05]: But if you touch its exposed moving part, that is quite sticky.
+[SPEAKER_05]: And as I said, traces of it come away on your fingers.
+[SPEAKER_01]: Interesting.
+[SPEAKER_01]: I made then the sort of liquidy sticky parts.
+[SPEAKER_01]: I'll take like a little swatch of leather or something and kind of get a big smear on it.
+[SPEAKER_01]: And then I will pop that in an empty potion vial.
+[SPEAKER_01]: And then yes, I will proceed with raising a hot brand in its direction.
+[SPEAKER_01]: Again, not like jabbing it, but like progressively moving the heat towards it to see if it at any point reacts to the stimulus.
+[SPEAKER_05]: As you move the...
+[SPEAKER_05]: It's possible just about to kind of...
+[SPEAKER_05]: The crack is only just about wide enough for you to do this, but there's no obvious reaction from it as you move the fire closer to it.
+Interesting.
+[SPEAKER_01]: Then perhaps I would bring it all the way into contact with it to see if anything happens.
+[SPEAKER_05]: It makes a fizzling sound as you do so.
+[SPEAKER_05]: It seems to stimulate it to move a little bit faster.
+[SPEAKER_05]: The key substance almost immediately kind of spreads in a thin layer to coat your torch and put it out.
+[SPEAKER_02]: Interesting.
+[SPEAKER_02]: Well, that implies intentionality, doesn't it?
+[SPEAKER_01]: Could be purely reactive.
+[SPEAKER_05]: Could be.
+[SPEAKER_05]: Как вы делаете это, по поводу этого или нет, есть несколько звуковых звуков из этой зоны, как будто движение из-за него стало немного сильнее, может быть.
+[SPEAKER_05]: Да, есть определённые виды разрушения из этой зоны в целом.
+[SPEAKER_05]: Не достаточно для того, чтобы поставить вас в опасность, но это заметно.
+[SPEAKER_03]: Well, stop annoying it.
+[SPEAKER_03]: Time to go, time to go.
+[SPEAKER_03]: Seems I excited it, if anything.
+[SPEAKER_04]: Perhaps isn't the best thing to do in this exact moment.
+[SPEAKER_02]: Stop flirting with nameless eldritch beings, the likes of which we do not know the what of.
+[SPEAKER_01]: I will finally cast detect thoughts to see if I can find anything.
+[SPEAKER_05]: Okay, you cast detect sorts.
+[SPEAKER_05]: Tell me exactly what you're doing here.
+[SPEAKER_01]: So I am, I guess, searching for a mind, whether I can read it or not.
+[SPEAKER_01]: I'm just looking for some degree of, well, I guess it'll be intelligence is what I'm looking for here.
+[SPEAKER_05]: Make your wisdom saving.
+[SPEAKER_01]: Absolutely.
+[SPEAKER_01]: Shit.
+[SPEAKER_02]: Ахахахахахахахахахахахахахахахахахахахахахахахаха
+[SPEAKER_05]: The brief kind of brush with it that you achieve is enough to tell you that trying to make a deeper connection would
+[SPEAKER_05]: That would probably be a bad idea.
+[SPEAKER_05]: There is certainly something there that could be described as a mind, but it is extremely strange.
+[SPEAKER_05]: And with your 12, you brush against something which is fast and old and not like anything else that you have encountered.
+[SPEAKER_05]: If you want to push your luck and try to do more, you can, but I would say if you're 12, you're not able to discern any real detail about it, except that it feels
+[SPEAKER_05]: Yeah, it feels like if you'd actually rolled a natural one, that would have been a really, really big problem.
+[SPEAKER_05]: But yeah, so if you want to continue, obviously you... No, I'm not pushing my luck here.
+[SPEAKER_01]: I just think Rell would very immediately, I guess, withdraw.
+[SPEAKER_01]: Yeah, no desire to meddle with whatever that was.
+[SPEAKER_01]: But I will relate it to the group, at least when they have finished assembling themselves and joined me in this chamber.
+[SPEAKER_04]: I guess that news that you try to reach out and there is something there.
+[SPEAKER_04]: That is quite fascinating.
+[SPEAKER_04]: And if it wasn't sort of eating the very everything that we're in right now, I really would like to study it further.
+[SPEAKER_04]: However, let's leave.
+[SPEAKER_03]: Agreed.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Can you recap what our exit options are now?
+[SPEAKER_03]: Everything's broken.
+[SPEAKER_05]: Ja, so the staircase that you're in the southern room now and the archway to that spiralling staircase leading down is still available at present.
+[SPEAKER_05]: You could try to go back through the western chamber clambering over the now collapsed remnants of that room to get back down toward the hydropid.
+[SPEAKER_05]: You could try that.
+[SPEAKER_05]: Or you could go back up to the room where you were taking refuge earlier, a second ago.
+[SPEAKER_03]: But there's no other ways out of that room.
+[SPEAKER_05]: No.
+[SPEAKER_05]: And the staircase hasn't been eaten.
+[SPEAKER_03]: Probably staircase then, yeah.
+[SPEAKER_03]: Yeah, so yeah, cool.
+[SPEAKER_05]: The staircase has not been eaten yet.
+[SPEAKER_05]: I mean, if you leave it too much longer, then...
+[SPEAKER_04]: I guess, yeah, I figured if it hasn't been eaten, let's go that way.
+[SPEAKER_02]: Before we get it, did this happen, so you rolled for Railswatch, so we're about halfway through Railswatch, is that right?
+[SPEAKER_05]: Yeah, you're around, yeah, halfway, two-thirds through Railswatch, yes.
+[SPEAKER_02]: So, so those of us who were asleep the whole way through got five hours of sleep.
+[SPEAKER_05]: Have not had a long rest.
+[SPEAKER_02]: But we have had a short rest, maybe?
+[SPEAKER_05]: Yes, you've had a short rest.
+[SPEAKER_05]: If anyone wants to roll for a short rest, you can roll for a short rest.
+[SPEAKER_03]: Thank you very much.
+[SPEAKER_05]: Anyone who wants a short rest can have a short rest.
+[SPEAKER_01]: And the game wants to ask me if it's a new day, which I suppose it is.
+[SPEAKER_05]: Yeah, it's definitely past, yes, it's early hours in the morning now.
+[SPEAKER_05]: I need to set that one day to death and sort out the in-game clock at some point.
+[SPEAKER_05]: Yes, the early hours of whatever the next day is.
+[SPEAKER_05]: I'm not sure you can do... Well, because you were asleep.
+[SPEAKER_03]: Well, when we woke up and I said, yes, we should go down the staircase.
+[SPEAKER_03]: We're all very good at that.
+[SPEAKER_05]: You can take ten minutes in the chamber to do this if you want to.
+[SPEAKER_05]: I will roll again to see if anything happens.
+[SPEAKER_01]: Let's just go, let's just go.
+[SPEAKER_04]: Let's go, I think we should go.
+[SPEAKER_01]: Fine.
+[SPEAKER_01]: Sorry, everyone's got the short rest we took before we went to bed.
+[SPEAKER_05]: Yeah, we had a short one.
+[SPEAKER_05]: That's true, you can still have them from then.
+[SPEAKER_05]: Because we haven't had a long rest.
+[SPEAKER_05]: We haven't had a long rest, it's true.
+[SPEAKER_02]: Nice, we've still got ten temporary hit points.
+[SPEAKER_02]: Yes.
+[SPEAKER_05]: Unless you somehow spent them, yep.
+[SPEAKER_02]: No, haven't.
+[SPEAKER_02]: Great.
+[SPEAKER_02]: Okay, then.
+[SPEAKER_05]: Anyone else drawing any more head dice or anything like that?
+[SPEAKER_04]: No, don't.
+[SPEAKER_04]: I used all my short rest to bonus as I stand.
+Okay.
+[SPEAKER_05]: All right.
+[SPEAKER_05]: Who is heading?
+[SPEAKER_05]: This is a spiral staircase.
+[SPEAKER_05]: This is a one at a time kind of a deal.
+[SPEAKER_05]: Who is going first?
+[SPEAKER_03]: Is it dark?
+[SPEAKER_05]: Yes.
+[SPEAKER_03]: I'll go.
+[SPEAKER_03]: I will cast light.
+[SPEAKER_05]: Oh.
+[SPEAKER_03]: Sorry.
+[SPEAKER_02]: You ruined my dark vision, Fabian.
+[SPEAKER_05]: That was a very hard interpretation of that, dark vision is fine.
+[SPEAKER_05]: Alright, who's going first?
+[SPEAKER_05]: Is it Max?
+[SPEAKER_05]: Did you say?
+[SPEAKER_02]: I'm happy to.
+[SPEAKER_01]: Well, happy to come close second if not first.
+[SPEAKER_05]: OK, all right, nice and roundly the way down this spiral staircase.
+[SPEAKER_05]: It goes quite, you go down a reasonably long way.
+[SPEAKER_05]: You get the impression that this is not, this kind of style of the staircase changes at points.
+[SPEAKER_05]: This is not necessarily one original staircase, but several staircases are kind of similar enough pitched together.
+[SPEAKER_05]: You can hear the sounds of continued destruction above as you go.
+[SPEAKER_02]: Lovely.
+[SPEAKER_05]: But after having descended some distance, you come to a, what appears to be a dead end.
+[SPEAKER_03]: Oh no.
+[SPEAKER_04]: Alright.
+[SPEAKER_04]: It appears to be a dead end.
+[SPEAKER_04]: Hopefully not.
+[SPEAKER_02]: Appears to be being the crucial phrase.
+[SPEAKER_03]: What is the dead end?
+[SPEAKER_03]: Is it a collapsed tunnel?
+[SPEAKER_03]: Is it a flat wall?
+[SPEAKER_05]: No, there's no evidence of collapse.
+[SPEAKER_05]: It is just a flat...
+[SPEAKER_05]: It is the kind of raw stone wall across the...
+[SPEAKER_03]: Raw stone, not carved stone?
+[SPEAKER_05]: No, raw stone.
+[SPEAKER_02]: Let's just start by tapping to see if there's anything hollow.
+[SPEAKER_05]: Okay, you can definitely do that.
+[SPEAKER_01]: Is there anything on it?
+[SPEAKER_05]: No, obvious change in the sound that comes back to you.
+[SPEAKER_04]: There's no evidence of any writing, any symbols on the walls, any pressure pads to press.
+[SPEAKER_04]: Make an investigation check if you would like to.
+[SPEAKER_05]: There's no obvious writing or anything like that, but if you want to make an investigation check going for pressure pads and that sort of thing, you can.
+[SPEAKER_02]: Nidens.
+[SPEAKER_02]: Thanks.
+[SPEAKER_05]: Nidens.
+[SPEAKER_05]: 26.
+[SPEAKER_05]: 26.
+[SPEAKER_05]: With your 26, you don't find any pressure pads or anything like that, but
+[SPEAKER_05]: Only some hours ago, when you met the elemental that controlled access to Grommer's Path, you saw it open and close the entryway.
+[SPEAKER_05]: And it left.
+[SPEAKER_05]: It kind of relatively distinctive kind of ripples in the stone when it did so, when it kind of shaped that stone and reshaped it to make its face and then make the entrance and so on.
+[SPEAKER_05]: You see similar types of patterns here in the rock.
+[SPEAKER_05]: They're very subtle, but you see some kind of indication that the same type of movement has occurred with this stone.
+[SPEAKER_04]: At some point.
+[SPEAKER_04]: I will point that out to the party.
+[SPEAKER_02]: Knock knock, wake up!
+[SPEAKER_02]: Come say hello.
+[SPEAKER_04]: Speak for us.
+[SPEAKER_05]: You hear a voice.
+[SPEAKER_05]: It does not sound like the voice of the stone elemental that you heard before, and it doesn't sound like it's coming from within or behind the stone.
+[SPEAKER_05]: It sounds very kind of clear and bright, as if it is kind of in the air, kind of above you, I suppose, maybe from slightly further up the stairs.
+[SPEAKER_05]: And it says, well, well, visitors, you most welcome.
+[SPEAKER_05]: Give me a second.
+[SPEAKER_05]: And you wait?
+[SPEAKER_05]: A minute?
+[SPEAKER_05]: Two or three minutes?
+[SPEAKER_05]: Do you want to do anything?
+[SPEAKER_03]: Does it think that seconds are really long?
+[SPEAKER_04]: We're good with speaking.
+[SPEAKER_04]: Can you make it move faster?
+[SPEAKER_03]: Yes.
+[SPEAKER_03]: That will wrap on the wall in a rhythmic pattern.
+[SPEAKER_03]: Excuse me sir, it is where I come from.
+[SPEAKER_03]: It is not a girl accustomed to leave visitors waiting at the door.
+[SPEAKER_03]: Would you mind coming back?
+[SPEAKER_05]: We have news.
+[SPEAKER_05]: While you wait.
+[SPEAKER_04]: Listening out for more cracking walls and the terror of the deep coming for us while we're waiting.
+[SPEAKER_05]: Yeah, I mean, there are continually sounds from above.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Oh, good.
+[SPEAKER_04]: Cool, cool, cool, cool, cool, cool.
+[SPEAKER_05]: After another minute or so passes, there is a, if you still have your kind of hand on the, on the stone, Fabian, you'll probably be the first to notice it.
+[SPEAKER_05]: There is movement in that stone.
+[SPEAKER_05]: And you hear the voice again.
+[SPEAKER_05]: This time it doesn't sound so clear and declamatory, I suppose.
+[SPEAKER_05]: And it says, that wasn't so hard.
+[SPEAKER_05]: I knew you could do it with the proper incentive.
+[SPEAKER_05]: And the stone does begin to part and make a gateway much less grand than the one that you saw before and much slower and more
+[SPEAKER_05]: I will say much more slowly and with much greater apparent effort, the stone opens into a gateway.
+[SPEAKER_05]: The voicing comes a little bit more sharply and it says, come now, you can do better than that.
+[SPEAKER_05]: The stone opens a little wider and it takes on something of the grandeur of the gateway that led you into Grommer's path, with the simulated columns at each side and the arched top.
+[SPEAKER_03]: Looking into it... Oh, very nice.
+[SPEAKER_03]: Thank you.
+[SPEAKER_05]: If you're looking through the gateway that has now opened, you see, certainly fading, you would notice immediately this place is flooded with light.
+[SPEAKER_05]: There are bright torches set in, kind of braziers, burning around the edge of what appears to be an amphitheatre or arena of some sort.
+[SPEAKER_05]: And I will put you guys on the other map.
+[SPEAKER_04]: See, Rafty?
+[SPEAKER_04]: What a map!
+[SPEAKER_04]: Mags, how is that rosebells going for you?
+[SPEAKER_02]: Really shouldn't have crossed that cliff of water.
+[SPEAKER_04]: Yeah, you just wanted to burn through everything thinking you weren't going to get that long rest.
+[SPEAKER_02]: Yeah, sorry, foolish of me, I apologise.
+[SPEAKER_03]: That's a gauntlet of ever I've seen one.
+[SPEAKER_02]: Is that bull canonical?
+[SPEAKER_03]: And is it to scale, if it is?
+[SPEAKER_03]: No, the bull on the graphic in the middle.
+[SPEAKER_03]: Not the bull token that evidently exists.
+[SPEAKER_05]: That is a mosaic on the floor.
+[SPEAKER_05]: So this is an arena of sorts, or an amphitheatre.
+[SPEAKER_05]: It is patched together out of several different things quite clearly.
+[SPEAKER_05]: There is a substance of it which is basically one structure which has provided the kind of main substance of this, but lots of bits have been added that just make it more ornate or fancier.
+[SPEAKER_05]: There's lots of extra statuary that's been kind of crammed in here.
+[SPEAKER_05]: There are not all of the kind of seating bits matched and so on.
+[SPEAKER_05]: It has been
+[SPEAKER_05]: Yeah, it has been, one thing has been taken and has been kind of augmented by other bits.
+[SPEAKER_05]: The banners and such are, as they are on the map, they are kind of hung around the edges.
+[SPEAKER_05]: And there is a pit, as you can see on the map, which is a kind of dark space within.
+[SPEAKER_05]: The floor of it, the floor of this arena space, so where you're standing right now, just where you've just come through the entranceway, looks, it's kind of muddy, it's almost oily, the substance on the floor where you can see those kind of dark patches.
+[SPEAKER_05]: There's no one obviously here that you can see.
+[SPEAKER_02]: И мы должны забрать персонажей, которые мы можем слить на матче.
+[SPEAKER_05]: Да, вы можете их забрать.
+[SPEAKER_05]: Я просто экспериментирую с токенами.
+[SPEAKER_02]: Конечно.
+[SPEAKER_02]: Угу.
+[SPEAKER_02]: Угу.
+[SPEAKER_02]: Угу.
+[SPEAKER_02]: Угу.
+[SPEAKER_02]: Угу.
+[SPEAKER_02]: Угу.
+[SPEAKER_02]: Угу.
+[SPEAKER_02]: Угу.
+[SPEAKER_02]: Угу.
+[SPEAKER_02]: Угу.
+[SPEAKER_02]: Угу.
+[SPEAKER_02]: Угу.
+[SPEAKER_02]: Угу.
+[SPEAKER_02]: Угу.
+[SPEAKER_02]: Either in or out of the big hole in the side of the arena.
+[SPEAKER_05]: Yeah, there is, well, it looks like there was a grill across the top at one point.
+[SPEAKER_05]: It is now, there are kind of rusted remnants of that on the edges.
+[SPEAKER_05]: At the moment, it's mostly open.
+[SPEAKER_05]: Probably this pit is slightly larger than it ideally should be.
+[SPEAKER_05]: It probably would be a slightly smaller diameter to this, but yeah, there was a containing grill there at some point, and currently there is not.
+[SPEAKER_03]: And is there evidence that it has collapsed down or collapsed up?
+[SPEAKER_05]: So it looks like it's broadly rusted away, I suppose.
+[SPEAKER_05]: So it probably would have fallen down as it crumbles.
+[SPEAKER_05]: That's mostly what it looks like.
+[SPEAKER_05]: But there are parts of it that could have been maybe bent by force.
+[SPEAKER_05]: It's hard to say for sure.
+[SPEAKER_05]: But mostly it just looks very old.
+[SPEAKER_02]: OK.
+[SPEAKER_02]: 2.
+[SPEAKER_02]: We're right next to at least one of these banners.
+[SPEAKER_05]: Yes.
+[SPEAKER_02]: How old do they have threadbath?
+[SPEAKER_05]: Not very old or threadbath at all.
+[SPEAKER_02]: Do we recognise this fucking bull iconography?
+[SPEAKER_05]: No.
+[SPEAKER_05]: No you do not.
+[SPEAKER_02]: Not even a chance to roll for it.
+[SPEAKER_05]: You can roll for it if you want to, but... Have I ever read a book that has this in it?
+[SPEAKER_05]: I mean, I'm not saying none of you have ever read a book where a bull has been depicted.
+[SPEAKER_05]: I mean, you probably could dredge up something from some knowledge of heraldry and so on, but it's not going to...
+[SPEAKER_05]: It's only going to mislead you, I suppose, in that instance.
+[SPEAKER_05]: Right, okay, no point then.
+[SPEAKER_04]: Cool, okay.
+[SPEAKER_03]: Can I look around and see if there's any evidence of cracks and is this room going to eat us as well?
+[SPEAKER_05]: Yeah, you can definitely do that.
+[SPEAKER_03]: Just looking at the walls, yeah, are there evidence of cracks on the walls?
+[SPEAKER_05]: So this chamber also has I suppose the same like the walls of the arena go up to a certain distance and then above that there's a rock ceiling and now that you've seen it in the other room there are places where the rock sort of slightly bulges over the top of the arena such that it's almost kind of flowed over it there's no evidence at all that it is active or moving at the moment but now you've seen it move it
+[SPEAKER_05]: It does look like at some point it kind of flowed or moved into place, kind of cradling this thing.
+[SPEAKER_03]: Like this arena was on the surface of the world and went over the top of it.
+[SPEAKER_05]: Possibly.
+[SPEAKER_05]: Although, as I say, it's definitely not in its original form.
+[SPEAKER_05]: I would say maybe 70% of it is clearly one structure, but a good 30% of it is odds and sods collected from elsewhere.
+[SPEAKER_03]: Okay.
+[SPEAKER_04]: The floor that you mentioned, like the darker patches on the floor, did you say that was like an oil?
+[SPEAKER_05]: It looks muddy, it's certainly wet, but it has a slightly unusually kind of oily sheen to it.
+[SPEAKER_04]: Interesting.
+[SPEAKER_04]: I'm going to poke fabs in the rapes and speak to the voice and see what it wants.
+[SPEAKER_03]: I'm grateful.
+[SPEAKER_03]: Good morning.
+[SPEAKER_03]: Good morning.
+[SPEAKER_03]: Thank you for letting us through your gate.
+[SPEAKER_03]: That was fabulous.
+[SPEAKER_03]: We appreciate the effort and into your most grandiose arena.
+[SPEAKER_03]: How do we have the pleasure of speaking?
+[SPEAKER_03]: We bring news of the outside world.
+[SPEAKER_05]: Как вы разговариваете в арене, почему-то громко и явно, нет явного ответа, но вы, и если у вас достаточно пассивная перспектива, вы начнете слышать несколько звуков из этого, несколько вещей случаются, вы начнете слышать несколько звуков из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из того, из
+[SPEAKER_05]: And the stone door behind you closes.
+[SPEAKER_01]: Yeah.
+[SPEAKER_05]: Great.
+[SPEAKER_03]: That's fine.
+[SPEAKER_03]: Yes, well, we have come through the door now, so no point letting the wind in.
+[SPEAKER_03]: Very good.
+[SPEAKER_03]: Wind?
+[SPEAKER_03]: Is there anyone we could talk to in here?
+[SPEAKER_03]: Mr. Voice in the Wall?
+[SPEAKER_04]: While he's...
+[SPEAKER_04]: I'm spurring the world on.
+[SPEAKER_04]: I'm not stepping into the pit.
+[SPEAKER_04]: I make that drastically clearer.
+[SPEAKER_04]: I'm not stepping into the pit.
+[SPEAKER_04]: But can I go forward slightly and look at the ground and I want to figure out if it is like a mud that is going to quicksand us or if it is an oil or is it likely to set fire?
+[SPEAKER_04]: If I do a fireball, will this whole thing go up in smoke?
+[SPEAKER_04]: What sort of ground situation are we looking at?
+[SPEAKER_05]: Sure, you can do that here.
+[SPEAKER_04]: What do you want?
+[SPEAKER_04]: Do you want investigation?
+[SPEAKER_04]: If I go...
+[SPEAKER_05]: But don't go in...
+[SPEAKER_05]: Probably survival, I'm thinking.
+[SPEAKER_05]: Okay, okay, okay.
+[SPEAKER_05]: Good.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Will you 22?
+[SPEAKER_05]: It definitely looks oily.
+[SPEAKER_05]: But on reflection, you think with U22, it looks more biological than geological in terms of oiliness.
+[SPEAKER_05]: You think there might be something, some sort of creature kind of lurking below the mud.
+[SPEAKER_05]: Oh no.
+[SPEAKER_04]: Guys, don't go in there.
+[SPEAKER_04]: Don't go in here.
+[SPEAKER_04]: And I step back.
+[SPEAKER_03]: I don't think we have a choice, Cassidy.
+[SPEAKER_03]: The door's shut.
+[SPEAKER_02]: Can I suggest, it's probably not a good idea for us all to be in this narrow one concentrated space.
+[SPEAKER_04]: You're probably not wrong, but I really don't think that we should touch the ground.
+[SPEAKER_04]: It is biological.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: So my question to Jess is, so there's some things like the MC Escher-esque about the geometry of like this bit.
+[SPEAKER_05]: It's not meant to be unreal, I suppose, in that sense, but it is uneven and unusual.
+[SPEAKER_05]: It doesn't correspond to any logic.
+[SPEAKER_05]: It's different buildings put together in a way which sometimes works very well and sometimes doesn't work very well.
+[SPEAKER_02]: For example, could Mags just go and stand there?
+[SPEAKER_05]: Actually, no.
+[SPEAKER_05]: We'll try to go and stand over there.
+[SPEAKER_05]: And let me just make that technically not possible, which will probably be easier.
+[SPEAKER_03]: Are they going to pull that staircase bullshit again?
+[SPEAKER_05]: You try to go and stand over there, and you are met with an invisible field of some sort, which runs alongside the edges of this, where the torches are, and which prevents you from going past.
+[SPEAKER_05]: It feels smooth to the touch.
+[SPEAKER_05]: It's not visible to the naked eye.
+[SPEAKER_05]: You can see through it, no problem.
+[SPEAKER_05]: But it stops you from moving into that space.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Can I just very briefly experimentally make sure there's one on the other side as well?
+[SPEAKER_05]: Yes, there is.
+[SPEAKER_02]: Got it.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: So we can't... Yeah, if someone wants to fireball us now, we're all fucked.
+[SPEAKER_03]: The only way forward is into the mud.
+[SPEAKER_04]: I don't think anything good can come of that, but I admit we are somewhat trapped.
+[SPEAKER_04]: I do admit that.
+[SPEAKER_02]: Can I... Magic illusion, minor illusion.
+[SPEAKER_02]: I'm going to lean down and a little rabbit's going to come out of my sleeve and just wander across this muddy, oily earth.
+[SPEAKER_05]: Do you do that?
+[SPEAKER_05]: That is just...
+[SPEAKER_05]: Nothing obviously happens.
+[SPEAKER_05]: But as you are standing around doing these experiments and so on, the sounds from within the pit, I suppose, get a little bit more...
+[SPEAKER_05]: There's something is slowly coming to wake us.
+[SPEAKER_04]: Cool, fantastic.
+[SPEAKER_04]: What if we just run?
+[SPEAKER_04]: I can't run very fast, but what if we just ran very fast?
+[SPEAKER_01]: I thought you said the ground is stable.
+[SPEAKER_04]: It's not, but something appears to be coming either way.
+[SPEAKER_03]: But if it's mud, Mags, you let us walk on water earlier on.
+[SPEAKER_02]: I can't help you out with anything, kiddo.
+[SPEAKER_02]: I've got one level two level of helping for your left as it were.
+[SPEAKER_02]: That's all I've got for you.
+[SPEAKER_02]: This is not a time to do anything that relies on your hero being able to do much for you.
+[SPEAKER_02]: Excellent.
+[SPEAKER_03]: We could just leg it.
+[SPEAKER_04]: I admittedly
+[SPEAKER_04]: I don't think that's the best idea.
+[SPEAKER_04]: I'm just lacking other options.
+[SPEAKER_04]: I'm up for that.
+[SPEAKER_02]: Leg it to what?
+[SPEAKER_02]: This door on the other side?
+[SPEAKER_04]: I would like to know what is in the mud or is about to come and eat us in the mud before we... Me too, but Caspian, procrastination is always easy, rarely useful.
+[SPEAKER_04]: I agree.
+[SPEAKER_03]: Jess, can I try and shoot flute notes at the force wall and see what happens?
+[SPEAKER_05]: You can do, yes.
+[SPEAKER_05]: Nothing happens.
+[SPEAKER_03]: Does it stop at the force wall or does it just carry on through?
+[SPEAKER_05]: I can't even tell with your flute notes.
+[SPEAKER_05]: I can only have a visual component.
+[SPEAKER_03]: Oh, yeah.
+[SPEAKER_03]: I'll sling a bit of magic then.
+[SPEAKER_05]: If you cast a firebolt or something.
+[SPEAKER_03]: I don't know, sound waves or something.
+[SPEAKER_02]: I'll throw a prestigitation at it.
+[SPEAKER_05]: Yeah, so if you do something which does have a visual thing like a firebolt or a prestigitation or something like that, it splashes off as though it were a physical wall.
+[SPEAKER_03]: Could you experiment a little bit further away and see if that force ball goes in a circle around the arena?
+[SPEAKER_03]: Or are there other bits we could climb up to?
+[SPEAKER_03]: And very importantly, is the exit on the other side of the room actually an exit?
+[SPEAKER_05]: You do this test, and as far as you can tell, casting from where you are, and I'm not sure what your range would be, but everywhere you do cast, you encounter that same effect of the force wall encompassing the arena.
+[SPEAKER_02]: We can't even go up this staircase.
+[SPEAKER_05]: Including the other stackings.
+[SPEAKER_04]: Oh no.
+[SPEAKER_04]: I have to go in the pit.
+[SPEAKER_03]: What about the hole in the floor?
+[SPEAKER_02]: We don't know that it's hostile.
+[SPEAKER_05]: Are you going to try and shoot down the hole in the floor?
+[SPEAKER_05]: I'm not.
+[SPEAKER_01]: I'm not going to.
+[SPEAKER_01]: No, no, no.
+[SPEAKER_01]: You're not.
+[SPEAKER_01]: OK. Can I attempt to shoot some little flute notes down if he likes?
+[SPEAKER_01]: I can't see it anyway.
+[SPEAKER_05]: I will say that the sound, there is now quite a definite sound of something clambering out of that pit.
+[SPEAKER_05]: The next things you do are probably the last things you're going to have necessarily have time to do.
+[SPEAKER_03]: Oh, out of that pit?
+[SPEAKER_05]: Before something in this.
+[SPEAKER_03]: I thought it was under the mud in the arena already.
+[SPEAKER_04]: No, the big pit in the middle of the floor.
+[SPEAKER_04]: I think maybe we should throw something into the mud to see if anything eats us in the mud, so I might toss a stone in there while I prepare a spell.
+[SPEAKER_04]: Yeah, is the...
+[SPEAKER_02]: Okay, hang on, hang on.
+[SPEAKER_02]: I can try and talk to it first before we do something offensive.
+[SPEAKER_04]: That's not offensive.
+[SPEAKER_04]: I'm gonna toss a stone into the mud and see if anything does anything.
+[SPEAKER_02]: Oh, into the mud, not into the hole?
+[SPEAKER_04]: No, not into the hole.
+[SPEAKER_04]: Oh, I see.
+[SPEAKER_04]: Sorry, sorry.
+[SPEAKER_02]: Yeah, I understand.
+[SPEAKER_04]: Into the, into the grounds and see if anything reacts.
+[SPEAKER_04]: Because you did a little rabbit, but the rabbit had no weight.
+[SPEAKER_02]: It was just a... Yeah, yeah, clever.
+[SPEAKER_04]: Yep.
+[SPEAKER_04]: So yeah, I assume there's a little pebble or something.
+[SPEAKER_04]: I pick it up, I toss it into the ground and at the same time I flick through my spell book and get ready to prepare a spell probably.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: The stone sinks into the mud.
+[SPEAKER_05]: Make a perception check.
+[SPEAKER_05]: I feel like I'm watching, surely.
+[SPEAKER_05]: Well, you're the only one who's watching this very closely.
+[SPEAKER_01]: Which is everyone, I would assume.
+[SPEAKER_04]: Not me as I prepare.
+[SPEAKER_01]: Twenty.
+[SPEAKER_04]: I spellbook out, I leave it to the rest of you.
+[SPEAKER_02]: Just me then, really.
+[SPEAKER_05]: For those of you who rattled well on this.
+[SPEAKER_05]: The same stinks into the mud, which is what you would expect it to naturally do.
+[SPEAKER_05]: But Mags, watching carefully, you get the sense that the stone was perhaps more, the mud almost kind of rose to meet it a little bit, and it was almost kind of more engulfed than just sunk.
+[SPEAKER_02]: Oh dear.
+[SPEAKER_05]: Cool, cool, cool, cool.
+[SPEAKER_04]: Cool.
+[SPEAKER_03]: And if anybody would like to say buff us up before, now might be the moment.
+[SPEAKER_04]: It's not really in my repertoire, as it were.
+[SPEAKER_04]: That is very much a Mags thing, I'm afraid.
+[SPEAKER_04]: Apologies.
+[SPEAKER_04]: Я не могу, я, как, ну, давай, чёрт, да, я думаю, я сделаю это, я таплю Травика на плечи и говорю, я верю в тебя, и дай ему хейст, я думаю.
+[SPEAKER_02]: Вау, окей.
+[SPEAKER_04]: Травик единственный, который не использует чёртовой магии, мать.
+[SPEAKER_02]: Okay, so at this point... Can I also have an action?
+[SPEAKER_02]: I believe I've got one action before this happens as well, right?
+[SPEAKER_05]: So some people wasted their action doing the thing, but that's fine.
+[SPEAKER_05]: One more action.
+[SPEAKER_02]: I believe because of my lineage of the racial feature, I can cast Speak with Animals without burning a spell slot as many times as my proficiency bonus.
+[SPEAKER_05]: Okay, if you're saying if you tell me that's the case, then fine.
+[SPEAKER_02]: I've literally just written it.
+[SPEAKER_02]: I've read it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_05]: I've written it.
+[SPEAKER_05]: I've written it.
+[SPEAKER_04]: I've written it.
+[SPEAKER_04]: I've written it.
+[SPEAKER_05]: I've written it.
+[SPEAKER_02]: I've written it.
+[SPEAKER_02]: Hallo, Kui!
+[SPEAKER_02]: Anyone down there?
+[SPEAKER_01]: I'd like to use my scroll of blink.
+[SPEAKER_03]: I want to put on my dragon hat.
+[SPEAKER_04]: Interesting.
+[SPEAKER_03]: Just in case it decides to boost my spellcasting for some reason.
+[SPEAKER_05]: What would you like to do, Tarek?
+[SPEAKER_00]: Oh, just make sure that I have Hawks on it.
+[SPEAKER_05]: Okay, yeah, you have Hawks on it.
+[SPEAKER_05]: Alright, so what happens now is that a creature emerges from the pit.
+[SPEAKER_05]: It is evidently, I think all of you would recognise it as a Minotaur.
+[SPEAKER_05]: It is a very large Minotaur.
+[SPEAKER_05]: These are not common creatures, but they are known to exist.
+[SPEAKER_05]: Most of you will be aware they exist.
+[SPEAKER_05]: This one is very clearly undead.
+[SPEAKER_05]: Very clearly undead.
+[SPEAKER_02]: I went through exactly that mental process you just went through as well.
+[SPEAKER_05]: Ask me in stairs at the back of your head.
+[SPEAKER_05]: In this token, it is wielding an axe, but it is not wielding an axe in life.
+[SPEAKER_05]: It has purely got its very unusually kind of long, sharp
+[SPEAKER_05]: And long sharp claws.
+[SPEAKER_05]: And it is very much kind of lowers its head to charge toward you.
+[SPEAKER_05]: Which as you've all been faffing about, is definitely going to get their head start on doing.
+[SPEAKER_01]: Did I end my turn before this happened?
+[SPEAKER_01]: Is that what occurred?
+[SPEAKER_01]: As in doesn't the effect of blink happens?
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Do I blip over to the ethereal plane and cease to exist?
+[SPEAKER_05]: You only can if you would like to.
+[SPEAKER_01]: Oh, it's not a choice.
+[SPEAKER_01]: Do you like to cease to exist?
+[SPEAKER_05]: I'm happy if you've readied your scroll or to have used it already.
+[SPEAKER_01]: No, I used it.
+[SPEAKER_01]: I actively used it.
+[SPEAKER_03]: Can I ask a law question?
+[SPEAKER_03]: Yes.
+[SPEAKER_02]: Obviously in this universe there are undead entities that sort of have agency, like, you know, people who remain nameless and vampires.
+[SPEAKER_05]: Yeah, 100% there are.
+[SPEAKER_02]: But this is just a charging zombie thing.
+[SPEAKER_05]: It looks as good as you can see.
+[SPEAKER_05]: It looks like a zombie thing.
+[SPEAKER_05]: It's a very large minotaur.
+[SPEAKER_05]: It has these, as I say, unusually large horns and claws.
+[SPEAKER_05]: It also has, as it gets closer and you look at it, it also has
+[SPEAKER_05]: It also has a sword, no, not a sword, an axe sticking out of, in fact you probably wouldn't be able to tell.
+[SPEAKER_05]: You can see it has some metal sticking out of its chest.
+[SPEAKER_05]: There is a, buried within the kind of matted fur of its chest.
+[SPEAKER_05]: You can see there is a weapon of some sort seemingly impaled on it.
+[SPEAKER_05]: Impaling it.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Let's roll some industry.
+[SPEAKER_02]: Wingly broom.
+[SPEAKER_02]: I don't remember how to do that.
+[SPEAKER_02]: Ooh.
+[SPEAKER_01]: That is not what I wanted to do.
+[SPEAKER_01]: Okay.
+[SPEAKER_02]: Never mind.
+[SPEAKER_01]: We can switch, Max.
+[SPEAKER_01]: Don't worry.
+[SPEAKER_01]: Ah, good.
+[SPEAKER_02]: Yeah, yeah, yeah.
+[SPEAKER_02]: I think it makes sense for me to be at the end of the initiative order.
+[SPEAKER_05]: Ну, вы можете, вы можете, вы можете, вы можете, вы можете, вы можете, вы можете, вы можете, вы можете, вы можете, вы можете, вы можете, вы можете, вы можете, вы можете, вы можете, вы можете, вы можете,
+[SPEAKER_02]: это не отличный сват, Магзем Африш, хорошо, хорошо, просто сделайте то, что будете делать, сделайте то, что будете делать, это не importa, это хорошо, мы действительно не знаем, где болт находится в этом, в этом порядке, так что, может быть, это правильно, так что вы можете видеть, что он ломается к вам relativно медленно, ой, хорошо,
+[SPEAKER_05]: Anyone swapping and such?
+[SPEAKER_01]: No.
+[SPEAKER_05]: Doesn't sound like it.
+[SPEAKER_05]: Ralph, on the ethereal plane.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: I think at the start of my turn I come back, but I can teleport up to 10 feet.
+[SPEAKER_01]: I'd like to be on the other side of the barrier, please.
+[SPEAKER_05]: I believe you have to make...
+[SPEAKER_05]: When you say teleport,
+[SPEAKER_01]: So I can return to an unoccupied space within 10 feet of where the space I left.
+[SPEAKER_05]: Okay, I'm going to have to have a quick chat.
+[SPEAKER_05]: I hadn't anticipated this.
+[SPEAKER_05]: I have to do a quick check about how these things interact.
+[SPEAKER_01]: If it's a wall of force, I can't do that because it's on the ethereal plane, I will assume.
+[SPEAKER_05]: Okay.
+[SPEAKER_01]: yes that's true no you can't do that okay but i won't do that but i will reappear um within 10 feet so i'll save myself some movement by doing that uh and then i will cast a spell what's the most appropriate spell here it being undead makes it a little harder for me who is mostly about mind magic um uh firstly you don't have minds
+[SPEAKER_01]: No, I think generally not.
+[SPEAKER_05]: They tend to be immune to psychic damage.
+[SPEAKER_05]: Sometimes they have minds.
+[SPEAKER_05]: Sometimes they do, sometimes they don't.
+[SPEAKER_01]: At a glance, can I tell if this is a mindless abomination?
+[SPEAKER_05]: I would say you would, given the level of decay, you would guess that it's pretty mindless.
+[SPEAKER_01]: Right here.
+[SPEAKER_01]: Okay, I will.
+[SPEAKER_01]: Apparently I have no uses of that left.
+[SPEAKER_01]: In that case, I will just shoot a sorceress burst at it.
+[SPEAKER_01]: That seems most appropriate.
+[SPEAKER_01]: The mud comes to grab you, huh?
+[SPEAKER_01]: It seems unaffected by the mud, sorry, in retrospect.
+[SPEAKER_05]: It's generally charging through the mud as though, yeah, it doesn't appear to be paying any mind to the mud, nor does the mud appear to be paying any mind to it for what that's worth.
+[SPEAKER_01]: I'll shoot a sorceress burst at it then.
+[SPEAKER_01]: The damage type can be fire.
+[SPEAKER_01]: Most reasonable.
+[SPEAKER_01]: Can't be radiant.
+[SPEAKER_01]: Can't be radiant, unfortunately.
+[SPEAKER_05]: Yeah, and you do hit it with your 21.
+[SPEAKER_05]: Perfect.
+[SPEAKER_01]: Here is the damage.
+[SPEAKER_01]: Seven points of fire damage, and then I will risk the mud.
+[SPEAKER_01]: И скопор на его поверхе.
+[SPEAKER_02]: Нужно узнать что он делает поздно или поздно, я думаю.
+[SPEAKER_04]: Обязательно.
+[SPEAKER_01]: Am I happily moving?
+[SPEAKER_05]: Have I been grouped?
+[SPEAKER_05]: Tell me, show me exactly where you moved again.
+[SPEAKER_05]: Apologies.
+[SPEAKER_01]: Oh, sorry.
+[SPEAKER_01]: And there.
+[SPEAKER_01]: Yes.
+[SPEAKER_05]: No, you're alright.
+[SPEAKER_01]: You're alright in a minute.
+[SPEAKER_01]: Fantastic.
+[SPEAKER_01]: Okay, keeping to the edge then.
+[SPEAKER_05]: Ok, as you step onto that space, you do feel something beneath you that starts to move and if you could make a dexterity saving thread, please.
+[SPEAKER_01]: Absolutely.
+[SPEAKER_05]: Oops, it's not great.
+[SPEAKER_01]: Oh dear.
+[SPEAKER_05]: Anything you want to do to change that?
+[SPEAKER_01]: Nothing I can, I'm afraid.
+[SPEAKER_05]: Okay, consider yourself restrained as the mud snakes its way clearly now, or at least a creature that emerges from beneath the mud is clearly not the mud itself, that snakes its way up your legs and holds you fast.
+[SPEAKER_01]: Okay, I'm just restrained, not grappled, right?
+[SPEAKER_05]: Correct.
+[SPEAKER_01]: I can't remember what that does in 5.5e.
+[SPEAKER_05]: Well, restraint is generally worse than grapples.
+[SPEAKER_05]: But in this instance, you have been... Let me just have a quick look.
+[SPEAKER_05]: Yeah, it's not making it harder to...
+[SPEAKER_05]: I would say your attacks won't have disadvantage.
+[SPEAKER_05]: There's nothing about this which makes it harder for you to attack per se.
+[SPEAKER_05]: But the rest of the restrained condition would apply.
+[SPEAKER_01]: In that case, I shall end my turn.
+[SPEAKER_01]: And I'll stay restrained.
+[SPEAKER_01]: There was a big button for ending my turn before, but now it's gone.
+[SPEAKER_01]: Have we not started the combat?
+[SPEAKER_01]: Is that?
+[SPEAKER_01]: Oh, we haven't technically started the combat.
+[SPEAKER_01]: Apologies.
+[SPEAKER_05]: There we go.
+[SPEAKER_05]: My bad.
+[SPEAKER_05]: Ah, sorry about that.
+[SPEAKER_02]: Buck him up, Phamps.
+[SPEAKER_03]: Jess, tout le monde sait que les Minotaurs de l'École Bard sont comme une unit de mythique de l'histoire.
+[SPEAKER_03]: Mais ce n'est pas seulement le prédateur naturel de la Minotaure.
+[SPEAKER_03]: Ou probablement son plus grand frère ou quelque chose.
+[SPEAKER_05]: Il y a beaucoup de choses sur les Minotaurs, naturellement.
+[SPEAKER_05]: Я не уверена.
+[SPEAKER_05]: Ты надеешься, что это будет довольно большой?
+[SPEAKER_05]: Да.
+[SPEAKER_05]: Я бы сказал, что 10-футовый куб.
+[SPEAKER_03]: Я не думаю, что 10-футовый куб сделает это.
+[SPEAKER_05]: Я бы сказала, что грифон или что-то такое.
+[SPEAKER_05]: Но 10-футовый куб может быть не достаточно, чтобы получить впечатляющий грифон.
+[SPEAKER_05]: Мы можем получить, например, грифон скиннер.
+[SPEAKER_05]: Может быть.
+[SPEAKER_02]: Okay, just told Rel it's mindless.
+[SPEAKER_01]: Yes, that's what Rel was trying to relate in character.
+[SPEAKER_03]: I did check that, it doesn't actually matter in this case, thankfully.
+[SPEAKER_03]: Thanks to 2024 rules.
+[SPEAKER_03]: Fabian remembers that griffins are infamously the natural rivals of the minotaurs and says, matter of fact, to Caspian, oh Caspian, it's a minotaur, you know, they absolutely hate griffins.
+[SPEAKER_03]: And as he says that,
