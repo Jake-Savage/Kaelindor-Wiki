@@ -21,7 +21,7 @@ relationships:
   - who: shalfay
     note: Tower of Heaven employer and divination contact; Caspian still corresponds with him.
 first_session: S1.01
-last_session: S2.35
+last_session: S2.36
 tags: [scholar, wizard, divination, uthrel, vampire-suspicious, dragon-bones]
 summary: A coldly rational divination wizard obsessed with studying the Uthrel and dragon remains, who secretly dealt with the vampire Lucien and is evasive about what it cost him.
 ---
@@ -92,6 +92,21 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
   [[the-draconic-regalia|the regalia]], handing [[the-dragon-crown|the crown]] to Fabian with the
   observation that he would suit it more than anyone, and ends the session having prepared and spent an
   upcast **Shatter** that destroys the spiders outright.
+
+- S2.36: Casts **Leomund's Tiny Hut** over the party in the shrine chamber and takes first watch — and
+  spends it so absorbed in writing up notes on the place that he notices nothing, by his own admission.
+  He is the loudest voice for **leaving** once the rooms start coming down, on the argument that a room
+  nothing can reach is still the room they die in if every exit is gone. At the dead end his
+  investigation (26) turns up the **ripple marks** in the raw stone matching
+  [[the-custodian|the custodian]]'s stone-shaping hours earlier — the find that prompts the party to
+  talk to the wall. In [[the-buried-arena|the arena]] he reads the floor as **biological rather than
+  geological** and warns everyone off it, tests it with a thrown stone, and casts **Haste** on
+  [[trevick|Trevick]] — "the only one who doesn't use magic" — before the fight. He pockets the blank
+  paper scraps [[trevick|Trevick]] brings down from the shrine. In the fight he abandons a plan that
+  turns on the minotaur's weight once he establishes it outweighs a grand piano, casts **Shatter**
+  instead — which drives several more slimes briefly up out of the mud — and later a **magic missile**,
+  holding his higher magic back to keep the Haste running. He ends the session saying he has a plan for
+  the minute the creature is turned, without saying what it is.
 
 ## DM notes / secrets
 - Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. What passed between them is unresolved and worth keeping ambiguous.

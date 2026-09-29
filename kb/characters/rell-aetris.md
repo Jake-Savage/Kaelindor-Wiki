@@ -17,7 +17,7 @@ relationships:
   - who: trevick
     note: Comes to understand Trevick as one who has shed the trappings of humanity to live honestly.
 first_session: S1.05
-last_session: S2.35
+last_session: S2.36
 tags: [wizard, aberrant-mind-sorcerer, mind-magic, telepathy, tir-van, horizonborn, horizon-doors, masked, secretive]
 summary: A masked, reclusive Tir'Van who passes publicly as a wizard — secretly an Aberrant Mind sorcerer — whose lifelong search for the Horizon Doors makes him suspiciously excited when the party finds one — the tampered Bright Gate.
 ---
@@ -100,6 +100,19 @@ Morally, Rell is the party's harshest realist. He is bitter that the party "danc
   **[[the-ancient-forge|the forge]]** above, he searches it, judges the party to be in the temple
   complex proper, and relays it all down the telepathic link. Afterwards he rigs the rope clear of the
   wall with loops tied into it so the others can climb without triggering the blades.
+
+- S2.36: The session's investigator. Rigs **bells and string** in the room below the camp, takes third
+  watch at the edge of the chamber with a **small fire** lit on the reasoning that animals fear fire,
+  and is on watch when the western room collapses. He is the one who examines
+  the [[the-stonehunger|substance]] directly: touches it bare-handed, **samples a smear onto leather
+  and seals it in an empty potion vial**, brings a brand to it and watches it **smother the flame**,
+  and finally casts **Detect Thoughts** on it — brushing **something that could be called a mind**,
+  strange, **vast** and old, and withdrawing at once rather than push his luck. He names it to the party as the
+  Stonehunger's **physical form**, hedged as an assumption, and argues throughout for measured
+  decisions: set a threshold and move when it is crossed rather than panic. In the arena he uses a
+  **scroll of Blink**, opens with a sorcerous burst, steps into the mud and is **restrained** by a
+  slime, is pulled prone, and kills the one holding him with **Shadow Blade** — taking its acid death
+  burst for his trouble. He ends the session free and upright.
 
 ## DM notes / secrets
 - **The "wizard" identity is a guise.** Rell is officially known as a wizard and deliberately never names a subclass. In truth he is an **Aberrant Mind sorcerer** (an "aberrant soul" sorcerer), masking his innate, aberrant power behind the studied respectability of wizardry — a concealment that fits the unsettling, many-eyed nature of the [[the-tir-van]].

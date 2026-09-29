@@ -21,7 +21,7 @@ relationships:
   - who: valeria
     note: His sister, an aberration-scholar he expects to envy his reaching the Mirrowen first.
 first_session: S1.05
-last_session: S2.35
+last_session: S2.36
 tags: [bard, crownspire, fame-seeking, radiant-magic, golden-lute, sunblade]
 summary: A vain, fame-seeking bard and seventh son of a Crownspire dynasty who hungers to be the hero of an epic tale, and who manifests a new golden radiant magic after a selfless act by Mags.
 ---
@@ -92,6 +92,18 @@ His defining motivation is legacy and museum-fame: as a boy he stood beneath the
   hydra to *drop* — which it does, releasing [[trevick|Trevick]]. Afterwards he takes
   **[[the-dragon-crown|the crown]]** from Caspian, wears it through the short rest, and finds his
   thoughts beginning to surface in **Draconic**.
+
+- S2.36: Raises the possibility that the shrine chamber is **protected**, drawing the comparison to the
+  warded [[the-golden-dragon-statue|dragon statue]] in [[the-golden-courtyard|the courtyard]] — the
+  session's one attempt to explain why the party's room was spared. He is the one who **talks to the
+  wall**: raps a rhythm on the stone and observes that where he comes from one does not leave visitors
+  waiting at the door, which is followed by the gate opening. Inside
+  [[the-buried-arena|the arena]] he thanks [[the-arena-voice|the voice]] aloud, gets no reply, and
+  tests the invisible barrier with flute notes and then with a spell. He puts
+  **[[the-dragon-crown|the crown]]** on before the fight on the chance it sharpens his casting, and
+  opens with **Phantasmal Force** — an illusory **griffin**, chosen because he knows griffins to be the
+  minotaur's infamous natural rival. The illusion does no damage to an undead creature, but it does
+  draw one of its claws, and he works it for the rest of the fight to pull the thing off the party.
 
 ## DM notes / secrets
 - Fabian's [[fabians-radiant-magic|radiant magic]] (S2.17) is unexplained in-world — an emergent power tied to selfless/heroic resonance, an active open thread.

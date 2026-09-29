@@ -5,9 +5,9 @@ title: The Stonehunger Below
 status: active
 priority: main
 opened_session: S2.31
-last_updated_session: S2.35
-involves_characters: [caspian-talon, fabian-perennius, mags, trevick, rell-aetris, theodore, turley, glorta, tuffin, the-custodian]
-involves_locations: [kethrans-fold, the-mirrowen, the-stone-river, the-golden-courtyard, grommars-path, the-foul-pool, the-ancient-forge]
+last_updated_session: S2.36
+involves_characters: [caspian-talon, fabian-perennius, mags, trevick, rell-aetris, theodore, turley, glorta, tuffin, the-custodian, the-arena-voice, the-undead-minotaur]
+involves_locations: [kethrans-fold, the-mirrowen, the-stone-river, the-golden-courtyard, grommars-path, the-foul-pool, the-ancient-forge, the-buried-arena]
 factions: [the-gleaners]
 tags: [stonehunger, gleaners, kethrans-fold, mirrowen, devourer, underground]
 summary: Beneath Kethran's Fold the party discovers it stands inside a living, moving devourer — the Stonehunger the gleaners worship as "God" — and must decide how deep to go, and what it truly is, before it "goes below" and moves on.
@@ -134,6 +134,29 @@ crushing whatever has no "place."
   mechanism — and ropes up into the forge, where it means to take a long rest before going on through
   one of the two doors.
 
+- S2.36: The long rest fails. Camped in the forge's **[[the-ancient-forge|upper shrine chamber]]** under
+  Leomund's Tiny Hut, a Glyph of Warding and Rell's bells, the party watches the
+  [[the-stonehunger|Stonehunger]] **crush the forge around them** across the watches — and gets its
+  **first sight of the thing itself**: a whitish, pearlescent, gelatinous substance beneath a crust of
+  stone, the stone being its **skin** rather than a shell. [[rell-aetris|Rell]] samples it into a potion
+  vial, finds it **smothers a flame brought into contact with it**, and with **Detect Thoughts** brushes
+  **something that could be called a mind** — strange, vast, old, unlike anything he knows — and withdraws at
+  once. The western room collapses in two stages, sealing the way back down to
+  [[the-foul-pool|the pool]]; the northern room follows. **The shrine chamber alone is untouched**,
+  which [[fabian-perennius|Fabian]] reads as protection. The party leaves on a short rest and perhaps
+  five hours' sleep, down the **spiral staircase** — plainer, later work, several flights pitched
+  together — to a **raw stone dead end**. [[caspian-talon|Caspian]] finds the same **ripple marks** in
+  it that [[the-custodian|the custodian]] left when it shaped the gate above. [[mags|Mags]] knocks, and
+  **[[the-arena-voice|a voice]]** answers — bright, unseen, in the air, not the custodian's — welcoming
+  them, then pressing someone *else* to work the stone open ("I knew you could do it with the proper
+  incentive"). Beyond is **[[the-buried-arena|a lit amphitheatre]]** cobbled together out of several
+  buildings, hung with **banners that are not old**, floored in oily mud, with a **bull mosaic** nobody
+  recognises and a **pit** in the middle. The door shuts, an **invisible barrier** seals every exit, and
+  **[[the-undead-minotaur|a very large undead minotaur]]** with a **[[the-embedded-axe|holy dwarven axe
+  grown into its chest]]** comes up out of the pit. Slimes under the mud take Rell; he kills one.
+  [[mags|Mags]] **turns** the minotaur on her second attempt and the party deliberately holds its fire
+  so it will flee. The session ends mid-fight, with about a minute of the turning left.
+
 ## Open threads
 - **What is the Stonehunger, truly?** Corroborated as a real, vast, moving devourer the party is
   **inside** — but whether it is a deity, a living titan/beast, an ancient construct, or something
@@ -179,7 +202,26 @@ crushing whatever has no "place."
 - **Is the pool meant to empty?** A drain, an inflow, and water that is stagnant *now* — the DM's phrase
   — suggest a system that once ran. Whether there is a mechanism or merely a blockage is unresolved.
 - **What trips the staircase?** The stairs are themselves a trap and the trigger was never established.
-- **What lies through the forge's two doors**, and through the crack in its wall?
+- **What lies through the forge's two doors**, and through the crack in its wall? One of them may be
+  the spiral staircase the party took in S2.36; that was never established, and the forge is now
+  collapsing.
+- **Who is [[the-arena-voice|the voice]] at the dead end, and who was it talking to?** It welcomed the
+  party, then spoke twice as though **pressing someone else** to open the stone. It has said nothing
+  since the door shut. Its relationship to [[the-custodian|the eyes of God]] — whose stone-shaping
+  marks are on that same wall — is unestablished.
+- **What is [[the-buried-arena|the arena]] for?** Lit torches, fresh banners, a bull nobody recognises,
+  a pit with a rusted-away grill, and a structure assembled out of several other buildings. Who
+  maintains it, and who the audience is, is unknown.
+- **Why is the arena intact?** The rock appears to have **flowed over and around** it rather than
+  through it — unlike the forge a staircase above, which the Stonehunger crushed in a night.
+- **Who buried [[the-embedded-axe|a Calvyran holy axe]] in the minotaur**, and is that why it is still
+  moving? Unknown on both counts.
+- **Was the upper shrine chamber protected?** It was the one room the Stonehunger did not touch, and
+  the one room with devotional carvings. [[fabian-perennius|Fabian]]'s comparison to the warded
+  [[the-golden-dragon-statue|dragon statue]] is a guess.
+- **Who cleared out the upper shrine chamber, and when?** Fresh scrape marks and blank paper scraps
+  where written material was stored. The lower rooms show camps from **months and years** back; nothing
+  ties the two together.
 - **What is the [[the-golden-courtyard|courtyard]], and the [[the-golden-dragon-statue|gold dragon]]
   on its plinth?** A monumental, undecayed dragon statue in a decaying buried courtyard the gleaners
   have not stripped. Unexplained, and **not** to be linked to
@@ -190,11 +232,22 @@ crushing whatever has no "place."
   built this complex.
 
 ## Leads / next steps
-- **Long rest in [[the-ancient-forge|the forge]], then through one of its two doors.** That is the
-  party's stated plan at the end of S2.35. The forge is quiet, and [[caspian-talon|Caspian]] has
-  Leomund's Tiny Hut.
-- **There is no way back.** The gate above sealed in S2.33 and the carving below is wrecked, so the
-  party's route out is whatever it finds ahead — against a clock that is still running.
+- **Finish or escape the arena fight.** The party is mid-combat, sealed in, with roughly a **minute**
+  of the minotaur's turning left to use and [[caspian-talon|Caspian]] saying he has a plan for it that
+  he has not stated. **Blocking the pit** while the creature is down it has been floated — by
+  [[mags|Mags]], who also argued for letting it run rather than breaking the effect.
+- **The party is badly depleted.** It has had a **short rest and no long rest** since before the pool
+  fight. Mags is down to about one second-level slot; several people burned resources expecting a rest
+  they never got.
+- **There is no way back at all now.** The gate above sealed in S2.33, the carving below was wrecked in
+  S2.35, the forge's western room collapsed across what was left of it in S2.36, and the arena's door
+  shut behind them. Everything is forward — against a clock that is still running.
+- **The sample.** Rell is carrying a smear of the [[the-stonehunger|Stonehunger]]'s exposed substance
+  in a sealed potion vial. Nobody has tested it.
+- **The blank scraps** from the shrine chamber are in [[caspian-talon|Caspian]]'s pocket, untested for
+  whether they are magical or merely recent.
+- **[[the-embedded-axe|The axe]].** A Calvyran holy weapon is sitting in the minotaur's chest and can
+  probably be got out. Mags has already tried once.
 - **The regalia is identified** ([[the-dragon-crown|crown]], [[the-handlet|handlet]]) and remains the
   best candidate for the Brood's "something that does not belong" (see
   [[the-korrathian-conspiracy]]) — though [[mags|Mags]] has raised that the courtyard itself might be

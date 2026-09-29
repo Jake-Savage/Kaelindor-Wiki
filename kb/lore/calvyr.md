@@ -15,6 +15,12 @@ Calvyr is the god of **thought, craft, invention, and ingenuity** — the fusion
 - About 300 years ago the priests of Calvyr produced great innovations — flying **airships** between cities, reliable **compasses** for safer sea travel, and autonomous **[[constructs|constructs]]** (see [[the-disappearance-of-dragons]] for that era).
 - The Church made [[dakir|Dakir]], a uniquely advanced construct, roughly ten years ago — **where is never stated**. Later, in a side chapel of a Church of Calvyr temple, the artificer-priest [[talan-pryce|Talan Pryce]] finished Dakir's spell-storing device (S2.10); the ex-paladin [[bartholomew-crane|Bartholomew Crane]] was a Calvyr cleric.
 
+- **Devotional practice.** The small upper chamber of [[the-ancient-forge|the ancient forge]] on
+  [[grommars-path|Grommar's Path]] (S2.36) is the most ornate room of the complex: **relief carvings of
+  religious figures** in a traditional dwarven style, recognisably **Calvyran devotional work**, with
+  the stone beneath them **stained by incense** burnt there over a long period. These were **working
+  sites of prayer**, not merely ornament. The written material once stored in the room has been
+  removed, recently, by persons unknown.
 - **Sacred ways.** The more seriously sacred and secretive dwarven temples of Calvyr are fronted by a
   distinctive **narrow, hewn ceremonial passageway**. [[mags|Mags]], [[caspian-talon|Caspian]] and
   [[rell-aetris|Rell]] recognise exactly that style in the passage beyond the Stonehunger's gate

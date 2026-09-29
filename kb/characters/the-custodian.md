@@ -83,3 +83,10 @@ Grommar's Path.
   [[fabian-perennius|Fabian]]'s recollection of the [[grommar|Grommar]] legend.
 - Nature and true size still unconfirmed — Turley's "three houses" has not been matched by what the
   party has seen, and who binds him (if anyone) remains unknown.
+- **S2.36 — his marks are further down.** At the raw-stone dead end at the bottom of the spiral stair
+  below [[the-ancient-forge|the forge]], [[caspian-talon|Caspian]]'s investigation finds the **same
+  subtle ripple patterns** in the rock that the custodian left when it shaped and reshaped its own
+  gateway hours earlier. So something has worked that stone **the same way, at some point**. The
+  [[the-arena-voice|voice]] that answers there does **not** sound like him and does not seem to come
+  from the stone at all — and whoever actually opened the gate did it slowly and with visible effort.
+  Whether one of his "brothers below" is behind that wall is **not established**.

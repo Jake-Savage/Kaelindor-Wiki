@@ -12,7 +12,7 @@ relationships:
   - who: trevick
     note: His ranger; the firbolgs say Hawk has watched Trevick's lineage across generations.
 first_session: S1.01
-last_session: S2.26
+last_session: S2.36
 tags: [spirit-hawk, watcher, rhynharran, scout, omen]
 summary: Trevick's spirit hawk, identified by the firbolgs as a Rhynharran "Watcher" sent to watch a chosen lineage.
 ---
@@ -27,6 +27,10 @@ As a spirit companion, Hawk acts on Trevick's bond, but the firbolgs frame him a
 - S1.01: Retrieves Lorna's locket from Nerrin's offering tree.
 - S2.19: Revealed by the firbolgs as a Rhynharran Watcher tied to Trevick's family.
 - S2.20: Scouts the warded burnt zone (the [[the-hallow-burn]]) with [[theodore]].
+- S2.36: Scouts the collapsing western room of [[the-ancient-forge|the forge]] on a prearranged signal
+  — two squawks for a physical entity, one if it looks like the room below — and returns with two.
+  Later makes flyby attacks on [[the-undead-minotaur|the undead minotaur]] in
+  [[the-buried-arena|the arena]].
 
 ## DM notes / secrets
 - Hawk is a true [[the-watcher|Watcher]] of [[rhynharran]], central to [[trevick]]'s destiny and the open `trevicks-watcher` thread; the Eldryn weigh its significance (S2.21).

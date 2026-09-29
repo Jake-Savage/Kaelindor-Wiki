@@ -14,3 +14,8 @@ Magical crackers associated with [[nameweave|Nameweave]], the [[naelos|Naelos]] 
 
 ## History
 [[trevick|Trevick]] revealed the crackers around the time the party prepared for Nameweave, as gifts were exchanged ahead of the Greymere journey (S2.10).
+
+**S2.36:** [[trevick|Trevick]] still has **three** of them, and proposes pulling them inside
+[[caspian-talon|Caspian]]'s tiny hut in [[the-ancient-forge|the forge]] — partly to use them up before
+he forgets them. The rest of the party talks him out of it on the strength of what happened last time,
+and they are saved for a safer location.

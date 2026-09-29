@@ -21,7 +21,7 @@ relationships:
   - who: caspian-talon
     note: She tolerates his impiety and senses his evasiveness; they grudgingly come to get along.
 first_session: S1.05
-last_session: S2.35
+last_session: S2.36
 tags: [cleric, naelos, gnome, underdark, diplomat, nameweave, petrified]
 summary: A centuries-old gnome cleric of Naelos and the party's blunt, pragmatic moral anchor, who threads diplomacy between Greymere and the Eldryn and is briefly petrified into wood.
 ---
@@ -94,6 +94,19 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
   healing potions. Takes **[[the-handlet|the handlet]]** on identification, on the grounds that she
   backs her own saving throws above anyone else's — which the DM allows is statistically right — and the
   memory of [[the-shifting-library|the library]].
+
+- S2.36: Declares herself too old for watches, sets a **Glyph of Warding** on the floor of the hut
+  before bed — negotiating its trigger down from "anyone who hurts a member of the party" to a workable
+  definition of harm, and loading it with a **Guiding Bolt** — and sleeps through the night while the
+  forge comes down. At the dead end below she is the one who **knocks and calls out**, which is what
+  raises [[the-arena-voice|the voice]]. In [[the-buried-arena|the arena]] she tests the invisible
+  barrier by hand, walks an illusory rabbit across the mud, and is the one who notices the **mud rise
+  to meet** Caspian's thrown stone. She then takes the minotaur's charge head-on — it bounces off her
+  once and claws her for 16 the second time — spends a turn on a failed **Thorn Whip** trying to
+  wrench **[[the-embedded-axe|the axe]]** out of its chest, and, on her **second** attempt, **Turns**
+  it: 20 radiant damage, frightened and incapacitated, and it runs. It is her read that whoever spoke
+  at the door will talk to them once the thing is beaten, and she argues successfully for letting it
+  flee rather than breaking the effect.
 
 ## DM notes / secrets
 - Her undead-tinged bone shard (a Naelos relic of her own bones) keys the infernal "half in this world and half of another" doors in the Shifting Library (S2.08) — a detail worth remembering for her nature/longevity.

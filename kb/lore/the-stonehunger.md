@@ -58,6 +58,45 @@ Kethran's Fold**: a piece of a **column**, a piece of **marble floor tile**. Whe
 came from is **not established** — other settlements taken earlier, the buried complex itself, or
 something else again.
 
+## The flesh beneath the stone (S2.36)
+Over the night the party spends in [[the-ancient-forge|the ancient forge]], the rooms around them are
+crushed inward, and in the cracks they get their **first physical look at whatever is doing it**.
+
+**What is seen.** Beneath a **crust of stone** is a **whitish, faintly pearlescent, almost gelatinous
+substance**, which **moves**. It pushes the walls inward, buckles floor tiles upward from below, and
+displaces dressed masonry until it falls. It surfaces in bulges — "almost like a heartbeat," "like a
+grub moving beneath" — pushing out through a crack and then flattening back, after which the stone
+knits closed over it again.
+
+**The stone is its skin, not a shell around it.** [[trevick|Trevick]] looks for a discrete creature
+inside the rock and is told there is none: the impression is that **the stone is a kind of skin on the
+thing**, which cracks open as the thing moves and adapts. Where it has just moved, the exposed surface
+is **wet and elastic**; within a minute or two a **stony skin forms over it** again.
+
+**What it is like to handle.** [[rell-aetris|Rell]] examines an exposed patch in the southern room:
+
+- The **stony skin is dry**; the **exposed moving part is warm and sticky**, and traces come away on
+  his fingers. He takes a **smear on a swatch of leather** and seals it in an **empty potion vial** —
+  the party is carrying a sample.
+- **Fire.** Bringing a brand close produces **no reaction at all**. Bringing it into **contact** makes
+  it **fizzle**, quickens its movement, and the substance **spreads in a thin layer over the torch and
+  puts it out**. [[mags|Mags]] reads that as **intentionality**; Rell answers that it **could be purely
+  reactive**. Neither reading was settled, and the disturbance in that area increased afterwards.
+- **A mind.** Rell casts **Detect Thoughts** on it, looking only for whether there is intelligence
+  there. He gets a brief brush and comes away badly enough shaken to withdraw at once. What he learns:
+  there **is certainly something there that could be described as a mind**, it is **extremely strange**,
+  and it is **vast and old and not like anything else he has encountered**. He could discern no detail, and was
+  warned plainly that pushing further would be a **bad idea**.
+
+**Is it the Stonehunger?** [[rell-aetris|Rell]] tells the party it is — *"I would assume this is the
+stone hunger... well, its physical form"* — and nobody disputes him. That is **his inference**, made on
+the spot, and it is a good one: the party is inside the thing, and this is stone moving to consume a
+space. But nothing in the fiction has yet **named** the substance, and the party has met exactly one
+sample of it. Record it as Rell's identification, not as a confirmed fact about the Stonehunger's body.
+
+It is also **slow**. It took most of a night to bring down two rooms, and its progress was visible but
+gradual throughout. It did not attack anyone; it pushed the walls in.
+
 ## The eyes of God (S2.33)
 The stone face at the gate beyond [[the-stone-river|the stone river]] describes itself as **"the eyes
 of God in this part,"** and speaks of **"the eyes of God below"** as its **brothers** — implying a
@@ -88,7 +127,21 @@ the party's inference; do not write it up as a fact about the Stonehunger.
 - **What is it, truly?** The gleaners' "God" is corroborated as a real, vast, devouring thing the
   party is inside — but whether it is literally a deity, a living titan/beast, an ancient construct,
   or something else is **not established**. Record the theology as the gleaners' belief plus the
-  witnessed evidence, not as settled cosmology.
+  witnessed evidence, not as settled cosmology. S2.36 adds that there is **something in it that can be
+  brushed as a mind** — strange, **vast**, old, and unlike anything [[rell-aetris|Rell]] knows.
+- **Is the white substance the Stonehunger itself?** [[rell-aetris|Rell]] says so and the party works
+  on that basis; it has not been confirmed, and a second possibility — that it is something else living
+  in or alongside the Stonehunger — has not been excluded.
+- **Is it aware of the party?** The substance reacted to fire by smothering the flame and moving
+  faster. [[mags|Mags]] calls that intentionality; Rell calls it possibly reflex. Rell's Detect
+  Thoughts found a mind but could read nothing from it. Unresolved.
+- **Why was the upper chamber spared?** Every room around the party was crushed and the
+  [[the-ancient-forge|shrine chamber]] was not touched at all. [[fabian-perennius|Fabian]]'s reading is
+  that something protects it, by analogy with the warded [[the-golden-dragon-statue|dragon statue]].
+  That is a guess drawn on one night's evidence.
+- **Does it distinguish what it eats?** It crushed a dwarven forge complex and left, apparently
+  untouched, [[the-buried-arena|an arena]] a long staircase below it — which itself looks as though the
+  rock **flowed over and around it** at some point rather than through it.
 - **How does it relate to the Mirrowen?** Is the Stonehunger a cause (or symptom) of the region's
   planar fragmentation and its shifting, village-swallowing land? Unknown — kept **separate** from
   the Mirrowen-origin mystery until the fiction links them.

@@ -4,10 +4,10 @@ type: location
 title: Grommar's Path
 location_type: dungeon
 region: the-mirrowen
-connected_to: [the-stone-river, kethrans-fold, the-foul-pool, the-ancient-forge]
+connected_to: [the-stone-river, kethrans-fold, the-foul-pool, the-ancient-forge, the-buried-arena]
 status: active
 first_session: S2.33
-last_session: S2.35
+last_session: S2.36
 tags: [stonehunger, kethrans-fold, grommar, calvyr, dwarven, deep, underground, traps]
 summary: The deep beneath Kethran's Fold, entered through the stone gate at the far side of the chasm — a Calvyr temple-way lined with the reliefs of the seven saints and comprehensively trapped, descending to a foul pool guarded by construct spiders.
 ---
@@ -100,6 +100,14 @@ destroyed the spiders with an upcast **Shatter**, and climbed the blade-trapped 
 **[[the-ancient-forge|an ancient dwarven forge]]**, which [[rell-aetris|Rell]] judges to be the
 **temple complex proper**. The corridor, the pool and the forge were all originally **one structure**,
 since crushed out of shape. Two doors lead deeper from the forge.
+
+In S2.36 the forge itself is **crushed around the party overnight** by the
+[[the-stonehunger|Stonehunger]], closing the pool route behind them for good, and they take a
+**spiral staircase** down
+from the forge's southern room. The staircase is **not original to this place** — plainer, workmanlike
+masonry, several different flights pitched together and positioned here rather than cut from the rock.
+It ends at a **raw stone dead end**, which the [[the-arena-voice|voice]] beyond talks open into
+**[[the-buried-arena|a lit amphitheatre]]** — and shuts behind them.
 
 ## DM notes
 - The Calvyr-temple styling recognised at the gate in S2.33 is borne out: the corridor's reliefs are

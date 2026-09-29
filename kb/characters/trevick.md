@@ -21,7 +21,7 @@ relationships:
   - who: dakir
     note: Founding companion he confides in about Joster; the two keep contact by Dakir's paired sending-tokens after Dakir's departure (S2.28).
 first_session: S1.01
-last_session: S2.35
+last_session: S2.36
 tags: [ranger, beastmaster, firbolg-favoured, watcher, uthrel, velton, salmeros]
 summary: A tiefling beastmaster ranger and lone survivor of a village destroyed by the Uthrel, revered by the firbolgs as bearing a Rhynharran "Watcher" and chosen as the Eldryn's go-between.
 ---
@@ -80,6 +80,18 @@ In [[greymere]] he becomes the party's conduit to the natural world and the [[th
   [[hawk|Hawk]] to watch the water, and climbs out. Afterwards it is Trevick who processes what the
   Daylight showed him on the bottom — the **drain** with bones and a glint of treasure in the silt, and
   the **clear patch** opposite — and who is talked out of diving back for it.
+
+- S2.36: Searches the forge for what previous campers left and finds nothing, but does find the
+  **concealed hatch** into the shrine chamber above and the **scrape marks** and blank paper scraps
+  that show it was cleared out recently. He is talked out of pulling his three remaining
+  **[[nameweave-crackers|crackers]]** inside the hut. On second watch he hears the gravel and the
+  bells, sends **[[hawk|Hawk]]** down to scout the western room on a prearranged signal — two squawks
+  for a physical entity — then creeps down himself past Rell's strings and gets the party's **first
+  look at the thing in the walls**. He wakes Rell rather than the whole camp, agrees a threshold for
+  moving, and spends the rest of his watch openly torn between not alerting it and wanting to touch it.
+  In the arena he fights **hasted**, goes for **Hunter's Mark** and three arrows to little effect, and
+  has [[hawk|Hawk]] make flyby swipes. At the end he works out for himself that shooting the fleeing minotaur would break the
+  turning, and **holds his action** instead.
 
 ## DM notes / secrets
 - Trevick's father was a "Salmeros" — a lineage the devil [[joster-sirit]] recognised (he never claimed to have known the man) — and his parentage (with possible infernal/marked lineage beyond ordinary tiefling) is an open mystery seeded since S1.05.
