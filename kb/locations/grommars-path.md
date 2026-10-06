@@ -32,9 +32,11 @@ The party entered on **30 Dusklin 1568**, at the end of S2.33, and the stone **c
   the opening sealed behind them.
 - **Other watchers below.** The gate spoke of **"the eyes of God below"** as its **brothers**, and
   doubted they would pass news of the party back up to it (S2.33).
-- **The gleaners' account (S2.31, unverified):** priests, wise men and holy men who commune with "God"
-  more directly live down here, and a place called **Dunton** is rumoured deeper still, where "godless
-  who found a place" live.
+- **The gleaners' account (S2.31), now largely borne out:** priests, wise men and holy men who commune
+  with "God" more directly live down here, and a place called **Dunton** is rumoured deeper still,
+  where "godless who found a place" live. S2.37 produces both — **[[the-high-priest|a High Priest]]**
+  (who privately treats the theology as nonsense) and **[[dunton|Dunton]]** itself, a real barricaded
+  settlement of humans and halflings a few hundred metres below [[the-buried-arena|the arena]].
 
 ## The trapped corridor (S2.34)
 Beyond the entrance the way is a **stone corridor**, cleanly dressed, on a **gentle downward slope**,
@@ -106,7 +108,7 @@ In S2.36 the forge itself is **crushed around the party overnight** by the
 **spiral staircase** down
 from the forge's southern room. The staircase is **not original to this place** — plainer, workmanlike
 masonry, several different flights pitched together and positioned here rather than cut from the rock.
-It ends at a **raw stone dead end**, which the [[the-arena-voice|voice]] beyond talks open into
+It ends at a **raw stone dead end**, which the [[the-high-priest|voice]] beyond talks open into
 **[[the-buried-arena|a lit amphitheatre]]** — and shuts behind them.
 
 ## DM notes

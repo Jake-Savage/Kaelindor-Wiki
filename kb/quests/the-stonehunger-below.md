@@ -5,9 +5,9 @@ title: The Stonehunger Below
 status: active
 priority: main
 opened_session: S2.31
-last_updated_session: S2.36
-involves_characters: [caspian-talon, fabian-perennius, mags, trevick, rell-aetris, theodore, turley, glorta, tuffin, the-custodian, the-arena-voice, the-undead-minotaur]
-involves_locations: [kethrans-fold, the-mirrowen, the-stone-river, the-golden-courtyard, grommars-path, the-foul-pool, the-ancient-forge, the-buried-arena]
+last_updated_session: S2.37
+involves_characters: [caspian-talon, fabian-perennius, mags, trevick, rell-aetris, theodore, turley, glorta, tuffin, the-custodian, the-high-priest, the-undead-minotaur, the-arena-elemental, varen, the-provost]
+involves_locations: [kethrans-fold, the-mirrowen, the-stone-river, the-golden-courtyard, grommars-path, the-foul-pool, the-ancient-forge, the-buried-arena, dunton, ketters-rest, the-ossuary]
 factions: [the-gleaners]
 tags: [stonehunger, gleaners, kethrans-fold, mirrowen, devourer, underground]
 summary: Beneath Kethran's Fold the party discovers it stands inside a living, moving devourer — the Stonehunger the gleaners worship as "God" — and must decide how deep to go, and what it truly is, before it "goes below" and moves on.
@@ -147,7 +147,7 @@ crushing whatever has no "place."
   five hours' sleep, down the **spiral staircase** — plainer, later work, several flights pitched
   together — to a **raw stone dead end**. [[caspian-talon|Caspian]] finds the same **ripple marks** in
   it that [[the-custodian|the custodian]] left when it shaped the gate above. [[mags|Mags]] knocks, and
-  **[[the-arena-voice|a voice]]** answers — bright, unseen, in the air, not the custodian's — welcoming
+  **[[the-high-priest|a voice]]** answers — bright, unseen, in the air, not the custodian's — welcoming
   them, then pressing someone *else* to work the stone open ("I knew you could do it with the proper
   incentive"). Beyond is **[[the-buried-arena|a lit amphitheatre]]** cobbled together out of several
   buildings, hung with **banners that are not old**, floored in oily mud, with a **bull mosaic** nobody
@@ -156,6 +156,31 @@ crushing whatever has no "place."
   grown into its chest]]** comes up out of the pit. Slimes under the mud take Rell; he kills one.
   [[mags|Mags]] **turns** the minotaur on her second attempt and the party deliberately holds its fire
   so it will flee. The session ends mid-fight, with about a minute of the turning left.
+
+- S2.37: The arena is won and the deep opens up. The party spends the minute of the turning
+  **surrounding the pit** and holding actions; [[rell-aetris|Rell]] establishes the pit is a **den, not
+  a way out**. The fight that follows is close — [[fabian-perennius|Fabian]]'s **Thunder Wave** knocks
+  the minotaur off the wall twice, [[caspian-talon|Caspian]] Shatters and firebolts, [[mags|Mags]]
+  tolls and taunts, and the creature claws Rell from near-full health to **unconscious** before Rell,
+  healed and back up, drops it. [[mags|Mags]]'s medicine checks catch it **regenerating in the pit and
+  not in the open**; she pins it under **Chill Touch** while [[caspian-talon|Caspian]] burns his last
+  spell to **Identify** the axe — **strongly magical, unidentifiable, and the cause of the healing**.
+  Brute force will not shift it, so Rell **cuts it out**, and the body decays to dust in twenty
+  seconds. Then **[[the-high-priest|the High Priest]]** walks up behind Mags: a relatively fresh undead
+  in red-and-gold robes with a human face **altered to look elvish**, who confirms he was
+  **the voice** in S2.36, that the minotaur was **his experiment**, and that he wants the axe back. He
+  takes it. He calls the Stonehunger "God" **in air quotes**, says the forge *"had a certain sort of
+  energy which gives protection"* and that the party **disrupted** it, that **[[the-buried-arena|the
+  arena]] is curated to God's liking**, that **several dwarven sites** were taken when God was *"more
+  expansive in its habits,"* and that he himself **cleared out the forge's shrine**. He compels
+  **[[the-arena-elemental|a captive earth elemental]]** to open a way out — under threat — and sends
+  them to **[[dunton|Dunton]]**, telling them to say God has decreed their **sacrifice** can wait.
+  Dunton proves real: a barricaded cavern settlement of humans and halflings, children and magical
+  street-lighting, with a **[[the-provost|Provost]]** who must be told about them. At
+  **[[ketters-rest|Ketter's Rest]]** the landlord [[varen|Varen]] looks at them **with pity**, and the
+  party takes its **first long rest in a long while**. On watch, [[caspian-talon|Caspian]] reads
+  [[codex-mortis|Kiona's notes]] and concludes the High Priest was **probably
+  [[undead-puppetry|a puppet]]** for someone else — which he does not say aloud.
 
 ## Open threads
 - **What is the Stonehunger, truly?** Corroborated as a real, vast, moving devourer the party is
@@ -205,23 +230,32 @@ crushing whatever has no "place."
 - **What lies through the forge's two doors**, and through the crack in its wall? One of them may be
   the spiral staircase the party took in S2.36; that was never established, and the forge is now
   collapsing.
-- **Who is [[the-arena-voice|the voice]] at the dead end, and who was it talking to?** It welcomed the
-  party, then spoke twice as though **pressing someone else** to open the stone. It has said nothing
-  since the door shut. Its relationship to [[the-custodian|the eyes of God]] — whose stone-shaping
-  marks are on that same wall — is unestablished.
-- **What is [[the-buried-arena|the arena]] for?** Lit torches, fresh banners, a bull nobody recognises,
-  a pit with a rusted-away grill, and a structure assembled out of several other buildings. Who
-  maintains it, and who the audience is, is unknown.
-- **Why is the arena intact?** The rock appears to have **flowed over and around** it rather than
-  through it — unlike the forge a staircase above, which the Stonehunger crushed in a night.
-- **Who buried [[the-embedded-axe|a Calvyran holy axe]] in the minotaur**, and is that why it is still
-  moving? Unknown on both counts.
-- **Was the upper shrine chamber protected?** It was the one room the Stonehunger did not touch, and
-  the one room with devotional carvings. [[fabian-perennius|Fabian]]'s comparison to the warded
-  [[the-golden-dragon-statue|dragon statue]] is a guess.
-- **Who cleared out the upper shrine chamber, and when?** Fresh scrape marks and blank paper scraps
-  where written material was stored. The lower rooms show camps from **months and years** back; nothing
-  ties the two together.
+- **Who is working [[the-high-priest|the High Priest]]?** He is **[[undead-puppetry|a puppet]]** — a
+  corpse through which someone channels their awareness and part of their power, to act in the world
+  while staying hidden. That is [[caspian-talon|Caspian]]'s reading of [[codex-mortis|Kiona's notes]],
+  never confirmed in the fiction and never tested, but taken here as the working truth. So **the real
+  party to this has not been met**: they are within puppeting range or have relays prepared, and it was
+  they who set the minotaur, took the axe, and did the talking.
+- **What is [[the-buried-arena|the arena]] for?** The High Priest explains the *patchwork* — the
+  Stonehunger curated it — but not **who lights the torches, who hangs the banners that are not old, or
+  whose bull that is**. He was never asked.
+- **Who buried [[the-embedded-axe|the axe]] in the minotaur, and when?** The High Priest recovered it
+  and is studying it; he never claims to have put it there, and never says what it is. **Why a
+  [[calvyr|Calvyran]]-looking holy dwarven axe causes undead regeneration** is unexplained.
+- **What is the "certain sort of energy which gives protection"**, which held the forge's shrine and
+  holds [[dunton|Dunton]] and [[the-ossuary|the Ossuary]]? And **what did the party do to break the
+  forge's**? The High Priest asserts they did; he does not say how, and the claim suits him.
+- **What does "sacrifice" mean in [[dunton|Dunton]]?** The party was told to say God has decreed theirs
+  can wait. [[varen|Varen]] reacted with discomfort and **pity**, and began to disclaim any part in it.
+  Who is sacrificed, by whom, and how often is unestablished.
+- **Why did the High Priest improve Dunton's lot?** [[varen|Varen]] says a healer *"would have changed
+  everything"* before he came, and that they now lack little in that regard. His motive is unstated.
+- **Who is [[the-provost|the Provost]]?** A woman, Dunton's authority, already being told about the
+  party, and able to direct them to [[the-ossuary|the Ossuary]].
+- **Could the puppet's magical sensing see [[rell-aetris|Rell]]** while he was blinking into the
+  ethereal plane? All the party has is that **it did interact with him**.
+- **Did anyone wake oddly tired** after the night in Dunton? [[mags|Mags]] asked; the question was left
+  hanging.
 - **What is the [[the-golden-courtyard|courtyard]], and the [[the-golden-dragon-statue|gold dragon]]
   on its plinth?** A monumental, undecayed dragon statue in a decaying buried courtyard the gleaners
   have not stripped. Unexplained, and **not** to be linked to
@@ -232,22 +266,28 @@ crushing whatever has no "place."
   built this complex.
 
 ## Leads / next steps
-- **Finish or escape the arena fight.** The party is mid-combat, sealed in, with roughly a **minute**
-  of the minotaur's turning left to use and [[caspian-talon|Caspian]] saying he has a plan for it that
-  he has not stated. **Blocking the pit** while the creature is down it has been floated — by
-  [[mags|Mags]], who also argued for letting it run rather than breaking the effect.
-- **The party is badly depleted.** It has had a **short rest and no long rest** since before the pool
-  fight. Mags is down to about one second-level slot; several people burned resources expecting a rest
-  they never got.
-- **There is no way back at all now.** The gate above sealed in S2.33, the carving below was wrecked in
-  S2.35, the forge's western room collapsed across what was left of it in S2.36, and the arena's door
-  shut behind them. Everything is forward — against a clock that is still running.
+- **Meet [[the-provost|the Provost]] in [[dunton|Dunton]].** She is being told about the party as they
+  sleep, and the town is awake and watching the inn. The party's stated plan is to answer every
+  question it deferred — who these people are, what they survived, and what the sacrifice is — "over
+  brunch."
+- **The party is rested at last.** A full long rest at [[ketters-rest|Ketter's Rest]], the first proper
+  adventuring day's recovery in a long while.
+- **[[the-ossuary|The Ossuary]]**, where the High Priest says he lives, and where the Provost can
+  direct them.
+- **Caspian owes the High Priest scholarship.** [[fabian-perennius|Fabian]] offered him up as a
+  "wiz hand with all things magical and dwarven" to help study
+  **[[the-embedded-axe|the axe]]** — as a way of getting rid of him — and he **took it completely
+  sincerely**. He expects another conversation.
+- **There is no way back at all.** The gate above sealed in S2.33, the carving below was wrecked in
+  S2.35, the forge collapsed in S2.36, and the arena's passage closed behind them in S2.37. Everything
+  is forward — against a clock that is still running.
 - **The sample.** Rell is carrying a smear of the [[the-stonehunger|Stonehunger]]'s exposed substance
   in a sealed potion vial. Nobody has tested it.
 - **The blank scraps** from the shrine chamber are in [[caspian-talon|Caspian]]'s pocket, untested for
-  whether they are magical or merely recent.
-- **[[the-embedded-axe|The axe]].** A Calvyran holy weapon is sitting in the minotaur's chest and can
-  probably be got out. Mags has already tried once.
+  whether they are magical or merely recent — and the High Priest has now said he was the one who
+  **cleared that room out**.
+- **[[codex-mortis|The notes]] can be sensed at close range** by anyone attuned to that kind of magic.
+  Caspian read them in Dunton anyway.
 - **The regalia is identified** ([[the-dragon-crown|crown]], [[the-handlet|handlet]]) and remains the
   best candidate for the Brood's "something that does not belong" (see
   [[the-korrathian-conspiracy]]) — though [[mags|Mags]] has raised that the courtyard itself might be

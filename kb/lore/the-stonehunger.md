@@ -97,6 +97,41 @@ sample of it. Record it as Rell's identification, not as a confirmed fact about 
 It is also **slow**. It took most of a night to bring down two rooms, and its progress was visible but
 gradual throughout. It did not attack anyone; it pushed the walls in.
 
+## The High Priest's account (S2.37)
+**[[the-high-priest|The High Priest]]** — an undead who lives inside the Stonehunger, calls himself
+God's High Priest to the people of [[dunton|Dunton]], and says **"God" with audible air quotes** —
+gives the party the first account of the thing from someone who is neither a worshipper nor a
+gatekeeper. It is **his** account, and he is a self-interested source, but it is the most detailed one
+yet and it fits what the party has witnessed.
+
+- **It is a substance.** *"Fascinating, but not particularly pleasant."* He does not treat it as a
+  deity, and does not pretend to.
+- **It is not indifferent, and it does discriminate.** Told it seemed not to care for the dwarven
+  architecture it was crushing, he corrects them: *"it does, in its way… very much. But what it
+  doesn't like are things that it cannot reshape and make its own."*
+- **Some things resist it.** Of [[the-ancient-forge|the forge complex]]: *"that area was resistant for
+  quite some time. It had a certain sort of energy which gives protection."* This is the first
+  explanation offered for why the shrine chamber stood untouched in S2.36 while the rooms around it
+  came down.
+- **And some may resist forever.** *"There are quite a number of places within its substance which
+  haven't yet really been absorbed and may never be."* **[[the-ossuary|The Ossuary]]** and
+  **[[dunton|Dunton]]** are both described as regions of at least relative stability.
+- **Disruption breaks the protection.** *"Unless, of course, some intrepid adventurers decide to
+  disrupt things — then things can change."* He credits the party with having done precisely that to
+  the forge. **His attribution, not an established cause** — nothing says which of the party's actions
+  he means, or that he is right.
+- **It keeps what it likes.** Of [[the-buried-arena|the arena]]: *"This place is very much to God's
+  liking. He has picked and chosen the elements that please him, and this is the result. I dare say it
+  will change, but not immediately."* So the patchwork is **curation**, not accident — on his telling.
+- **It has eaten dwarves before.** *"When God was more expansive in its habits, there were several
+  dwarven sites which came under its attention."* He has seen some deeper down, though he says he has
+  not explored much past this point. On the trapped temple way: *"the dwarves are rather thorough in
+  their idea of security — not, in the end, that it did them any good whatsoever."*
+
+**"More expansive in its habits"** is the line that bears on [[the-custodian|the custodian]]'s shame
+about a shrunken reach (S2.33) — two independent sources now saying the Stonehunger's range has
+contracted. **Neither explains why**, and nothing connects the two statements beyond their agreement.
+
 ## The eyes of God (S2.33)
 The stone face at the gate beyond [[the-stone-river|the stone river]] describes itself as **"the eyes
 of God in this part,"** and speaks of **"the eyes of God below"** as its **brothers** — implying a
@@ -135,10 +170,11 @@ the party's inference; do not write it up as a fact about the Stonehunger.
 - **Is it aware of the party?** The substance reacted to fire by smothering the flame and moving
   faster. [[mags|Mags]] calls that intentionality; Rell calls it possibly reflex. Rell's Detect
   Thoughts found a mind but could read nothing from it. Unresolved.
-- **Why was the upper chamber spared?** Every room around the party was crushed and the
-  [[the-ancient-forge|shrine chamber]] was not touched at all. [[fabian-perennius|Fabian]]'s reading is
-  that something protects it, by analogy with the warded [[the-golden-dragon-statue|dragon statue]].
-  That is a guess drawn on one night's evidence.
+- **Why was the upper chamber spared?** [[fabian-perennius|Fabian]]'s guess that something protected it
+  is **substantially borne out** in S2.37: [[the-high-priest|the High Priest]] says the area *"was
+  resistant for quite some time"* and *"had a certain sort of energy which gives protection."* What
+  that energy is, whether it is the [[calvyr|Calvyran]] devotional work, and **what the party did to
+  break it** are all still open — he asserts they did, without saying how.
 - **Does it distinguish what it eats?** It crushed a dwarven forge complex and left, apparently
   untouched, [[the-buried-arena|an arena]] a long staircase below it — which itself looks as though the
   rock **flowed over and around it** at some point rather than through it.
@@ -160,4 +196,12 @@ the party's inference; do not write it up as a fact about the Stonehunger.
   [[the-golden-courtyard|golden courtyard]] may be a second such hint, if the party's reading of it is
   right. Do not settle either.
 - **Why do the eyes of God believe their reach is shrinking?** Recorded as the creature's sincere
-  belief plus its shame, not as a fact about the world.
+  belief plus its shame, not as a fact about the world. S2.37 adds a **second, independent** voice
+  saying the same: [[the-high-priest|the High Priest]] speaks of a time when God was *"more expansive
+  in its habits."* Two sources now agree the range has contracted. **Neither gives a cause.**
+- **What is the "certain sort of energy which gives protection"?** It held the forge's shrine chamber
+  and, on the High Priest's account, holds a number of other places inside the Stonehunger that may
+  never be absorbed — [[dunton|Dunton]] and [[the-ossuary|the Ossuary]] among them. Its nature is
+  unexplained, and whether it is the same thing in every case is unestablished.
+- **Did the party really break the forge's protection?** The High Priest says so. Nothing identifies
+  what he thinks they did, and the claim serves him.

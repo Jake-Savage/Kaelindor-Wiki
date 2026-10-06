@@ -21,7 +21,7 @@ relationships:
   - who: shalfay
     note: Tower of Heaven employer and divination contact; Caspian still corresponds with him.
 first_session: S1.01
-last_session: S2.36
+last_session: S2.37
 tags: [scholar, wizard, divination, uthrel, vampire-suspicious, dragon-bones]
 summary: A coldly rational divination wizard obsessed with studying the Uthrel and dragon remains, who secretly dealt with the vampire Lucien and is evasive about what it cost him.
 ---
@@ -107,6 +107,22 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
   instead — which drives several more slimes briefly up out of the mud — and later a **magic missile**,
   holding his higher magic back to keep the Haste running. He ends the session saying he has a plan for
   the minute the creature is turned, without saying what it is.
+
+- S2.37: Spends the first part of the fight hanging back — "being wet," by the party's assessment —
+  then **Shatters into the pit**, which is the opening blow, and keeps up firebolts for the rest of it.
+  He re-targets the **Haste** he has held on [[trevick|Trevick]] since the last session onto
+  [[fabian-perennius|Fabian]]. A proposal to drive **magic missiles into the weak points of the pit
+  wall and bury the minotaur** is ruled nowhere near powerful enough. Afterwards he burns his **last
+  spell** on **Identify**, which establishes that **[[the-embedded-axe|the axe]] is strongly magical,
+  unidentifiable, and the cause of the creature's regeneration** — the finding that ends the fight for
+  good. He fails to pull it out, tries to fit it inside
+  **[[caspians-portable-library|the portable library]]**, and is reminded of that item's no-shenanigans
+  condition. With [[the-high-priest|the High Priest]] he plays tired and useless to avoid being
+  conscripted into studying the axe, and is **believed entirely sincerely**. On watch in
+  [[dunton|Dunton]] he first establishes that [[codex-mortis|Kiona's notes]] **can be sensed at close
+  range** by anyone attuned to that magic — and then reads them anyway, concluding the High Priest was
+  **probably [[undead-puppetry|a puppet]]**. He says nothing at the time, *"concerned people ask how I
+  know,"* and shares the content next morning while **never naming the book**.
 
 ## DM notes / secrets
 - Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. What passed between them is unresolved and worth keeping ambiguous.

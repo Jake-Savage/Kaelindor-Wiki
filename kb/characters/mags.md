@@ -21,7 +21,7 @@ relationships:
   - who: caspian-talon
     note: She tolerates his impiety and senses his evasiveness; they grudgingly come to get along.
 first_session: S1.05
-last_session: S2.36
+last_session: S2.37
 tags: [cleric, naelos, gnome, underdark, diplomat, nameweave, petrified]
 summary: A centuries-old gnome cleric of Naelos and the party's blunt, pragmatic moral anchor, who threads diplomacy between Greymere and the Eldryn and is briefly petrified into wood.
 ---
@@ -99,7 +99,7 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
   before bed — negotiating its trigger down from "anyone who hurts a member of the party" to a workable
   definition of harm, and loading it with a **Guiding Bolt** — and sleeps through the night while the
   forge comes down. At the dead end below she is the one who **knocks and calls out**, which is what
-  raises [[the-arena-voice|the voice]]. In [[the-buried-arena|the arena]] she tests the invisible
+  raises [[the-high-priest|the voice]]. In [[the-buried-arena|the arena]] she tests the invisible
   barrier by hand, walks an illusory rabbit across the mud, and is the one who notices the **mud rise
   to meet** Caspian's thrown stone. She then takes the minotaur's charge head-on — it bounces off her
   once and claws her for 16 the second time — spends a turn on a failed **Thorn Whip** trying to
@@ -107,6 +107,21 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
   it: 20 radiant damage, frightened and incapacitated, and it runs. It is her read that whoever spoke
   at the door will talk to them once the thing is beaten, and she argues successfully for letting it
   flee rather than breaking the effect.
+
+- S2.37: The session's **diagnostician and its diplomat**. In the fight she holds **Thorn Whip** to drag
+  the minotaur off the wall, lands a late **Toll the Dead**, taunts it into goring her rather than
+  [[fabian-perennius|Fabian]], and upcasts **Healing Word** to bring [[rell-aetris|Rell]] off the
+  floor. Her **medicine check** is the session's key finding: the creature **regenerates in the pit and
+  not in the open**, which sets up the kill. Afterwards she pins
+  the body under **Chill Touch** to stop it healing and stands guard over it indefinitely while the
+  others work. When footsteps come up behind her she fakes a turn and **puffs dust** to unmask
+  anything invisible, then handles **[[the-high-priest|the High Priest]]** almost entirely alone for
+  several minutes — babbling, buying time, complimenting him on "Greyface," and talking him into
+  lowering his hood by claiming to be half deaf and needing to lip-read. Her Insight reads him
+  correctly: not about to kill them, but **entirely willing to if it were interesting or profitable**.
+  Her conclusion — *"so we have to be boring now"* — is the party's policy for the rest of the
+  session. She also works out that [[the-arena-elemental|the thing opening the stone]] is **compelled,
+  not charmed**, and takes the first watch in [[dunton|Dunton]].
 
 ## DM notes / secrets
 - Her undead-tinged bone shard (a Naelos relic of her own bones) keys the infernal "half in this world and half of another" doors in the Shifting Library (S2.08) — a detail worth remembering for her nature/longevity.

@@ -5,11 +5,11 @@ title: The Undead Minotaur
 category: npc
 species: Minotaur
 role: The thing in the arena pit
-status: undead
+status: dead
 home: the-buried-arena
 affiliations: []
 first_session: S2.36
-last_session: S2.36
+last_session: S2.37
 tags: [stonehunger, grommars-path, arena, undead, minotaur, calvyr, axe]
 summary: A very large undead minotaur that climbs out of the pit in the buried arena to attack the party, with a holy dwarven axe still lodged in its chest and the flesh grown closed around it.
 ---
@@ -48,11 +48,32 @@ hard to read**. Her attempt to pull the axe free with **Thorn Whip** fails.
   creature is **frightened and incapacitated for one minute**. The party deliberately declines to
   attack it, and it **flees back down the pit**.
 
+- **S2.37:** Killed. It sat out the turning in its den and the party spent the time surrounding the
+  pit and holding actions. [[fabian-perennius|Fabian]]'s **Thunder Wave** knocked it off the wall
+  **twice** as it tried to climb out — the second time for fall damage on top — which is what kept the
+  fight winnable. It still reached the lip, clawed [[rell-aetris|Rell]] from near-full health to
+  **unconscious** in a single round, and later gored at [[mags|Mags]] after she taunted it.
+  [[caspian-talon|Caspian]]'s Shatter and firebolts, Mags's **Toll the Dead**, Fabian's hasted sword
+  and Rell's blades wore it down, and Rell's flanking attack **dropped it**. It fell back into the pit.
+  **It was still regenerating down there** until Mags held it under **Chill Touch** to stop it. When
+  [[rell-aetris|Rell]] cut **[[the-embedded-axe|the axe]]** out of its chest, the body **decayed in
+  about twenty seconds** — visibly running through the stages of decomposition — until almost nothing
+  was left.
+
+## What kept it alive
+**The axe was the cause of its regeneration.** [[caspian-talon|Caspian]] burned his last spell on
+**Identify**: the weapon defies ready identification but is **strongly magical**, and he is confident
+it is **what was healing the minotaur**. The party had already watched it heal in the pit between
+bouts and stop healing in the open — a pattern [[mags|Mags]] caught with two medicine checks.
+
+Removing the axe ended the creature in seconds. Its den below the arena holds **old, gnawed bones** and
+debris, and nothing else.
+
 ## DM notes / secrets
-- **Who put it here, and why, is unestablished.** The party has not connected it to
-  [[the-arena-voice|the voice]] that opened the gate, though Mags assumes a connection.
-- **Who buried the axe in it is unestablished.** A Calvyran holy axe lodged in an undead thing inside a
-  Calvyr temple complex on [[grommars-path|Grommar's Path]] is suggestive; the fiction has not said
-  whose it was, when it went in, or whether it is what killed the minotaur. See
-  [[the-embedded-axe]].
-- It is **not dead** and is **not gone** — it has a hole to hide in and a minute of fear to sit out.
+- **It was [[the-high-priest|the High Priest]]'s**, and the fight was his **experiment** — he says so
+  himself, calling the axe the thing *"used in this little experiment"* and the party's abilities and
+  the artifact's circumstance the qualities that interested him. He did not want them dead, but
+  *"of course the possibility was there."*
+- **Who originally buried the axe in it, when, and whether that is what killed it** are still
+  unestablished. The High Priest says only that the axe is dwarven and ancient; he recovered it, he
+  did not say he put it there. See [[the-embedded-axe]].

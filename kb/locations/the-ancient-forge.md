@@ -132,5 +132,15 @@ that a safe room is worth nothing once every route out of it is gone.
 - **Whether the upper chamber was actually protected is unresolved.** What is established is that it
   alone showed no damage, and that it alone carries the devotional carvings. The DM's answer to whether
   its architecture was otherwise distinct was **no** — same dressed stone as the rest.
-- **Who cleared the upper chamber out, and when, is unknown** — as is whether they are the same people
-  who camped in the rooms below.
+- **Who cleared the upper chamber out — almost certainly [[the-high-priest|the High Priest]].** Asked
+  in S2.37 whether he had been to the dwarven part, he says: *"Yes, I've been there. And I think there
+  won't be very much to find the next time I go that way. It's a good thing I recovered what I did."*
+  He does **not** say he emptied the shrine specifically, and he never says what he took; the match to
+  the fresh scrape marks and the missing written material is the party's to make. Whether he also took
+  **[[the-embedded-axe|the axe]]** from somewhere in the complex, or found it already in the minotaur,
+  he does not say. The **campers in the rooms below** remain a separate and unexplained matter.
+- **Why the shrine chamber was spared.** The High Priest says the area *"was resistant for quite some
+  time"* and *"had a certain sort of energy which gives protection"* — and that it is the kind of place
+  that changes once *"some intrepid adventurers decide to disrupt things,"* which he credits the party
+  with doing. He does not say what he thinks they did, and the causal link is **his claim**, not an
+  established fact.

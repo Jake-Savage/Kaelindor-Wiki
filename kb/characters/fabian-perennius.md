@@ -21,7 +21,7 @@ relationships:
   - who: valeria
     note: His sister, an aberration-scholar he expects to envy his reaching the Mirrowen first.
 first_session: S1.05
-last_session: S2.36
+last_session: S2.37
 tags: [bard, crownspire, fame-seeking, radiant-magic, golden-lute, sunblade]
 summary: A vain, fame-seeking bard and seventh son of a Crownspire dynasty who hungers to be the hero of an epic tale, and who manifests a new golden radiant magic after a selfless act by Mags.
 ---
@@ -98,12 +98,27 @@ His defining motivation is legacy and museum-fame: as a boy he stood beneath the
   session's one attempt to explain why the party's room was spared. He is the one who **talks to the
   wall**: raps a rhythm on the stone and observes that where he comes from one does not leave visitors
   waiting at the door, which is followed by the gate opening. Inside
-  [[the-buried-arena|the arena]] he thanks [[the-arena-voice|the voice]] aloud, gets no reply, and
+  [[the-buried-arena|the arena]] he thanks [[the-high-priest|the voice]] aloud, gets no reply, and
   tests the invisible barrier with flute notes and then with a spell. He puts
   **[[the-dragon-crown|the crown]]** on before the fight on the chance it sharpens his casting, and
   opens with **Phantasmal Force** — an illusory **griffin**, chosen because he knows griffins to be the
   minotaur's infamous natural rival. The illusion does no damage to an undead creature, but it does
   draw one of its claws, and he works it for the rest of the fight to pull the thing off the party.
+
+- S2.37: Wins the fight with one spell used well. Taking [[caspian-talon|Caspian]]'s **Haste**, he
+  stations himself at the lip of the pit and holds **Thunder Wave** for the moment the minotaur starts
+  climbing — **knocking it back down twice**, the second time deliberately waiting until it is right at
+  the top so it takes the fall as well, at the cost of leaving himself wide open. He drops
+  **Vicious Mockery** on realising it would do nothing to an undead thing, swaps to
+  **[[the-golden-lute|the golden lute]]** for the second Thunder Wave, and later closes to flank with
+  [[mags|Mags]] and stab. He then does most of the talking to
+  **[[the-high-priest|the High Priest]]**: tries to keep the axe by claiming it is too heavy to lift
+  out of the pit (he is not believed), asks for the exit to be opened **before** any weapon changes
+  hands (refused), and finally gets them out by **offering Caspian up** as a scholar of axes and
+  dwarven things — a brush-off the High Priest accepts entirely at face value. His questions are what
+  draw out most of what the party learns: that the axe is an ancient dwarven one, that the figure has
+  been up into the forge, that **several dwarven sites** were taken, and that the figure says "God"
+  **in air quotes**.
 
 ## DM notes / secrets
 - Fabian's [[fabians-radiant-magic|radiant magic]] (S2.17) is unexplained in-world — an emergent power tied to selfless/heroic resonance, an active open thread.

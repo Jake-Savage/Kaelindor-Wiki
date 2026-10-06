@@ -17,7 +17,7 @@ relationships:
   - who: trevick
     note: Comes to understand Trevick as one who has shed the trappings of humanity to live honestly.
 first_session: S1.05
-last_session: S2.36
+last_session: S2.37
 tags: [wizard, aberrant-mind-sorcerer, mind-magic, telepathy, tir-van, horizonborn, horizon-doors, masked, secretive]
 summary: A masked, reclusive Tir'Van who passes publicly as a wizard — secretly an Aberrant Mind sorcerer — whose lifelong search for the Horizon Doors makes him suspiciously excited when the party finds one — the tampered Bright Gate.
 ---
@@ -113,6 +113,24 @@ Morally, Rell is the party's harshest realist. He is bitter that the party "danc
   **scroll of Blink**, opens with a sorcerous burst, steps into the mud and is **restrained** by a
   slime, is pulled prone, and kills the one holding him with **Shadow Blade** — taking its acid death
   burst for his trouble. He ends the session free and upright.
+
+- S2.37: Nearly dies, and then wins the fight. He picks his way across the mud on known ground, scouts
+  the pit and establishes it is **a den, not a way out**, and searches the far wall **twice** — a quick
+  look, then a full study — for buttons, switches, levers, runes, glyphs or sigils, touching nothing
+  and finding nothing. His conclusion sets the party's course: *"I see no mechanism or way forward
+  here. I think perhaps killing the beast is our best route. I would assume the voice we heard is
+  looking for some kind of entertainment."* He is right on both counts. The minotaur reaches the lip and **claws him from near-full health to unconscious in a
+  single round**; [[mags|Mags]]'s upcast Healing Word brings him back, he stands up, takes the
+  **flanking** position beside her and **lands the blow that drops it**. In the pit afterwards he is
+  the one who gets **[[the-embedded-axe|the axe]]** out: with brute force having failed twice, he
+  **cuts around it** instead, knowing where to work through undead sinew — *"now that everyone's had
+  their sword in the stone moment and proven they are not worthy."* He then has custody of the axe when
+  **[[the-high-priest|the High Priest]]** comes for it, and **surrenders it without resisting** while
+  protesting the point: the thing was set on them, it nearly disembowelled him, and only his companions
+  kept him alive. His parting shot — that the next lot might last longer if the High Priest refrained
+  from disembowelling them — earns a long unreadable look. He asks afterwards whether the figure's
+  **magical sensing** could have found him in the ethereal plane, and takes the last watch in
+  [[dunton|Dunton]], listening to the voices downstairs without going down to meet them.
 
 ## DM notes / secrets
 - **The "wizard" identity is a guise.** Rell is officially known as a wizard and deliberately never names a subclass. In truth he is an **Aberrant Mind sorcerer** (an "aberrant soul" sorcerer), masking his innate, aberrant power behind the studied respectability of wizardry — a concealment that fits the unsettling, many-eyed nature of the [[the-tir-van]].

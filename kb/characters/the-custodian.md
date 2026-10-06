@@ -87,6 +87,12 @@ Grommar's Path.
   below [[the-ancient-forge|the forge]], [[caspian-talon|Caspian]]'s investigation finds the **same
   subtle ripple patterns** in the rock that the custodian left when it shaped and reshaped its own
   gateway hours earlier. So something has worked that stone **the same way, at some point**. The
-  [[the-arena-voice|voice]] that answers there does **not** sound like him and does not seem to come
+  [[the-high-priest|voice]] that answers there does **not** sound like him and does not seem to come
   from the stone at all — and whoever actually opened the gate did it slowly and with visible effort.
-  Whether one of his "brothers below" is behind that wall is **not established**.
+- **S2.37 — resolved, and kept separate.** The voice was **[[the-high-priest|the High Priest]]**, and
+  the thing shaping the stone is **[[the-arena-elemental|a second earth elemental]]**, which he holds
+  by **magical compulsion** and calls **"my captive."** [[mags|Mags]] establishes that it is
+  **overpowered rather than charmed**, and would not serve anyone if the will on it broke. **Nothing
+  links it to the custodian** beyond being the same kind of creature — the custodian's talk of
+  "brothers below" is still only its own account, and the High Priest has never used the word.
+  **Who, if anyone, binds the custodian remains separately unknown.**
