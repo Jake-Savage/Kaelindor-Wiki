@@ -5,7 +5,7 @@ title: The Korrathian Conspiracy
 status: active
 priority: side
 opened_session: S2.24
-last_updated_session: S2.35
+last_updated_session: S2.38
 involves_characters: [caspian-talon, mags, rell-aetris, dakir, trevick, fabian-perennius, hethan-kroll, oscar-wicklow, captain-thoronby, soren-dragan, amir-merillac, tamzin-venik, jorrith-potter, nan-prentic, cressan-weller, turley, glorta, tuffin, the-custodian]
 involves_locations: [greymere, the-mercenary-camp, bridgemarch, the-tiefling-shop, offendale, greywatch, the-mirrowen, trevaryn, the-three-copper-hatch, kethrans-fold, the-stone-river, the-golden-courtyard, grommars-path, the-foul-pool, the-ancient-forge]
 factions: [the-furnace-brood, krolls-mercenaries, the-gleaners]
@@ -127,6 +127,31 @@ summary: The party finds the Korrathian Furnace Brood probing the Uthrel incursi
 - Is [[amir-merillac]] really double-crossing the Brood, and what work was he doing for them?
 - Do [[tamzin-venik]]'s "beacon-tokens" and the northern "caches" mark or seed the incursion sites on [[krolls-map]] (e.g. the Stonemarch)? Unconfirmed.
 - What was worked at the shop's ritual stone — oaths/allegiance to the Brood, tribute, and research-suffering on whom?
+
+## The deep turns up nothing (S2.38)
+Having reached the deepest inhabited level anyone here knows of, the party finally asks the one person
+down here who would know. **[[the-high-priest|Greyface]] has never seen a
+[[korrathian|Korrathian]].**
+
+> *"Of all the troubles I have considered, Karathians were not amongst them… **I have been visited by
+> none of the servants of Karath.**"*
+
+- He thinks it **would be a departure for them** — their **internal squabbles keep them busy enough** —
+  though if they **found out about this place** they could develop an interest.
+- Why would they? *"**Because magic is more complicated than most of you think that it is.**"* Pressed,
+  he says **most "untouched" folk do not understand more than half of how magic works**, and that he
+  would have numbered **the Korrathians very clearly in that majority**.
+- He warns that the place is **very large and very complicated**: there are **not many routes down from
+  the surface that he knows of, but there could easily be more**, and **whole areas he has never
+  considered the existence of** — with **at least three or four levels below this one**.
+- The party also shows **[[the-furnace-brood|Brood]] iconography to [[kithri|Kithri]]** in
+  [[dunton|Dunton]]. She finds every symbol **thoroughly unpleasant** and **recognises none of them**.
+
+**The brief, restated.** Under questioning the party corrects its own drift: they were **not** told
+Korrathians were down here. The instruction was to **go beneath the destroyed village and find
+something that should not be there**, and **they are the Brood's agents doing it** — so if anyone is
+sniffing around down here, **it is them**. Whether other agents received the same instruction is
+unknown.
 
 ## Leads / next steps
 - **At [[kethrans-fold|Kethran's Fold]] (S2.31 cliffhanger):** the party has slipped past the sleepers

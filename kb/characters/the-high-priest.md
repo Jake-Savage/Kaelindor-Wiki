@@ -14,7 +14,7 @@ relationships:
   - who: caspian-talon
     note: Takes Fabian's offer of Caspian's help with the axe entirely sincerely.
 first_session: S2.36
-last_session: S2.37
+last_session: S2.38
 tags: [stonehunger, grommars-path, arena, dunton, undead, priest, puppet, ossuary]
 summary: A relatively fresh undead in red-and-gold robes who calls himself High Priest, opened the arena to the party, set an undead minotaur on them as an experiment, and took back the dwarven axe that was keeping it alive.
 ---
@@ -103,6 +103,74 @@ He sends the party down to **[[dunton|Dunton]]** — *"it's not far"* — and do
 - **[[the-provost|The Provost]] can direct them to the Ossuary** if they want him again, though he
   doubts she would be keen to accompany them.
 
+## Who he is (S2.38)
+Twelve years of his history come out in Dunton, mostly from [[kithri|Kithri]] and
+[[the-provost|the Provost]], and then from the man himself.
+
+**Before.** He came to **[[black-barrow|Black Barrow]]** as **a traveller with a guide**, saying he had
+**business further south**, and stayed a few nights. He **looked like a normal man** — human, and
+*"not a well man, I would have to say, even then."* Days later the village was taken. *"It was a
+strange coincidence,"* the Provost says.
+
+**The change.** In the chaos he began working **"real magic, serious magic — not just hedge-witch
+stuff, but wizard stuff, priest stuff"** — and **the way he looked changed**. He came to **look like an
+elf**, which frightened people who had never seen one. He gathered up **forty-two survivors**, told
+them to go *in* rather than run, and **cut a way down** for them.
+
+**After.** He **shut himself in [[the-ossuary|the Ossuary]]** and told the rest to stay behind the ward
+signs. **In those first weeks, people went into the Ossuary and did not come back.** That ended when
+**[[the-provost|the Provost]] fought her way down alone, six weeks later, and walked straight in after
+them.** What followed was **an understanding — an exchange**: he helps, they help, and **their dead are
+brought to him**.
+
+**By his own account.** *"I honestly didn't have too much of a plan when I first came down here. I was
+a little desperate, if I'm perfectly honest. And I came down here, I found all this — a lot more than
+I'd expected."* It took time to understand what was happening — and, plucking at his robe, **"to
+understand the proper attitude that I would need to adopt in order to make myself acceptable."** The
+High Priest is a costume he worked out he needed.
+
+- **He is an exile.** *"I can't say that there aren't disadvantages to being an exile. It is lonely."*
+- **He is hiding.** *"I think it's in my interest to lie low at the moment"* — and this place suits him
+  *"surprisingly well, for the present at least."*
+- **He is not free.** Asked whether he comes and goes as he pleases: *"Free to come and go? I wouldn't
+  say that."*
+- **He was educated in the principles of his craft from a very young age** — and will not say by whom,
+  or where he is from.
+- **He confirms the puppetry outright.** *"The use of surrogates, such as this, protect me from some of
+  the worst side effects of this art,"* and later, *"yes, I employ surrogates such as this to distance
+  myself a little."* The body is **[[roscoe|Roscoe]]**'s, a villager killed less than a year ago;
+  the one before lasted **six or seven years**.
+- **His curiosity is real.** Under scrutiny his **enthusiasm for inquiry appears genuine**, and he
+  cannot resist explaining things at length.
+
+## The threat, measured aloud
+He says it without boasting, as a man who has worked out his own position:
+
+> *"Last night, I could have killed you quite easily. Today… at your full strength, I think you might
+> give me trouble. And even if I tried to keep one or two of you and send the others away — well, my
+> position here is probably weaker than it looks. I have no desire to make trouble for either of us.
+> That is part of the reason I think that you should leave."*
+
+He has already said **the temptation to keep you here is quite strong**, and accepted
+[[caspian-talon|Caspian]]'s refusal gracefully. Separately, if the [[the-stonehunger|Stonehunger]]
+**understood what he is and what he is doing here**, he does not think he would be in a position to
+continue — and whether he could stand against it is a problem he has plainly wrestled with many times:
+*"Perhaps. I would not like to test it."*
+
+## Caspian's arm
+Mid-conversation he **reaches out, takes [[caspian-talon|Caspian]]'s arm**, pushes the sleeve up and
+**touches the bare skin of his forearm and wrist** with a **cold dead hand** — a grip that is not
+holding him, but in which the strength is obvious. He holds it a few seconds and says:
+
+> *"Ah, yes. That makes sense. That makes sense."*
+
+And then: **"It seems we have a little more in common than I had suspected."** [[mags|Mags]] looks for
+kinship in it and is told that is **not** the vibe. The party reads it as *educated men who read a lot
+of books* — and moves on.
+
+**They are wrong.** What he found in Caspian's skin is the thing [[mags|Mags]] had tested in S2.07 and
+never got an answer to: **Caspian's blood reads as undead**. See the DM notes below.
+
 ## DM notes / secrets
 - **What he is willing to do.** [[mags|Mags]]'s Insight (21): **no aggressive intent and no interest in
   murdering them imminently** — but the distinct impression that **if he thought it would be
@@ -122,8 +190,30 @@ He sends the party down to **[[dunton|Dunton]]** — *"it's not far"* — and do
   close or has made arrangements. Note also that he is a **fresh** undead in an ancient complex, and
   that everything the party found interesting about him — the curiosity, the experiments, the appetite
   for visitors of any caliber — belongs to **them**, not to the corpse.
-- **He gives no name of his own** — only the nickname and the office. Whoever he was before he was
-  killed is unknown, as is who killed him.
+- **He gives no name of his own** — only the nickname and the office. Where he is from, who taught him,
+  and what he is in exile *from* are all unanswered, and he deflected every approach to them.
+- **The arm-grasp: he read [[caspian-talon|Caspian]]'s blood.** What he found by touching the bare skin
+  of the forearm and wrist — *"ah, yes. That makes sense. That makes sense"* — is the **undead quality
+  in Caspian's blood**, the anomaly [[mags|Mags]] had tested in S2.07 and never explained, and which
+  Caspian waved away as having "changed his blood via magic." **"We have a little more in common than I
+  had suspected"** is meant literally. **The party does not know this.** They took the remark for a
+  compliment about reading habits and did not pursue it; Caspian has volunteered nothing, here or ever.
+  **What exactly the commonality is — and whether Greyface now thinks Caspian is something like
+  himself — is not established**, only that he recognised it on sight and found it explanatory.
+- **He is despairing underneath it.** Explaining [[the-balance|his theory of magic]] he goes from
+  animated to flatly **fatalist** — *"I made my peace with this a long time ago, and there's no point
+  in any of this"* — until [[caspian-talon|Caspian]] argues him out of it. **His reply to that is where
+  S2.38 ends**, and the DM flagged that it is likely to change what the party wants to do next.
+- **He has never seen a [[korrathian|Korrathian]].** *"Of all the troubles I have considered,
+  Karathians were not amongst them… I have been visited by none of the servants of Karath."* He thinks
+  it would be **a departure for them** — their internal squabbles keep them busy — though if they
+  learned of this place they could have an interest, *"because magic is more complicated than most of
+  you think that it is."*
+- **Why he let them go.** He warns them to **leave**: the place will **submerge again, days or a week
+  perhaps**, and he reads the signs off **the timing of the tremors and how the gleaners are
+  behaving**. It is his **first time** experiencing a surfacing.
+- **He thinks Fabian is ridiculous.** Under [[mags|Mags]]'s insight he listens to Fabian's museum
+  speech with **politely veiled total contempt** — while finding the museum itself entirely credible.
 - **Why he improved Dunton's lot.** [[varen|Varen]] says that before this High Priest came, a healer in
   these parts *"would have changed everything"*, and that they now lack little in that regard. His
   motive for that is unestablished, as is what "sacrifice" means in Dunton.

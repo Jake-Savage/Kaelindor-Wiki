@@ -48,6 +48,22 @@ theology**, but corroborated by the party physically being inside the complex:
   **back** under; and that **singing, knocking, and voices** are heard underground weeks after a
   place is taken.
 
+**The "aren't right" folklore gains a witness (S2.38).** Asked by [[rell-aetris|Rell]] why surface
+survivors come out so changed, [[the-provost|the Provost]] confirms that the handful who got out of
+[[black-barrow|Black Barrow]] were **shaken** — she spoke to two herself — and then volunteers
+something about her own case, unprompted:
+
+> *"This place has a strangeness to it. I was away from home when what happened happened. When I
+> heard, I went back. I was minded to search for those that I had lost. **But I don't know that I would
+> have so eagerly walked into the bowels of the earth as I did, there not being some sort of an
+> influence.** There is a strangeness."*
+
+Told that the changed are not merely shaken but **almost entirely removed from the people they were**,
+she is **not surprised**. The four survivors her people found already living down here were *"three
+quarters mad, at least"* — tough, but not who they had been. She had put it down to long isolation;
+hearing Rell, she wonders whether it was more. **Two of them are still alive**, incoherent, after
+perhaps **a quarter of a century** underground.
+
 ## What the churn carries (S2.32)
 Crossing the bridges over [[the-stone-river|the stone river]] — the chasm of endlessly churning stone
 the gleaners work — [[fabian-perennius|Fabian]] looks down into it. Most of what passes below is **old
@@ -132,6 +148,51 @@ yet and it fits what the party has witnessed.
 about a shrunken reach (S2.33) — two independent sources now saying the Stonehunger's range has
 contracted. **Neither explains why**, and nothing connects the two statements beyond their agreement.
 
+## What it is, per the High Priest (S2.38)
+In [[the-ossuary|the Ossuary]], [[the-high-priest|Greyface]] gives the party by far the fullest account
+of the Stonehunger anyone has offered — from someone who says he has **communed with it directly**. It
+is **his account**, from a self-interested and secretive source; but he is the only speaker so far who
+is neither worshipper nor gatekeeper, and he has nothing obvious to gain by it.
+
+- **It is a living thing. It is very old. And it is very damaged.**
+- **It is a ruin of what it was.** *"In its prime, it would have taken all that it ingested and it
+  would have made them into something strange and extraordinary and terrible. There is a great hunger
+  in it — a great frustration that it is no longer able to do anything of what it once did."*
+- **It can be communicated with, and he does.** *"It is possible and necessary to communicate with it.
+  It has a will. It has a sense of purpose. It has not too much more than that now — but I think it was
+  perhaps not fully sentient, but possessed of powerful instincts that may once have made it something
+  close to reasoning."*
+- **It was imprisoned, with others, and it escaped.** *"It was imprisoned a long, long time ago, along
+  with **its fellows**, and it broke out. That much I have been able to gather from it."*
+- **It is full of rage, spite and malevolence**, and would devour anything and everything — *"but it's
+  far too weak to do more than consume the odd village. It can't break out of
+  [[the-mirrowen|the Mirrowen]] — perhaps not even quite a small area within the Mirrowen. It's
+  limited."*
+- **It believes he is one of its own.** It takes him for part of **its cult, its followers, its
+  worshippers** — and *"if it understood what I am, what I'm doing here, I don't think I would be in a
+  position"* to continue.
+- **It senses, but not everywhere and not always.** He can usually feel **when its awareness is close**
+  — *"although I've been wrong a time or two, and those have not been comfortable situations."*
+- **The earth spirits are its sense organs.** *"It has certain spirits of the earth which it uses as
+  its eyes and ears. The one that had custody of this area I have made tame."* See
+  [[the-arena-elemental]] and [[the-custodian]].
+- **It cannot digest concentrations of holy power, and he does not know why.** *"It has trouble — and I
+  have not yet been able to understand exactly why — but it has trouble with places like this,
+  concentrations of a certain sort of power."* Hence [[the-ossuary|the Ossuary]] standing almost
+  entirely intact. His advice: *"if you find holy places of any sort, I would let them be. They are
+  sanctuaries in this, in a very real sense here."*
+- **There are at least three or four levels below this one**, and possibly *"whole areas of this place
+  that I have never even considered the existence of."*
+
+**Who imprisoned it?** *"That's an interesting question, and not one I have been able to discover the
+answer to. The far past is very little understood by us, as much as by you."* He puts the date, patting
+the Ossuary's wall, at **around the time this temple was built**.
+
+**The clock.** He warns the party that **it will submerge again — "days, a week perhaps"** — reading
+the **timing of the tremors** and **how the gleaners are behaving**. It has moved and submerged in the
+twelve years since [[black-barrow|Black Barrow]], but **this is the first time in that span it has come
+back to the surface**.
+
 ## The eyes of God (S2.33)
 The stone face at the gate beyond [[the-stone-river|the stone river]] describes itself as **"the eyes
 of God in this part,"** and speaks of **"the eyes of God below"** as its **brothers** — implying a
@@ -163,7 +224,16 @@ the party's inference; do not write it up as a fact about the Stonehunger.
   party is inside — but whether it is literally a deity, a living titan/beast, an ancient construct,
   or something else is **not established**. Record the theology as the gleaners' belief plus the
   witnessed evidence, not as settled cosmology. S2.36 adds that there is **something in it that can be
-  brushed as a mind** — strange, **vast**, old, and unlike anything [[rell-aetris|Rell]] knows.
+  brushed as a mind** — strange, **vast**, old, and unlike anything [[rell-aetris|Rell]] knows. S2.38
+  adds [[the-high-priest|Greyface]]'s account: a **damaged living thing**, never fully sentient but
+  once close to reasoning, **imprisoned long ago with its fellows and escaped**.
+- **Who imprisoned it, and what were its fellows?** The single largest new question in S2.38.
+  [[the-high-priest|Greyface]] has tried and failed to learn it, and dates the imprisonment to **around
+  the time [[the-ossuary|the Ossuary]] was built**. **Where the others are is not addressed at all.**
+- **What was it for?** If in its prime it turned everything it swallowed into *"something strange and
+  extraordinary and terrible"*, that reads as a purpose rather than an appetite. Nothing says whose.
+- **Why can it not digest holy ground?** Greyface says plainly that he does not know, and it is the
+  mechanism behind every "protected" place the party has found.
 - **Is the white substance the Stonehunger itself?** [[rell-aetris|Rell]] says so and the party works
   on that basis; it has not been confirmed, and a second possibility — that it is something else living
   in or alongside the Stonehunger — has not been excluded.
@@ -195,10 +265,15 @@ the party's inference; do not write it up as a fact about the Stonehunger.
   though it may equally be debris of the buried complex. The displaced
   [[the-golden-courtyard|golden courtyard]] may be a second such hint, if the party's reading of it is
   right. Do not settle either.
-- **Why do the eyes of God believe their reach is shrinking?** Recorded as the creature's sincere
-  belief plus its shame, not as a fact about the world. S2.37 adds a **second, independent** voice
-  saying the same: [[the-high-priest|the High Priest]] speaks of a time when God was *"more expansive
-  in its habits."* Two sources now agree the range has contracted. **Neither gives a cause.**
+- **Why do the eyes of God believe their reach is shrinking?** **Largely answered in S2.38:** the thing
+  is **damaged**, *"far too weak to do more than consume the odd village,"* and cannot break out of
+  [[the-mirrowen|the Mirrowen]] or perhaps even a small part of it. That is Greyface's account, and it
+  squares with [[the-custodian|the custodian]]'s baffled shame in S2.33 and his own *"more expansive in
+  its habits"* in S2.37. **What damaged it, and when, is still unknown** — as is whether the damage
+  predates or postdates its escape from imprisonment.
+- **Does it still have worshippers of its own?** It takes [[the-high-priest|Greyface]] for one of its
+  cult. [[the-provost|The Provost]] says there are **"very, very many" priests in the levels below**,
+  seen on [[the-plain|the plain]]. The party has met none of them.
 - **What is the "certain sort of energy which gives protection"?** It held the forge's shrine chamber
   and, on the High Priest's account, holds a number of other places inside the Stonehunger that may
   never be absorbed — [[dunton|Dunton]] and [[the-ossuary|the Ossuary]] among them. Its nature is

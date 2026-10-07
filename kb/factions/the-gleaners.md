@@ -99,3 +99,9 @@ Note also (S2.32, DM correction): the crate-dwelling creatures the party must cr
   party's working assumption; the **foreign steel's origin** is still unexplained.
 - The gleaners live under a **clock**: Turley says God will "go below" in "a few weeks, a few days
   maybe, when we've finished" — i.e. the Stonehunger will move on (and crush the placeless) soon.
+- **S2.38 — seen from below.** [[dunton|Dunton]], several levels down, knows the gleaners exist and
+  sometimes sees them out on [[the-plain|the plain]], but has **no relationship with them at all**. The
+  gleaners they meet are **very hostile**; Dunton is **afraid** of them, having seen their numbers on
+  the way down, and believes they **have the numbers to wipe Dunton out entirely** — which, on what the
+  party has seen of the chasm, is true. Separately, [[the-high-priest|Greyface]] reads the timing of
+  the Stonehunger's next dive partly off **how the gleaners are behaving**.

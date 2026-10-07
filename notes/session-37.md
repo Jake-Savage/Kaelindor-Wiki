@@ -223,6 +223,6 @@ No Provost appears. Fabian makes a point of watching closely enough to recognise
 
 Rell takes the last watch, hears people moving quietly about the building below and voices talking in low tones, and decides not to go down and break the peace by falling into conversation.
 
-The party completes a long rest, the first proper one in a long while, and wakes to Fabian putting heart into everyone. Mags asks whether any of them wake up oddly tired. The question is left hanging.
+The party completes a long rest, the first proper one in a long while, and wakes to Fabian putting heart into everyone. Mags checks whether any of them wake up oddly tired. None of them do. The night has cost them nothing.
 
 Caspian opens the morning by admitting that he paid no attention at all on his watch and read books instead, which surprises nobody, and then shares everything he learned.

@@ -21,7 +21,7 @@ relationships:
   - who: valeria
     note: His sister, an aberration-scholar he expects to envy his reaching the Mirrowen first.
 first_session: S1.05
-last_session: S2.37
+last_session: S2.38
 tags: [bard, crownspire, fame-seeking, radiant-magic, golden-lute, sunblade]
 summary: A vain, fame-seeking bard and seventh son of a Crownspire dynasty who hungers to be the hero of an epic tale, and who manifests a new golden radiant magic after a selfless act by Mags.
 ---
@@ -119,6 +119,19 @@ His defining motivation is legacy and museum-fame: as a boy he stood beneath the
   draw out most of what the party learns: that the axe is an ancient dwarven one, that the figure has
   been up into the forge, that **several dwarven sites** were taken, and that the figure says "God"
   **in air quotes**.
+
+- S2.38: Carries the session. He does nearly all of the talking — introducing the party to
+  **[[the-provost|the Provost]]** ("the band of audacious adventurers"), drawing out of her the shape
+  of [[dunton|Dunton]], the plain, the Keep and Greyface's history, then working **[[kithri|Kithri]]**
+  for the rest. He reads the "sacrifice" as religious, probes how far a poker face would have to
+  stretch for it, and reaches the session's one firm decision: **they have to get to
+  [[the-keep|the Keep]]**. His military connections give the party the real version of
+  **[[elvish-necromancy|the elvish necromancy rumours]]** — the burn-your-dead doctrine and the fear of
+  what can be done through a recovered body. He shows Brood iconography to Kithri (no recognition),
+  and gives Dunton **the first performance it has heard in twelve years**, which is received far better
+  than it deserves. With Greyface he talks his way into credibility with the museum story — believed,
+  and listened to with **politely veiled total contempt** — and keeps him talking long enough for
+  everything else to come out.
 
 ## DM notes / secrets
 - Fabian's [[fabians-radiant-magic|radiant magic]] (S2.17) is unexplained in-world — an emergent power tied to selfless/heroic resonance, an active open thread.

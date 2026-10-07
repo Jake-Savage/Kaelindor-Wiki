@@ -5,9 +5,10 @@ title: Dunton
 location_type: village
 region: the-mirrowen
 controlled_by: the-provost
-connected_to: [the-buried-arena, the-ossuary]
+connected_to: [the-buried-arena, the-ossuary, the-plain, black-barrow]
 status: active
 first_session: S2.37
+last_session: S2.38
 tags: [stonehunger, grommars-path, dunton, settlement, survivors, underground, halflings]
 summary: A barricaded settlement of a couple of dozen patched-together houses deep inside the Stonehunger, where humans and halflings live under a Provost — the "Dunton" the gleaners spoke of as a rumour.
 ---
@@ -52,29 +53,72 @@ as the gleaners' chasm but still a substantial one.
 - Word of the party **spread before they woke**. Nobody gathers or stares, but people glance up at
   [[ketters-rest|the inn]] noticeably more than they otherwise would.
 
+## Who they are (S2.38)
+- **They are [[black-barrow|Black Barrow]]'s people.** The village was taken **twelve years ago**;
+  **forty-two** of them came down with [[the-high-priest|Greyface]], who cut a way into the ground for
+  them when there was no time to run. **Nineteen have died since**, mostly to the creatures out on
+  [[the-plain|the plain]]. There have been births and arrivals as well as losses — *"yes, we are fewer
+  than we were."*
+- **They were not the first.** They found **four people already living here**, who had been underground
+  perhaps **fifteen or sixteen years** before them and were *"three quarters mad, at least."* **Two are
+  still alive**, incoherent but cared for — nearly **a quarter of a century** beneath the earth.
+- **Until the party arrived, nobody had ever come through from outside.**
+- **The economy is pure redistribution.** Everything gathered goes to a **central store** and is
+  **rationed by need, not by who brought it in** — [[the-provost|the Provost]]'s policy, on the view
+  that they will not survive otherwise. They are poor but **not malnourished**.
+- **There is no temple**, no market, no entertainment; there is a man who straightens dented metal, and
+  that is as close to a blacksmith as it gets. [[fabian-perennius|Fabian]] gives the village the first
+  performance it has heard in twelve years.
+- **No contact with [[the-gleaners|the gleaners]].** Dunton sees them on the plain, finds them
+  **hostile**, and is afraid of them — rightly, since the gleaners could wipe them out by sheer numbers.
+- **The light is Greyface's.** He set the enchantments that light the village; the plain beyond is dark.
+- **The wards are not his.** Two lines of ward-marks in great half circles lie beyond the palisade, and
+  they **were here before Black Barrow's people arrived**. Greyface told them at the outset to stay
+  behind them.
+
 ## Sacrifice, and the Provost
 [[the-high-priest|The High Priest]] tells the party to say that **"God would prefer that your sacrifice
 wait for a more appropriate time"** — and that this should satisfy. [[varen|Varen]] the landlord
 receives that with evident discomfort and begins to say that sacrificing guests is not something he
 would be party to. He looks at the party **more with pity than with fear**.
 
-**What "sacrifice" means here is not established** — who performs it, on whom, how often, or whether
-the party was ever genuinely in line for it.
+**What "sacrifice" means here is still not established**, and S2.38 does not settle it. The party
+itself splits on the reading — [[fabian-perennius|Fabian]] takes it as **religious sacrifice** and
+spends some time working out how good a poker face the villagers would need for that to be ordinary
+here; [[mags|Mags]] counters that it may be **practical rather than religious**, closer to appeasing
+the creatures on [[the-plain|the plain]] than to worship. **Nobody put the question to
+[[the-provost|the Provost]] directly**, and she volunteered nothing about it.
 
-**[[the-provost|The Provost]]** is Dunton's authority. She is a woman; Varen says plainly that he
-**cannot hide the party from her** and that **she will have to be told**. The High Priest says she can
-direct them to [[the-ossuary|the Ossuary]], though he doubts she would want to go with them.
+**[[the-provost|The Provost]]** is Dunton's authority — **Yafet Em**, as she was called in the world
+above, a severe, armoured woman of about sixty-five who came down **six weeks after the others**,
+alone and fighting, and ended the disappearances into the Ossuary by walking into it herself.
+
+## What they make for Greyface
+Many of the villagers **make things for him** — and it is **banners and robes**, worked to **detailed
+patterns he supplies**, from **opulent cloth** nobody here could produce or has ever seen the like of.
+**[[kithri|Kithri]]** is the needleworker the party visits. She made **the bull banners** that hang in
+[[the-buried-arena|the arena]] — *"for a while he was mad about bulls"* — and is now a few weeks into
+**a manticore**, while **others have been working scorpion tails**, a design he is currently favouring.
+Banners tend to be **monsters**; robes and cloaks tend to be **trees and nature**.
 
 ## Events here
 - **S2.37:** The party arrives in the **early hours of the morning**, around four. They go to
   [[ketters-rest|Ketter's Rest]], invoke the High Priest, drink a rough mushroom spirit, and take their
   **first long rest in a long while** upstairs — [[caspian-talon|Caspian]] casting **Alarm** on the
   doorway and the party keeping watches anyway. The town wakes around them.
+- **S2.38:** They come down late in the morning to find **[[the-provost|the Provost]]** waiting in the
+  taproom with half a dozen villagers, and spend most of the day in conversation — first with her, then
+  with **[[kithri|Kithri]]**, who tells them what Greyface is. Fabian performs. They then walk north to
+  **[[the-ossuary|the Ossuary]]** at Greyface's invitation.
 
 ## DM notes
-- **Varen will go to the Provost at the earliest opportunity** — confirmed. He wants no part of whatever
-  is happening, and is otherwise as hospitable as his means allow.
-- **Why these people are here, and what they survived, is unasked and unanswered.** The party
-  deliberately deferred every question to "brunch."
-- [[mags|Mags]] asked whether anyone **woke oddly tired** after the night in Dunton. The answer was
-  deferred at the table and is still outstanding.
+- **Varen went to the Provost**, as promised, and she was waiting for them.
+- **Dunton is told to keep its mouth shut about theology, not about Greyface.** Nobody has been
+  instructed to hide what he is — [[kithri|Kithri]] says so plainly. What
+  [[the-provost|the Provost]] is careful about is **contradicting the inhabitants of the lower levels
+  about their Godhead**, on Greyface's advice.
+- **Nobody woke oddly tired.** [[mags|Mags]] asked, twice, whether the night here had cost them
+  anything. **It had not** — the rest was a clean one and the party is genuinely restored. Dunton is
+  not draining its guests.
+- **The nineteen dead were never commemorated.** Mags offered Naelos's rites; the Provost declined as
+  too awkward. The offer stands.

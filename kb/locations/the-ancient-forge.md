@@ -139,8 +139,11 @@ that a safe room is worth nothing once every route out of it is gone.
   the fresh scrape marks and the missing written material is the party's to make. Whether he also took
   **[[the-embedded-axe|the axe]]** from somewhere in the complex, or found it already in the minotaur,
   he does not say. The **campers in the rooms below** remain a separate and unexplained matter.
-- **Why the shrine chamber was spared.** The High Priest says the area *"was resistant for quite some
-  time"* and *"had a certain sort of energy which gives protection"* — and that it is the kind of place
-  that changes once *"some intrepid adventurers decide to disrupt things,"* which he credits the party
-  with doing. He does not say what he thinks they did, and the causal link is **his claim**, not an
-  established fact.
+- **Why the shrine chamber was spared — and what ended it.** The High Priest says the area *"was
+  resistant for quite some time"* and *"had a certain sort of energy which gives protection."* In
+  **S2.38** he says it again, flatly and to Caspian's face: *"you rather **carelessly undid that
+  protection**."* He still never says **what** the party did, and adds that it suited him: *"it gave me
+  the opportunity to conduct my little experiment. You might have been rather more resistant to
+  persuasion otherwise."* His standing advice now is that **holy places of any sort should be left
+  alone** — they are **sanctuaries in a very real sense down here**, because the
+  [[the-stonehunger|Stonehunger]] cannot digest concentrations of that kind of power.

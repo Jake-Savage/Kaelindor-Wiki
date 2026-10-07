@@ -50,3 +50,16 @@ He calls it **"my captive"**: *"should my captive give you any trouble, I would 
   used the phrase. Do not fuse the two.
 - **It has resisted twice now**, in S2.36 and S2.37, in front of the party. Whether that is sullenness
   or the beginnings of something slipping is unestablished.
+- **S2.38 — what it actually is.** [[the-high-priest|Greyface]] explains: the
+  [[the-stonehunger|Stonehunger]] *"has certain spirits of the earth which it uses as **its eyes and
+  ears**. The one that had custody of this area I have made tame."* So the thing he commands is one of
+  the Stonehunger's own **sense organs**, turned. He adds that it is *"difficult sometimes to control
+  it, but I can do so reliably,"* and that having it **makes this area relatively safe most of the
+  time**. The villagers of [[dunton|Dunton]] know only that *"there is a spirit of the stone here and
+  he commands it."*
+- **His command of it was acquired, not immediate.** A Black Barrow survivor remembers that at the
+  start *"that wasn't his servant always… he didn't always have such command of it. He's had to find
+  his place here."* **How he took it is unestablished.**
+- **The risk he is running.** If the Stonehunger **understood what he is and what he is doing here**,
+  Greyface does not think he would be in a position to continue — which makes a tamed eye of God a
+  dangerous thing to be holding.

@@ -21,7 +21,7 @@ relationships:
   - who: caspian-talon
     note: She tolerates his impiety and senses his evasiveness; they grudgingly come to get along.
 first_session: S1.05
-last_session: S2.37
+last_session: S2.38
 tags: [cleric, naelos, gnome, underdark, diplomat, nameweave, petrified]
 summary: A centuries-old gnome cleric of Naelos and the party's blunt, pragmatic moral anchor, who threads diplomacy between Greymere and the Eldryn and is briefly petrified into wood.
 ---
@@ -122,6 +122,23 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
   Her conclusion — *"so we have to be boring now"* — is the party's policy for the rest of the
   session. She also works out that [[the-arena-elemental|the thing opening the stone]] is **compelled,
   not charmed**, and takes the first watch in [[dunton|Dunton]].
+
+- S2.38: The party's reader of people and its conscience. She lays out the party's rations as a
+  gesture of welcome and watches **[[the-provost|the Provost]] confiscate ninety-five per cent of them
+  for the common store**, leaving one sausage for the ceremony — and takes it in good part. She reads
+  the Provost correctly throughout (**cautious, not worshipful**, about "God"; **ambivalent** about
+  Greyface), checks the two young soldiers for cracks and finds none. When
+  [[fabian-perennius|Fabian]] volunteers her to **commemorate Dunton's nineteen dead with
+  [[naelos|Naelos]]'s rites**, she agrees readily — and the Provost's refusal, as too awkward, tells
+  her more than acceptance would have. Her reading of the village is **"these are not believers;
+  these are hostages."** On the sacrifice she argues the sceptical line: it may be **practical rather
+  than religious**. At [[kithri|Kithri]]'s she asks the question that opens everything —
+  **"not robes for one person"** — and then establishes with a quiet word that nobody has been told to
+  keep quiet, which is what makes Kithri volunteer what Greyface is. She examines the opulent cloth and
+  concludes **nothing like it could have been made down here**. At the Ossuary her insight carries the
+  conversation, and her religion check on **[[the-balance|Greyface's theory of magic]]** half-places
+  it: she has heard **[[itharis|Itharis]] called the pivot point** before, but never what the pivot is
+  between.
 
 ## DM notes / secrets
 - Her undead-tinged bone shard (a Naelos relic of her own bones) keys the infernal "half in this world and half of another" doors in the Shifting Library (S2.08) — a detail worth remembering for her nature/longevity.

@@ -21,7 +21,7 @@ relationships:
   - who: shalfay
     note: Tower of Heaven employer and divination contact; Caspian still corresponds with him.
 first_session: S1.01
-last_session: S2.37
+last_session: S2.38
 tags: [scholar, wizard, divination, uthrel, vampire-suspicious, dragon-bones]
 summary: A coldly rational divination wizard obsessed with studying the Uthrel and dragon remains, who secretly dealt with the vampire Lucien and is evasive about what it cost him.
 ---
@@ -124,8 +124,34 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
   **probably [[undead-puppetry|a puppet]]**. He says nothing at the time, *"concerned people ask how I
   know,"* and shares the content next morning while **never naming the book**.
 
+- S2.38: The one who gets Greyface talking, and the one Greyface takes an interest in. At
+  [[kithri|Kithri]]'s he asks the craft questions nobody else would — whether the patterns carry
+  glyphs or wards, and then **draws a plausible-looking fake glyph** to see what she says, which is how
+  the party learns about **the two great half-circle ward-lines beyond the palisade**. He casts
+  **Detect Magic** over her materials while she talks (nothing). At [[the-ossuary|the Ossuary]] he
+  judges the bones **placed with great intentionality** and the whole structure **tuned to promote
+  certain kinds of magic**, the way a [[calvyr|Calvyr]] temple is — and deliberately **does not** cast
+  Detect Magic there, on the grounds that the place would simply blind him. With
+  **[[the-high-priest|Greyface]]** he nerds his way past the guard: he calls out that a man with that
+  staff in a place like this does not *guess*, which earns a long technical account of the tremor
+  signs, and then asks how he came to study so successfully — which draws the admission about
+  **surrogates** and the **worst side effects of this art**. He keeps his own sources back, citing
+  caution, and Greyface respects it. Greyface then **takes his bare forearm**, holds it a few seconds
+  and says **"that makes sense"** — and that they have **more in common than he had suspected**.
+  Caspian wants to study him more than he wants to leave. He ends the session **arguing Greyface out of
+  despair** — that as a wizard he of all people should know anything is capable of change, that that is
+  the point and the fun of it — and it lands.
+
 ## DM notes / secrets
 - Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. What passed between them is unresolved and worth keeping ambiguous.
 - Separately and unrelated to Lucien: in the necromantic library (S2.07) Caspian put a bloodied hand to a door, and [[mags]] later had that blood examined — it read as **undead blood**. Caspian claimed he had "changed his blood via magic." Mags was unconvinced but let it lie. The source asserts no "affliction," only this unexplained anomaly.
+- **S2.38 — somebody else has now noticed.** [[the-high-priest|Greyface]] took Caspian's bare forearm
+  mid-conversation, held it a few seconds with a cold dead hand, and said *"ah, yes. That makes sense.
+  That makes sense"* — then, **"it seems we have a little more in common than I had suspected."** What
+  he read is **the undead quality in Caspian's blood**. The party took the remark as flattery about
+  reading habits and let it go; Caspian said nothing and has still never explained the anomaly to
+  anyone. **He does not know what was read, and nobody else knows it was read at all.** Note that this
+  is a man who wears corpses and says he was *"educated in the principles of my craft from a very young
+  age"* — and who immediately afterwards says the temptation to keep Caspian is **quite strong**.
 - He retains [[kiona-dumois|Kiona]]'s [[codex-mortis]] notes (dangerous necromantic knowledge that reveals secrets over time).
 - His secret map back to the silver-dragon grove (S2.16) is a future flashpoint with [[dakir]] and the [[the-eldryn]].

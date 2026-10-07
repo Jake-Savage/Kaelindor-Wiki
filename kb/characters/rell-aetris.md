@@ -17,7 +17,7 @@ relationships:
   - who: trevick
     note: Comes to understand Trevick as one who has shed the trappings of humanity to live honestly.
 first_session: S1.05
-last_session: S2.37
+last_session: S2.38
 tags: [wizard, aberrant-mind-sorcerer, mind-magic, telepathy, tir-van, horizonborn, horizon-doors, masked, secretive]
 summary: A masked, reclusive Tir'Van who passes publicly as a wizard — secretly an Aberrant Mind sorcerer — whose lifelong search for the Horizon Doors makes him suspiciously excited when the party finds one — the tampered Bright Gate.
 ---
@@ -131,6 +131,18 @@ Morally, Rell is the party's harshest realist. He is bitter that the party "danc
   from disembowelling them — earns a long unreadable look. He asks afterwards whether the figure's
   **magical sensing** could have found him in the ethereal plane, and takes the last watch in
   [[dunton|Dunton]], listening to the voices downstairs without going down to meet them.
+
+- S2.38: Quiet, and useful at the margins. He links the party **telepathically** before they go down to
+  meet [[the-provost|the Provost]], which lets them confer in front of her all day — and argues against
+  Fabian's instinct to confide in her, on the grounds that **anything she knows goes to Greyface**. He
+  presses the point that the villagers **call the thing that eats everything God**, and asks whether
+  Dunton has any dealings with [[the-gleaners|the gleaners]] (it does not, and is afraid of them). His
+  best question is about **the changed** — why surface survivors of these collapses come out so
+  altered, almost entirely removed from who they were — which draws out the Provost's own unprompted admission that she does not think
+  she would have walked so eagerly into the earth *"there not being some sort of an influence."* In
+  [[the-ossuary|the Ossuary]] he asks after the bones and establishes they are **all broadly humanoid
+  but very diverse**, and is the one who names the **[[the-furnace-brood|Furnace Brood]]** to Greyface
+  and corrects the party's drifting account of its own brief.
 
 ## DM notes / secrets
 - **The "wizard" identity is a guise.** Rell is officially known as a wizard and deliberately never names a subclass. In truth he is an **Aberrant Mind sorcerer** (an "aberrant soul" sorcerer), masking his innate, aberrant power behind the studied respectability of wizardry — a concealment that fits the unsettling, many-eyed nature of the [[the-tir-van]].

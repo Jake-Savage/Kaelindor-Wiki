@@ -5,9 +5,9 @@ title: The Stonehunger Below
 status: active
 priority: main
 opened_session: S2.31
-last_updated_session: S2.37
-involves_characters: [caspian-talon, fabian-perennius, mags, trevick, rell-aetris, theodore, turley, glorta, tuffin, the-custodian, the-high-priest, the-undead-minotaur, the-arena-elemental, varen, the-provost]
-involves_locations: [kethrans-fold, the-mirrowen, the-stone-river, the-golden-courtyard, grommars-path, the-foul-pool, the-ancient-forge, the-buried-arena, dunton, ketters-rest, the-ossuary]
+last_updated_session: S2.38
+involves_characters: [caspian-talon, fabian-perennius, mags, trevick, rell-aetris, theodore, turley, glorta, tuffin, the-custodian, the-high-priest, the-undead-minotaur, the-arena-elemental, varen, the-provost, kithri, roscoe]
+involves_locations: [kethrans-fold, the-mirrowen, the-stone-river, the-golden-courtyard, grommars-path, the-foul-pool, the-ancient-forge, the-buried-arena, dunton, ketters-rest, the-ossuary, the-plain, the-keep, black-barrow]
 factions: [the-gleaners]
 tags: [stonehunger, gleaners, kethrans-fold, mirrowen, devourer, underground]
 summary: Beneath Kethran's Fold the party discovers it stands inside a living, moving devourer — the Stonehunger the gleaners worship as "God" — and must decide how deep to go, and what it truly is, before it "goes below" and moves on.
@@ -182,6 +182,32 @@ crushing whatever has no "place."
   [[codex-mortis|Kiona's notes]] and concludes the High Priest was **probably
   [[undead-puppetry|a puppet]]** for someone else — which he does not say aloud.
 
+- S2.38: A day of talking, and the largest lore haul of the arc. In [[ketters-rest|the taproom]]
+  **[[the-provost|the Provost]] — Yafet Em** — lays out [[dunton|Dunton]]: **forty-two** survivors of
+  **[[black-barrow|Black Barrow]]**, taken **twelve years ago**, **nineteen** dead since, strict
+  rationing by need, no contact with the hostile [[the-gleaners|gleaners]], and **two incoherent
+  survivors** who have been underground a quarter of a century. Beyond the palisade lies
+  **[[the-plain|the plain]]** — dark, shifting, scattered with deposited masonry, roamed by large
+  magical insect-things — and beyond that **[[the-keep|the Keep]]**, which guards **lower levels** she
+  has never seen. *"This is a clearinghouse. A processing centre."* Then **[[kithri|Kithri]]** the
+  needleworker, who made **the arena's bull banners** to Greyface's patterns and is now weeks into **a
+  manticore** while others work **scorpion tails** — and who assumes the party already knew that
+  Greyface is wearing **[[roscoe|Roscoe]]**, a villager killed under a year ago, and that **Dunton's
+  dead are taken to [[the-ossuary|the Ossuary]]**. [[fabian-perennius|Fabian]] recalls that **Elvish
+  armies are rumoured to practise necromancy** and that the League **burns its own dead** so no body
+  can be taken (see [[elvish-necromancy]]). At **[[the-ossuary|the Ossuary]]** — an ancient bone-temple
+  swallowed whole and **almost entirely intact**, arranged to promote certain magics —
+  **[[the-high-priest|Greyface]]** receives them and talks far more than he means to: he **confirms
+  the surrogates**, calls himself **an exile lying low**, says he was **educated in his craft from a
+  very young age**, and gives the fullest account yet of the [[the-stonehunger|Stonehunger]] — **a
+  damaged living thing, imprisoned long ago with its fellows and escaped**, too weak now to do more
+  than eat the odd village, which uses **earth spirits as its eyes and ears** and **cannot digest holy
+  ground**. He takes [[caspian-talon|Caspian]]'s bare arm, says **"that makes sense"**, and remarks
+  they have **more in common than he had suspected**. He warns that the place will **submerge again
+  within days or a week** and that they should leave. Then he expounds **[[the-balance|magic as a
+  balance]]** with **[[itharis|Itharis]] as its pivot**, collapses into fatalism, and is argued back
+  out of it by Caspian. **The session ends before his reply.**
+
 ## Open threads
 - **What is the Stonehunger, truly?** Corroborated as a real, vast, moving devourer the party is
   **inside** — but whether it is a deity, a living titan/beast, an ancient construct, or something
@@ -245,17 +271,37 @@ crushing whatever has no "place."
 - **What is the "certain sort of energy which gives protection"**, which held the forge's shrine and
   holds [[dunton|Dunton]] and [[the-ossuary|the Ossuary]]? And **what did the party do to break the
   forge's**? The High Priest asserts they did; he does not say how, and the claim suits him.
-- **What does "sacrifice" mean in [[dunton|Dunton]]?** The party was told to say God has decreed theirs
-  can wait. [[varen|Varen]] reacted with discomfort and **pity**, and began to disclaim any part in it.
-  Who is sacrificed, by whom, and how often is unestablished.
-- **Why did the High Priest improve Dunton's lot?** [[varen|Varen]] says a healer *"would have changed
-  everything"* before he came, and that they now lack little in that regard. His motive is unstated.
-- **Who is [[the-provost|the Provost]]?** A woman, Dunton's authority, already being told about the
-  party, and able to direct them to [[the-ossuary|the Ossuary]].
+- **What does "sacrifice" mean in [[dunton|Dunton]]?** Still open after S2.38 — and now ambiguous in a
+  new way. [[mags|Mags]] argues it may be **practical rather than religious** (the Provost mentions
+  leaving out meat for the beasts); [[fabian-perennius|Fabian]] reads it as religious. Nobody asked
+  outright.
+- **Who imprisoned the Stonehunger, and what were "its fellows"?** [[the-high-priest|Greyface]] has
+  tried and failed to learn it. He dates the imprisonment to **around the time
+  [[the-ossuary|the Ossuary]] was built**. **Where the others are is not addressed at all.**
+- **Whose temple is the Ossuary?** Its symbols are recognised by nobody, it resembles nothing else on
+  the way down, ossuaries are not a normal thing in this world, and [[the-provost|the Provost]] has
+  heard it was *"a particularly unpleasant one."* **What its bone-arrangement is tuned to promote** is
+  stated to matter and never named.
+- **Who cut the ward-lines beyond the palisade** — two great half circles in stone, which **predate
+  Black Barrow's survivors** — and what are they holding out?
+- **What is [[the-high-priest|Greyface]] in exile from?** He will not say where he is from, who taught
+  him, or why he must lie low. His face became elf-like when the magic came; see
+  [[elvish-necromancy]] for what little the party could dredge up, and **do not treat that as a link**.
+- **[[the-high-priest|Greyface]] has read [[caspian-talon|Caspian]]'s blood — and the party has no
+  idea.** What he found by touching the bare skin is the **undead quality** in it, unexplained since
+  S2.07. *"We have a little more in common than I had suspected"* is literal. **What the commonality
+  is, and what he now takes Caspian for, are open** — as is what he does about it, given that he said
+  in the same breath that the temptation to keep them was quite strong.
+- **Is [[the-balance|his account of magic]] Itharian doctrine or his own?** [[mags|Mags]] could not
+  place it. And **who is the "ours"** whose understanding he says is also out of balance?
+- **Why was [[black-barrow|Black Barrow]] taken days after a stranger with serious magic arrived in
+  it?** [[the-provost|The Provost]] calls it *"a strange coincidence"* and leaves it there.
+- **Why did the Provost go down?** She says she does not believe she would have walked so eagerly into
+  the earth *"there not being some sort of an influence."*
+- **Where did the opulent cloth come from?** [[mags|Mags]] finds no evidence it could be made down
+  here. Greyface *"travels more widely than we do."*
 - **Could the puppet's magical sensing see [[rell-aetris|Rell]]** while he was blinking into the
   ethereal plane? All the party has is that **it did interact with him**.
-- **Did anyone wake oddly tired** after the night in Dunton? [[mags|Mags]] asked; the question was left
-  hanging.
 - **What is the [[the-golden-courtyard|courtyard]], and the [[the-golden-dragon-statue|gold dragon]]
   on its plinth?** A monumental, undecayed dragon statue in a decaying buried courtyard the gleaners
   have not stripped. Unexplained, and **not** to be linked to
@@ -266,18 +312,24 @@ crushing whatever has no "place."
   built this complex.
 
 ## Leads / next steps
-- **Meet [[the-provost|the Provost]] in [[dunton|Dunton]].** She is being told about the party as they
-  sleep, and the town is awake and watching the inn. The party's stated plan is to answer every
-  question it deferred — who these people are, what they survived, and what the sacrifice is — "over
-  brunch."
-- **The party is rested at last.** A full long rest at [[ketters-rest|Ketter's Rest]], the first proper
-  adventuring day's recovery in a long while.
-- **[[the-ossuary|The Ossuary]]**, where the High Priest says he lives, and where the Provost can
-  direct them.
-- **Caspian owes the High Priest scholarship.** [[fabian-perennius|Fabian]] offered him up as a
-  "wiz hand with all things magical and dwarven" to help study
-  **[[the-embedded-axe|the axe]]** — as a way of getting rid of him — and he **took it completely
-  sincerely**. He expects another conversation.
+- **Hear [[the-high-priest|Greyface]] out.** The session ends mid-conversation:
+  [[caspian-talon|Caspian]] has just argued him out of his fatalism and **his reply is the first thing
+  that happens next**.
+- **There is a hard clock now.** Greyface says the Stonehunger will **submerge again within days, a
+  week perhaps**, and that if the party does not want to go down with it they should **get back to the
+  surface**. He reads it off the tremors and the gleaners. He also says, pointedly, that **he thinks
+  they should leave**.
+- **[[the-keep|The Keep]], across [[the-plain|the plain]].** Fabian's conclusion is that they have to
+  get there. It means crossing a dark, shifting landscape of **large hostile creatures**, by a
+  direction that holds only until the next dive.
+- **Leave holy places alone.** Greyface's explicit advice: they are **sanctuaries** in a very real
+  sense down here, and the party has already wrecked one by accident.
+- **No sign of the [[the-furnace-brood|Brood]] at all.** See [[the-korrathian-conspiracy]].
+- **Dunton has offered the party a place** if they want to stay, and the nineteen dead are still
+  uncommemorated.
+- **The sample.** Rell is carrying a smear of the [[the-stonehunger|Stonehunger]]'s exposed substance
+  in a sealed potion vial. Nobody has tested it.
+- **The blank scraps** from the forge shrine are still in [[caspian-talon|Caspian]]'s pocket, untested.
 - **There is no way back at all.** The gate above sealed in S2.33, the carving below was wrecked in
   S2.35, the forge collapsed in S2.36, and the arena's passage closed behind them in S2.37. Everything
   is forward — against a clock that is still running.

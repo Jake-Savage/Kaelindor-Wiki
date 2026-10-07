@@ -21,6 +21,19 @@ Itharis is the deity of **transitions, death, change, and thresholds** — endin
 - **[[shadows-meet|Shadows Meet]] (the Vigil)** — an Itharian festival on the 1st of Ithar's Veil, beginning at dusk and running through the night, at which masks are worn. It is one of the few Itharian rites that is not secret, and the public celebration is open for anyone to join. It draws heavy pilgrimage to [[greywatch]] (S2.28). Its night unfolds at unannounced places around town, and **perception-altering brews** (such as the gnomes' "the bad idea") are typical of Itharian rites, intended to induce a liminal, threshold state of awareness (S2.29).
 - **Two powers in the Mirrowen (S2.29):** townsfolk assume the Itharian Church effectively controls [[greywatch]]'s council, but there is **no formal relationship**; the common saying is that the [[the-mirrowen|Mirrowen]] has two powers — the Itharian Church and [[drake-mount|Drake Mount]] — and no one knows how much they act in concert, because the Itharians are so secretive.
 
+- **Itharis as the pivot (S2.38).** [[the-high-priest|Greyface]], expounding
+  [[the-balance|his theory of magic]], places Itharis at the centre of it: magic is **not a scale from
+  good to evil but a balance** — generative life on one side, **unlife, destruction, stifling and iron
+  control** on the other — *"and between them, Itharis, the pivot point, the balance."* He adds that
+  everyone's understanding of this is now badly out of true, **his own side's included**.
+  [[mags|Mags]] has heard **Itharis described as the axis or pivot point** in Itharian contexts before
+  — but either she does not know, cannot remember, or it was never made clear **what the goddess is
+  supposed to be the pivot between**. Whether Greyface's version is orthodox, heterodox, or not
+  Itharian doctrine at all is **unresolved**.
+
 ## Open questions
+- **What is Itharis the pivot between?** The Church's public teaching frames her around transitions,
+  death and thresholds. Greyface frames her as the balance point of a two-sided magical spectrum. See
+  [[the-balance]].
 - Why was the last **Passing Shadow** appointed 300 years ago, at the founding of the Elenfain — the same era as the [[the-disappearance-of-dragons|disappearance of the dragons]]? What "world-altering change" was foreseen?
 - Is Wicklow truly an Itharian priest, and did the Path carry out Kroll's death-ritual? (S2.24, S2.26.)

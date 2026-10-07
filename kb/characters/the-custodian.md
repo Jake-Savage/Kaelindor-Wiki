@@ -96,3 +96,9 @@ Grommar's Path.
   links it to the custodian** beyond being the same kind of creature — the custodian's talk of
   "brothers below" is still only its own account, and the High Priest has never used the word.
   **Who, if anyone, binds the custodian remains separately unknown.**
+- **S2.38 — "the eyes of God" is literal.** [[the-high-priest|Greyface]] states that the
+  [[the-stonehunger|Stonehunger]] *"has certain spirits of the earth which it uses as **its eyes and
+  ears**."* That is independent corroboration of the custodian's own account of its office in S2.33 —
+  it really is a sense organ of the thing, not a servant with a post. **Whether its "brothers below"
+  are the same kind of spirit, and whether any others have been tamed the way
+  [[the-arena-elemental|the arena's]] has, is still unestablished.**

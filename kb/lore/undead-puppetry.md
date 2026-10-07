@@ -56,17 +56,34 @@ building, say, can prepare the ground for it. Out in open country the range is c
 Magically, not mechanically — it is not mended like a [[constructs|construct]]. But **ordinary healing
 magic will not do it**: it takes **necromantic magic belonging to this same discipline**.
 
+## What the practitioner says (S2.38)
+[[the-high-priest|Greyface]] adds three things the book does not:
+
+- **Surrogates are protective.** They *"protect me from some of the **worst side effects of this
+  art**."* What those side effects are, he does not say — and the party did not ask.
+- **He uses them in the plural**, as a matter of course, *"to distance myself a little."*
+- **Dunton supplies them.** The standing arrangement is that **the village's dead are taken to
+  [[the-ossuary|the Ossuary]]** — *"when someone died, we took them to the Ossuary, but not before
+  that."* The bodies **deteriorate** over time, and when one wears out or an accident offers a fresh
+  one, he **"takes the opportunity to renew things."**
+
+Observed from outside, the magic reads as **clearly powerful — but more than that, very weird**. It is
+**not like anything any of the party has heard of anyone doing**.
+
 ## The strange part
 **This magic does not work like other magic.** Caspian is used to learning across schools and adapting
 between them — this principle, and most of what the book describes, **feels different in kind from any
 magic he has encountered**. His attempt to work out why got him nowhere.
 
 ## Open questions
-- **Who is working [[the-high-priest|the High Priest]]?** That he **is** a puppet is the working truth
-  — Caspian's reading, never confirmed in the fiction and never tested by the party, but the frame
-  everything about him should be read through. **Who holds him, and from where, is completely
-  unknown.** The range limit means the operator is either nearby or has prepared relay points; and the
-  figure is a *fresh* undead in a temple complex that is ancient.
+- **Who is working [[the-high-priest|the High Priest]]? — confirmed as a puppet in S2.38, operator
+  still unknown.** He says it himself, twice: *"the use of **surrogates**, such as this, protect me
+  from some of the worst side effects of this art"* and *"yes, I **employ surrogates** such as this to
+  distance myself a little."* The body is **[[roscoe|Roscoe]]**'s, a Dunton villager killed less than a
+  year ago; the one before lasted **six or seven years**; and the whole of Dunton knows. **Where the
+  operator actually sits, and what he is, remain unknown** — he is somewhere able to reach
+  [[the-ossuary|the Ossuary]], he calls himself **an exile** who is **lying low**, and he is **not free
+  to come and go**.
 - **Could it perceive [[rell-aetris|Rell]]?** Rell spent part of the encounter blinking in and out of
   the ethereal plane and asked whether the puppet's magical sensing would have found him there. The
   only answer the party has is that **it did interact with him**. Unresolved.
