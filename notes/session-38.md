@@ -1,385 +1,252 @@
 # Session 38 - 06/10/2026
 
-The morning after. The party has slept late in the room above Ketter's Rest, taking the full rest it has been owed for days, and wakes in the late morning to a settlement that already knows exactly who is upstairs.
+The morning after. The party has slept late in the room above Ketter's Rest and taken the full rest it has been owed for days. Nobody wakes tired; whatever else this place is, the night has cost them nothing.
 
 ## Ketter's Rest
 
-Nobody wakes tired. Whatever else this place is, the night has cost them nothing.
+Rell links the party telepathically before they go downstairs, which gives them an hour in which they can confer in front of whoever is waiting. The strategy discussion is short. They have been vouched for by the High Priest, in the sense that their sacrifice has been deferred rather than cancelled, and they conclude there is nothing to gain by lying low. The open question between them is what they actually want from this place: passage through, or an understanding of what is happening here.
 
-Before going down, Rell links the party telepathically. The link will hold for an hour, which is enough to confer in front of whoever is waiting.
+The voices below hush as they come down. By the time they appear there are half a dozen people in the taproom, all looking at them, and all of them looking at a woman.
 
-The strategy discussion is brief. They have been vouched for by the High Priest, in the sense that their sacrifice has been deferred rather than cancelled, and they decide there is nothing to gain by lying low. Mags's instinct is to go down and have it out. The open question among them is what they actually want out of this place: to be let through, or to find out what is happening here.
-
-They come down the stairs. The voices below hush as they do, and by the time they appear there are half a dozen people in the taproom, all looking at them, and all looking at a woman.
-
-She is somewhere in her mid to late sixties, severe, and unmistakably in charge. She is wearing actual armour, battered but well cared for: it has taken a great many knocks over the years and someone has made an effort with it since. She does not look angry. She looks like a person who would very much prefer this had not happened and expects it to bring trouble.
-
-Fabian nudges Mags and observes that the two of them will get along.
+She is in her mid to late sixties, severe, and unmistakably in charge. She is wearing real armour, battered but well cared for — it has taken a great many knocks over the years and someone has maintained it since. Mags reads her as neither angry nor pleased: she is a woman who would much prefer this had not happened and who expects it to bring trouble. Fabian nudges Mags and observes that the two of them will get along.
 
 ## The Provost
 
-She welcomes them and calls for refreshments, and the landlord fetches out some fairly sorry food and something steeped that is not tea. Mags produces the party's own rations to make the meal more welcoming, and the Provost asks, pointedly, whether they intend to contribute those to the village.
+She welcomes them and calls for food, and the landlord produces something sorry-looking and an infusion that is not tea. Mags adds the party's own rations to make the meal more welcoming, and the Provost asks pointedly whether they intend to contribute them to the village. Told that sharing at a first meeting is customary where Mags comes from, she gathers up all of it bar roughly a mouthful, sends it to the collective stores for distribution in the normal course of things, and ceremonially divides what is left so that everyone present gets a bite. She is careful to say that it is not compulsory and that they are guests, but that it is appreciated. The arrival of that much food draws visible attention, and nobody questions her.
 
-Mags says that in her culture it is customary to share at a first meeting. The Provost gathers up all of it bar roughly a mouthful, sends it off to the collective stores to be distributed in the normal course of things, and ceremonially divides what remains so that everyone present gets a bite. The ceremonial requirement has been met. She is careful to say it is not compulsory and that they are guests, but that it is appreciated.
+That exchange is the clearest statement of how Dunton works. Everything gathered beyond the palisade goes to a central store and is distributed by need rather than by who brought it in. There are old people here and some very young children, and the Provost's position is that they do not survive on any other arrangement. The villagers are poor, but they are not hungry.
 
-The appearance of that much food causes visible attention. Nobody questions her.
+Asked her name, she shrugs and gives it once, as something that has stopped applying: her name in the world above was Yafet Em, and it has not been relevant for many years. They may call her Provost. Her account of the role is that she does her best to keep these people alive, and with some hope.
 
-The party learns the following about Dunton:
+She tells them what this place is before they can tell her. It consumes places and people. Most of them came from a village called Black Barrow, a small place that had stood for generations even in these difficult lands, destroyed some twelve years ago. They found a few people already down here when they arrived, who had been here much longer. Until this party walked in, no survivors had ever come through from outside.
 
-- The people are poor, but not malnourished, and not hungry.
-- Resources are gathered beyond the palisade and brought to a central store, then distributed by need rather than by who brought them in. There are old people here and some very young children, and the Provost's position is that they do not survive any other way.
-- Her own role, as she puts it: "I do my best to keep these people alive, and with some hope."
+She had already worked out that the thing had surfaced again. Material eventually gets deposited out past the palisade, and there have been fresh finds there some weeks ago — things she was sure had come from the surface. Told they are beneath another, more recently ruined village, she takes it as confirmation.
 
-Fabian introduces the party and asks her name. She shrugs.
+## What Dunton Knows About Greyface
 
-- "It's so long since anyone's called me anything but Provost. Well, my name was in the world above, Yafet Em. But that has not been relevant for many years. You may call me Provost."
+The palisade is the main way in and out. Greyface, she says, has the power to command the openings and closings of the rock, as far as she can tell wherever he likes, though he would probably dispute that.
 
-She asks how much they know about what this place is, and then tells them.
+When Fabian supplies the title High Priest, her lip gives a wry twist. Mags watches her closely through the whole of what follows and reads her consistently: she does not take the title entirely at face value, she feels distinctly ambivalent about him, she is respectful up to a point and no further, and she keeps returning to the sense that none of this is going to do her any good. She is not being deceptive. She is being careful.
 
-- It consumes places, and people.
-- Most of them came from a village called Black Barrow, destroyed some twelve years ago. It had stood for many generations even in these difficult lands.
-- They found a few people already down here when they came, who had been here much longer.
-- She assumes they are still beneath the Mirrowen. Told that they are beneath another, more recently ruined village, she says she had assumed it had surfaced again: there have been fresh finds out past the palisade, where material eventually gets deposited, some weeks ago now.
-- Until the party arrived, there have been no survivors through.
+She shares his history on the grounds that he has given her no instruction to withhold it. He was there when Black Barrow was taken. He had come to the village some days earlier as a traveller, which was not an unusual thing, with a guide, saying he had business further south, and had stayed a few nights. Then the disaster happened. She calls it a strange coincidence and does not press the point.
 
-## Greyface, As Dunton Tells It
+One of the young men with her lived through it and fills in the rest. It was early in the morning and the first folk had just got up to feed the animals. There was a great noise and most of the village was buried at once. Their quarter was spared longer, and the people in it came out into the streets crying and shouting. Greyface was there. He gathered everyone he could find and told them to go in rather than run — into the lee of the slip — because there would not have been time to get clear and most of them would have been caught. He worked magic that sheltered them first and then cut a way through, and a little distance down it opened out, and it was not a rockslide at all but a great cavern.
 
-Asked how the town connects to the rest of the labyrinth, she says the palisade is the main way in and out, and that Greyface has the power to command the openings and closings of the rock, as far as she can tell wherever he likes, "although he would probably dispute that."
+Crucially, the Provost is clear that he was not dead then. He was an unusual man by every account, but a living one.
 
-When Fabian supplies the title High Priest, her lip gives a wry twist. Mags reads her carefully: she does not take the title entirely at face value, feels distinctly ambivalent about him, is respectful up to a point and no further, and keeps returning to the sense that none of this is going to bring her any good.
+On what he does here, she is more guarded. He has made some sort of accommodation that buys the settlement peace, and without it they would not have survived as long as they have. Needled about how selfless that sounds, her face hardens and she begins to say that he does have requests, but that he has moderated them — and the sentence goes somewhere else. He has little need for food and little interest in anything they can give him; the traffic, she says, runs rather the other way when times are hard.
 
-She tells them his history, noting that he has given her no instruction to keep it, so she supposes it can do no great harm.
+What he does for them is concrete enough. He helps when people are sick. When food is scarce, what he provides keeps them going without anyone having to take excessive risks beyond the palisade. The light in and around the village is his enchantment. And he keeps people busy with projects — study, he calls it, though she has never had the inclination to ask what he is studying.
 
-- He was there when Black Barrow was taken. He had come to the village as a traveller, which was not unknown, with a guide, saying he had business further south. He stayed a few nights, and then what happened happened. "It was a strange coincidence."
-- He was not dead then. "No, he wasn't dead, although by all accounts he was an unusual man even then."
-- When it happened he gathered together everyone he could find and led them down here past all sorts of dangers. Not a quarter of the village. But some. "And for that, I have to be grateful to him."
+She also confirms, without ceremony, that there is a spirit of the stone here and that he commands it. One of the young men adds something she does not: that it was not always so. At the start it was different. He did not always have such command of it, and he has had to find his place here, as they all have.
 
-One of the young men with her was there, and fills it in:
+The party asks whether he has kept all of them alive, and he has not. They must go beyond the palisade often, and there are risks. Forty-two people came down with him, not counting the Provost, who came later. Nineteen have died since. There have been arrivals and births as well as losses, but they are fewer than they were.
 
-- It was early in the morning. The first folk had just got up to feed the animals.
-- There was a great noise and most of the village was buried at once. Their part was spared longer, and they came out into the streets crying and shouting.
-- Greyface was there. He got everyone together and said they should go in rather than run away, that they should get into the lee of the slip, that he would make a way.
-- He did. Some sort of magic sheltered them first, and then cut a way through. A little distance down it all opened up, and it was not a rockslide at all. It was a great cavern.
-- There would not have been time to run. Most of them would have been caught.
+Fabian offers Mags's services to commemorate the dead properly in Naelos's name, and Mags agrees readily. The Provost looks conflicted and refuses. It is a kind offer, kindly received, but such a thing could be awkward, and they must be careful here. Pressed by Mags on what exactly she is careful of, she explains: the other inhabitants of this place regard their Godhead as being all around them, and Greyface has told her it would be imprudent to contradict that interpretation openly. She maintains a neutrality. Greyface, perhaps, prays for all of them — perhaps so that they do not have to.
 
-On what he does here, and what he wants:
+She does believe the prayers work. He is a cleric of sorts, she says, and she has seen it: he can heal, and he can conjure nourishment where there was only rock and bone, as many holy folk can. And then, almost in passing, she adds that he is not the only priest. In the levels below there are very, very many of them, and they are seen out on the plain sometimes.
 
-- He has made "a sort of accommodation, one that buys us peace." Without it they certainly would not have survived as long as they have.
-- Needled about how selfless that is, her face hardens. "He does have requests. But he has moderated—" and the sentence goes elsewhere.
-- He has very little need for food and little interest in anything they can offer him. "Indeed, the commerce rather goes the other way when times are hard." There is no harm in making offerings regardless.
-- He helps when folk are sick. When food is scarce, what he gives them keeps them going without people having to take too many risks.
-- And he keeps folk busy. He has projects. "Study, he calls it, although what he's studying I have never quite had the inclination to ask."
-- There is a spirit of the stone here and he commands it; it opens and closes at his bidding. One of the young men adds that it was not always so. "That wasn't his servant always. When we first came here, it was different. He didn't always have such command of it. He's had to find his place here. Well, like we have done, I suppose."
-
-The party asks whether he has kept every one of them alive. He has not. Anytime they go beyond the palisade, as they must often, there are risks.
-
-- Forty-two folk came down here with Greyface, not counting the Provost, who came later.
-- Nineteen have died since. There have been additions as well as losses, but they are fewer than they were.
-
-Fabian offers Mags's services to commemorate the dead properly with Naelos. Mags agrees readily. The Provost looks conflicted, and refuses.
-
-- "A kind offer. A very kind offer, and kindly received. But such a thing could be awkward. We have to be a little careful here."
-
-Careful about what, Mags asks, with wide-eyed innocence. The Provost explains: they have met Greyface, who styles himself High Priest, and they have probably met other inhabitants of this place, who regard their Godhead as being all around them. Greyface has told her it would be imprudent to obviously contradict that interpretation.
-
-- "I maintain a neutrality. Greyface, perhaps, prays for all of us. Perhaps so that we might not have to."
-
-She does believe the prayers work. Greyface is "a cleric of sorts" — she has seen it. He can heal, and he can conjure nourishment where there was only rock and bone, as many holy folk can.
-
-And then, almost in passing: "He is not the only priest. In the levels below, there are very, very many of them. We see them upon the plain sometimes."
-
-## Beyond the Palisade
+## Beyond The Palisade
 
 Asked what lies out there, she names two things: the plain, and then the keep.
 
-- The keep stands above what she understands are the lower levels of this place. She has never seen them and does not wish to.
-- It is not the bottom. The keep guards the lower levels; she does not know how many more lie beneath it.
-- "This is a clearinghouse. A processing centre. These are things not yet fully absorbed, or things that cannot be fully absorbed. There are other places intact, protected."
-- The Ossuary is close, with several routes to it. It is where Greyface has made his home. "I believe it was a temple of sorts once. A particularly unpleasant one."
-- No one travels through. There are no pilgrims to that place. For most of the last dozen years they have been far deeper underground than they are now, and the temptation to make it back to the surface has been profound, but Greyface does not wish to go, and she saw enough coming in to know most of them would not make it.
+The keep stands above what she understands are the lower levels of this place. She has never seen them and does not wish to. It is not the bottom — the keep guards the lower levels, and she does not know how many more lie beneath it. Her summary of where they are standing is the bleakest thing she says all morning: this is a clearinghouse, a processing centre, for things not yet fully absorbed or things that cannot be fully absorbed. There are other places down here intact and protected.
 
-The plain itself:
+The Ossuary is one of them, and it is close, with several routes to it. It is where Greyface has made his home, and she has heard it was a temple of sorts once — a particularly unpleasant one. Nobody travels through this place and there are no pilgrims to it. For most of the last dozen years they have been far deeper underground than they are now, and the temptation to make it back to the surface has been profound, but Greyface does not wish to go, and she saw enough on her own way in to know that most of them would not survive the attempt.
 
-- A great open place, with a stone ceiling above and the floor running on as far as can be seen in the gloom. No grass, no trees. They named it for what it reminds some of them of.
-- It is dotted with piles of masonry, remains of buildings, and things sticking up. According to the villagers these are not always in the same place. The landscape moves.
-- It is dark. The light around the village is Greyface's doing; he set up those enchantments. The plain is unlit.
-- They know which direction the keep lies in and the direction has stayed consistent, though most of them have never gone far enough to see it. Greyface has warned them that once the thing submerges again, things may move around far more profoundly.
-- The routes to the Ossuary run north out of the palisade, through rocky pillars that gradually roof over into something more like a cave system. Which of them are open at any given time is understood to be Greyface's decision.
+The plain itself is a great open space with a stone ceiling above it and a floor that runs on as far as can be seen in the gloom. No grass, no trees; they named it for what it reminds some of them of. It is scattered with piles of masonry, the remains of buildings, and things sticking up — and according to the villagers those features are not always in the same place. The landscape moves. It is also dark: the light belongs to the village, and the plain has none.
 
-And the creatures:
+They know which direction the keep lies in and that direction has held, though most of them have never gone far enough to see it. Greyface has warned them that once the thing submerges again, things may move around far more profoundly, and they are expecting it. The routes to the Ossuary run north out of the palisade, through rocky pillars that gradually roof over into something closer to a cave system; which of them are open at any given time is understood to be Greyface's decision.
 
-- Broadly insect-like or crab-like, and quite large. Magical rather than ordinary, but not constructs and not mechanical. Not quite alive, either.
-- They move in packs, and can usually be avoided if you watch for the signs. They do not need light.
-- They are edible. The villagers occasionally kill and eat one that is injured or alone, but it is dangerous enough that it is an unusual thing to do.
-- Most of the people who have died out gathering have died to these.
+The creatures on the plain are the reason most of Dunton's dead are dead. The party learns:
 
-On the gleaners: Dunton knows of them and sometimes sees them on the plain, but there is no relationship at all. The gleaners they meet are very hostile. Dunton saw their numbers on the way down and is afraid of them, and believes they have the numbers to wipe the settlement out entirely.
+- They are broadly insect-like or crab-like, and quite large. They read as magical rather than ordinary — but not as constructs, and not mechanical. Not quite alive, either.
+- They move in packs, and can usually be avoided by anyone watching for the signs.
+- They do not need light and see perfectly well in the dark.
+- They are edible, and the villagers will occasionally kill and eat one that is injured or alone, though it is dangerous enough to be an unusual thing to do.
 
-Rell asks a question nobody else has thought to ask: on the surface, those left behind after one of these collapses are often changed, almost entirely removed from the people they were. Does she know anything about that?
+On the gleaners, there is no relationship at all. Dunton knows they exist and sees them on the plain from time to time, but the ones they meet are very hostile. They saw the gleaners' numbers on the way down, and they believe those numbers are enough to wipe the settlement out entirely. On what the party saw at the chasm, they are right.
 
-The Provost sighs heavily. In Black Barrow almost everyone died, but a few got out, and yes, they were shaken. She spoke to two of them herself. And then she volunteers something nobody asked for:
+Rell asks the question nobody else thinks to ask: on the surface, those left behind after one of these collapses are often changed — not merely shaken, but almost entirely removed from the people they were. Does she know anything about that?
 
-- "This place has a strangeness to it. I was away from home when what happened happened. When I heard, I went back. I was minded to search for those that I had lost. But I don't know that I would have so eagerly walked into the bowels of the earth as I did, there not being some sort of an influence. There is a strangeness."
+She sighs heavily. In Black Barrow almost everyone died, but a few got out, and yes, they were shaken; she spoke to two of them herself. And then she volunteers something she was not asked. This place has a strangeness to it. She was away from home when it happened, and when she heard, she went back, meaning to search for those she had lost. But she does not believe she would have walked so eagerly into the bowels of the earth as she did without some sort of influence on her.
 
-Told the changed are not merely shaken, she says that then perhaps they have more to be grateful to Greyface for than she thought. The survivors they found already living down here were three quarters mad at least — tough, every one of them, but not the people they had been. She had put it down to long isolation. There were four. Two are still alive, not coherent, cared for as best they can. They had been here fifteen or sixteen years before Black Barrow fell, which would mean they have been beneath the earth almost a quarter of a century.
+Told the changed are more thoroughly changed than that, she says that then perhaps they owe Greyface more than she thought. The survivors they found already living here were three quarters mad at least — tough, every one of them, but not the people they had been. She had put it down to isolation. There were four of them. Two are still alive, not coherent, cared for as well as the village can manage. They had been here fifteen or sixteen years before Black Barrow fell, which would put them beneath the earth for close to a quarter of a century.
 
-She offers the party a place here, if they wish to remain.
+Before they go, she offers the party a place in Dunton if they wish to stay.
 
 ## Kithri
 
-One of the young men mentions, in passing, that many folk make things for Greyface. His mother does: banners, mostly, and sometimes robes. The party goes to see her.
+One of the young men mentions in passing that many people make things for Greyface, and that his mother does: banners, mostly, and sometimes robes. The party goes to see her.
 
-Her house is full of sewing and embroidery, and of cloth that does not belong in Dunton at all. Everything else down here is basic. This is opulent — rich, fine, nobleman's stuff. She strokes it as she talks about it.
+Her house is full of sewing and embroidery, and of cloth that has no business being in Dunton. Everything else down here is basic; this is opulent — rich, fine, nobleman's stuff. She strokes it while she talks about it, and says that getting to see things like this, and touch them, is one of the reasons she likes the work. She never saw anything like it back in the burrow, and doubts they have much like it even in Greywatch.
 
-- "In fact, it's one of the things I like about doing this. I get to see things like this. Touch them. I was about to say I wouldn't get something like this here any other way, but even back in the burrow, I never saw anything like this. I don't suppose even in Greywatch they have much like this."
+Mags examines the fabric to establish whether it could have been produced down here and concludes that it could not. There is no evidence for it and it seems improbable, though magic makes very little impossible. Greyface does not keep a stock of it; he brings one piece at a time, and he is always excited to have something new. He travels more widely than they do, and Kithri cannot imagine where it comes from. The party's own reading is that he is making trips above ground.
 
-Mags studies the fabric to work out whether it could possibly have been made down here and concludes it could not. There is no evidence of it, and it seems improbable. Greyface does not keep a supply; he brings one piece at a time, and he is always excited to have something new. "He travels more widely than we do. I can't imagine where it comes from."
+She is not nimble or strong enough to go out beyond the palisade, so this is how she is useful. Her priest asks the villagers to contribute these trifles, she says, and it is a skill she has, and it fills her days.
 
-She is not nimble or strong enough to go out beyond the palisade, so this is how she is useful. "My priest asks us to contribute with these trifles, and it's a skill I have. It gives me something to fill my days."
+She is working to a detailed pattern. It is a banner, in much the same style as the ones that hung in the minotaur's arena — but where those carried a bull, this one carries a manticore. The bulls were their work; they finished those a little while back, and for a while he was mad about bulls. She has been on the manticore for a few weeks, and expects there will be more eventually. Other people have been making related things over the past few weeks; the scorpion tail in particular seems to be a design he is favouring. Banners tend to be monsters. Robes and cloaks tend to be trees and nature, which she prefers.
 
-She is working from a detailed pattern. It is a banner, in much the same style as the ones that hung in the minotaur's arena — but where those carried a bull, this one carries a manticore.
+He likes to look the part, she says. The red robes are not all he has. A little embarrassed, she wonders aloud whether the fine things remind him of a home she knows nothing about: when he came to the village before all this, he was dressed as a traveller.
 
-- The bulls were their work. "Yes, we finished those a little while back. But yes, for a while he was mad about bulls."
-- She has been on the manticore a few weeks. There will likely be more, but not yet.
-- Others have made related things over the past few weeks. "The scorpion tail in particular seems to be a design he's favouring."
-- Banners tend to be monsters. Robes and cloaks tend to be trees and nature, which she prefers.
-- He likes to look the part. The red robes are not all he has. She wonders, a little embarrassed, whether the fine things remind him of a home she knows nothing about: when he came to the village before all this, he was dressed as a traveller.
+Caspian draws her a glyph — not a real one, just something shaped like one — and asks whether she ever works anything of the sort into the cloth. She does not, and says cloth would not keep still enough for it; that work needs stone. But she recognises what he has drawn: those marks are part of a boundary. She has seen such work beyond the palisade, two lines of them, in great half circles. She has never had cause to draw them herself. They were there before her people arrived.
 
-Caspian draws her a glyph — not a real one, just something that looks like one — and asks whether she ever works anything of the sort into the cloth.
+While she talks, Caspian drifts behind her on the pretext of admiring fabric and works Detect Magic across the materials. There is nothing in them.
 
-- "On cloth, no. But I know what this is, or this sort of thing. These marks. They're part of a boundary. I don't suppose cloth would keep still enough. It needs to be stone for this sort of work."
-- She has seen such work. "Beyond the palisade, there are two lines of them. Great half circles."
-- She has never had cause to draw them. They were here before her people were.
+Then Mags asks whether the robes are always the same size. Near enough, Kithri says. Not robes for one person, then, says Mags — and gets a look that says it is complicated and she is not sure Mags would understand, followed by a nod and a smile and no answer. She is not being deceptive and she is not nervous. She simply does not want to get into it.
 
-Caspian also drifts behind her while she talks and casts Detect Magic over the materials she has been working on. There is nothing in them.
+Mags leans in and asks gently whether she has been told to keep quiet about who the robes are for. That unlocks it. Nobody has told her anything of the sort, she says; it is only that the situation is not straightforward. And then, assuming the party already knows:
 
-Then Mags asks whether the robes are always the same size.
-
-Yes, she says. For the most part, near enough.
-
-Not robes for one person, then, says Mags.
-
-Kithri gives her a look that says it is complicated and she is not sure Mags would understand, and nods and smiles and does not go into it. She is not being deceptive and she is not nervous. She simply is not getting into this.
-
-Mags leans in and asks, gently, whether she has been told to keep quiet about who the robes are for.
-
-- "No. No, nothing like that. It's just the situation is a little bit — well, it's not straightforward. And, well. Young Roscoe. You've met Greyface. The body he is using at present."
-
-She says it as though they already knew.
+> *"Young Roscoe. You've met Greyface. The body he is using at present."*
 
 ## What Kithri Knows
 
-The party asks, and she tells them, without any sense that it is a secret.
+She tells them the rest without any sense that it is a secret.
 
-- Whatever magic he does, the bodies do not last forever. When there is an accident, or something happens, he takes the opportunity to renew things.
-- It was less than a year ago that Roscoe died, and for a lot of folk it is still quite strange to see him that way. It was a man they all knew.
-- Roscoe was killed by one of the great insect things out on the plain. Stabbed, took him in the lung. His mates managed to bring him back, but he died before anyone could do much, and before Greyface could reach him — "and even if he had been able to save him, which I'm not sure he could. He's not a miracle worker."
-- He must have patched him up a bit afterwards, she supposes, but that is not something anyone would see.
-- The bodies do not last perfectly, but they can last a good while. Before this one it had been six or seven years.
-- "No one begrudges him. But still, it's strange. It feels strange."
+Whatever magic he does, the bodies do not last forever. When there is an accident, or something happens, he takes the opportunity to renew things. It was less than a year ago that Roscoe died, and for many people it is still strange to see him walking about, because that was a man they all knew. Nobody begrudges him it. It is simply strange.
 
-Fabian asks what he looked like when they first got here, and she gives them the whole story.
+Roscoe was killed by one of the great insect things out on the plain — stabbed, taken in the lung. His friends got him back to the village but he died before anyone could do much, and before Greyface could reach him; and even if he had reached him, Kithri is not sure he could have saved him. He is not a miracle worker. He must have patched the body up a little afterwards, she supposes, but that is not something anyone would see. The bodies do not last perfectly, but they can last a good while: the one before this had lasted six or seven years.
 
-- When he came to the village he looked like a normal man. Not a well man, she would have to say, even then. They had worried about him being on the road in that season. But a normal man, right enough. A human man.
-- And then what happened happened, and they were all running, and it was chaos, and he started using magic. Real magic, serious magic. Not hedge-witch stuff. Wizard stuff, priest stuff.
-- And the way he looked changed. None of them in the village had ever seen one in real life, but he looked like an elf.
-- They did not like that. It scared people. But they had more immediate problems, and he was the one keeping them safe, so not too many people said too much.
-- When they got down here and found this place and found the Ossuary, he shut himself up inside it and told them to stay back behind those ward signs and make what they could of the place. Which they did. It was warm enough and dry enough, there were things that had clearly been houses, and there were folk here — not many, and not in their right minds, but they had been making do a long time and they showed them how.
-- Those first few weeks were strange. And in those weeks, folk went into the Ossuary and they did not come back. The people who had been afraid of Greyface got more afraid. Things were bad. They did not have much choice but to stay.
-- And then the Provost came. It was nearly six weeks after the disaster first struck, by their reckoning. She had not had Greyface to help her. She had fought her way down and she was bloody and embattled when she arrived. And still she went right into that Ossuary, and Kithri thinks she told him what was what.
-- "Because after that, things got different. And there weren't any more folks just going into the Ossuary and disappearing. There was an understanding. An exchange, I suppose. And he started helping us, and we started helping him."
-- The next time the rest of them saw him, it was not him at all. It was something like what the party has already seen, and it gave a lot of folk the willies, because that was a man they had all known. No one liked it. But gradually they got used to it. He was dead anyway.
-- "When someone died, we took them to the Ossuary. But not before that. And that's how things have been."
-- "I don't suppose it's ideal. I don't know what he does up there. I don't suppose I want to know. But most of us who might have expected to live to this year anyway have done. And there are folk who've made families down here. Well. Things could have been different."
+Asked what he looked like when they first came down, she gives the party the whole story.
 
-## Elves and Bodies
+When he arrived in the village he looked like a normal man — not a well man, she would have to say, even then; they had worried about him being on the road in that season. But a normal man, right enough. A human man. Then the disaster came and they were all running and it was chaos, and he started using magic. Real magic. Serious magic, not hedge-witch work — wizard's work, priest's work. And the way he looked changed. None of them had ever seen an elf in life, but that is what he came to look like. It frightened people. But they had more immediate problems and he was the one keeping them alive, so not much was said.
 
-The party casts back for anything it knows about elves taking bodies.
+When they got down here and found this place and found the Ossuary, he shut himself up inside it and told them to stay back behind the ward signs and make what they could of the place. Which they did. It was warm enough and dry enough, there were structures that had clearly been houses, and there were people here already — not many, and not in their right minds, but they had been making do for a long time and they showed them how.
 
-Caspian and Rell have both heard the rumour: it is fairly commonplace that the Elvish armies use necromancy on the battlefield. The kind of horror story everybody has heard and most people discount.
+Those first weeks were strange. And in those weeks, people went into the Ossuary and did not come back. The villagers who had been afraid of Greyface became more afraid. Things were bad, and they had no real choice but to stay.
 
-Fabian has much better information, through friends and relatives in the military. The party learns:
+And then the Provost arrived. It was nearly six weeks after the disaster, by their reckoning. She had not had Greyface to help her; she had fought her way down alone and she was bloody and embattled when she got here. And she went straight into the Ossuary. Kithri's belief is that she told him what was what, because after that things were different, and there were no more people walking in and disappearing. There was an understanding — an exchange. He began helping them and they began helping him.
 
-- The conflict between the Erathian League and the Elvish Empire is largely frozen in terms of direct contact. But the eastern kingdoms, though largely conquered and suppressed, still produce engagements and uprisings, and there are still limited engagements across the mountain passes.
-- There is serious concern about any bodies left behind on a battlefield. The understanding is that an army which cannot recover its dead and wounded should burn them, so that only ash is left. Bodies should not be left to be recovered by the enemy, for fear of what will be done with them.
-- The fear is not principally about infiltration. Raising corpses and sending them against your enemies is a relatively crude form of magic and has been practised on several battlefields; that is not the worry.
-- The worry is that information can be gathered from a recovered body, and that the magic worked on it might be used to harm, influence, or in some way control the people that person had been close to.
+The next time the rest of them saw him it was not him at all. It was something like what the party has already met, and it gave a great many people the willies, because it was a man they had all known. Nobody liked it. Gradually they got used to it. He was dead anyway. And from then on, when somebody died, they took them to the Ossuary — but not before that.
+
+Her own summing-up is that it is not ideal, that she does not know what he does up there and does not suppose she wants to know. But most of the people who might have expected to live to this year have done, and there are families down here now, and children. Things could have been different.
+
+## Elves And Bodies
+
+The party casts back for anything it knows about elves taking bodies. Caspian and Rell have both heard the rumour — it is fairly commonplace that the Elvish armies practise necromancy on the battlefield, the sort of horror story everybody has heard and most people discount. Fabian, through friends and relatives in the military, has considerably better information, and the party learns:
+
+- The conflict between the Erathian League and the Elvish Empire is largely frozen in terms of direct contact, but the eastern kingdoms, though largely conquered and suppressed, still produce engagements and uprisings, and there are limited engagements across the mountain passes.
+- There is serious concern about bodies left behind on a battlefield. An army that cannot recover its dead and wounded is expected to burn them, so that only ash remains. Bodies should not be left where the enemy can retrieve them.
+- The fear is not principally about infiltration. Raising corpses and sending them against an enemy is a relatively crude magic and is practised in several places; that is not what worries anyone.
+- The worry is that a recovered body yields information, and that the magic worked on it may be used to harm, influence or in some way control the people that person was close to.
 
 Fabian also shows Kithri the iconography of the cult they have been following. She finds every symbol thoroughly unpleasant and recognises none of them.
 
-Word arrives that Greyface would like to speak with them at the Ossuary. Before leaving, Fabian gives Dunton half an hour of performance. It is not his finest work and the acoustics are terrible, but it is the first music these people have heard in twelve years, and they are very impressed.
+Word arrives that Greyface would like to see them at the Ossuary, which suits the party, since they intended to go there anyway. Before leaving, Fabian gives Dunton half an hour of performance. It is not his finest work and the acoustics are terrible, but it is the first music these people have heard in twelve years and they are very impressed.
 
 ## The Ossuary
 
-The villagers walk them to the start of the passage and leave them to go the rest of the way alone.
+The villagers walk them to the mouth of the passage and leave them to go the rest of the way alone.
 
-It is exactly what the name promises. It is fairly obviously a temple — grand, large, with what are clearly altars for placing offerings on — but none of them recognise a single one of its religious symbols, and it resembles nothing they have seen on the way down. It is completely different work. Ossuaries are not a thing that exists in this world as a matter of course.
+It is exactly what the name promises, and it is obviously a temple: grand, large, with what are clearly altars for placing offerings on. But none of them recognise a single one of its religious symbols, and it resembles nothing they have seen on the way down. This is entirely different work. Ossuaries are not something that exists in this world as a matter of course.
 
-One route through it has been lit with candles. Everything else is dark side-passage. They stay on the lit route.
+One route through it has been lit with candles. Everything else is dark side-passage, and the party stays on the lit route rather than find out why.
 
-Looking at the bones:
+Looking at the bones, they establish the following:
 
-- All of them are of a broadly humanoid type, but within that they are extremely diverse. Many sizes, many skull shapes, considerable variation in the thickness of the bone. Some of them come from much more powerful creatures than others.
-- They are not arranged as skeletons. They are sorted by category — piles of arm bones, columns of skulls.
-- They are very old, and they are being held together by magic. They have reached the point where they would otherwise crumble, and the sheen of the magic keeping them whole is visible on them.
-- None of them are new. None that can be seen from the lit path show obvious signs of violence.
+- All of them follow a broadly humanoid pattern, but within that they are extremely diverse — many sizes, many skull shapes, considerable variation in the thickness of the bone. Some come from far more powerful creatures than others.
+- They are not arranged as skeletons. They are sorted by category: piles of arm bones, columns of skulls.
+- They are very old, and magic is holding them together. They have reached the point where they would otherwise crumble, and the sheen of the magic keeping them whole is visible on them.
+- None of them are new, and none of those visible from the lit route show obvious signs of violence.
 
-Caspian studies the arrangement. They have been placed with a great deal of intentionality, and the construction of this place would definitely influence the performance of certain sorts of magic — much the way a Calvyran temple is laid out to promote the flow of the magic it specialises in. He declines to cast Detect Magic, on the grounds that a place like this would simply blind him with it. He passes what he has worked out to the others.
+Caspian studies the arrangement and concludes that it is deliberate in a way that matters. These have been placed with a great deal of intentionality, and the construction of the place would influence the performance of certain kinds of magic — much as a Calvyran temple is laid out to promote the flow of the magic it specialises in. He declines to cast Detect Magic, on the reasoning that a place like this would simply blind him with it, and passes what he has worked out to the others.
 
-The lit route ends in a chamber that in any other temple would be where the faithful gathered. It is large, and focused on a great chair of bones on a dais at the far end. The chair is empty.
+The lit route ends in a chamber that in any other temple would be where the faithful gathered. It is large, and focused on a great chair of bones on a dais at the far end. The chair is empty. Off to one side, clearly added long after the place was built, someone has set out a much more informal and human-scale arrangement: chairs, still of bone, but assembled to be sat in rather than looked at, with cloths draped on the walls to make the corner warmer. Greyface is sitting in one of them, still in red and gold, still holding his staff, and he stands to greet them.
 
-Off to one side, clearly added long after the place was built, someone has set out a much more informal and human-scale arrangement: chairs, still made of bones, but put together to be practical objects for sitting in rather than objects of display. Cloths have been draped on the walls to make the corner warmer and more colourful.
+## Greyface
 
-Greyface is sitting in one of them, still in red and gold, still holding his staff. He stands to greet them.
+He is markedly warmer than he was in the arena, enough that the party notices and distrusts it. Mags watches for the catch and finds no obvious deception — but reads him as a man who always has projects and things he wants. He is not a disinterested person.
 
-- "Well, you all look better than yesterday. I'm glad to see it. Come in. Come and sit down."
+On the Ossuary, he confirms what its condition implies. It was not built down here; it was brought down a long time ago. Like any place of worship and spiritual power, it cannot be entirely absorbed or ingested, and in this case very little of it has gone at all. He had not known it was here when they came down. It was a lucky find and it has served him extremely well, once he had cleared out a few malingerers. Most of what lives down here, he observes, does so in competition: the place is very old and has become riven with parasites of many kinds, most of them hostile to one another. Bad in a way, but useful.
 
-## Greyface Talks
+Mags takes the chance of the moment and asks whether looking after the village was his plan all along. It was not. He had very little plan when he came down, and he admits to having been somewhat desperate. He found a great deal more than he had expected, and it took them all time to find an equilibrium — and it took him time to understand what was happening here, and, plucking at his robe as he says it, to understand the attitude he would need to adopt in order to make himself acceptable. The High Priest, on his own account, is a costume he worked out that he needed.
 
-He is markedly warmer than he was in the arena. Mags watches for the catch and finds no obvious deception — but reads him as a man who pretty much always has projects and things he wants. He is not a disinterested person.
+Asked whether he has no interest in returning to the surface, he corrects the premise: he would not say he is free to come and go. Of course he has an interest in returning. But he judges it in his interest to lie low at present, and this place suits him surprisingly well — considerably better, in many respects, than anywhere else he might do it.
 
-On the Ossuary:
-
-- It was not constructed down here. "This was certainly wrought down a long time ago."
-- "But like any place of worship and spiritual power, not possible to be entirely absorbed or ingested. And in the case of this place, very little of it has gone. It's almost entirely intact."
-- He did not know it was here when they came down. "It was a very lucky find. It has served me extremely well." He had to clear out a few malingerers.
-- Most of what lives down here does so in competition. "This place is old. Very, very old. And it's become riven with parasites of many different sorts, most of which are hostile to one another. It's bad in a way, but useful."
-
-Mags asks, taking the chance of the moment, whether looking after the village was his plan all along.
-
-- "I honestly didn't have too much of a plan when I first came down here. I was a little desperate, if I'm perfectly honest. And I came down here, I found all this. A lot more than I'd expected."
-- "Let's just say it took us all a little time to find our equilibrium. It took me a little time to understand exactly what was happening here." And then, plucking at his robe: "To understand the proper attitude that I would need to adopt in order to make myself acceptable. That took time."
-
-Asked whether he has no interest in returning to the surface:
-
-- "Free to come and go? I wouldn't say that."
-- "An interest in returning? I mean, of course. But I think it's in my interest to lie low at the moment, and this is — I was about to say as good a place as any to do it, but in fact considerably better in many respects."
-
-He asks why they are here, and does not believe the answer about collecting stories. Fabian gives him the museum instead: a new wing in Crownspire, and it is very hard to stand out these days, and everybody knows the Mirrowen is where the undiscovered is. Greyface leans forward.
-
-- "Ah. I wish I didn't find that credible. But unfortunately, it is exactly the sort of thing that I can imagine."
-
-When Fabian follows it with a line about committing the treasures of the world to posterity and the education of youth, Mags watches him listen to it with politely veiled total contempt.
+He asks why they are here and does not believe the answer about collecting stories. Fabian gives him the museum instead — a new wing in Crownspire, the difficulty of standing out, the Mirrowen being where the undiscovered is — and Greyface leans forward and says he wishes he did not find that credible, but unfortunately it is exactly the sort of thing he can imagine. When Fabian follows it up with a flourish about committing the treasures of the world to posterity and the education of youth, Mags watches him receive it with politely veiled total contempt.
 
 ## What He Is
 
-Caspian draws him out on his craft — asking whether he is self-taught, how he came to study so successfully — and Greyface hesitates in a way the party reads clearly as a man thinking that he really should not answer this. Then he answers it.
+Caspian draws him out on his craft, asking whether he is self-taught and how he came to study so successfully. There is a long hesitation that the party reads clearly as a man deciding he really should not answer. He answers anyway.
 
-- "I was educated in the principles of my craft, as you call it, from a very young age."
-- "But I have learned a lot here that I had not imagined before. And I have the resonance here, the concentration of magic. It opens certain possibilities that I had not considered."
-- And then, after another pause: "The use of surrogates, such as this, protect me from some of the worst side effects of this art."
+He was educated in the principles of his craft from a very young age. But he has learned a great deal here that he had not imagined before, because of the resonance of this place and the concentration of magic in it, which opens possibilities he had not considered. And then, after another pause, that the use of surrogates such as this one protects him from some of the worst side effects of the art.
 
-Asked whether it is rude to question it, he turns it around: how much does Caspian know of magic beyond what has become conventional wisdom? Caspian says he is informally educated, that he reads a great deal, more than he perhaps should.
+Asked whether it is rude to question it, he turns the question round: how much does Caspian know of magic beyond what has become conventional wisdom? Caspian says he is informally educated and reads a great deal, more than he probably should, and declines to say more. Greyface observes that it seems Caspian would hear his secrets without sharing any of his own. Caspian says, with a glance at the others, that he is dubious about what he shares, that he knows very little of Greyface and Greyface very little of them, and that he is cautious.
 
-- "Seems you would hear my secrets, but not share your own."
+Greyface accepts it, and blames himself: he has been too long down here alone, and the opportunity to talk has made him careless. He employs surrogates such as this to distance himself a little.
 
-Caspian says, looking at the rest of the group, that he is dubious about the secrets he shares, that he knows very little of Greyface and Greyface knows very little of them, and that he is cautious.
+The party takes the measure of what that implies and finds it sobering. The magic is clearly powerful. More than that, it is strange — not like anything any of them has heard of anyone doing. Caspian's assessment, relayed round the link, is that fighting this man is not survivable, and the idea of trying is dropped.
 
-- "Which I sense that you are too. Well, I think perhaps your companion is right. I have been too long down here alone, and the opportunity to talk has made me careless. Yes. I employ surrogates such as this to distance myself a little."
+Then Greyface reaches out and takes Caspian's arm. He pushes the sleeve up and touches the bare skin of the forearm and the wrist with a hand that is plainly cold and dead, and in which the potential strength is obvious even though he is not holding on. He keeps it a few seconds.
 
-The party takes the measure of the magic involved, and it is sobering. It is clearly powerful. More than that, it is very weird: it is not like anything any of them has heard of anyone doing. Caspian's private assessment, relayed round, is that fighting this man is not survivable.
+> *"Ah, yes. That makes sense. That makes sense."*
 
-Then Greyface reaches out and takes Caspian's arm. He pushes the sleeve up and touches the bare skin of the forearm and the wrist, with a hand that is clearly cold and dead, and a grip in which the potential strength is obvious though he is not holding on. He keeps it a few seconds.
+Caspian takes his arm back. Mags looks for kinship in the exchange and that is not what is there. What Greyface says is that it seems they have a little more in common than he had suspected, and the party lets it go as a compliment about reading habits.
 
-- "Ah, yes. That makes sense. That makes sense."
-
-Caspian takes his arm back. Mags looks for kinship in the exchange and that is not what is there.
-
-- "It seems we have a little more in common than I had suspected."
-- "I'll be honest. The temptation to keep you here is quite strong."
-
-Caspian says he would not respond well to that. Greyface nods.
-
-- "I understand. I'm sure in your shoes, I would not either. And I am under no illusions. Last night, I could have killed you quite easily. Today, at your full strength, I think you might give me trouble. And even if I tried to keep one or two of you and send the others away — well, my position here is probably weaker than it looks. I have no desire to make trouble for either of us. That is part of the reason I think that you should leave."
+He follows it immediately by admitting that the temptation to keep Caspian here is quite strong. Caspian says he would not respond well to that, and Greyface accepts it gracefully — in his shoes, he would not either. And then he sets out his own position, not boastfully but as a man who has thought about it: the night before, he could have killed them quite easily; today, at full strength, he thinks they might give him trouble. Even if he tried to keep one or two and send the others away, his position here is probably weaker than it looks, and he has no desire to make trouble for either of them. That, he says, is part of why he thinks they should leave.
 
 ## The Clock
 
-He is more concerned, he says, that they should be leaving. All the signs are that this place will submerge itself again, and soon.
+He is more concerned that they should be leaving at all. Every sign is that this place will submerge itself again, and soon. How soon he cannot say with confidence, since it will be the first time he has experienced the phenomenon — but days, or a week perhaps.
 
-How long? It will be the first time he has experienced this particular phenomenon, so it is difficult for him to be sure. Days. A week, perhaps.
+Fabian objects that it must have surfaced between Black Barrow twelve years ago and the village taken a month ago. It has been submerged and it has moved in that time, Greyface says, but coming up to the surface is something it has not done since their own little adventure twelve years ago. And he expects it to dive again shortly. If they do not want to go down with it, they should get back to the surface.
 
-Fabian points out it must have surfaced between the taking of Black Barrow twelve years ago and the taking of the village four weeks ago. It has been submerged and it has moved in that time, Greyface says, but coming to the surface — this is the first time it has done that since they made their own little adventure twelve years ago. And he thinks it is going to dive again quite soon. If they do not want to go with it, they had better get back to the surface.
+Caspian observes that he does not strike him as a man who guesses, looking pointedly at the staff and at the room, and Greyface responds with a long and precise account of the gaps in the timing of the tremors, the ways the gleaners have been behaving, and various other things he reads as signs. It is boring to everyone but Caspian, who takes notes, and throughout it his enthusiasm for inquiry is unmistakably genuine.
 
-Caspian observes that he does not strike him as a man who guesses, and looks pointedly at the staff and at the room full of magic. At that, Greyface gives him a long and detailed account of the gap in the timing of the tremors, the ways the gleaners have been reacting, and various other things he takes as signs. It is boring to everyone else. Through it, his enthusiasm for inquiry is plainly genuine.
-
-Asked whether it must be very lonely, he says: "I can't say that there aren't disadvantages to being an exile. It is lonely. And I wouldn't recommend it, if you've all got homes and families and museums to get back to."
+Asked whether it is lonely, he allows that there are disadvantages to being an exile, and that he would not recommend it to people with homes and families and museums to get back to.
 
 ## The Furnace Brood
 
-The party decides to be honest about why they are here, and names the Furnace Brood.
+The party decides that honesty may serve better here and names the Furnace Brood.
 
-- "Karathians? Of all the troubles I have considered, Karathians were not amongst them."
-- "I have been visited by none of the servants of Karath."
+The reaction is surprise. Of all the troubles he has considered, Korrathians were not among them; he has been visited by none of the servants of Korrath. He thinks it would be a considerable departure for them, and that their internal squabbles keep them occupied — though if they learned of this place, they could certainly develop an interest in it.
 
-He thinks it would be a considerable departure for them, and that their internal squabbles keep them busy enough — though if they found out about this place they could have an interest in it.
+Asked why they would, he says it is because magic is more complicated than most of them think it is. Most untouched folk, he adds, do not understand more than half of how magic works, and he would have numbered the Korrathians very firmly in that majority.
 
-Mags asks why they would.
+As to where they might be if they are here, he says the place is very large and very complicated. There are not many routes down from the surface that he knows of, but there could easily be more, and there could be whole areas of it whose existence he has never even considered. He knows there are levels below this one — at least three or four. Beyond that, nobody knows.
 
-- "Because magic is more complicated than most of you think that it is."
-- "Most untouched folk don't understand more than half of how magic works. I would have numbered the Karathians very clearly in that majority."
-
-Asked where they might be if they are here at all, he says this place is very large and very complicated. There are not many routes down from the surface that he is aware of, but there could easily be more, and there could be whole areas of it he has never even considered the existence of. He knows there are levels below this, at least three or four. Beyond that, who knows.
+The party also corrects its own drift under questioning. Nobody ever told them Korrathians were down here. They were told to go beneath the destroyed village and find something that should not be there, and they are the Brood's agents carrying out that instruction. If anyone is sniffing around down here, it is them.
 
 ## What The God Is
 
-Asked about the keep, he answers about the thing itself.
+Asked about the keep, he answers instead about the thing they are standing inside, and it is the fullest account anyone has given them.
 
-- "God is a living thing. It's very old. It's very damaged."
-- "I think in its prime, it would have taken all that it ingested, and it would have made them into something strange and extraordinary and terrible. There is a great hunger in it. A great frustration that it is no longer able to do anything of what it once did."
+It is a living thing. It is very old, and it is very damaged. In its prime, he believes, it would have taken everything it ingested and made it into something strange and extraordinary and terrible. What is left in it is a great hunger, and a great frustration that it can no longer do any of what it once did.
 
-Rell asks whether he has communed with it, and how he knows this.
+Rell asks how he knows, and whether he has communed with it. He has. It is possible, and necessary, to communicate with it. It has a will and a sense of purpose and not much more than that now, though he thinks it was once perhaps not fully sentient but possessed of instincts powerful enough to have made it something close to reasoning.
 
-- "It is possible, and necessary, to communicate with it. It has a will. It has a sense of purpose. It has not too much more than that now, but I think it was perhaps not fully sentient, but possessed of powerful instincts that may once have made it something close to reasoning."
-- "It was imprisoned a long, long time ago, along with its fellows, and it broke out. That much I have been able to gather from it."
-- "It is full of rage and spite and malevolence. It would like to devour anything and everything. But it's far too weak to do more than consume the odd village. It can't break out of the Mirrowen. Perhaps not even quite a small area within the Mirrowen. It's limited."
+And then, in passing:
 
-Fabian asks who trapped it.
+> *"It was imprisoned a long, long time ago, along with its fellows, and it broke out. That much I've been able to gather from it."*
 
-- "That's an interesting question, and not one I've been able to discover the answer to. The far past is very, very little understood by us, as much as by you. I think the mysteries are very, very deep. But it was a very long time ago." And he pats the wall of the temple. "Around the time this place was built."
+It is full of rage and spite and malevolence and would devour anything and everything, but it is far too weak now to do more than consume the occasional village. It cannot break out of the Mirrowen, he thinks — perhaps not even out of quite a small part of the Mirrowen. It is limited.
 
-On his own position:
+Fabian asks who trapped it. That, Greyface says, is an interesting question and not one he has been able to answer. The far past is very little understood by his kind as much as by theirs, and the mysteries run deep. But it was a very long time ago — and he pats the wall of the temple as he says it — around the time this place was built.
 
-- He has communed with it, and it believes him to be part of its cult, its followers, its worshippers.
-- It is capable of sensing, although not everywhere and not all the time. He can usually feel when its awareness is close, "although I've been wrong a time or two, and those have not been comfortable situations."
-- "It has certain spirits of the earth which it uses as its eyes and ears. The one that had custody of this area I have made tame. As you saw last night, it's difficult sometimes to control it, but I can do so reliably. It makes this area relatively safe most of the time."
-- "But if it understood what I am, what I'm doing here, I don't think I would be in a position."
+On his own position inside it, he is franker than he probably intends to be. It believes him to be part of its cult, its followers, its worshippers. It is capable of sensing, though not everywhere and not all the time, and he can usually feel when its awareness is close, though he has been wrong once or twice and those were not comfortable occasions. It has certain spirits of the earth which it uses as its eyes and ears, and the one with custody of this area he has made tame — difficult to control at times, as they saw the night before, but reliable. That is what keeps this area relatively safe. But if it understood what he is and what he is doing here, he does not think he would be in a position to continue.
 
-Caspian asks whether he plans to test himself against it.
+Caspian asks whether he intends to test himself against it. He has his moments, Greyface says, but the thing is huge and ancient and controls almost every facet of the environment they are standing in. Perhaps he could stand against it. He would not like to find out.
 
-- "I have my moments. But that thing is huge and ancient, and it has control over almost every facet of the environment we're in. Perhaps I could stand against it. I would not like to test it."
-- "It has trouble — and I have not yet been able to understand exactly why — but it has trouble with places like this. Concentrations of a certain sort of power."
-- "You encountered others, because you rather carelessly undid that protection."
-
-Caspian apologises. Greyface tells him not to.
-
-- "It gave me the opportunity to conduct my little experiment. You might have been rather more resistant to persuasion otherwise."
-- "If you find holy places of any sort, I would let them be. They are sanctuaries in this, in a very real sense here."
+He adds the one piece of practical advice of the evening. The thing has trouble with places like this — concentrations of a certain sort of power — and he has never worked out why. The party has encountered others, he notes, because they rather carelessly undid that protection. Caspian apologises; Greyface tells him not to, since it gave him the opportunity to conduct his little experiment, and they might have been considerably more resistant to persuasion otherwise. But if they find holy places of any sort from here on, he would let them be. Down here they are sanctuaries in a very real sense.
 
 ## The Balance
 
-Caspian puts to him that there is a sliding scale of holy power, necromancy at one end and the sort of thing Mags does at the other. Greyface leans forward.
+Caspian puts it to him that holy power runs on a sliding scale, necromancy at one end and the sort of thing Mags does at the other. Greyface leans forward and corrects him, and then cannot stop himself.
 
-- "There is a difference. There is a difference. And the scale does not slide. It balances."
+> *"Magic is not a scale from good to evil. It is a balance."*
 
-He sets out his two hands.
+He sets out his two hands. On the one, vitality and life and energy of a generative sort. On the other, unlife and death — but not death as the priests of Naelos would have it; destruction, stifling, iron control. And between them, Itharis: the pivot point, the balance.
 
-- "Magic is not a scale from good to evil. It is a balance. On the one hand, vitality, life, energy of a generative sort. On the other, unlife, death — but not death as the priests of Naelos would have it. Destruction, stifling, iron control."
-- "And between them, Itharis. The pivot point. The balance."
-- "In our day, at least." He shakes his head. "I should not be saying any of this. And certainly not to someone who is going to go back to Crownspire. But truth is truth. And your understanding is woefully out of balance. And so is ours. And that is going to be a problem for us all."
+He catches himself halfway through and says he should not be saying any of this, and certainly not to someone who is going to go back to Crownspire. Then he says it anyway: that truth is truth, that their understanding is woefully out of balance, and that so is his own side's, and that this is going to be a problem for all of them.
 
-Mags asks how it is a problem for all of them.
+Mags asks how it is a problem for all of them. Without a balance, he says — without an understanding of all parts of the spectrum, of both sides of the scale — there will be no opportunity even to try to change anything. To fix anything. And then he drops it entirely, says he made his peace with this a long time ago, and that there is no point in any of it.
 
-- "Because without a balance, without an understanding of all parts of the spectrum, of both sides of the scale, there will be no opportunity to even try to actually change anything. To actually fix anything."
-- "But I made my peace with this a long time ago. And there's no point in any of this."
+Mags searches her training for where this sits and comes up short. She has heard Itharis described as the axis or the pivot point in Itharian contexts before. But either she does not know, or cannot remember, or was never told what the goddess is supposed to be the pivot between.
 
-Mags searches her training for where this sits. She has heard, in Itharian contexts, talk of Itharis as the axis or the pivot point. But either she does not know, or cannot remember, or it was never made clear what the goddess is supposed to be the pivot between.
+The change in him is marked. Everything animated about him — the pleasure of talking to Caspian about academic matters, the slightly suspicious good humour — goes out, and what is left is not hostility. It is a man who has given up.
 
-The change in him is marked. Everything that had been animated about him — the pleasure of talking to Caspian about academic things, the slightly suspicious good nature — goes, and what is left is not hostility. It is a man who has given up.
+Caspian answers it. As a wizard, he says, Greyface of all people should know and agree that literally anything is capable of change. That is the point. That is the fun of it.
 
-Caspian answers him.
-
-- As a wizard, he says, you of all people should know and agree that literally anything is capable of change. That is the point. That is the fun of it.
-
-Greyface pulls himself together. Where he had been fatalist, asking what the point even was, he is visibly reminded of something he has clearly thought himself at some point, and called back to himself.
+It lands. Greyface pulls himself together, visibly reminded of something he has clearly thought himself at some point, and called back to it.
 
 What he says next is where the evening ends.
