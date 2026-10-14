@@ -144,9 +144,9 @@ yet and it fits what the party has witnessed.
   not explored much past this point. On the trapped temple way: *"the dwarves are rather thorough in
   their idea of security — not, in the end, that it did them any good whatsoever."*
 
-**"More expansive in its habits"** is the line that bears on [[the-custodian|the custodian]]'s shame
-about a shrunken reach (S2.33) — two independent sources now saying the Stonehunger's range has
-contracted. **Neither explains why**, and nothing connects the two statements beyond their agreement.
+**"More expansive in its habits"** bears on [[the-custodian|the custodian]]'s shame about a shrunken
+reach (S2.33): two independent sources saying the Stonehunger's range has contracted. S2.38 gives the
+reason — it is **damaged**.
 
 ## What it is, per the High Priest (S2.38)
 In [[the-ossuary|the Ossuary]], [[the-high-priest|Greyface]] gives the party by far the fullest account
@@ -276,7 +276,9 @@ the party's inference; do not write it up as a fact about the Stonehunger.
   seen on [[the-plain|the plain]]. The party has met none of them.
 - **What is the "certain sort of energy which gives protection"?** It held the forge's shrine chamber
   and, on the High Priest's account, holds a number of other places inside the Stonehunger that may
-  never be absorbed — [[dunton|Dunton]] and [[the-ossuary|the Ossuary]] among them. Its nature is
-  unexplained, and whether it is the same thing in every case is unestablished.
-- **Did the party really break the forge's protection?** The High Priest says so. Nothing identifies
-  what he thinks they did, and the claim serves him.
+  never be absorbed — [[dunton|Dunton]] and [[the-ossuary|the Ossuary]] among them. S2.39 adds that it
+  is **holy power** of any kind — he calls such places sanctuaries — and that he does not know why the
+  Stonehunger cannot digest it. Is it the same thing in every case?
+- **What did the party do to break the forge's protection?** The High Priest said in S2.38, to
+  Caspian's face, that they *"carelessly undid"* it. Was it the Shatter that brought down the carving
+  in S2.35?

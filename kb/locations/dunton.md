@@ -82,12 +82,16 @@ wait for a more appropriate time"** — and that this should satisfy. [[varen|Va
 receives that with evident discomfort and begins to say that sacrificing guests is not something he
 would be party to. He looks at the party **more with pity than with fear**.
 
-**What "sacrifice" means here is still not established**, and S2.38 does not settle it. The party
-itself splits on the reading — [[fabian-perennius|Fabian]] takes it as **religious sacrifice** and
-spends some time working out how good a poker face the villagers would need for that to be ordinary
-here; [[mags|Mags]] counters that it may be **practical rather than religious**, closer to appeasing
-the creatures on [[the-plain|the plain]] than to worship. **Nobody put the question to
-[[the-provost|the Provost]] directly**, and she volunteered nothing about it.
+In S2.38 the party split on the reading — [[fabian-perennius|Fabian]] took it as **religious
+sacrifice**, [[mags|Mags]] as something **practical**, closer to appeasing the creatures on
+[[the-plain|the plain]] — and nobody put the question to [[the-provost|the Provost]] directly.
+
+**S2.39 shows what it looks like in practice.** Dunton's **dead go up to
+[[the-ossuary|the Ossuary]]** as a matter of course. **Living people are asked for rarely** now — it was
+not always so — and when [[the-high-priest|Greyface]] asked for **two**, the Provost sent **two healthy
+young ones** rather than disrespect the request. They went to be used in his magic; Caspian refused to
+do it and brought them back. Is anything ever offered to the "God" itself, as the High Priest's message
+implied?
 
 **[[the-provost|The Provost]]** is Dunton's authority — **Yafet Em**, as she was called in the world
 above, a severe, armoured woman of about sixty-five who came down **six weeks after the others**,

@@ -46,5 +46,6 @@ His name tells the party nothing: it is a name they could have met in [[greywatc
 ## DM notes / secrets
 - **He will go to [[the-provost|the Provost]] at the earliest possible opportunity** — confirmed. He
   wants no part of whatever is occurring, and that is the whole of his motive.
-- What the pity is for — what he expects to happen to people the High Priest sends down — is
-  unestablished, as is what "sacrifice" actually means in [[dunton|Dunton]].
+- **What the pity was for** became clearer in S2.39: Dunton's dead go up to the Ossuary as a matter of
+  course, and very occasionally the High Priest asks for **living people** — he asked for two the next
+  day. See [[dunton]].

@@ -89,16 +89,13 @@ Grommar's Path.
   gateway hours earlier. So something has worked that stone **the same way, at some point**. The
   [[the-high-priest|voice]] that answers there does **not** sound like him and does not seem to come
   from the stone at all — and whoever actually opened the gate did it slowly and with visible effort.
-- **S2.37 — resolved, and kept separate.** The voice was **[[the-high-priest|the High Priest]]**, and
-  the thing shaping the stone is **[[the-arena-elemental|a second earth elemental]]**, which he holds
-  by **magical compulsion** and calls **"my captive."** [[mags|Mags]] establishes that it is
-  **overpowered rather than charmed**, and would not serve anyone if the will on it broke. **Nothing
-  links it to the custodian** beyond being the same kind of creature — the custodian's talk of
-  "brothers below" is still only its own account, and the High Priest has never used the word.
-  **Who, if anyone, binds the custodian remains separately unknown.**
+- **S2.37 — resolved.** The voice was **[[the-high-priest|the High Priest]]**, and the thing shaping
+  the stone is **[[the-arena-elemental|a second earth elemental]]** of the custodian's kind, which he
+  holds by **magical compulsion** and calls **"my captive."** [[mags|Mags]] establishes that it is
+  **overpowered rather than charmed**, and would not serve anyone if the will on it broke. Is the arena
+  elemental one of the "brothers below"? And who, if anyone, binds the custodian itself?
 - **S2.38 — "the eyes of God" is literal.** [[the-high-priest|Greyface]] states that the
   [[the-stonehunger|Stonehunger]] *"has certain spirits of the earth which it uses as **its eyes and
   ears**."* That is independent corroboration of the custodian's own account of its office in S2.33 —
-  it really is a sense organ of the thing, not a servant with a post. **Whether its "brothers below"
-  are the same kind of spirit, and whether any others have been tamed the way
-  [[the-arena-elemental|the arena's]] has, is still unestablished.**
+  it really is a sense organ of the thing, not a servant with a post. Have any of its "brothers below"
+  been tamed the way [[the-arena-elemental|the arena's]] has?

@@ -321,10 +321,12 @@ crushing whatever has no "place."
   in the same breath that the temptation to keep them was quite strong.
 - **Is [[the-balance|his account of magic]] Itharian doctrine or his own?** [[mags|Mags]] could not
   place it. And **who is the "ours"** whose understanding he says is also out of balance?
-- **Why was [[black-barrow|Black Barrow]] taken days after a stranger with serious magic arrived in
-  it?** [[the-provost|The Provost]] calls it *"a strange coincidence"* and leaves it there.
-- **Why did the Provost go down?** She says she does not believe she would have walked so eagerly into
-  the earth *"there not being some sort of an influence."*
+- **Did Greyface know the Stonehunger would take [[black-barrow|Black Barrow]] in particular?** S2.39
+  answers the "coincidence": he **divined where and when it would surface** and came to meet it.
+  Whether he knew which village it would take, or warned anyone, he was not asked.
+- **What drew the Provost into the earth?** She went down looking for **her husband and son** (S2.39),
+  but says she does not believe she would have gone so eagerly *"there not being some sort of an
+  influence."*
 - **Where did the opulent cloth come from?** [[mags|Mags]] finds no evidence it could be made down
   here. Greyface *"travels more widely than we do."*
 - **Could the puppet's magical sensing see [[rell-aetris|Rell]]** while he was blinking into the

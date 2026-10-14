@@ -77,8 +77,7 @@ actually sits and talks.
   of any sort, I would let them be. They are sanctuaries in this, in a very real sense here."*
   The [[the-stonehunger|Stonehunger]] **has trouble with concentrations of a certain sort of power**
   and he has **not been able to work out why**.
-- **Whose temple was it?** Unestablished. The symbols are unrecognised, it predates everything the
-  party has walked through, and Greyface places its construction **around the time the Stonehunger was
-  imprisoned**. [[the-provost|The Provost]] has heard it was *"a temple of sorts once — a particularly
-  unpleasant one."*
-- **What the bone-arrangement is tuned for** is not stated, only that it is tuned.
+- **Whose temple was it? — answered in S2.39.** It was raised to **[[thalparaneth|Thalparaneth]]**, a
+  god of **un-life**, and built to **sharpen that influence**, which is why necromancy worked inside it
+  is so much easier. That is what the bone-arrangement is tuned for. Greyface places its construction
+  **around the time the Stonehunger was imprisoned**. Which people raised it?

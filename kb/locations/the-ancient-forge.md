@@ -73,8 +73,8 @@ as a rule. Whatever was being done in this room was advanced work, and it was do
 
 ## Ways on
 - **Two doors** were noted in S2.35 as leading further into the complex, both of a piece with the
-  architecture the party has seen. [[rell-aetris|Rell]] looked at them and went through neither.
-  Whether the spiral staircase below is one of those two is **not established**.
+  architecture the party has seen. [[rell-aetris|Rell]] looked at them and went through neither. Is
+  the spiral staircase below one of those two?
 - **The spiral staircase**, down from the southern room through an open arch with no door in it. It
   **does not match the rest of the complex**: the masonry is **less perfect**, plainer, **workmanlike**,
   with no tiles or decoration. It looks as though it was **taken from a building and positioned here**
@@ -138,7 +138,7 @@ that a safe room is worth nothing once every route out of it is gone.
   He does **not** say he emptied the shrine specifically, and he never says what he took; the match to
   the fresh scrape marks and the missing written material is the party's to make. Whether he also took
   **[[the-embedded-axe|the axe]]** from somewhere in the complex, or found it already in the minotaur,
-  he does not say. The **campers in the rooms below** remain a separate and unexplained matter.
+  he does not say. And who were the **campers in the rooms below**?
 - **Why the shrine chamber was spared — and what ended it.** The High Priest says the area *"was
   resistant for quite some time"* and *"had a certain sort of energy which gives protection."* In
   **S2.38** he says it again, flatly and to Caspian's face: *"you rather **carelessly undid that

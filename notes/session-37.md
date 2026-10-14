@@ -64,11 +64,9 @@ Mags greets it very loudly, partly to be civil and mostly to bring the others up
 
 She tells him she is half deaf and would find it easier if she could lip-read. There is a flicker of impatience — he has by now asked the same question twice and been answered neither time — but he pushes the hood off his face. He is clearly undead and clearly relatively fresh: not a skeleton, all his flesh still on him, a deathly colour to it. His face is definitely human, and it has been altered to look more elvish. Nobody present has heard of a people who do that.
 
-Fabian asks him directly whether he is the one who let them in through the door. He inclines his head slowly and deliberately.
+Fabian asks him directly whether he is the one who let them in through the door. He inclines his head slowly and deliberately, and says yes: they looked to be in something of a difficult situation where they were, and he thought it might be an interesting opportunity. And so it proved.
 
-- "Yes. You looked to be in something of a difficult situation where you were, and I thought this might be an interesting opportunity. And so it proved."
-
-Then: the axe, if they please.
+Then he asks for the axe, if they please.
 
 ## The Negotiation
 
@@ -78,7 +76,7 @@ He tries again, asking as a common courtesy that the exit be unsealed before any
 
 It climbs down into the pit without using the rope and holds out a hand. Rell does not resist, but makes the point while handing it over: the axe is his to take, but setting that beast on them was hardly friendly, and it very nearly disembowelled him. He would be dead now if his companions had been worse placed.
 
-- "It wouldn't have been my preferred outcome if it ended any one of you, but of course the possibility was there. I thought you actually handled it rather cleverly."
+The figure allows that it would not have been his preferred outcome had it killed any of them, but the possibility was of course there, and he thought they handled it rather cleverly.
 
 Pressed on why set it on them at all, he says there were certain qualities of the circumstance, of the artifact and of their abilities that interested him. Visitors of any caliber are rare down here. Rell suggests that the next band might last longer if he refrains from disembowelling them, and receives a long flat look that he cannot read at all.
 
@@ -92,9 +90,7 @@ Fabian keeps him talking, and most of what the party learns this session comes o
 
 Asked whether it is a dwarven axe, he agrees it is — not the most difficult deduction under the circumstances — and of some considerable antiquity. It is an object he is studying and intends to continue studying.
 
-Asked whether he has been up to the dwarven part of the complex:
-
-- "Yes, I've been there. And I think there won't be very much to find the next time I go that way. It's a good thing I recovered what I did."
+Asked whether he has been up to the dwarven part of the complex, he says he has, that there will not be much left to find the next time he goes that way, and that it is a good thing he recovered what he did.
 
 Asked whether there are more dwarves ahead, he says there are some he has seen, though he has not explored very much deeper than this, and that when God was more expansive in its habits there were several dwarven sites which came under its attention. He says "God" with audible quotation marks around it and makes no attempt to hide that.
 
@@ -105,9 +101,7 @@ Fabian tells him they think they have met this god, and that it was white and am
 - That area was resistant for quite some time. It had a certain sort of energy which gives protection.
 - There are a considerable number of places within its substance which have not yet been absorbed, and may never be — unless some intrepid adventurers decide to disrupt things, in which case things can change. He credits them with having done so.
 
-Asked whether he is not afraid this room will collapse as well, he gestures at the mismatched statuary and borrowed architecture around them:
-
-- "This place is very much to God's liking. He has picked and chosen the elements that please him, and this is the result. I dare say it will change, but not immediately."
+Asked whether he is not afraid this room will collapse as well, he gestures at the mismatched statuary and borrowed architecture around them. This place, he says, is very much to God's liking: God has picked and chosen the elements that please him, and this is the result. It will change, he dares say, but not immediately.
 
 On the trapped temple corridor above, he observes that the dwarves were rather thorough in their idea of security — not, in the end, that it did them any good whatsoever.
 
@@ -119,9 +113,7 @@ Caspian, alarmed, pleads exhaustion: they have all shown some facility for magic
 
 He turns to an empty stretch of the chamber where there is the faint outline of an archway and says: well, you heard me, open the way quickly now.
 
-There are sounds from the stone. Nothing moves. For the first time he raises the staff in a genuinely threatening way — not at the party, but at the air and the wall — and the sounds increase at once and the archway begins to shape itself much faster. He lowers the staff.
-
-- "That's better. Let's not get any ideas."
+There are sounds from the stone. Nothing moves. For the first time he raises the staff in a genuinely threatening way — not at the party, but at the air and the wall — and the sounds increase at once and the archway begins to shape itself much faster. He lowers the staff, remarks that that is better, and warns it not to get any ideas.
 
 The way opens in the same form as the arch that admitted them, onto a passage curving away and downwards. That will take them to Dunton, he says. It is not far.
 
@@ -168,17 +160,13 @@ A bleary-eyed, middle-aged human comes down the stairs and looks at them in simp
 
 The man's reaction is nervous, and there is fear in it, but he looks at them more with pity than with fear. Mags adds that the priest said their sacrifice did not need to happen right away — and, she suggests, probably did not need to happen at all; later never really needs to come, does it? He holds up his hands in a gesture of helplessness and begins to say that sacrificing guests is not something he would be party to.
 
-He will not promise to keep them hidden.
-
-- "I can't hide you from the Provost. Do you understand that? She will have to be told."
+He will not promise to keep them hidden. He cannot hide them from the Provost, he says, and wants them to understand that: she will have to be told.
 
 He pours out a measure each of something rough and quite alcoholic, made from mushrooms and whatever else can be mustered, and begins to observe that at least they are all here in one piece — then catches himself, looks stricken, and asks whether they left anyone. Told that everyone is here and that they have a healer, he nods and smiles with obvious relief. Then things are well enough.
 
 His name is Varen, and this is his place. It is a name they might have met in Greywatch; it tells them nothing.
 
-Mags offers her services as a healer to the town. His answer is worth noting:
-
-- "Well, there was a time when a healer in these parts would have, well, would have changed everything. But this high priest came. We've not too much lack in that regard, which is a blessing, of course."
+Mags offers her services as a healer to the town. His answer is worth noting: there was a time when a healer down here would have changed everything, but then this High Priest came, and they have not lacked much in that regard since — a blessing, of course.
 
 Rell deflects the rest of the conversation to the afternoon, over brunch. Varen shows them upstairs to a room that is really just blankets on the floor and cushions stuffed with rags, and empties his house of pillows when Mags keeps asking for more. He is courteous, thoughtful and as hospitable as his means allow, and he is also going to go and tell the Provost at the first opportunity. He wants no part of whatever is occurring here.
 
@@ -223,6 +211,6 @@ No Provost appears. Fabian makes a point of watching closely enough to recognise
 
 Rell takes the last watch, hears people moving quietly about the building below and voices talking in low tones, and decides not to go down and break the peace by falling into conversation.
 
-The party completes a long rest, the first proper one in a long while, and wakes to Fabian putting heart into everyone. Mags checks whether any of them wake up oddly tired. None of them do. The night has cost them nothing.
+The party sleeps properly for the first time in a long while, and wakes to Fabian putting heart into everyone. Mags checks whether any of them wake up oddly tired. None of them do. The night has cost them nothing.
 
 Caspian opens the morning by admitting that he paid no attention at all on his watch and read books instead, which surprises nobody, and then shares everything he learned.

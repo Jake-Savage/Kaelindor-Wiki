@@ -51,6 +51,8 @@ Told in S2.38 by [[the-provost|the Provost]] and by one of the young men who liv
 ## DM notes
 - **The spelling is uncertain** — the recording gives "Black Barrow", "Black Barrow" and "Black
   Borough". **Black Barrow** is used here, since the villagers call it "the burrow."
-- **Whether Greyface's arrival days before the disaster was coincidence is unestablished.** The Provost
-  calls it a strange one and does not push further; nobody in the party asked him directly.
-- Nothing says what happened to the site on the surface afterwards, or whether anyone ever went back.
+- **It was not a coincidence.** The Provost called Greyface's arrival days before the disaster *"a
+  strange coincidence"* (S2.38). In S2.39 he told the party he had **conducted or commissioned
+  divinations** to learn **where and when the Stonehunger would next surface**, and came to meet it.
+  Did he know it would take Black Barrow specifically — and did he warn anyone?
+- What became of the site on the surface afterwards, and did anyone ever go back?

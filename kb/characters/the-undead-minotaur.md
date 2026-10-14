@@ -74,6 +74,5 @@ debris, and nothing else.
   himself, calling the axe the thing *"used in this little experiment"* and the party's abilities and
   the artifact's circumstance the qualities that interested him. He did not want them dead, but
   *"of course the possibility was there."*
-- **Who originally buried the axe in it, when, and whether that is what killed it** are still
-  unestablished. The High Priest says only that the axe is dwarven and ancient; he recovered it, he
-  did not say he put it there. See [[the-embedded-axe]].
+- **Who originally buried the axe in it, when — and is that what killed it?** The High Priest says only
+  that the axe is dwarven and ancient, and that he recovered it. See [[the-embedded-axe]].

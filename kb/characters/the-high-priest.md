@@ -207,8 +207,8 @@ remained where I was."*
 > are other routes in, but they were barred to me."*
 
 Which disposes of the "strange coincidence" of his arrival at [[black-barrow|Black Barrow]] days before
-it fell. **He was waiting for it.** Whether he knew it would take *that* village, and what he thought
-would happen to the people in it, is **not established** — and the party never asked.
+it fell. **He was waiting for it.** Did he know it would take *that* village, and what did he expect
+to happen to the people in it? The party never asked.
 
 **What he found.** He expected a hiding hole and got **[[the-ossuary|a temple to his own discipline]]**,
 which has **enhanced his magic greatly**. *"Sometimes fate is strange in that way. When I came here
@@ -236,20 +236,12 @@ condemn you by asking you to carry my messages."*
   murdering them imminently** — but the distinct impression that **if he thought it would be
   interesting or profitable to do so, he would 100% do it**. Separately, he is **sincere** about the
   settlement and the rest; he believes what he is telling them.
-- **He is not himself — he is [[undead-puppetry|a puppet]].** From [[codex-mortis|Kiona's infernal
-  notes]] [[caspian-talon|Caspian]] recalls a magic by which a practitioner makes an **undead puppet**
-  and channels their awareness and part of their power through it, to act in the world while staying
-  safe and hidden, and concludes this figure is one. **The fiction has not confirmed it** — it is
-  Caspian's reading, and the party has never tested it — but it is the **working truth** of this entry,
-  and everything the figure does should be read as something done at a remove by whoever is holding
-  him.
-  **He said nothing at the time**, worried about being asked how he knew, and shared the content the
-  next morning without naming the book.
-- **Who the puppeteer is, and where they are, is entirely unknown** — and is now the live question. The
-  range on this magic is limited unless relay points have been prepared, so the operator is either
-  close or has made arrangements. Note also that he is a **fresh** undead in an ancient complex, and
-  that everything the party found interesting about him — the curiosity, the experiments, the appetite
-  for visitors of any caliber — belongs to **them**, not to the corpse.
+- **The figure is [[undead-puppetry|a puppet]].** [[caspian-talon|Caspian]] recognised the magic from
+  [[codex-mortis|Kiona's infernal notes]] in S2.37 and said nothing at the time, worried about being
+  asked how he knew; Greyface confirmed it himself in S2.38 (*"I employ surrogates such as this"*). The
+  puppeteer is **Lae'ethorian**, alive, somewhere within puppeting range of the Ossuary. Everything the
+  party found interesting about the figure — the curiosity, the experiments, the appetite for visitors
+  of any caliber — is his, not the corpse's. **Where is his body?**
 - **He gives no name of his own** — only the nickname and the office, and he never names his country,
   his family or the man he argued with. He is **careful** about it throughout, by the DM's own account.
 
@@ -274,15 +266,14 @@ country, my people"*, *"it doesn't matter now"* — was made on the understandin
 place him.
 
 **West of the line he is regarded as a monster**, and the party has been **steeped in one side's
-propaganda** all their lives — Mags's immediate verdict is unprintable. Whether the reputation is
-deserved is a separate question nobody has examined.
+propaganda** all their lives — Mags's immediate verdict is unprintable. Is the reputation deserved?
 
 - **The fact of the exile is itself intelligence.** A senior falling-out in the Elvish hierarchy is old
   news, but **where Lae'ethorian is** is not, and the party has it.
-- **Do not fuse this with [[the-bleeding-years]]'s open question** about what "unholy power" Thaloriel
-  bargained with for "dark magics not seen before." A revived god of un-life inside the Archon's own
-  family is suggestive; **nothing in the fiction joins them**, and Greyface places himself on the
-  *losing* side of that argument.
+- **Is the Thalparaneth revival the "unholy power" Thaloriel bargained with?** The Elvish armies came
+  out of Thal'Mirrith wielding "dark magics not seen before," and a god of un-life was revived inside
+  the Archon's own family. Against that: Lae'ethorian places himself on the **losing** side of his
+  family's argument. See [[the-bleeding-years]].
 - **He asked for two people, and Caspian refused him.** In S2.39 he sends word to
   [[the-provost|the Provost]] for **two villagers**, and she sends **two healthy young ones** rather
   than disrespect the request. He then asks [[caspian-talon|Caspian]] — as the price of teaching him —
@@ -304,8 +295,7 @@ deserved is a separate question nobody has examined.
   compliment about reading habits and did not pursue it; Caspian has volunteered nothing, here or ever.
   **What Caspian is remains unexplained in the fiction** — but the working truth (DM) is that he is
   **some kind of undead, most likely a dhampir**. That is what Greyface read on contact, what he meant
-  by *"more in common,"* and what he means by Caspian's **"condition."** Whether Greyface has put a name
-  to it himself is not established.
+  by *"more in common,"* and what he means by Caspian's **"condition."** Does he have a name for it?
 - **He is despairing underneath it.** Explaining [[the-balance|his theory of magic]] he goes from
   animated to flatly **fatalist** — *"I made my peace with this a long time ago, and there's no point
   in any of this"* — until [[caspian-talon|Caspian]] argues him out of it. **His reply to that is where
@@ -321,5 +311,5 @@ deserved is a separate question nobody has examined.
 - **He thinks Fabian is ridiculous.** Under [[mags|Mags]]'s insight he listens to Fabian's museum
   speech with **politely veiled total contempt** — while finding the museum itself entirely credible.
 - **Why he improved Dunton's lot.** [[varen|Varen]] says that before this High Priest came, a healer in
-  these parts *"would have changed everything"*, and that they now lack little in that regard. His
-  motive for that is unestablished, as is what "sacrifice" means in Dunton.
+  these parts *"would have changed everything"*, and that they now lack little in that regard. S2.39
+  answers why: [[necromancy|his magic]] runs on the life of others, and Dunton is his supply.

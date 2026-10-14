@@ -47,5 +47,5 @@ when a surrogate wears out or an opportunity arises, Greyface **renews**. The pr
   [[undead-puppetry|the magic]], the puppet's **mental attributes are the puppeteer's** and the
   perception is the puppeteer's magical sensing, not the corpse's senses — but nobody has asked, and
   nobody in Dunton has raised it.
-- **How Roscoe came to be the one** — whether his death was simply the next accident, or anything else
-  — is unestablished. His death was witnessed and reported by his own companions.
+- **Was Roscoe's death simply the next accident?** It was witnessed and reported by his own companions,
+  who carried him home.

@@ -59,6 +59,7 @@ would not keep still enough. **They were here before the Black Barrow survivors 
 [[the-high-priest|Greyface]] told the villagers at the outset to **stay back behind the ward signs**.
 
 ## DM notes
-- **Who cut the wards, and what they hold out, is unestablished** — only that they predate Dunton and
-  that Greyface treated them as the safe line.
+- **Who cut the wards, and what do they hold out?** They predate Dunton, and Greyface treated them as
+  the safe line from the first day. Are they traces of the lost **order-magic** he says he has found
+  down here (see [[the-balance]])?
 - The party has **not yet set foot on the plain**.

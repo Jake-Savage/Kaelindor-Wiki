@@ -41,10 +41,10 @@ to lie low**, and says he was **educated in the principles of his craft from a v
 will not say where he is from.
 
 ## Open questions
-- **Is Greyface connected to the Elvish Empire at all?** The party has drawn no line out loud, and the
-  fiction has drawn none. He is elf-*featured*, not established as an elf; the features arrived with
-  the magic rather than before it.
-- **Is [[undead-puppetry]] the magic the League's burn-your-dead doctrine is actually afraid of?** The
-  doctrine's stated fear — leverage over the dead person's living ties — is **not** what the puppetry
-  described in [[codex-mortis|Kiona's notes]] does. Keep the two separate until something joins them.
-- **Who taught Greyface, and from what tradition?** Unanswered; he deflected.
+- **Greyface is connected — answered in S2.39.** He is **Lae'ethorian**, a relative of Archon
+  Thaloriel and a former commander of the Elvish armies, taught by a kinsman who revived the practice of
+  [[thalparaneth|Thalparaneth]]. See [[the-high-priest]].
+- **Is [[undead-puppetry]] the magic the League's burn-your-dead doctrine is afraid of?** The
+  doctrine's stated fear is leverage over the dead person's **living ties**. The puppetry in
+  [[codex-mortis|Kiona's notes]] borrows a body's strength and senses instead — though
+  [[necromancy|real necromancy]] is said to **sever bonds**. Is there a third use the League knows of?

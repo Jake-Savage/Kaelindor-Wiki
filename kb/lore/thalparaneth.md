@@ -48,10 +48,10 @@ used, and lost that argument** — which is why he is in exile. See [[the-balanc
   my family"* with whom he had *"a disagreement of policy, strategy."*
 - **How far has the revival gone, and who else practises it?** He speaks of it as an ongoing thing he
   was raised into, not a private hobby.
-- **Does this bear on [[the-bleeding-years|the Bleeding Years]]?** The standing question about
-  [[the-bleeding-years|Thaloriel]] is what *"unholy power"* he might have bargained with to wield
-  "dark magics not seen before." A rediscovered god of un-life, revived inside the Archon's own family,
-  is a candidate — **and the fiction has not joined them.** Record the two facts; the link is not made.
-- **Whose temple was this, and when?** Greyface dates the Ossuary's construction to **around the time
-  the [[the-stonehunger|Stonehunger]] was imprisoned**, and says it was **not built underground** but
-  swallowed later. Which people raised it is unestablished.
+- **Is this the "unholy power" of [[the-bleeding-years|the Bleeding Years]]?** Thaloriel's armies came
+  south wielding "dark magics not seen before," and a god of un-life was revived inside the Archon's
+  own family in living memory. Against that: Lae'ethorian, who was raised in the practice, lost his
+  family's argument rather than leading it.
+- **Who raised the temple?** Greyface dates the Ossuary's construction to **around the time the
+  [[the-stonehunger|Stonehunger]] was imprisoned**, and says it was **not built underground** but
+  swallowed later.

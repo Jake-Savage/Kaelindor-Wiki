@@ -44,12 +44,11 @@ He calls it **"my captive"**: *"should my captive give you any trouble, I would 
   such spirits are **not normally particularly cooperative**.
 
 ## DM notes / secrets
-- **Keep this distinct from [[the-custodian|the custodian]].** They are two earth elementals, and
-  nothing establishes a relationship between them beyond belonging to the same kind — the custodian
-  called the watchers below its **brothers**, but that is its own account and the High Priest has never
-  used the phrase. Do not fuse the two.
-- **It has resisted twice now**, in S2.36 and S2.37, in front of the party. Whether that is sullenness
-  or the beginnings of something slipping is unestablished.
+- **It is a different creature from [[the-custodian|the custodian]]**, though of the same kind. Are
+  these the "brothers below" the custodian spoke of? That is the custodian's word; Greyface has never
+  used it.
+- **It has resisted twice now**, in S2.36 and S2.37, in front of the party. Is that sullenness, or the
+  beginning of his hold slipping?
 - **S2.38 — what it actually is.** [[the-high-priest|Greyface]] explains: the
   [[the-stonehunger|Stonehunger]] *"has certain spirits of the earth which it uses as **its eyes and
   ears**. The one that had custody of this area I have made tame."* So the thing he commands is one of
@@ -59,7 +58,7 @@ He calls it **"my captive"**: *"should my captive give you any trouble, I would 
   he commands it."*
 - **His command of it was acquired, not immediate.** A Black Barrow survivor remembers that at the
   start *"that wasn't his servant always… he didn't always have such command of it. He's had to find
-  his place here."* **How he took it is unestablished.**
+  his place here."* How did he take it?
 - **The risk he is running.** If the Stonehunger **understood what he is and what he is doing here**,
   Greyface does not think he would be in a position to continue — which makes a tamed eye of God a
   dangerous thing to be holding.

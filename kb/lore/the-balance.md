@@ -103,10 +103,9 @@ lost**, and for which he is in exile — see [[the-high-priest]].
   point** in Itharian contexts, but cannot place what the pivot is supposed to be between. Whether
   Greyface's version is orthodox, heterodox, or not Itharian doctrine at all is **unresolved**.
 - **What are the traces of order-magic he has found down here**, and has the party already walked past
-  them? He says so directly and nobody followed it up. The **ward-lines beyond Dunton's palisade**
-  (see [[the-plain]]) are an obvious candidate and **nothing connects them**.
+  them? He said so directly and nobody followed it up. Are the **ward-lines beyond Dunton's
+  palisade** (see [[the-plain]]) among them?
 - **Who broke Sarasthanae, the ninth power, and when?**
-- **Is the nine-fold structure real, or his own theory?** He regards it as complete. Nobody has
-  independently corroborated any of it.
-- **Nine, and the elves' council of nine.** Noted at the table as a coincidence worth noticing.
-  **No link is established.**
+- **Is the nine-fold structure real, or his own theory?** He regards it as complete; so far it rests
+  on his word and his demonstration with Mags.
+- **Does the elves' council of nine answer to the nine-fold structure?**

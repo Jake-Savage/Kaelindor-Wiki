@@ -87,5 +87,5 @@ quiet — she gives the party the session's single biggest revelation, assuming 
 - **She is the first person to tell the party outright what Greyface is.** She assumed they knew, and
   there is no secrecy about it in Dunton at all.
 - **Her son is unnamed** in the recording.
-- **The manticore and the scorpion tails are being made now.** The bulls preceded the minotaur. Nobody
-  at the table said the obvious thing out loud, and the fiction has not confirmed it.
+- **The manticore and the scorpion tails are being made now** — and the bulls were made before the
+  minotaur. Is the next thing in the arena pit a manticore?

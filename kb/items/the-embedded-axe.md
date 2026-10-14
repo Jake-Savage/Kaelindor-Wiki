@@ -52,9 +52,8 @@ under the circumstances"* — and that it is **an object he is studying and inte
   unfamiliar object to him in its physical immediacy** — interesting, turned over in the hands and
   looked at, but **not treated as something of great importance to him**. Whatever the experiment was
   about, the axe is apparently not his long-lost treasure.
-- **Who put it in the minotaur, and when, is unknown.** The High Priest never claims to have done it —
-  only to have recovered it. Nothing establishes whether the blow that lodged it was what killed the
-  creature.
+- **Who put it in the minotaur, and when — and did that blow kill it?** The High Priest claims only to
+  have recovered it.
 - **Why a Calvyran holy axe causes undead regeneration** is unexplained and sits oddly against
   everything the party knows about [[calvyr|Calvyr]].
 - [[fabian-perennius|Fabian]] offered [[caspian-talon|Caspian]]'s scholarship on the axe as a way of

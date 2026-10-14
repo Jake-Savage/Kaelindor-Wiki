@@ -18,7 +18,7 @@ The Bleeding Years are the present, grinding war between the western [[the-valen
 - **Dissident elves.** Not all elves support Thaloriel; some live in exile in the western lands, welcomed by some kingdoms and forbidden in others.
 - **A council of nine.** Apart from the Archon, the elves are ruled by a **council of nine** — a detail
   [[fabian-perennius|Fabian]] knows, and which struck the party in S2.39 against
-  [[the-balance|Greyface's nine-fold structure of magic]]. **Nothing connects the two.**
+  [[the-balance|Greyface's nine-fold structure of magic]]. Does one answer to the other?
 - **Battlefield necromancy.** It is a commonplace rumour that the Elvish armies practise it, and the
   League expects its own armies to **burn their dead** rather than leave bodies to be recovered — see
   [[elvish-necromancy]].
@@ -43,7 +43,6 @@ people** merely for talking to the party.
 - What "unholy power" might Thaloriel have bargained with, and is it connected to other dark forces (e.g. the [[korrathian|Korrathians]] / [[the-furnace-brood]])? **S2.39 adds a candidate and does not
   confirm it:** [[thalparaneth|Thalparaneth]], a lost god of **un-life**, whose practice was
   **rediscovered by a kinsman of Greyface's** and **revived within the Archon's own family** in living
-  memory. Suggestive — but Greyface places himself on the **losing** side of that family's argument,
-  and the fiction draws no line. **Keep them separate until it does.**
+  memory. Against that: Lae'ethorian places himself on the **losing** side of that family's argument.
 - The [[the-eldryn|Eldryn]] fear the [[the-uthrel|uthrel]] is being eyed as a **weapon in this war** (S2.21) — is anyone already trying to weaponise it?
 - Where does [[kaelindor|Kaelindor]]'s mysterious wealth in the Silver Keep come from?
