@@ -8,7 +8,7 @@ controlled_by: the-provost
 connected_to: [the-buried-arena, the-ossuary, the-plain, black-barrow]
 status: active
 first_session: S2.37
-last_session: S2.38
+last_session: S2.39
 tags: [stonehunger, grommars-path, dunton, settlement, survivors, underground, halflings]
 summary: A barricaded settlement of a couple of dozen patched-together houses deep inside the Stonehunger, where humans and halflings live under a Provost — the "Dunton" the gleaners spoke of as a rumour.
 ---
@@ -110,6 +110,19 @@ Banners tend to be **monsters**; robes and cloaks tend to be **trees and nature*
   taproom with half a dozen villagers, and spend most of the day in conversation — first with her, then
   with **[[kithri|Kithri]]**, who tells them what Greyface is. Fabian performs. They then walk north to
   **[[the-ossuary|the Ossuary]]** at Greyface's invitation.
+
+## How Greyface reaches them (S2.39)
+[[the-ossuary|The Ossuary]] is close enough to walk in **about fifteen minutes**. When he wants
+something he either **sends his puppet down** or uses **[[the-arena-elemental|the earth elemental]] as
+a messenger**. He also keeps **other, less sophisticated necromantic constructs** — walking skeletons
+and the like — which [[the-provost|the Provost]] knows he sometimes uses as messengers, but which
+**frighten people**, so he tries not to.
+
+## Why it is still here
+When the [[the-stonehunger|Stonehunger]] rearranges itself, most of what is inside it gets **crushed
+and reordered**. But **little pockets stay stable**, and Dunton has been one for a long time —
+**probably because of its position relative to [[the-ossuary|the Ossuary]]**, which cannot be
+digested at all.
 
 ## DM notes
 - **Varen went to the Provost**, as promised, and she was waiting for them.

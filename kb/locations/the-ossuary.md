@@ -8,7 +8,7 @@ controlled_by: the-high-priest
 connected_to: [dunton, the-plain]
 status: active
 first_session: S2.37
-last_session: S2.38
+last_session: S2.39
 tags: [stonehunger, dunton, high-priest, temple, bones, necromancy, sanctuary]
 summary: An ancient bone-lined temple swallowed whole and left almost entirely intact, where Greyface has made his home — arranged to promote certain kinds of magic, and the place Dunton's dead are taken.
 ---

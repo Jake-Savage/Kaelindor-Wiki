@@ -21,7 +21,7 @@ relationships:
   - who: caspian-talon
     note: She tolerates his impiety and senses his evasiveness; they grudgingly come to get along.
 first_session: S1.05
-last_session: S2.38
+last_session: S2.39
 tags: [cleric, naelos, gnome, underdark, diplomat, nameweave, petrified]
 summary: A centuries-old gnome cleric of Naelos and the party's blunt, pragmatic moral anchor, who threads diplomacy between Greymere and the Eldryn and is briefly petrified into wood.
 ---
@@ -139,6 +139,24 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
   conversation, and her religion check on **[[the-balance|Greyface's theory of magic]]** half-places
   it: she has heard **[[itharis|Itharis]] called the pivot point** before, but never what the pivot is
   between.
+
+- S2.39: Spends the Ossuary conversation increasingly certain they should be running, and gets
+  overruled by everyone's curiosity. She provides the **demonstration** — casting **Guidance** on
+  Greyface's nose when asked for something central to [[naelos|Naelos]] — and is the one closest to
+  what his magic feels like: **hollow in a profound way**, a real absence. It is also Mags who places
+  **[[thalparaneth|Thalparaneth]]** — knowing the ordinary Elvish names for all the gods, she
+  establishes **by elimination that this is not one of them**. Her read of him lands at
+  *"some quite senior fucker from [[the-bleeding-years|Thal'Mirrith]] who does terrifying dark magic."*
+  She then surprises the party by **letting [[caspian-talon|Caspian]] stay** for his day of tuition —
+  privately, because he would otherwise have gone alone, and this way he comes back. Back in
+  [[dunton|Dunton]] she turns the session: **thirty-four people, five days, and nobody else coming for
+  twelve years.** *"I think they'll all die, including the children. I think we have to try."* She
+  casts **Augury** on whether [[the-provost|the Provost]] can give practically implementable advice,
+  gets a yes, and goes to get it — then talks Yafet round by naming the one thing she has never had:
+  *"You know what you didn't have last time? Us."* She would accept a high death rate, and offers to
+  **hang back herself** to slow Greyface down. Her argument with Caspian about whether a doomed right
+  thing is still the right thing runs to the end of the session and is not resolved. See
+  [[evacuate-dunton]].
 
 ## DM notes / secrets
 - Her undead-tinged bone shard (a Naelos relic of her own bones) keys the infernal "half in this world and half of another" doors in the Shifting Library (S2.08) — a detail worth remembering for her nature/longevity.

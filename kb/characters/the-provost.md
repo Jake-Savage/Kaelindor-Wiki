@@ -12,9 +12,9 @@ relationships:
   - who: the-high-priest
     note: Walked into his Ossuary alone six weeks after the disaster and ended the disappearances; respects him up to a point, trusts him no further.
 first_session: S2.37
-last_session: S2.38
+last_session: S2.39
 tags: [stonehunger, dunton, authority, black-barrow, survivor, armour]
-summary: The severe, armoured woman who keeps Dunton alive by strict rationing and careful neutrality — a latecomer to the disaster who fought her way down alone and faced Greyface down when nobody else would.
+summary: The severe, armoured woman who keeps Dunton alive by strict rationing and careful neutrality — who came down alone looking for a husband and son she never found, faced Greyface down when nobody else would, and finally agrees to gamble the village on getting out.
 ---
 
 ## Overview
@@ -88,12 +88,65 @@ contradict that interpretation**.
 > *"I maintain a neutrality. Greyface, perhaps, prays for all of us. Perhaps so that we might not have
 > to."*
 
+## Her own account (S2.39)
+She arrived **nearly six weeks after the disaster**, having **fought her way down alone**, bloody and
+embattled — and **went straight into the Ossuary** while people were still disappearing into it
+([[kithri|Kithri]]'s version). In S2.39 she tells it herself, and adds a thing nobody knew:
+
+> *"When I first came here, he was careless with the lives of the people here. **I think he had gone a
+> little mad.** I confronted him and made him see reason, and I think in part **I called him back to
+> himself**. There is a man there, not just a monster. But I also made him see that what he was doing
+> couldn't last — that **he would damn himself as surely as he would damn us**."*
+
+And why she walked into the earth at all:
+
+> *"I came down here looking for **my husband, my son**. I found neither."*
+
+On the arrangement she has kept for twelve years: *"He does not kill without reason. He and I have an
+understanding."* Told what the understanding has cost, she does not flinch — **"if you knew what it was
+like to be down here, you would count that mercifully."** But she is clear-eyed about the hold:
+
+> *"Much as we need Greyface — and have needed him these past twelve years — **he needs us too.** I
+> don't think he will willingly let us go. Not all of us, at any rate… I think he must. Or give up
+> whatever it is he is about."*
+
+## The ways out
+With [[mags|Mags]]'s **Augury** indicating her advice would be actionable, she gives the party
+everything she has:
+
+- **The way the party came in is gone.** *"Only places are those best protected. We would have to take
+  paths that are **more contingent**."*
+- **Over [[the-plain|the plain]] is the obvious route and she does not rate it.** Alone, she thought
+  they would simply be picked off. *"But together — maybe."*
+- **There is another possibility.** Stories years ago of **another intact area**, **past
+  [[the-keep|the Keep]]**: *"that whole area is a **honeycomb of tunnels**. We might be able to **pass
+  under the plain rather than over it**."* She knows **the start of those paths**, and that **they lead
+  up** — not that they reach the surface. They are rough.
+- Her own verdict: *"If I thought this whole place would collapse, the Ossuary fail, this village be
+  lost in the next reordering — I would try to take those paths. **I wouldn't trust again in another
+  power I don't understand.**"*
+
+## The decision
+She agrees to try — not easily, and promising nothing:
+
+> *"A small chance of escape, or a decent chance of living another few years down here… If **they** were
+> here, and I had a chance to get them out, that's the choice I'd make for them. You think we can all
+> make it? …Right. Let's see what kind of a plan we can make. I'm not promising anything, but it seems
+> like there's a chance. A real one. You're right. **It won't come again.**"*
+
+What moves her is [[mags|Mags]] naming the one thing she has never had: *"You know what you didn't have
+last time, Yafet? Us."* She takes it seriously — *"it is hard sometimes to remember that there are
+others with whom I might be able to share it."*
+
 ## DM notes / secrets
-- **She faced him down.** Per [[kithri|Kithri]], the Provost arrived **nearly six weeks after the
-  disaster**, having **fought her way down alone**, arriving bloody and embattled — and **went straight
-  into the Ossuary** while people were still disappearing into it. *"I think she told him what was
-  what. Because after that, things got different."* No more disappearances; an **understanding, an
-  exchange**. The party has not heard her own version.
+- **She insists on speaking for the village herself.** Any approach to Greyface, she regards as **her
+  role**; and she is **not keen** on the party's instinct to put the evacuation to a village vote.
+  She is used to deciding for them.
+- **She sent the two villagers.** Asked by Greyface for **two people**, she sent **two healthy young
+  ones** rather than the two incoherent long-term survivors — because she **did not want to disrespect
+  the request**. [[mags|Mags]] had assumed she would send the least useful, and was wrong.
+  Living people are **rarely** asked for now; the dead go up as a matter of course. It was not always
+  rare.
 - **Something drew her down.** She was away from home when Black Barrow fell; she went back **to search
   for those she had lost** — *"but I don't know that I would have so eagerly walked into the bowels of
   the earth as I did, there not being some sort of an influence. **There is a strangeness.**"* She

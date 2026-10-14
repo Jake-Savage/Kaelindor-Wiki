@@ -3,7 +3,7 @@ id: elvish-necromancy
 type: lore
 category: history
 tags: [elves, necromancy, war, erathian-league, battlefield, rumour]
-summary: A commonplace rumour that the Elvish Empire's armies practise necromancy, and the Erathian League's standing battlefield doctrine of burning its own dead so that no body can be recovered and used.
+summary: A commonplace rumour that the Elvish Empire's armies practise necromancy, and the Erythian League's standing battlefield doctrine of burning its own dead so that no body can be recovered and used.
 related: [undead-puppetry, the-high-priest, erythar, the-valenwyr]
 ---
 
@@ -19,7 +19,7 @@ as a horror story.
 **The informed version**, which [[fabian-perennius|Fabian]] has from **friends and relatives in the
 military**:
 
-- The conflict between the **Erathian League** and the **Elvish Empire** is **largely frozen** in terms
+- The conflict between the **Erythian League** and the **Elvish Empire** is **largely frozen** in terms
   of direct contact. But the eastern kingdoms, though largely conquered and suppressed, still produce
   **engagements and uprisings**, and there are **limited engagements across the mountain passes**.
 - **There is serious concern about bodies left behind on a battlefield.** The understanding is that an

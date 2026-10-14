@@ -8,6 +8,7 @@ controlled_by: null
 connected_to: [the-plain]
 status: active
 first_session: S2.38
+last_session: S2.39
 tags: [stonehunger, plain, keep, lower-levels, unvisited]
 summary: A structure out across the plain that stands above and guards the lower levels of the Stonehunger — unseen by almost everyone in Dunton, and the party's declared next objective.
 ---
@@ -31,6 +32,28 @@ What is established:
 After hearing about it, [[fabian-perennius|Fabian]]'s conclusion for the party is simply: **"we've got
 to get to this keep."** It is the first concrete destination the party has had since reaching
 [[dunton|Dunton]], and the route to it crosses a dark, shifting plain full of large hostile creatures.
+
+## What is there (S2.39)
+- **Soldiers.** There are soldiers at the Keep. As far as the villagers of [[dunton|Dunton]] are
+  concerned, **those soldiers are undead** — their judgement, not a confirmed fact.
+- **Red-robed priests** come up from the lower levels past Dunton from time to time, which is part of
+  what the palisade watches for. [[the-provost|The Provost]] says there are **"very, very many"** of
+  them below.
+- **It is more than a day's walk** across [[the-plain|the plain]], and visible from the palisade.
+  The villagers' flat position is that **you cannot go there** — you would be set upon by the plain's
+  creatures the whole way and never arrive.
+- **Past it is a honeycomb of tunnels.** [[the-provost|The Provost]] has heard stories of **another
+  intact area** beyond the Keep, and believes it might be possible to **pass under the plain rather
+  than over it**. She knows the start of those paths and that **they lead up**.
+
+## Why the party cares
+Two reasons, both raised in S2.39:
+
+- **[[fabian-perennius|Fabian]]'s** reasoning: the Keep is the hinge between this level and the ones
+  below, so **if there is a way back up anywhere, it is likely to be there**.
+- **[[rell-aetris|Rell]]'s**: it holds **people**, and that makes it a bargaining chip — his proposal
+  is to offer [[the-high-priest|Greyface]] access to the Keep's inhabitants as **an alternative supply**
+  in exchange for letting [[dunton|Dunton]] go. See [[evacuate-dunton]].
 
 ## DM notes
 - **Nothing about the Keep itself is established** — not its builders, its age, its occupants, its

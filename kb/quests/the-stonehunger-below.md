@@ -5,7 +5,7 @@ title: The Stonehunger Below
 status: active
 priority: main
 opened_session: S2.31
-last_updated_session: S2.38
+last_updated_session: S2.39
 involves_characters: [caspian-talon, fabian-perennius, mags, trevick, rell-aetris, theodore, turley, glorta, tuffin, the-custodian, the-high-priest, the-undead-minotaur, the-arena-elemental, varen, the-provost, kithri, roscoe]
 involves_locations: [kethrans-fold, the-mirrowen, the-stone-river, the-golden-courtyard, grommars-path, the-foul-pool, the-ancient-forge, the-buried-arena, dunton, ketters-rest, the-ossuary, the-plain, the-keep, black-barrow]
 factions: [the-gleaners]
@@ -208,6 +208,30 @@ crushing whatever has no "place."
   balance]]** with **[[itharis|Itharis]] as its pivot**, collapses into fatalism, and is argued back
   out of it by Caspian. **The session ends before his reply.**
 
+- S2.39: The conversation in [[the-ossuary|the Ossuary]] runs the whole session and gives up almost
+  everything. **[[the-high-priest|Greyface]] is alive** — the figure is a corpse he wears — and the
+  temple is to **[[thalparaneth|Thalparaneth]]**, a forgotten god of **un-life** whose practice **his
+  kinsman rediscovered** and taught him. He **argued that the lost strands of magic should be recovered
+  and used, lost that argument to his own family, and fled for his life**; he **chose this place by
+  divination**, having worked out **where and when the Stonehunger would next surface**, which disposes
+  of the "coincidence" at [[black-barrow|Black Barrow]]. He sketches
+  **[[the-balance|the whole structure of magic]]** — **[[itharis|Itharis]] at the centre, four opposed
+  pairs around her**, nine in all, which he regards as complete — demonstrating it by entwining
+  [[mags|Mags]]'s **Guidance** with his own magic until it collapses and leaves him drained, and
+  placing **[[rell-aetris|Rell]]'s Arms of Hadar** on the diagram as a magic of **control and order**
+  opposite [[rhynharran|Rhynharran]]. He describes what [[necromancy|real necromancy]] costs — it
+  **feeds on life energy**, **grows with use**, **severs bonds** and **breaks the mind** — and offers to
+  **teach Caspian**, hinting a second time at his **"condition."** The price is **a living subject**.
+  Caspian takes the offer; [[mags|Mags]], to everyone's surprise, lets him, on the reasoning that he
+  would otherwise go alone. **Greyface asks [[the-provost|the Provost]] for two people and she sends
+  two healthy young ones.** **Caspian refuses to kill them and brings them back alive**, and the two
+  part on even terms. Afterwards [[caspian-talon|Caspian]] works out who Greyface probably is:
+  **Lae'ethorian**, a relative of **Archon Thaloriel** and once a principal commander of the Elvish
+  armies, vanished twelve years ago. Meanwhile [[mags|Mags]] has resolved to **evacuate Dunton** — see
+  **[[evacuate-dunton]]** — and the Provost, after giving her own account of facing Greyface down and
+  of the **husband and son** she came looking for, agrees to try. The session ends with the party
+  **openly split** on what to do.
+
 ## Open threads
 - **What is the Stonehunger, truly?** Corroborated as a real, vast, moving devourer the party is
   **inside** — but whether it is a deity, a living titan/beast, an ancient construct, or something
@@ -284,11 +308,14 @@ crushing whatever has no "place."
   stated to matter and never named.
 - **Who cut the ward-lines beyond the palisade** — two great half circles in stone, which **predate
   Black Barrow's survivors** — and what are they holding out?
-- **What is [[the-high-priest|Greyface]] in exile from?** He will not say where he is from, who taught
-  him, or why he must lie low. His face became elf-like when the magic came; see
-  [[elvish-necromancy]] for what little the party could dredge up, and **do not treat that as a link**.
+- **Who is [[the-high-priest|Greyface]]? — answered in S2.39.** He is **Lae'ethorian**, a relative of
+  Archon Thaloriel and a former commander of the Elvish armies, in exile after losing an argument to
+  **his own family** about recovering **lost strands of magic**. See [[thalparaneth]],
+  [[the-balance]] and [[the-bleeding-years]]. **Still open:** who the kinsman was who rediscovered
+  Thalparaneth's ways, who the *"him"* was that he risked his life to make listen — and **what he
+  would do if he learned the party knows his name**.
 - **[[the-high-priest|Greyface]] has read [[caspian-talon|Caspian]]'s blood — and the party has no
-  idea.** What he found by touching the bare skin is the **undead quality** in it, unexplained since
+  idea.** (Working truth, DM: Caspian is **some kind of undead, most likely a dhampir**.) What he found by touching the bare skin is the **undead quality** in it, unexplained since
   S2.07. *"We have a little more in common than I had suspected"* is literal. **What the commonality
   is, and what he now takes Caspian for, are open** — as is what he does about it, given that he said
   in the same breath that the temptation to keep them was quite strong.

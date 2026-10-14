@@ -16,7 +16,10 @@ Rhynharran is the god of **nature, weather, the wild, and its cycles** — the s
 - Rhynharran sends **[[the-watcher|Watchers]]** — concentrated spirits that watch over a chosen lineage across generations. [[trevick|Trevick]]'s spirit [[hawk]] is one such Watcher (S2.19).
 - [[serris-dane|Serris Dane]] is a fervent Rhynharran devotee who believes recreating the storm of [[the-stormblind|the Stormblind]] will let his god take him up.
 - Trevick finds the **firbolg interpretation** of Rhynharran (via [[nessa|Nessa]]) resonates with him far more than the formal Greenhall worship (Reflections, Trevick entry 12).
+- **Sarasthanae (S2.39).** An aspect of Rhynharran concerned with **the bardic arts, storytelling and creativity**, generally treated as a subset of the god rather than a power in its own right — [[fabian-perennius|Fabian]] knows it as such. [[the-high-priest|Lae'ethorian]] says otherwise: on [[the-balance|his structure of magic]] it is the **ninth power**, **broken long ago**, and *"we still speak of it — at least the elves do."*
+- **On Lae'ethorian's diagram (S2.39)**, Rhynharran is **wild magic, harmony, going with the flow of the system rather than resisting it** — *"no order save the order that already exists"* — and sits **opposite magics of control and order**, the kind [[rell-aetris|Rell]] wields.
 
 ## Open questions
+- **Was Sarasthanae once a power of its own, and who broke it?** The surface church treats it as a facet of Rhynharran; Lae'ethorian treats it as a separate, broken thing. See [[the-balance]].
 - Why does Rhynharran's Watcher attend [[trevick|Trevick]]'s lineage, and what is he meant to do? (See [[the-watcher]].)
 - What is the truth behind the [[the-stormblind|Stormblind]] storm — divine action or natural disaster read as such?

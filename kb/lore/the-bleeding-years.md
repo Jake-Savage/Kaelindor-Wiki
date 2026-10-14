@@ -16,8 +16,34 @@ The Bleeding Years are the present, grinding war between the western [[the-valen
 - **The line holds.** ~90 years ago the kingdoms west of the **Stone March** (a north-south mountain range with few crossings) formed the **Erythian League**, led by [[erythar|Erythar]]. The passes were held in a series of bloody battles, and the war settled into the present attritional stalemate.
 - **The cost.** Resources are stretched everywhere; the best of everything is sent to [[crownspire|Crownspire]] for the war effort. Poorer kingdoms pay their tithe in fighters and mages for the front line. [[kaelindor|Kaelindor]] is wealthy and far from the front, paying its tithe in gold and magical items rather than soldiers.
 - **Dissident elves.** Not all elves support Thaloriel; some live in exile in the western lands, welcomed by some kingdoms and forbidden in others.
+- **A council of nine.** Apart from the Archon, the elves are ruled by a **council of nine** — a detail
+  [[fabian-perennius|Fabian]] knows, and which struck the party in S2.39 against
+  [[the-balance|Greyface's nine-fold structure of magic]]. **Nothing connects the two.**
+- **Battlefield necromancy.** It is a commonplace rumour that the Elvish armies practise it, and the
+  League expects its own armies to **burn their dead** rather than leave bodies to be recovered — see
+  [[elvish-necromancy]].
+
+## Lae'ethorian (S2.39)
+**[[the-high-priest|Greyface]], met beneath the Mirrowen, is Lae'ethorian** — a **relative of Archon
+Thaloriel**, once **one of the principal commanders of the Elvish armies**, who **disappeared about
+twelve years ago**. He is not old enough to have started the war, but is bound up in its more recent
+conduct, and west of the Stone March he is remembered as a monster.
+
+**He never said so.** [[caspian-talon|Caspian]] worked it out and [[fabian-perennius|Fabian]] knew the
+name; Lae'ethorian does not know he has been placed. What he himself says is that he lost an argument to
+**others in his family** about whether **lost strands of magic should be recovered and used**, that he
+fled because he feared for his life, that he has **no standing any more**, and that he assumes —
+and prefers — that **the world believes him dead**. He calls himself **a traitor to his country and his
+people** merely for talking to the party.
+
+**That he is alive and where he is** is current intelligence the party now holds. See
+[[the-high-priest]].
 
 ## Open questions
-- What "unholy power" might Thaloriel have bargained with, and is it connected to other dark forces (e.g. the [[korrathian|Korrathians]] / [[the-furnace-brood]])?
+- What "unholy power" might Thaloriel have bargained with, and is it connected to other dark forces (e.g. the [[korrathian|Korrathians]] / [[the-furnace-brood]])? **S2.39 adds a candidate and does not
+  confirm it:** [[thalparaneth|Thalparaneth]], a lost god of **un-life**, whose practice was
+  **rediscovered by a kinsman of Greyface's** and **revived within the Archon's own family** in living
+  memory. Suggestive — but Greyface places himself on the **losing** side of that family's argument,
+  and the fiction draws no line. **Keep them separate until it does.**
 - The [[the-eldryn|Eldryn]] fear the [[the-uthrel|uthrel]] is being eyed as a **weapon in this war** (S2.21) — is anyone already trying to weaponise it?
 - Where does [[kaelindor|Kaelindor]]'s mysterious wealth in the Silver Keep come from?

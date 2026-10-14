@@ -125,7 +125,7 @@ Her own summing-up is that it is not ideal, that she does not know what he does 
 
 The party casts back for anything it knows about elves taking bodies. Caspian and Rell have both heard the rumour — it is fairly commonplace that the Elvish armies practise necromancy on the battlefield, the sort of horror story everybody has heard and most people discount. Fabian, through friends and relatives in the military, has considerably better information, and the party learns:
 
-- The conflict between the Erathian League and the Elvish Empire is largely frozen in terms of direct contact, but the eastern kingdoms, though largely conquered and suppressed, still produce engagements and uprisings, and there are limited engagements across the mountain passes.
+- The conflict between the Erythian League and the Elvish Empire is largely frozen in terms of direct contact, but the eastern kingdoms, though largely conquered and suppressed, still produce engagements and uprisings, and there are limited engagements across the mountain passes.
 - There is serious concern about bodies left behind on a battlefield. An army that cannot recover its dead and wounded is expected to burn them, so that only ash remains. Bodies should not be left where the enemy can retrieve them.
 - The fear is not principally about infiltration. Raising corpses and sending them against an enemy is a relatively crude magic and is practised in several places; that is not what worries anyone.
 - The worry is that a recovered body yields information, and that the magic worked on it may be used to harm, influence or in some way control the people that person was close to.

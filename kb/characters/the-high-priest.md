@@ -1,23 +1,32 @@
 ---
 id: the-high-priest
 type: character
-title: The High Priest ("Greyface")
+title: Lae'ethorian — the High Priest ("Greyface")
 category: npc
-species: Human (undead)
+species: Elf — living, and working through human corpses
 role: High Priest of "God" below; master of the buried arena
-status: undead
+status: alive
 home: the-ossuary
 affiliations: []
 relationships:
   - who: the-arena-elemental
     note: Calls it "my captive"; compels it by magical will to open and close the stone.
+  - who: the-provost
+    note: She confronted him in his first weeks and ended the disappearances; they have had an understanding ever since, and she thinks she called him back to himself.
   - who: caspian-talon
-    note: Takes Fabian's offer of Caspian's help with the axe entirely sincerely.
+    note: Recognises something in his blood, offers to teach him necromancy, and is refused the price — they part on even terms.
 first_session: S2.36
-last_session: S2.38
-tags: [stonehunger, grommars-path, arena, dunton, undead, priest, puppet, ossuary]
-summary: A relatively fresh undead in red-and-gold robes who calls himself High Priest, opened the arena to the party, set an undead minotaur on them as an experiment, and took back the dwarven axe that was keeping it alive.
+last_session: S2.39
+tags: [stonehunger, grommars-path, arena, dunton, undead, priest, puppet, ossuary, elves, exile, laeethorian, necromancy]
+summary: Lae'ethorian — a relative of Archon Thaloriel and vanished commander of the Elvish armies, alive and in exile beneath the Mirrowen, who works through borrowed corpses as "Greyface", the High Priest of Dunton.
 ---
+
+> **He is Lae'ethorian, and he is alive.** The figure the party talks to is a corpse he is wearing.
+> Everything below describes that puppet unless it says otherwise; the man himself has never been seen,
+> and is somewhere within reach of [[the-ossuary|the Ossuary]]. He is **an elf**, **a relative of
+> [[the-bleeding-years|Archon Thaloriel]]**, and once **one of the principal commanders of the Elvish
+> armies**. **He has never said so** — the party worked it out (S2.39), and he does not know that they
+> have.
 
 ## Overview
 First heard in S2.36 as **a bright, unseen voice** at the dead end below [[the-ancient-forge|the ancient
@@ -171,6 +180,57 @@ of books* — and moves on.
 **They are wrong.** What he found in Caspian's skin is the thing [[mags|Mags]] had tested in S2.07 and
 never got an answer to: **Caspian's blood reads as undead**. See the DM notes below.
 
+## What he is in exile for (S2.39)
+Pressed by [[caspian-talon|Caspian]], he talks far past what he intends to — and by the end the party
+has the shape of his whole life.
+
+**The argument.** [[the-ossuary|The Ossuary]] was raised to **[[thalparaneth|Thalparaneth]]**, a god of
+**un-life** whose practice was almost entirely lost until **his kinsman rediscovered it** and taught it
+to others, Greyface among them. He came to believe **Thalparaneth's is not the only lost strand** —
+that there are **other strands of magic no longer used, and that this is a problem**. See
+[[the-balance]].
+
+> *"I tried, and I failed, to make a case that they should be recovered, used. I lost that argument.
+> And this is my — well, my place of exile, one might say."*
+
+He lost it to **others in his family**: *"a disagreement of policy, strategy. I have always been a
+better scholar than a politician."* He speaks of **a sister** among those whose minds were made up, and
+says he **risked his life trying to make one man listen** — a *him*, unnamed.
+
+**The flight.** *"I came down here to hide, because I feared my life would not be worth much had I
+remained where I was."*
+
+**He chose this place deliberately.** Asked whether he knew the creature was here before he came:
+
+> *"Yes. I had heard of it, and I had conducted or commissioned **divinations** to understand where and
+> when it might surface again. I was lucky, I suppose, in that I didn't have to wait over long. There
+> are other routes in, but they were barred to me."*
+
+Which disposes of the "strange coincidence" of his arrival at [[black-barrow|Black Barrow]] days before
+it fell. **He was waiting for it.** Whether he knew it would take *that* village, and what he thought
+would happen to the people in it, is **not established** — and the party never asked.
+
+**What he found.** He expected a hiding hole and got **[[the-ossuary|a temple to his own discipline]]**,
+which has **enhanced his magic greatly**. *"Sometimes fate is strange in that way. When I came here
+fleeing, I have found a resource I could not have dreamt of."* And: *"knowledge without the power to
+act on it can be a torture."*
+
+**Why he does not go back.** His face twists darkly at the suggestion.
+
+> *"I don't think that would go well for me. In those days an argument could at least be made. I suspect
+> matters have progressed on a number of fronts. If there is still time — **I have no standing any
+> more.** I made my play and it was rejected. **Perhaps I was wrong. It's possible. I, after all, had
+> very little data.**"*
+
+He adds that **he has made himself a traitor even by speaking with the party** — a traitor to *"my
+country, my people."* Asked which country, he looks at [[mags|Mags]] and says: **"It doesn't matter
+now."** He assumes **the world thinks him dead**, and would rather it did: *"much safer for me. And,
+well, perhaps safer for you too, should you be unlucky enough to move in circles where it became
+relevant."*
+
+He declines to send any message to the surface. *"The arrogance and optimism of youth. No — I would not
+condemn you by asking you to carry my messages."*
+
 ## DM notes / secrets
 - **What he is willing to do.** [[mags|Mags]]'s Insight (21): **no aggressive intent and no interest in
   murdering them imminently** — but the distinct impression that **if he thought it would be
@@ -190,16 +250,62 @@ never got an answer to: **Caspian's blood reads as undead**. See the DM notes be
   close or has made arrangements. Note also that he is a **fresh** undead in an ancient complex, and
   that everything the party found interesting about him — the curiosity, the experiments, the appetite
   for visitors of any caliber — belongs to **them**, not to the corpse.
-- **He gives no name of his own** — only the nickname and the office. Where he is from, who taught him,
-  and what he is in exile *from* are all unanswered, and he deflected every approach to them.
+- **He gives no name of his own** — only the nickname and the office, and he never names his country,
+  his family or the man he argued with. He is **careful** about it throughout, by the DM's own account.
+
+### He is Lae'ethorian
+**Confirmed (S2.39).** Greyface is **Lae'ethorian**:
+
+- **A relative of [[the-bleeding-years|Archon Thaloriel]]** — part of his family, though **the exact
+  relationship may not be publicly known**.
+- In his time, **one of the principal commanders of the Elvish armies**.
+- He **disappeared** roughly **twelve years ago** — exactly when he came down beneath
+  [[black-barrow|Black Barrow]].
+
+**How the party knows.** He never told them. [[caspian-talon|Caspian]], having spent the most time with
+him and traded the most stories, **put the pieces together** after the conversation — the exile, the
+family argument, a commander's bearing and a scholar's habits, the elvish name of the god. He relayed
+it to [[fabian-perennius|Fabian]], who **knew the name at once**, having studied some of the
+campaigns. Lae'ethorian is **not old enough to have started** [[the-bleeding-years|the war]], but is
+bound up in its **more recent conduct**. [[rell-aetris|Rell]] might well never have heard of him.
+
+**He does not know they know.** Every confession he made — the family, the exile, *"a traitor to my
+country, my people"*, *"it doesn't matter now"* — was made on the understanding that they could not
+place him.
+
+**West of the line he is regarded as a monster**, and the party has been **steeped in one side's
+propaganda** all their lives — Mags's immediate verdict is unprintable. Whether the reputation is
+deserved is a separate question nobody has examined.
+
+- **The fact of the exile is itself intelligence.** A senior falling-out in the Elvish hierarchy is old
+  news, but **where Lae'ethorian is** is not, and the party has it.
+- **Do not fuse this with [[the-bleeding-years]]'s open question** about what "unholy power" Thaloriel
+  bargained with for "dark magics not seen before." A revived god of un-life inside the Archon's own
+  family is suggestive; **nothing in the fiction joins them**, and Greyface places himself on the
+  *losing* side of that argument.
+- **He asked for two people, and Caspian refused him.** In S2.39 he sends word to
+  [[the-provost|the Provost]] for **two villagers**, and she sends **two healthy young ones** rather
+  than disrespect the request. He then asks [[caspian-talon|Caspian]] — as the price of teaching him —
+  to do *"unimaginable and unspeakable things"* that **would have killed them**. Caspian refuses,
+  **explains why**, and **walks both of them back down to [[dunton|Dunton]] alive**. Greyface takes it
+  **better than Caspian expected**; they part *"on even terms."* Caspian's read afterwards is that he
+  was left **reflecting on his own choices and lack of them** — **possibly susceptible to argument**,
+  and also **quite distracted**. It could cut either way.
+- **He has tried repeatedly to warn Caspian off.** Even after agreeing to teach him, he made *"a couple
+  more attempts"* to say he should not do this.
+- **The second reference to Caspian's "condition."** Offering to teach him, he says the risk might be
+  lessened because **"your condition might offer you some protection."** [[mags|Mags]] and
+  [[fabian-perennius|Fabian]] both audibly caught the word. Caspian **ignored it and moved on**.
 - **The arm-grasp: he read [[caspian-talon|Caspian]]'s blood.** What he found by touching the bare skin
   of the forearm and wrist — *"ah, yes. That makes sense. That makes sense"* — is the **undead quality
   in Caspian's blood**, the anomaly [[mags|Mags]] had tested in S2.07 and never explained, and which
   Caspian waved away as having "changed his blood via magic." **"We have a little more in common than I
   had suspected"** is meant literally. **The party does not know this.** They took the remark for a
   compliment about reading habits and did not pursue it; Caspian has volunteered nothing, here or ever.
-  **What exactly the commonality is — and whether Greyface now thinks Caspian is something like
-  himself — is not established**, only that he recognised it on sight and found it explanatory.
+  **What Caspian is remains unexplained in the fiction** — but the working truth (DM) is that he is
+  **some kind of undead, most likely a dhampir**. That is what Greyface read on contact, what he meant
+  by *"more in common,"* and what he means by Caspian's **"condition."** Whether Greyface has put a name
+  to it himself is not established.
 - **He is despairing underneath it.** Explaining [[the-balance|his theory of magic]] he goes from
   animated to flatly **fatalist** — *"I made my peace with this a long time ago, and there's no point
   in any of this"* — until [[caspian-talon|Caspian]] argues him out of it. **His reply to that is where

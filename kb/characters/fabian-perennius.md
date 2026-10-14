@@ -21,7 +21,7 @@ relationships:
   - who: valeria
     note: His sister, an aberration-scholar he expects to envy his reaching the Mirrowen first.
 first_session: S1.05
-last_session: S2.38
+last_session: S2.39
 tags: [bard, crownspire, fame-seeking, radiant-magic, golden-lute, sunblade]
 summary: A vain, fame-seeking bard and seventh son of a Crownspire dynasty who hungers to be the hero of an epic tale, and who manifests a new golden radiant magic after a selfless act by Mags.
 ---
@@ -132,6 +132,18 @@ His defining motivation is legacy and museum-fame: as a boy he stood beneath the
   than it deserves. With Greyface he talks his way into credibility with the museum story — believed,
   and listened to with **politely veiled total contempt** — and keeps him talking long enough for
   everything else to come out.
+
+- S2.39: Zones out through most of the magical theory and supplies the pieces of knowledge that matter.
+  He is the one who recognises the **broken ninth power** Greyface names — **Sarasthanae**, an aspect of
+  [[rhynharran|Rhynharran]] covering the **bardic arts, storytelling and creativity**, generally
+  treated as a subset rather than a power of its own. He also knows that **the elves, apart
+  from the Archon, are ruled by a council of nine**, which lands oddly against a nine-fold diagram. When
+  [[caspian-talon|Caspian]] names **Lae'ethorian**, Fabian **knows exactly who that is** — he has studied
+  the campaigns — and his first instinct is that killing him would make them war heroes, and his second
+  that **the news has to reach the surface**. On the evacuation he is for saving the village, or
+  failing that **the youngest generation**, and is the one who points out that the **Keep is the hinge
+  of this level** and therefore the likeliest place to find a way up. He also suggests nothing stops
+  Greyface taking one of the **red-robed priests** who walk past.
 
 ## DM notes / secrets
 - Fabian's [[fabians-radiant-magic|radiant magic]] (S2.17) is unexplained in-world — an emergent power tied to selfless/heroic resonance, an active open thread.

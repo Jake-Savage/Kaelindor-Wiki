@@ -21,7 +21,7 @@ relationships:
   - who: shalfay
     note: Tower of Heaven employer and divination contact; Caspian still corresponds with him.
 first_session: S1.01
-last_session: S2.38
+last_session: S2.39
 tags: [scholar, wizard, divination, uthrel, vampire-suspicious, dragon-bones]
 summary: A coldly rational divination wizard obsessed with studying the Uthrel and dragon remains, who secretly dealt with the vampire Lucien and is evasive about what it cost him.
 ---
@@ -142,6 +142,22 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
   despair** — that as a wizard he of all people should know anything is capable of change, that that is
   the point and the fun of it — and it lands.
 
+- S2.39: The session is his, and it costs him. He keeps [[the-high-priest|Greyface]] talking for hours
+  and draws out nearly everything the party learns: **[[thalparaneth|Thalparaneth]]**, the exile, the
+  lost strands, and **[[the-balance|the whole nine-fold diagram]]**, which he copies into his notebook
+  when Greyface proves **too clumsy in the puppet's hands to draw it himself**. He does not hide that
+  he recognises the cost of [[necromancy|real necromancy]] from [[codex-mortis|Kiona's notes]] —
+  *"it has already taken a toll on me"* — and is answered with a flat **"I know."** Offered
+  **tuition**, and warned repeatedly that he will lose himself, he **asks [[mags|Mags]] first** rather
+  than slipping off alone, which she notes as growth, and stays behind for a day.
+  **Greyface's price is two living villagers.** Caspian **refuses** — *"he asked too much of me and I
+  could not give it"* — explains why, and **walks both of them back down to [[dunton|Dunton]] alive**,
+  looking sad, disappointed and slightly proud of himself. Afterwards he puts the pieces together and
+  works out who Greyface is: **Lae'ethorian**. For the rest of the session he argues the
+  unpopular side — that the party cannot fight this man, that taking the whole village out is not
+  realistic, and that they should **talk to him rather than run** — and will not say aloud what he
+  would do if the talk fails.
+
 ## DM notes / secrets
 - Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. What passed between them is unresolved and worth keeping ambiguous.
 - Separately and unrelated to Lucien: in the necromantic library (S2.07) Caspian put a bloodied hand to a door, and [[mags]] later had that blood examined — it read as **undead blood**. Caspian claimed he had "changed his blood via magic." Mags was unconvinced but let it lie. The source asserts no "affliction," only this unexplained anomaly.
@@ -153,5 +169,11 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
   anyone. **He does not know what was read, and nobody else knows it was read at all.** Note that this
   is a man who wears corpses and says he was *"educated in the principles of my craft from a very young
   age"* — and who immediately afterwards says the temptation to keep Caspian is **quite strong**.
+- **What Caspian is — working truth (DM).** Still **unexplained in the fiction**, and the party does not
+  know it. But he is **some kind of undead, most likely a dhampir**. That accounts for the undead blood
+  Mags tested in S2.07, for what Greyface read on contact in S2.38, and for the **"condition"** Greyface
+  named twice in S2.39 as something that might **protect him from necromancy's cost** — and possibly
+  for why he is already, in Greyface's words, *"almost halfway toward being able to practise no other
+  sort of magic."* **Mags and Fabian both heard the word "condition" and neither has pressed him.**
 - He retains [[kiona-dumois|Kiona]]'s [[codex-mortis]] notes (dangerous necromantic knowledge that reveals secrets over time).
 - His secret map back to the silver-dragon grove (S2.16) is a future flashpoint with [[dakir]] and the [[the-eldryn]].

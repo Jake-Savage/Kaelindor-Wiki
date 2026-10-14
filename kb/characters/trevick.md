@@ -21,7 +21,7 @@ relationships:
   - who: dakir
     note: Founding companion he confides in about Joster; the two keep contact by Dakir's paired sending-tokens after Dakir's departure (S2.28).
 first_session: S1.01
-last_session: S2.36
+last_session: S2.39
 tags: [ranger, beastmaster, firbolg-favoured, watcher, uthrel, velton, salmeros]
 summary: A tiefling beastmaster ranger and lone survivor of a village destroyed by the Uthrel, revered by the firbolgs as bearing a Rhynharran "Watcher" and chosen as the Eldryn's go-between.
 ---
@@ -92,6 +92,19 @@ In [[greymere]] he becomes the party's conduit to the natural world and the [[th
   In the arena he fights **hasted**, goes for **Hunter's Mark** and three arrows to little effect, and
   has [[hawk|Hawk]] make flyby swipes. At the end he works out for himself that shooting the fleeing minotaur would break the
   turning, and **holds his action** instead.
+
+- S2.39: Rejoins the party in [[the-ossuary|the Ossuary]], having missed everything since the arena,
+  and spends much of the magical theory absent-mindedly counting bones in the chandeliers. His two
+  contributions both cut against the room. The first is to **[[the-high-priest|Greyface]]**: having
+  lost a great many people himself, he argues that every scrap of memory of the dead matters, and that
+  somewhere above there will be someone who would want **a piece of him** — would he not leave
+  something on the surface to be found? Greyface does not answer, and gives him only *"the arrogance
+  and optimism of youth."* [[mags|Mags]] is appalled that he is trying to coax the man back up at all.
+  The second lands harder. When [[mags|Mags]] sets out the evacuation, Trevick says the thing nobody
+  else will: **it is not the party's decision to make.** These people have lived this reality for twelve
+  years and must choose for themselves — though he would prioritise **the children and their families**
+  without hesitation, and he holds that **excluding Greyface from the decision guarantees most of them
+  die**. See [[evacuate-dunton]].
 
 ## DM notes / secrets
 - Trevick's father was a "Salmeros" — a lineage the devil [[joster-sirit]] recognised (he never claimed to have known the man) — and his parentage (with possible infernal/marked lineage beyond ordinary tiefling) is an open mystery seeded since S1.05.

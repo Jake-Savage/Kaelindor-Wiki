@@ -17,7 +17,7 @@ relationships:
   - who: trevick
     note: Comes to understand Trevick as one who has shed the trappings of humanity to live honestly.
 first_session: S1.05
-last_session: S2.38
+last_session: S2.39
 tags: [wizard, aberrant-mind-sorcerer, mind-magic, telepathy, tir-van, horizonborn, horizon-doors, masked, secretive]
 summary: A masked, reclusive Tir'Van who passes publicly as a wizard — secretly an Aberrant Mind sorcerer — whose lifelong search for the Horizon Doors makes him suspiciously excited when the party finds one — the tampered Bright Gate.
 ---
@@ -143,6 +143,21 @@ Morally, Rell is the party's harshest realist. He is bitter that the party "danc
   [[the-ossuary|the Ossuary]] he asks after the bones and establishes they are **all broadly humanoid
   but very diverse**, and is the one who names the **[[the-furnace-brood|Furnace Brood]]** to Greyface
   and corrects the party's drifting account of its own brief.
+
+- S2.39: Volunteers his own magic for examination — an unusual thing for a man who has spent the
+  campaign hiding what he is. He interjects to ask what [[the-high-priest|Greyface]] makes of **magic
+  drawn from worlds beyond**, clears a space, and casts **Arms of Hadar** as a demonstration. Greyface
+  reads it back to him as **"drawing power from another source, but reordering things such that they
+  resemble something which comes from another place"** — magic of this plane forced into an unfamiliar
+  shape — and Rell accepts the reading. Pressed on its purpose he first says **survival and defence**,
+  which draws a dissatisfied look, and then reframes it as **control**: it is easier to bend a will
+  away from you than to stand against it. That earns the recognition — Greyface knows of **magics that
+  bent that way, practised by people who lived in this land long ago**, whose **traces he has found
+  down here** — and a place on [[the-balance|the diagram]], opposite [[rhynharran|Rhynharran]]. Asked
+  what his people call it, Rell says **not one spoken**. In the argument afterwards he is unequivocal
+  that they must try to save the village — *"leaving them here to die is as much as killing them"* —
+  while backing Caspian's instinct to **make the case to Greyface first**, and proposes the session's
+  one concrete offer: **access to the people of [[the-keep|the Keep]]** as an alternative supply.
 
 ## DM notes / secrets
 - **The "wizard" identity is a guise.** Rell is officially known as a wizard and deliberately never names a subclass. In truth he is an **Aberrant Mind sorcerer** (an "aberrant soul" sorcerer), masking his innate, aberrant power behind the studied respectability of wizardry — a concealment that fits the unsettling, many-eyed nature of the [[the-tir-van]].
