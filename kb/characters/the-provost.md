@@ -147,8 +147,11 @@ route, but she has not gone wrong. She is making for **porous rock and caves** l
 natural, by whom she does not know.
 
 On the march she identifies a passing patrol as **soldiers from [[the-keep|the Keep]] or priests**.
-She warns that:
+What she knows of them comes from Greyface:
 
+- **They regard the villagers as parasites inhabiting the body of God**.
+- **They tolerate Dunton only because Greyface made some arrangement with them**, convincing them he
+  was one of them.
 - Out on the plain, **they will kill villagers if they find them**.
 - The hunters find them **easy to avoid**: they never leave their patrol routes.
 

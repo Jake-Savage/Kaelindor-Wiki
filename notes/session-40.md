@@ -50,7 +50,7 @@ Rell looks back toward the place he set his flare and makes out, darkness agains
 
 ## The Patrol
 
-At the front, Fabian picks out a patrol of six far off to the left: no lights, no attempt at concealment, simply tramping along. The Provost says they could be soldiers from the Keep or they could be priests, and either way they must be avoided. Out here they would kill the villagers on sight. The hunters find them easy to dodge, because they never leave their routes.
+At the front, Fabian picks out a patrol of six far off to the left: no lights, no attempt at concealment, simply tramping along. The Provost says they could be soldiers from the Keep or they could be priests, and either way they must be avoided. Greyface told her they think of the villagers as parasites living in the body of God, and that they put up with Dunton only because he came to some arrangement with them and convinced them he was one of their own. Out here they would kill the villagers on sight. The hunters find them easy to dodge, because they never leave their routes.
 
 Fabian halts the column for a drink and a rest, which people take gratefully, and goes down the line telling everyone they are doing well and to keep their voices down. Trevick and Fabian put together a bottle of lamp oil with a lit wick, and Hawk carries it off toward the patrol, only just strong enough to manage it, to drop it somewhere that will pull them away.
 
@@ -68,4 +68,4 @@ The thing from the village seems to be heading fast for Rell's flare. Mags, Rell
 - Upward shafts that someone cut lie in the porous rock and caves the Provost is making for.
 - Something very large, smelling of old bones and hard-driven magic, came out of Dunton after the convoy. It is not the Stonehunger.
 - Caspian, and Theodore with him, know that magic from a long time ago.
-- The Keep's soldiers and priests walk fixed patrol routes across the plain, and would kill the villagers on sight.
+- The Keep's soldiers and priests walk fixed patrol routes across the plain, and would kill the villagers on sight. The Provost says, on Greyface's word, that they think of the villagers as parasites in the body of God, and that Greyface has passed himself off among them as one of their own.

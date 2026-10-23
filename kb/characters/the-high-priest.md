@@ -313,6 +313,11 @@ propaganda** all their lives — Mags's immediate verdict is unprintable. Is the
 - **Why he improved Dunton's lot.** [[varen|Varen]] says that before this High Priest came, a healer in
   these parts *"would have changed everything"*, and that they now lack little in that regard. S2.39
   answers why: [[necromancy|his magic]] runs on the life of others, and Dunton is his supply.
+- **He passes among the Keep's people as one of them (S2.40)** — so [[the-provost|the Provost]] says,
+  relaying what Greyface told her. The soldiers and priests of [[the-keep|the Keep]] regard Dunton's
+  villagers as **parasites in the body of God**, and tolerate the village only because **he convinced
+  them he was one of them**. Which is the pose — Thalparaneth's revivalist, or one of the Keep's
+  believers?
 - **The village left him (S2.40).** All thirty-four walked out that evening with no word left for him.
   Some hours later something **eighteen to twenty feet tall**, sounding of clattering bone and smelling
   of old bones and **aggressively maintained magic**, came out of [[dunton|Dunton]] after them. **Is it

@@ -5,7 +5,7 @@ title: The Stonehunger Below
 status: active
 priority: main
 opened_session: S2.31
-last_updated_session: S2.39
+last_updated_session: S2.40
 involves_characters: [caspian-talon, fabian-perennius, mags, trevick, rell-aetris, theodore, turley, glorta, tuffin, the-custodian, the-high-priest, the-undead-minotaur, the-arena-elemental, varen, the-provost, kithri, roscoe]
 involves_locations: [kethrans-fold, the-mirrowen, the-stone-river, the-golden-courtyard, grommars-path, the-foul-pool, the-ancient-forge, the-buried-arena, dunton, ketters-rest, the-ossuary, the-plain, the-keep, black-barrow]
 factions: [the-gleaners]
@@ -232,6 +232,14 @@ crushing whatever has no "place."
   of the **husband and son** she came looking for, agrees to try. The session ends with the party
   **openly split** on what to do.
 
+- S2.40: The party leaves [[dunton|Dunton]] with all thirty-four villagers and heads out across
+  [[the-plain|the plain]] for the first time, making for **porous rock and caves with cut shafts
+  leading upward**. On the way it learns [[the-keep|the Keep]]'s
+  **patrols** walk fixed routes and kill villagers they find, and [[the-provost|the Provost]] relays
+  Greyface's word that the Keep's soldiers and priests think of the villagers as **parasites in the
+  body of God** — and that he has **convinced them he is one of them**. Something very large comes out
+  of the village after the convoy. See [[evacuate-dunton]].
+
 ## Open threads
 - **What is the Stonehunger, truly?** Corroborated as a real, vast, moving devourer the party is
   **inside** — but whether it is a deity, a living titan/beast, an ancient construct, or something
@@ -341,9 +349,8 @@ crushing whatever has no "place."
   built this complex.
 
 ## Leads / next steps
-- **Hear [[the-high-priest|Greyface]] out.** The session ends mid-conversation:
-  [[caspian-talon|Caspian]] has just argued him out of his fatalism and **his reply is the first thing
-  that happens next**.
+- **Get the convoy to the shafts.** The Provost is making for caves with cut shafts leading upward;
+  whether they reach the surface is unknown. See [[evacuate-dunton]].
 - **There is a hard clock now.** Greyface says the Stonehunger will **submerge again within days, a
   week perhaps**, and that if the party does not want to go down with it they should **get back to the
   surface**. He reads it off the tremors and the gleaners. He also says, pointedly, that **he thinks

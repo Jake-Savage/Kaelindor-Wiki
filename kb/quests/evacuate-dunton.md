@@ -129,7 +129,9 @@ In S2.40 they dropped that plan and left without asking.
 - **Will the shafts reach the surface?** The Provost knows they **lead up**. Nobody knows that they
   surface.
 - **The patrol.** Soldiers from the Keep, or priests, who will kill villagers they find on the plain.
-  Did Hawk's firebomb draw it off?
+  The Provost says they regard the villagers as **parasites in the body of God** and spared Dunton only
+  because **Greyface convinced them he was one of them** — protection the convoy left behind with the
+  village. Did Hawk's firebomb draw the patrol off?
 - **The lie.** The village left believing the party had Greyface's word on the dive — and, some of
   them, his blessing. What happens when they learn otherwise?
 - **What happens to anyone who falls behind?** Raised bluntly in S2.39, and closer now.
