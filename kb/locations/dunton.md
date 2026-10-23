@@ -6,11 +6,11 @@ location_type: village
 region: the-mirrowen
 controlled_by: the-provost
 connected_to: [the-buried-arena, the-ossuary, the-plain, black-barrow]
-status: active
+status: abandoned
 first_session: S2.37
-last_session: S2.39
+last_session: S2.40
 tags: [stonehunger, grommars-path, dunton, settlement, survivors, underground, halflings]
-summary: A barricaded settlement of a couple of dozen patched-together houses deep inside the Stonehunger, where humans and halflings live under a Provost — the "Dunton" the gleaners spoke of as a rumour.
+summary: A barricaded settlement of a couple of dozen patched-together houses deep inside the Stonehunger, where humans and halflings lived under a Provost for twelve years — the "Dunton" the gleaners spoke of as a rumour, emptied when the party led all thirty-four out in S2.40.
 ---
 
 ## Overview
@@ -114,6 +114,12 @@ Banners tend to be **monsters**; robes and cloaks tend to be **trees and nature*
   taproom with half a dozen villagers, and spend most of the day in conversation — first with her, then
   with **[[kithri|Kithri]]**, who tells them what Greyface is. Fabian performs. They then walk north to
   **[[the-ossuary|the Ossuary]]** at Greyface's invitation.
+- **S2.39:** The Provost lays out the village's numbers and routes, and the party argues over what to do.
+- **S2.40:** **Emptied.** In the evening, as the hunters come in, the party gathers the village at
+  [[ketters-rest|Ketter's Rest]] and talks it into leaving. Some try to slip off and warn Greyface and
+  are stopped. Thirty minutes later **all thirty-four villagers and the old dog walk out** behind
+  [[the-provost|the Provost]], with no word left for Greyface. Some hours later [[hawk|Hawk]], watching
+  from above, sees **something very large** come out of the village after them.
 
 ## How Greyface reaches them (S2.39)
 [[the-ossuary|The Ossuary]] is close enough to walk in **about fifteen minutes**. When he wants

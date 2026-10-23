@@ -12,7 +12,7 @@ relationships:
   - who: caspian-talon
     note: His wizard; Theodore is Caspian's familiar and favoured spy.
 first_session: S1.01
-last_session: S2.34
+last_session: S2.40
 tags: [familiar, rat, scout, spy]
 summary: Caspian's rat familiar and favoured scout, killed by Bartholomew (S2.03) and resummoned.
 ---
@@ -41,3 +41,7 @@ As a familiar, Theodore acts on Caspian's direction. Nameweave is noted (in Casp
   under its canopy. The second trip, under the canopy itself, produced the **construct spiders** — one
   came at him almost at once, metal-clattering and fast — and he was dismissed out of existence a moment
   before it reached him.
+- S2.40: Carried aloft in [[hawk|Hawk]]'s claws as Caspian's nose on the plain. He smells **old dry
+  bones and aggressively maintained magic** coming from Dunton's direction — and, sharing
+  [[caspian-talon|Caspian]]'s **older memories** of that magic, panics and has to be pulled back into
+  Caspian's hood.

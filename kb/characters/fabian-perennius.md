@@ -21,7 +21,7 @@ relationships:
   - who: valeria
     note: His sister, an aberration-scholar he expects to envy his reaching the Mirrowen first.
 first_session: S1.05
-last_session: S2.39
+last_session: S2.40
 tags: [bard, crownspire, fame-seeking, radiant-magic, golden-lute, sunblade]
 summary: A vain, fame-seeking bard and seventh son of a Crownspire dynasty who hungers to be the hero of an epic tale, and who manifests a new golden radiant magic after a selfless act by Mags.
 ---
@@ -144,6 +144,13 @@ His defining motivation is legacy and museum-fame: as a boy he stood beneath the
   failing that **the youngest generation**, and is the one who points out that the **Keep is the hinge
   of this level** and therefore the likeliest place to find a way up. He also suggests nothing stops
   Greyface taking one of the **red-robed priests** who walk past.
+- S2.40: Raises the village. A song at [[ketters-rest|Ketter's Rest]] is enjoyed and moves no one;
+  the speech after it does — perseverance rewarded, children who have never seen the sun, and the dive
+  in **less than five days**. Asked whether they have talked to Greyface, he says **yes, and he says
+  five days** — true, and silent on whether Greyface approves. Singed by Trevick's cracker. Up front on
+  the march he spots **the Keep's patrol**, halts and hushes the column, helps build the firebomb Hawk
+  carries off, and tells the villagers the clattering behind them is the wind — then, when that is not
+  believed, that there are dangers enough down here to keep walking.
 
 ## DM notes / secrets
 - Fabian's [[fabians-radiant-magic|radiant magic]] (S2.17) is unexplained in-world — an emergent power tied to selfless/heroic resonance, an active open thread.

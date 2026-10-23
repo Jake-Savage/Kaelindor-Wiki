@@ -8,6 +8,7 @@ controlled_by: null
 connected_to: [dunton, the-keep, the-ossuary]
 status: active
 first_session: S2.38
+last_session: S2.40
 tags: [stonehunger, dunton, plain, dark, creatures, dynamic, underground]
 summary: The vast dark expanse beyond Dunton's palisade where the Stonehunger deposits what it has swallowed — a landscape that does not stay in the same shape, roamed by large insect-like creatures, with the Keep somewhere out across it.
 ---
@@ -58,8 +59,24 @@ Beyond the palisade are **two lines of ward-marks — great half circles** — c
 would not keep still enough. **They were here before the Black Barrow survivors arrived.**
 [[the-high-priest|Greyface]] told the villagers at the outset to **stay back behind the ward signs**.
 
+## The crossing (S2.40)
+The party takes **the whole of [[dunton|Dunton]]** out across the plain on the evening of S2.40, under
+**Pass Without Trace** and a dim red hooded light, with [[the-provost|the Provost]] navigating by
+direction — there is **no path** to follow.
+
+- **The destination** is a stretch of **porous rock and caves** like those at
+  [[the-ossuary|the Ossuary]]'s entrance, where **steep vertical shafts lead upward**. The Provost says
+  they were **"tumbled out"** — made, not natural — and does not know by whom. They are **several hours'**
+  walk at the convoy's pace.
+- **Patrols** from [[the-keep|the Keep]] — soldiers or priests — cross the plain in groups (six in the
+  one the party sees), **unlit and making no attempt at concealment**. They keep to **fixed routes**,
+  which is what makes them avoidable. They will kill villagers they find out here.
+- **Sound carries.** The clattering of whatever came out of Dunton after the convoy is audible a long
+  way off on the air.
+- **The large shape.** Something **eighteen to twenty feet tall**, possibly one thing or several,
+  moving quickly across the plain from the village toward [[rell-aetris|Rell]]'s decoy flare.
+
 ## DM notes
 - **Who cut the wards, and what do they hold out?** They predate Dunton, and Greyface treated them as
   the safe line from the first day. Are they traces of the lost **order-magic** he says he has found
   down here (see [[the-balance]])?
-- The party has **not yet set foot on the plain**.

@@ -21,7 +21,7 @@ relationships:
   - who: shalfay
     note: Tower of Heaven employer and divination contact; Caspian still corresponds with him.
 first_session: S1.01
-last_session: S2.39
+last_session: S2.40
 tags: [scholar, wizard, divination, uthrel, vampire-suspicious, dragon-bones]
 summary: A coldly rational divination wizard obsessed with studying the Uthrel and dragon remains, who secretly dealt with the vampire Lucien and is evasive about what it cost him.
 ---
@@ -157,6 +157,12 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
   unpopular side — that the party cannot fight this man, that taking the whole village out is not
   realistic, and that they should **talk to him rather than run** — and will not say aloud what he
   would do if the talk fails.
+- S2.40: Walks at the front of the evacuation with the Provost and Fabian. When [[hawk|Hawk]] comes
+  back in alarm he proposes that he and Mags **drop back to buy the convoy time** — not thrilled about
+  it, but better than all of them being caught. He is first to hear the **clattering** from the
+  village, and riding [[theodore|Theodore]]'s senses aloft in Hawk's claws he smells **old dry bones and
+  magic maintained at an aggressive level** — which he recognises at once, **partly from the past
+  couple of days and partly from much older memories**. Theodore shares those memories and panics.
 
 ## DM notes / secrets
 - Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. What passed between them is unresolved and worth keeping ambiguous.
@@ -177,3 +183,9 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
   sort of magic."* **Mags and Fabian both heard the word "condition" and neither has pressed him.**
 - He retains [[kiona-dumois|Kiona]]'s [[codex-mortis]] notes (dangerous necromantic knowledge that reveals secrets over time).
 - His secret map back to the silver-dragon grove (S2.16) is a future flashpoint with [[dakir]] and the [[the-eldryn]].
+- **He is "Ivana Moorhead" (DM-confirmed, S2.40).** The vampire-romance novels [[trevick|Trevick]] has
+  been reading and handing out since S2.29 are Caspian's, under that pen name. Trevick knows — *"my
+  friend's an excellent writer,"* he tells the halfling he gives one to.
+- **The "much older memories" (S2.40, DM-confirmed).** The aggressively maintained, bone-scented magic
+  he recognises on the plain, and which panics [[theodore|Theodore]], he knows from **his own past —
+  bound up with his undead nature**. The party does not know this.

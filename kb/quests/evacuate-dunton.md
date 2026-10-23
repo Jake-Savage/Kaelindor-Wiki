@@ -5,12 +5,12 @@ title: Evacuate Dunton
 status: active
 priority: main
 opened_session: S2.39
-last_updated_session: S2.39
-involves_characters: [mags, caspian-talon, fabian-perennius, rell-aetris, trevick, the-provost, the-high-priest, kithri]
+last_updated_session: S2.40
+involves_characters: [mags, caspian-talon, fabian-perennius, rell-aetris, trevick, the-provost, the-high-priest, kithri, hawk]
 involves_locations: [dunton, the-ossuary, the-plain, the-keep]
 factions: []
 tags: [stonehunger, dunton, rescue, evacuation, clock, greyface]
-summary: The party has four or five days to get thirty-four trapped villagers out of the Stonehunger before it submerges for another twelve years — and cannot agree whether to run, negotiate, or leave them.
+summary: The party is leading all thirty-four of Dunton's villagers out across the plain toward a cave system of upward shafts, without Greyface's knowledge, before the Stonehunger submerges for another twelve years.
 ---
 
 ## Hook
@@ -61,8 +61,8 @@ He is also **not someone the party believes it can fight**. [[caspian-talon|Casp
 after a day in his company: *"He has more power and more magic than I have ever seen, and I cannot
 fight that. You cannot fight that."* And what the party would be fighting is **a puppet**, not the man.
 
-## Where the party stands — unresolved
-The session **ends on a genuine disagreement**, deliberately unresolved:
+## Where the party stood (S2.39)
+S2.39 **ended on a genuine disagreement**, settled in S2.40 by running (see Progress log):
 
 - **[[mags|Mags]]** — go, and go now, all of them. She would accept a **high death rate** against the
   certainty of leaving them, and would **hang back herself** to slow Greyface down. Her instinct is to
@@ -80,31 +80,57 @@ The session **ends on a genuine disagreement**, deliberately unresolved:
 - **[[fabian-perennius|Fabian]]** — save them; if not all, then at least **the youngest generation**.
   His worry is that if Greyface realises what they are doing, they lose the chance entirely.
 
-**What they agree on:** that next they will go to [[the-ossuary|the Ossuary]] — with
+**What they agreed on at the time:** that next they would go to [[the-ossuary|the Ossuary]] — with
 [[the-provost|the Provost]], who insists on speaking for the village herself — and **ask for
 everything**: let the villagers leave, give us an easier way out, and **you could come too**.
+In S2.40 they dropped that plan and left without asking.
+
+## Progress log
+- S2.40: **The party runs, tonight, without asking.** Weighing that the puppet is far less capable
+  while its operator sleeps, and on a [[mags|Mags]] Augury of **weal** to whether
+  [[the-high-priest|Greyface]] would catch them if they left within thirty minutes, they drop the plan
+  to petition him. [[fabian-perennius|Fabian]] gathers the village with a song and a speech — telling
+  them, when asked, that the party **has** spoken to Greyface and that he says the place goes down in
+  five days — and Mags, [[rell-aetris|Rell]] and Fabian win them over. Some try to go and warn Greyface
+  and are **physically stopped**. **All thirty-four leave, with the dog**; five under protest. No
+  message is left. The [[the-provost|Provost]] navigates for a stretch of porous rock with **upward
+  shafts** like the Ossuary's entrance; [[trevick|Trevick]] keeps the column under Pass Without Trace;
+  Rell lays a false trail and a timed flare two miles off; [[hawk|Hawk]] flies a decoy and watches the
+  village. Some hours out, Hawk returns in alarm: **something very large, eighteen to twenty feet,
+  sounding of clattering bone**, has come from the village. Caspian, Mags and Rell drop back as a
+  rearguard; a second Augury on whether that will save the convoy comes back **weal and woe**. The
+  thing veers toward Rell's flare. Up front, a **patrol of six from the Keep** crosses ahead; Hawk drops
+  a firebomb near it to draw it off and the column moves on. **The caves are still hours away.**
+- S2.39: Opened. [[mags|Mags]] puts the case; the Provost counts thirty-four villagers and describes
+  the routes; the party splits five ways on run, negotiate or leave, and agrees to petition Greyface.
 
 ## Leads / next steps
-- **Pitch Greyface.** [[caspian-talon|Caspian]] intends the **moral approach**, leaning on the fact
-  that he refused to kill for him and Greyface accepted it. His read is that the figure was left
-  **reflecting on his own choices**, possibly **susceptible to argument** — and also **distracted**.
-- **Offer him something.** [[rell-aetris|Rell]]'s idea is **access to the people of
-  [[the-keep|the Keep]]** — there are soldiers there, and **red-robed priests** who come up from the
-  lower levels past Dunton — so that he keeps a supply without the village.
-  [[fabian-perennius|Fabian]] notes nothing stops him taking one of those priests already.
-  [[mags|Mags]] would rather offer him **warm bodies on the surface** and bring him out with them.
-- **Let anyone who wants to stay, stay.** Caspian's proposal: twelve years is a life, and some will not
-  want to go.
-- **Two auguries have been cast.** One indicated [[the-provost|the Provost]]'s advice would be
-  **actionable** — borne out. One asked whether to **fight the puppet outright** and came back
-  **against it**.
-- **If the talk fails**, nobody has an agreed answer. Mags has asked Caspian directly what he would do
-  and he would not say.
+- **The witch beyond the castle.** Dunton's townsfolk have told the party of a **witch living beyond
+  the Keep**. Raised at the table as a possible source of help; nobody has sought her out.
+- **Reach the caves.** The Provost is making for **porous rock and caves** like those at
+  [[the-ossuary|the Ossuary]]'s entrance, where **steep vertical shafts lead upward**. They are not
+  natural — "tumbled out" by someone — and she does not know by whom. They are **several hours** from the
+  point where the alarm came.
+- **Keep the column moving.** It is slow, exhausted, and carrying the old and the very young. Trevick's
+  **last Pass Without Trace** of the night is up; Mags's leadership is what has kept people walking.
+- **Avoid the patrols.** The hunters' experience is that the Keep's patrols are **easy to avoid because
+  they never leave their routes**. Hawk's firebomb is meant to draw this one off.
+- **Hold the rearguard.** Mags, Rell and Caspian sit in a triangle between the pursuer and the
+  convoy, within striking distance if it turns.
 
 ## Open threads
-- **Will Greyface let them go?** The Provost thinks not — not all of them.
-- **Do the villagers get a vote?** [[trevick|Trevick]] says they must; the Provost is **not keen**, and
-  the party expects most would follow her lead anyway. **They have not yet been formally asked** — but
-  word is already spreading, and hope has been offered in front of witnesses.
-- **Is there actually a way up?** The Provost's tunnels **lead up**. Nobody knows that they surface.
-- **What happens to anyone left behind?** Raised bluntly at the table and left there.
+- **What came out of the village?** Eighteen to twenty feet tall, one thing or many, clattering like
+  bones on a grand scale, smelling of **old dry bones and aggressively maintained magic**. **It is
+  Greyface's** (DM-confirmed), though nobody has seen him. Mags's first Augury — **weal** on being
+  caught *by Greyface himself* — left room for him to send something else. What is it?
+- **Is it following the convoy or the decoys?** Last seen heading **toward Rell's flare**.
+- **Does Greyface know yet?** He was not told; villagers who tried to tell him were stopped. Was he
+  asleep?
+- **Will the shafts reach the surface?** The Provost knows they **lead up**. Nobody knows that they
+  surface.
+- **The patrol.** Soldiers from the Keep, or priests. They regard the villagers as **parasites in the
+  body of God** and will kill them on the plain; Dunton was spared only by Greyface's arrangement.
+  Leaving Dunton leaves that protection behind.
+- **The lie.** The village left believing the party had Greyface's word on the dive — and, some of
+  them, his blessing. What happens when they learn otherwise?
+- **What happens to anyone who falls behind?** Raised bluntly in S2.39, and closer now.

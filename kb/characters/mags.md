@@ -21,7 +21,7 @@ relationships:
   - who: caspian-talon
     note: She tolerates his impiety and senses his evasiveness; they grudgingly come to get along.
 first_session: S1.05
-last_session: S2.39
+last_session: S2.40
 tags: [cleric, naelos, gnome, underdark, diplomat, nameweave, petrified]
 summary: A centuries-old gnome cleric of Naelos and the party's blunt, pragmatic moral anchor, who threads diplomacy between Greymere and the Eldryn and is briefly petrified into wood.
 ---
@@ -157,6 +157,13 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
   **hang back herself** to slow Greyface down. Her argument with Caspian about whether a doomed right
   thing is still the right thing runs to the end of the session and is not resolved. See
   [[evacuate-dunton]].
+- S2.40: Gets the answer she wanted. Her **Augury** — would Greyface catch them if they left within
+  thirty minutes? — comes back **weal**, and the party runs that night. She invokes [[naelos|Naelos]]
+  before the village, shepherds the young man fetching the absentees, keeps the children back from
+  Trevick's cracker, takes the rear of the column and keeps exhausted people walking long past the point
+  they would have stopped, making the overloaded drop their baggage. When something large comes out of
+  the village she drops back with Caspian as a rearguard, calls his proposal *"a very moral idea"*, and
+  casts a second Augury on whether staying will save the convoy: **weal and woe**.
 
 ## DM notes / secrets
 - Her undead-tinged bone shard (a Naelos relic of her own bones) keys the infernal "half in this world and half of another" doors in the Shifting Library (S2.08) — a detail worth remembering for her nature/longevity.

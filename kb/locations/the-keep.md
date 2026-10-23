@@ -8,7 +8,7 @@ controlled_by: null
 connected_to: [the-plain]
 status: active
 first_session: S2.38
-last_session: S2.39
+last_session: S2.40
 tags: [stonehunger, plain, keep, lower-levels, unvisited]
 summary: A structure out across the plain that stands above and guards the lower levels of the Stonehunger — unseen by almost everyone in Dunton, and the party's declared next objective.
 ---
@@ -42,9 +42,22 @@ to get to this keep."** It is the first concrete destination the party has had s
 - **It is more than a day's walk** across [[the-plain|the plain]], and visible from the palisade.
   The villagers' flat position is that **you cannot go there** — you would be set upon by the plain's
   creatures the whole way and never arrive.
+- **A witch lives beyond it.** Dunton's townsfolk have told the party of a **witch beyond "the castle"**
+  — the Keep. Who she is, and whether she would help, the party does not know.
 - **Past it is a honeycomb of tunnels.** [[the-provost|The Provost]] has heard stories of **another
   intact area** beyond the Keep, and believes it might be possible to **pass under the plain rather
   than over it**. She knows the start of those paths and that **they lead up**.
+
+## Its patrols (S2.40)
+On the plain the party sees **a patrol of six**, unlit and stomping openly along its route.
+[[the-provost|The Provost]] says such patrols are **soldiers from the Keep, or priests**. What she
+knows of them, she has from [[the-high-priest|Greyface]]:
+
+- They think of the villagers as **parasites inhabiting the body of God**.
+- They tolerate [[dunton|Dunton]] only because **Greyface made an arrangement with them — convinced them
+  he was one of them**.
+- On the plain, they **will kill** villagers they find.
+- They **never leave their patrol routes**, so the hunters find them easy to avoid.
 
 ## Why the party cares
 Two reasons, both raised in S2.39:

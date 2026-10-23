@@ -45,6 +45,18 @@ Limited by distance — but the limit can be pushed out a long way by setting up
 relay points** around an area beforehand. Somebody who expects to work a puppet through a large
 building, say, can prepare the ground for it. Out in open country the range is comparatively short.
 
+Out of doors it is **not a matter of miles**; a lair can extend it (S2.40).
+
+## When the operator sleeps (S2.40)
+- **The puppet is much less useful while its operator sleeps** — it can carry out **behaviour planned
+  in advance** and little more.
+- **Everyone sleeps.** There are magical ways to stay awake, but they come at a cost.
+
+## Detecting and dispelling it (S2.40)
+- **Detect Magic will register a puppet**, but **does not trace the link** back to whoever works it.
+- **A dispel could in principle strike at the magic animating the body** — but **not at the connection**
+  between puppet and operator.
+
 ## Casting through it
 - **Low-level magic projects through the puppet without difficulty.**
 - **The more complex the magic, the harder it is**, and the more likely to fail outright — there is a

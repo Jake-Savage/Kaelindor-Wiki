@@ -219,6 +219,13 @@ and failed. The party's reading — that the Stonehunger **swallowed** the court
 what keeps it from being **digested** — is a **supposition**, not established. Recorded as evidence plus
 the party's inference; do not write it up as a fact about the Stonehunger.
 
+## "The body of God" (S2.40)
+The **soldiers and priests of [[the-keep|the Keep]]** think of [[dunton|Dunton]]'s villagers as
+**parasites inhabiting the body of God** (confirmed). The party has it from [[the-provost|the
+Provost]], who had it from [[the-high-priest|Greyface]]. It is the first word of what the Keep's people
+believe, and it matches the [[the-gleaners|gleaners']] "God" and the gate's
+"eyes of God": the Stonehunger as a divine body, and its inhabitants as things living in it.
+
 ## Open questions
 - **What is it, truly?** The gleaners' "God" is corroborated as a real, vast, devouring thing the
   party is inside — but whether it is literally a deity, a living titan/beast, an ancient construct,

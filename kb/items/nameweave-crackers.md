@@ -19,3 +19,8 @@ Magical crackers associated with [[nameweave|Nameweave]], the [[naelos|Naelos]] 
 [[caspian-talon|Caspian]]'s tiny hut in [[the-ancient-forge|the forge]] — partly to use them up before
 he forgets them. The rest of the party talks him out of it on the strength of what happened last time,
 and they are saved for a safer location.
+
+**S2.40:** In [[dunton|Dunton]], while the village packs to leave, Trevick pulls one with
+[[fabian-perennius|Fabian]]. It goes off **violently**, singeing both of them — which makes the nervous
+villagers more skittish and the bold ones keener. [[mags|Mags]] had kept the children back. **Two
+remain.**

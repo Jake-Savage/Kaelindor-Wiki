@@ -12,7 +12,7 @@ relationships:
   - who: trevick
     note: His ranger; the firbolgs say Hawk has watched Trevick's lineage across generations.
 first_session: S1.01
-last_session: S2.36
+last_session: S2.40
 tags: [spirit-hawk, watcher, rhynharran, scout, omen]
 summary: Trevick's spirit hawk, identified by the firbolgs as a Rhynharran "Watcher" sent to watch a chosen lineage.
 ---
@@ -23,6 +23,11 @@ Hawk is the spirit hawk of [[trevick]], used throughout the campaign as a scout 
 ## Knowledge & motivations
 As a spirit companion, Hawk acts on Trevick's bond, but the firbolgs frame him as an agent of [[rhynharran]] marking a chosen lineage — "both an honour and a burden." Trevick begins to sense Hawk is more than a beast.
 
+**A person's mind (S2.40).** When [[rell-aetris|Rell]] forms a telepathic bond with Hawk, it is
+**much more like bonding with a person than with an animal**. The mind is **not simple**, and what
+comes through feels **stunted** — as though limited, or **deliberately holding back**. Rell assumes
+[[trevick|Trevick]] knows this and does not raise it.
+
 ## Appearances
 - S1.01: Retrieves Lorna's locket from Nerrin's offering tree.
 - S2.19: Revealed by the firbolgs as a Rhynharran Watcher tied to Trevick's family.
@@ -31,6 +36,12 @@ As a spirit companion, Hawk acts on Trevick's bond, but the firbolgs frame him a
   — two squawks for a physical entity, one if it looks like the room below — and returns with two.
   Later makes flyby attacks on [[the-undead-minotaur|the undead minotaur]] in
   [[the-buried-arena|the arena]].
+- S2.40: Flies a lit pebble away from Dunton as a decoy, then watches the village for about two
+  hours. Returns **terrified** — something large came out of the village, broadly after the party; not
+  the Stonehunger — and presses against Trevick. Carries [[theodore|Theodore]] aloft for Caspian, then
+  a lit bottle of oil, barely within his strength, to drop near the Keep's patrol.
 
 ## DM notes / secrets
 - Hawk is a true [[the-watcher|Watcher]] of [[rhynharran]], central to [[trevick]]'s destiny and the open `trevicks-watcher` thread; the Eldryn weigh its significance (S2.21).
+- **Trevick knows (S2.40, DM-confirmed).** The person-like, held-back mind [[rell-aetris|Rell]] found
+  through the telepathic bond is no surprise to [[trevick]]; Rell assumed as much and said nothing.

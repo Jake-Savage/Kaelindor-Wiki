@@ -21,7 +21,7 @@ relationships:
   - who: dakir
     note: Founding companion he confides in about Joster; the two keep contact by Dakir's paired sending-tokens after Dakir's departure (S2.28).
 first_session: S1.01
-last_session: S2.39
+last_session: S2.40
 tags: [ranger, beastmaster, firbolg-favoured, watcher, uthrel, velton, salmeros]
 summary: A tiefling beastmaster ranger and lone survivor of a village destroyed by the Uthrel, revered by the firbolgs as bearing a Rhynharran "Watcher" and chosen as the Eldryn's go-between.
 ---
@@ -45,7 +45,7 @@ In [[greymere]] he becomes the party's conduit to the natural world and the [[th
 - S2.18–20: Welcomed by the firbolgs; [[hawk]] revealed as a Watcher; his tale of the "black moss" sends the camp into alarm.
 - S2.21: His history with the uthrel earns the Eldryn's truth and alliance.
 - S2.28: Rejoins the party a few days outside [[greywatch]] after travelling separately (faster, with only [[muriel]]), having kept in touch via [[dakir]]'s paired sending-tokens; relays that Dakir has gone "to learn more about the dragons." The party catches him up on the [[the-korrathian-conspiracy|Korrathian]] investigation. In the catch-up it comes out — news to Fabian and Mags — that he, Caspian, and Dakir had met the two unicorns [[stargleam]] and [[silverlily]] on the founding party's [[the-feywild-garden|Feywild Garden]] adventure (S1.04).
-- S2.29: In [[greywatch]], plants one of [[mags]]'s bones in [[jorrith-potter|Jorrith]]'s pocket (nearly fumbling it, then recovering with a Travarian-accented charm offensive). At the [[the-pindle-brak|gnome pub]] he downs the festival spirit "the bad idea" and rides out a perception-altered state with good humour before Mags sobers him. A running detail: he has been quietly reading (and now distributes) vampire-romance novels by one "Ivana Moorhead."
+- S2.29: In [[greywatch]], plants one of [[mags]]'s bones in [[jorrith-potter|Jorrith]]'s pocket (nearly fumbling it, then recovering with a Travarian-accented charm offensive). At the [[the-pindle-brak|gnome pub]] he downs the festival spirit "the bad idea" and rides out a perception-altered state with good humour before Mags sobers him. A running detail: he has been quietly reading (and now distributes) vampire-romance novels by one "Ivana Moorhead" — Caspian's pen name, as Trevick knows (confirmed S2.40).
 - S2.30: On the journey to [[kethrans-fold|Kethran's Fold]], casts **Speak with Animals** to talk with
   the guides' donkey [[lisa|Lisa]], learning [[cressan-weller|Cressan]]'s backstory (his late mother
   travelled with [[nan-prentic|Nan]]; Nan took him in afterward). Feeds Lisa an apple and tosses one
@@ -105,6 +105,13 @@ In [[greymere]] he becomes the party's conduit to the natural world and the [[th
   years and must choose for themselves — though he would prioritise **the children and their families**
   without hesitation, and he holds that **excluding Greyface from the decision guarantees most of them
   die**. See [[evacuate-dunton]].
+- S2.40: Goes among the returning hunters, learning safe ground and talking people round. Gives a
+  halfling one of his romance novels, and a copy in Torvish to learn from — *"my friend's an excellent
+  writer"* — then pulls a [[nameweave-crackers|Nameweave cracker]] with Fabian that goes off violently,
+  singeing them both. Holds **Pass Without Trace** over the whole column from its middle, renewing it
+  for the last time some hours out. Sends [[hawk|Hawk]] on the decoy flight and the watch, comforts him
+  when he returns terrified, questions him quietly — something large, **not the Stonehunger** — and
+  builds the firebomb Hawk drops by the Keep's patrol.
 
 ## DM notes / secrets
 - Trevick's father was a "Salmeros" — a lineage the devil [[joster-sirit]] recognised (he never claimed to have known the man) — and his parentage (with possible infernal/marked lineage beyond ordinary tiefling) is an open mystery seeded since S1.05.

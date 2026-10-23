@@ -12,7 +12,7 @@ relationships:
   - who: the-high-priest
     note: Walked into his Ossuary alone six weeks after the disaster and ended the disappearances; respects him up to a point, trusts him no further.
 first_session: S2.37
-last_session: S2.39
+last_session: S2.40
 tags: [stonehunger, dunton, authority, black-barrow, survivor, armour]
 summary: The severe, armoured woman who keeps Dunton alive by strict rationing and careful neutrality — who came down alone looking for a husband and son she never found, faced Greyface down when nobody else would, and finally agrees to gamble the village on getting out.
 ---
@@ -137,6 +137,23 @@ She agrees to try — not easily, and promising nothing:
 What moves her is [[mags|Mags]] naming the one thing she has never had: *"You know what you didn't have
 last time, Yafet? Us."* She takes it seriously — *"it is hard sometimes to remember that there are
 others with whom I might be able to share it."*
+
+## Leading the way out (S2.40)
+She backs [[fabian-perennius|Fabian]]'s pitch to the village — a little uncomfortably, since he tells
+them the party has Greyface's word on the dive — and then **leads the evacuation from the front**,
+navigating by direction across [[the-plain|the plain]] rather than by any road: not the most efficient
+route, but she has not gone wrong. She is making for **porous rock and caves** like those at
+[[the-ossuary|the Ossuary]]'s entrance, where **steep vertical shafts lead upward** — "tumbled out," not
+natural, by whom she does not know.
+
+On the march she identifies a passing patrol as **soldiers from [[the-keep|the Keep]] or priests**.
+What she knows of them comes from Greyface:
+
+- They regard the villagers as **parasites inhabiting the body of God**.
+- They tolerate Dunton only because **Greyface made some arrangement with them, convincing them he was
+  one of them**.
+- Out on the plain, **they will kill villagers if they find them**.
+- The hunters find them **easy to avoid**: they never leave their patrol routes.
 
 ## DM notes / secrets
 - **She insists on speaking for the village herself.** Any approach to Greyface, she regards as **her
