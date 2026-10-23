@@ -50,12 +50,9 @@ to get to this keep."** It is the first concrete destination the party has had s
 
 ## Its patrols (S2.40)
 On the plain the party sees **a patrol of six**, unlit and stomping openly along its route.
-[[the-provost|The Provost]] says such patrols are **soldiers from the Keep, or priests**. What she
-knows of them, she has from [[the-high-priest|Greyface]]:
+[[the-provost|The Provost]] says such patrols are **soldiers from the Keep, or priests**. She warns
+that:
 
-- They think of the villagers as **parasites inhabiting the body of God**.
-- They tolerate [[dunton|Dunton]] only because **Greyface made an arrangement with them — convinced them
-  he was one of them**.
 - On the plain, they **will kill** villagers they find.
 - They **never leave their patrol routes**, so the hunters find them easy to avoid.
 

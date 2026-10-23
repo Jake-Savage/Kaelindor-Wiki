@@ -120,17 +120,16 @@ In S2.40 they dropped that plan and left without asking.
 
 ## Open threads
 - **What came out of the village?** Eighteen to twenty feet tall, one thing or many, clattering like
-  bones on a grand scale, smelling of **old dry bones and aggressively maintained magic**. **It is
-  Greyface's** (DM-confirmed), though nobody has seen him. Mags's first Augury — **weal** on being
+  bones on a grand scale, smelling of **old dry bones and aggressively maintained magic**. The party
+  is sure it is **Greyface's**, though nobody has seen him. Mags's first Augury — **weal** on being
   caught *by Greyface himself* — left room for him to send something else. What is it?
 - **Is it following the convoy or the decoys?** Last seen heading **toward Rell's flare**.
 - **Does Greyface know yet?** He was not told; villagers who tried to tell him were stopped. Was he
   asleep?
 - **Will the shafts reach the surface?** The Provost knows they **lead up**. Nobody knows that they
   surface.
-- **The patrol.** Soldiers from the Keep, or priests. They regard the villagers as **parasites in the
-  body of God** and will kill them on the plain; Dunton was spared only by Greyface's arrangement.
-  Leaving Dunton leaves that protection behind.
+- **The patrol.** Soldiers from the Keep, or priests, who will kill villagers they find on the plain.
+  Did Hawk's firebomb draw it off?
 - **The lie.** The village left believing the party had Greyface's word on the dive — and, some of
   them, his blessing. What happens when they learn otherwise?
 - **What happens to anyone who falls behind?** Raised bluntly in S2.39, and closer now.

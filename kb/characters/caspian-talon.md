@@ -186,6 +186,3 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
 - **He is "Ivana Moorhead" (DM-confirmed, S2.40).** The vampire-romance novels [[trevick|Trevick]] has
   been reading and handing out since S2.29 are Caspian's, under that pen name. Trevick knows — *"my
   friend's an excellent writer,"* he tells the halfling he gives one to.
-- **The "much older memories" (S2.40, DM-confirmed).** The aggressively maintained, bone-scented magic
-  he recognises on the plain, and which panics [[theodore|Theodore]], he knows from **his own past —
-  bound up with his undead nature**. The party does not know this.

@@ -43,5 +43,3 @@ comes through feels **stunted** — as though limited, or **deliberately holding
 
 ## DM notes / secrets
 - Hawk is a true [[the-watcher|Watcher]] of [[rhynharran]], central to [[trevick]]'s destiny and the open `trevicks-watcher` thread; the Eldryn weigh its significance (S2.21).
-- **Trevick knows (S2.40, DM-confirmed).** The person-like, held-back mind [[rell-aetris|Rell]] found
-  through the telepathic bond is no surprise to [[trevick]]; Rell assumed as much and said nothing.
