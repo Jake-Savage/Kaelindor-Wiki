@@ -13,6 +13,8 @@ motivation (see §2) — they simply do so flatly, without a narrator's personal
   do not flavour. ("X argues for caution," not "X, ever the worrier, frets…").
 - Neutral, even register throughout: plain, precise, factual. No rhetorical flourish, no jokes,
   no knowing tone, no dramatic build-up.
+- **Exception — climactic combat (§7a).** A combat that is genuinely tense and climactic may be
+  written with vivid, visual flair. Everywhere else, this section governs.
 
 ## 2. Inference & subtext — welcome, grounded, impersonal
 - **Capturing social subtext, insight, motivation, and implication is expected**, not avoided.
@@ -55,7 +57,20 @@ motivation (see §2) — they simply do so flatly, without a narrator's personal
 - High on plot, clues, investigation, social dynamics, and decisions — including the **inferred
   motivations and subtext** of §2 alongside the literal events.
 - **Combat is compressed** to a factual account of who acted and the result — not a blow-by-blow
-  log, and not dramatised.
+  log, and not dramatised — **unless it qualifies under §7a.**
+
+## 7a. Climactic combat — flair permitted
+- A fight that is **suitably tense and climactic** (a set-piece, a fight for survival, a turning
+  point for the campaign) may be told with **vivid, visual, cinematic prose**: strong imagery,
+  sensory detail, pace, short sentences for impact, and a sense of stakes. Big moments can get
+  their own heading.
+- **Still bound by everything else:** third person, present tense, reported speech; no rules
+  vocabulary, dice or DM references (§11); no jokes or knowing asides. The flair is in the
+  **description**, never in the **facts** — no invented actions, outcomes, wounds or words; embellish
+  only what the table established (the swarm's cold, the bones, the leap), and keep the order of
+  events and who did what exact.
+- Routine skirmishes stay compressed and flat. The **Facts Learned** list stays plain in every case.
+- Reference: `notes/session-41.md` (the bone swarm).
 - Name spells explicitly and capitalised (Detect Thoughts, Calm Emotions, Pass Without Trace).
 - State mechanical outcomes plainly in-fiction ("the spell takes hold," "it resists"); record
   loot/gold directly ("347 gold is recovered").
@@ -88,7 +103,7 @@ motivation (see §2) — they simply do so flatly, without a narrator's personal
   and plot implications.
 - **Omit:** all out-of-game material (rules/mechanics debate, dice, scheduling, real-world
   tangents, table chatter), **and all authorial colour** — humour, asides, characterisation by
-  the writer, and dramatisation.
+  the writer, and dramatisation (except climactic combat under §7a).
 - A session may end at the last event of the night; no engineered cliffhanger phrasing.
 
 ## 12. Exemplars (the target register)
