@@ -5,12 +5,12 @@ title: Evacuate Dunton
 status: active
 priority: main
 opened_session: S2.39
-last_updated_session: S2.40
+last_updated_session: S2.41
 involves_characters: [mags, caspian-talon, fabian-perennius, rell-aetris, trevick, the-provost, the-high-priest, kithri, hawk]
 involves_locations: [dunton, the-ossuary, the-plain, the-keep]
 factions: []
 tags: [stonehunger, dunton, rescue, evacuation, clock, greyface]
-summary: The party is leading all thirty-four of Dunton's villagers out across the plain toward a cave system of upward shafts, without Greyface's knowledge, before the Stonehunger submerges for another twelve years.
+summary: The party led Dunton's thirty-four villagers out onto the plain without Greyface's leave; he came after them in his bone swarm, and twenty survive — without the Provost, who knew the way to the tunnels.
 ---
 
 ## Hook
@@ -26,7 +26,12 @@ perhaps** — and that if they want out they should go now. The same window is t
 The next surfacing, on the evidence, is twelve or sixteen years away.
 
 ## Who is being evacuated
-**Thirty-four people**, per [[the-provost|the Provost]]'s own count:
+**Since S2.41: twenty people and the dog.** Seven are children aged one to eleven, six of them missing
+a parent and Daisy Thorngage both; the oldest is Sarah Farlin, seventy-six; one, Mothrigg Tosscobble,
+is a long-term survivor of the earlier settlement. The full roll of the living and the dead is on
+[[dunton]].
+
+**At the outset, thirty-four**, per [[the-provost|the Provost]]'s own count:
 
 - **Five young children** too young to fend for themselves, plus some older ones.
 - **Two of the four original long-term survivors**, who have been underground close to a quarter of a
@@ -86,6 +91,16 @@ everything**: let the villagers leave, give us an easier way out, and **you coul
 In S2.40 they dropped that plan and left without asking.
 
 ## Progress log
+- S2.41: **Found, and fought.** The convoy hides in the dark while Rell's diversions and Hawk's firebomb
+  try to set the Keep's patrol and [[the-bone-swarm|the bone swarm]] on each other. Caspian argues
+  they have made a terrible mistake and should let Greyface take the villagers back; the party instead
+  **stands with them**, tells them the truth, and gives them the choice to fight or run. Mags's Daylight
+  shows the swarm splitting in two. It rolls over the front of the convoy, killing or taking up most of
+  those beneath it. Caspian dispels its darkness to reveal **an elf on a throne of bones** —
+  Lae'ethorian in person — and Rell tackles him off it; Trevick's arrow breaks his necromantic hold on
+  Rell; Mags shelters **seven souls** of the dead. **He withdraws.** **Twenty villagers survive** —
+  every child among them — and the dog; **fourteen are dead**, among them [[varen|Varen]] and
+  **[[the-provost|the Provost]]**, with her knowledge of the tunnels. The roll is on [[dunton]].
 - S2.40: **The party runs, tonight, without asking.** Weighing that the puppet is far less capable
   while its operator sleeps, and on a [[mags|Mags]] Augury of **weal** to whether
   [[the-high-priest|Greyface]] would catch them if they left within thirty minutes, they drop the plan
@@ -105,33 +120,23 @@ In S2.40 they dropped that plan and left without asking.
   the routes; the party splits five ways on run, negotiate or leave, and agrees to petition Greyface.
 
 ## Leads / next steps
-- **The witch beyond the castle.** Dunton's townsfolk have told the party of a **witch living beyond
-  the Keep**. Raised at the table as a possible source of help; nobody has sought her out.
-- **Reach the caves.** The Provost is making for **porous rock and caves** like those at
-  [[the-ossuary|the Ossuary]]'s entrance, where **steep vertical shafts lead upward**. They are not
-  natural — "tumbled out" by someone — and she does not know by whom. They are **several hours** from the
-  point where the alarm came.
-- **Keep the column moving.** It is slow, exhausted, and carrying the old and the very young. Trevick's
-  **last Pass Without Trace** of the night is up; Mags's leadership is what has kept people walking.
-- **Avoid the patrols.** The hunters' experience is that the Keep's patrols are **easy to avoid because
-  they never leave their routes**. Hawk's firebomb is meant to draw this one off.
-- **Hold the rearguard.** Mags, Rell and Caspian sit in a triangle between the pursuer and the
-  convoy, within striking distance if it turns.
+- **Find the tunnels without the Provost.** She was making for **porous rock and caves** like those at
+  [[the-ossuary|the Ossuary]]'s entrance, with **cut shafts leading upward**, several hours' walk on.
+  Trevick found the way north-east **choked with rocks and ruins**.
+- **Move.** The survivors are fewer and younger but no faster, and frightened. The swarm is moving
+  away; the patrol is still out there.
+- **Look after Rell**, healed but drained by Lae'ethorian's necromancy.
+- **The seven souls.** Mags carries them. What can be done for them?
 
 ## Open threads
-- **What came out of the village?** Eighteen to twenty feet tall, one thing or many, clattering like
-  bones on a grand scale, smelling of **old dry bones and aggressively maintained magic**. The party
-  is sure it is **Greyface's**, though nobody has seen him. Mags's first Augury — **weal** on being
-  caught *by Greyface himself* — left room for him to send something else. What is it?
-- **Is it following the convoy or the decoys?** Last seen heading **toward Rell's flare**.
-- **Does Greyface know yet?** He was not told; villagers who tried to tell him were stopped. Was he
-  asleep?
-- **Will the shafts reach the surface?** The Provost knows they **lead up**. Nobody knows that they
-  surface.
-- **The patrol.** Soldiers from the Keep, or priests, who will kill villagers they find on the plain.
-  The Provost says they regard the villagers as **parasites in the body of God** and spared Dunton only
-  because **Greyface convinced them he was one of them** — protection the convoy left behind with the
-  village. Did Hawk's firebomb draw the patrol off?
-- **The lie.** The village left believing the party had Greyface's word on the dive — and, some of
-  them, his blessing. What happens when they learn otherwise?
-- **What happens to anyone who falls behind?** Raised bluntly in S2.39, and closer now.
+- **Will Lae'ethorian come back?** He withdrew rather than lost. What did he come for, and how much of
+  it did he get?
+- **The dead.** Their bodies were taken into the swarm. What becomes of them, and of the souls Mags did
+  not reach?
+- **Was Fabian being scried?** He felt suddenly watched; Mags thinks so; nobody knows.
+- **The patrol.** It was near Hawk's bomb, speaking a language Trevick does not know — **to
+  Lae'ethorian, it is inferred**. What passed between them, and is the Keep now looking for the
+  convoy?
+- **The lie.** The village left believing the party had Greyface's word. The survivors have now seen
+  what he does to those who leave. How do they see the party?
+- **Will the shafts reach the surface?** Nobody ever knew that they did.

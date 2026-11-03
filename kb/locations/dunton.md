@@ -8,7 +8,7 @@ controlled_by: the-provost
 connected_to: [the-buried-arena, the-ossuary, the-plain, black-barrow]
 status: abandoned
 first_session: S2.37
-last_session: S2.40
+last_session: S2.41
 tags: [stonehunger, grommars-path, dunton, settlement, survivors, underground, halflings]
 summary: A barricaded settlement of a couple of dozen patched-together houses deep inside the Stonehunger, where humans and halflings lived under a Provost for twelve years — the "Dunton" the gleaners spoke of as a rumour, emptied when the party led all thirty-four out in S2.40.
 ---
@@ -93,8 +93,8 @@ young ones** rather than disrespect the request. They went to be used in his mag
 do it and brought them back. Is anything ever offered to the "God" itself, as the High Priest's message
 implied?
 
-**[[the-provost|The Provost]]** is Dunton's authority — **Yafet Em**, as she was called in the world
-above, a severe, armoured woman of about sixty-five who came down **six weeks after the others**,
+**[[the-provost|The Provost]]** is Dunton's authority — **Yaffet Kempe**, as she was called in the world
+above, a severe, armoured woman of about sixty-five (fifty-five, by the DM's roll) who came down **six weeks after the others**,
 alone and fighting, and ended the disappearances into the Ossuary by walking into it herself.
 
 ## What they make for Greyface
@@ -104,6 +104,48 @@ patterns he supplies**, from **opulent cloth** nobody here could produce or has 
 [[the-buried-arena|the arena]] — *"for a while he was mad about bulls"* — and is now a few weeks into
 **a manticore**, while **others have been working scorpion tails**, a design he is currently favouring.
 Banners tend to be **monsters**; robes and cloaks tend to be **trees and nature**.
+
+## The roll (S2.41)
+The DM's list of Dunton's thirty-four after [[the-bone-swarm|the bone swarm]], with **twenty survivors
+and the dog**, and **fourteen dead**. Spellings follow the list.
+
+**Alive**
+- **Tom Pruett** (human, 51) and **Maddie Pruett** (human, 54) — partners; parents of
+  [[roscoe|Roscoe Pruett]], whose body [[the-high-priest|Lae'ethorian]] wears.
+- **Bohdan Tarek** (human, 64).
+- **Rufus Tegg** (human, 30) and **May Tegg** (human, 29) — partners; parents of Robin.
+- **Sarah Farlin** (human, 76) — mother of Bertie Kebb.
+- **Olo Halfkettle** (halfling, 18) — partner of Brindle Tarnley.
+- **Finnan Highcroft** (halfling, 38) — father of Brindle Tarnley.
+- **Del Zoric** (human, 37) — partner of Yonas Zoric.
+- **Marianne Swithun** (human, 22) — mother of Caelum.
+- **Apple Bowditch** (halfling, 28) — mother of Eli and Elsie.
+- **Mothrigg Tosscobble** (elderly, age unknown) — one of the long-term survivors of the earlier
+  settlement.
+- **[[kithri|Kithri Munn]]** (human, 48) — mother of Ned Munn.
+- **The children:** **Caelum Swithun** (human, 1); **Daisy Thorngage** (halfling, 6), daughter of
+  Bellis Thorngage and Maddenpurse Brushman; **Rosie Tryn** (halfling, 11), daughter of Lidda Tryn;
+  **Eli Bowditch** (halfling, 3) and **Elsie Bowditch** (halfling, 5); **Robin Tegg** (human, 4);
+  **Linden Calbrick** (human, 8), son of Peggy Calbrick. **Every child survived.**
+- **Max**, a spaniel of about twelve — the old dog from the surface.
+
+**Dead**
+- **[[the-provost|Yaffet Kempe]]** (human, 55) — the Provost.
+- **[[varen|Varen Kettler]]** (human, 60) — the innkeeper of [[ketters-rest|Ketter's Rest]].
+- **Bertie Kebb** (human, 39) — son of Sarah Farlin.
+- **Yonas Zoric** (human, 25) — partner of Del Zoric.
+- **Oshin Half-toes** (human, elderly, age unknown) — the other long-term survivor of the earlier
+  settlement.
+- **Peggy Calbrick** (human, 28) — mother of Linden; the list also names her partner of Rufus Tegg.
+- **Wismer Leagallow** (halfling, 36) and **Tallowmark Caldrop** (halfling, 40) — partners.
+- **Brindle Tarnley** (halfling, 17) — daughter of Finnan Highcroft, partner of Olo Halfkettle.
+- **Ned Munn** (human, 19) — son of [[kithri|Kithri Munn]].
+- **Maddenpurse Brushman** (halfling, 42) and **Bellis Thorngage** (halfling, 43) — partners; parents
+  of Daisy, who survived.
+- **Lidda Tryn** (halfling, 47) — mother of Rosie, who survived.
+- **Saba Hilltopple** (halfling, 34).
+
+Six of the surviving children lost a parent, and Daisy Thorngage lost both.
 
 ## Events here
 - **S2.37:** The party arrives in the **early hours of the morning**, around four. They go to
@@ -120,6 +162,9 @@ Banners tend to be **monsters**; robes and cloaks tend to be **trees and nature*
   are stopped. Thirty minutes later **all thirty-four villagers and the old dog walk out** behind
   [[the-provost|the Provost]], with no word left for Greyface. Some hours later [[hawk|Hawk]], watching
   from above, sees **something very large** come out of the village after them.
+- **S2.41:** Out on the plain, [[the-bone-swarm|the bone swarm]] catches the convoy. **Fourteen of the
+  thirty-four die**, among them [[the-provost|the Provost]] and [[varen|Varen]]; twenty survive with the
+  dog. See the roll above.
 
 ## How Greyface reaches them (S2.39)
 [[the-ossuary|The Ossuary]] is close enough to walk in **about fifteen minutes**. When he wants

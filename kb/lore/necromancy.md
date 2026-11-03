@@ -69,6 +69,18 @@ then went further than the party expected:
 The teaching would **not be costless**: *"not to you, not to me, and not to the subject on which we
 would have to practise."*
 
+## Felt from inside (S2.41)
+When [[the-high-priest|Lae'ethorian]] pours it into [[rell-aetris|Rell]] at close quarters it is not
+like being wounded. Rell feels **profound coldness and profound isolation from everything around him**,
+and senses that the damage would be **very difficult to undo** if it went on. It is done **without
+finesse**. Trevick's arrow breaks it.
+
+## Sheltering the dead from it (S2.41)
+To a priest of [[naelos|Naelos]], a soul takes a little time to depart after death. [[mags|Mags]]'s
+Spirit Guardians, held inside [[the-bone-swarm|the bone swarm]], **gather in and shelter** the souls of
+villagers only just killed, which would otherwise be **vulnerable to the swarm's necromancy** — and
+strengthen slightly as they do. When the guardians fail, the sheltered souls pass **into Mags**, who
+carries them for as long as she remains whole, conscious and faithful. She sheltered **seven**.
 ## Open questions
 - **What is Caspian's "condition"?** Unexplained in the fiction; Greyface has now referred to it twice
   in front of the party and Caspian has explained nothing. **Working truth (DM): he is some kind of
@@ -76,3 +88,6 @@ would have to practise."*
   [[caspian-talon]].
 - **What does "almost halfway" mean**, and halfway to what?
 - **How many other strands are lost?** Greyface believes Thalparaneth's is not the only one.
+- **What does Mags do with the seven souls she carries?** Can they be laid to rest, and what happens
+  to them if she falls?
+- **What did the drain do to Rell?** He was healed fully afterwards. Was that the end of it?

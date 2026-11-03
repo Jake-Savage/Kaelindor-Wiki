@@ -1,31 +1,31 @@
 ---
 id: the-provost
 type: character
-title: The Provost (Yafet Em)
+title: The Provost (Yaffet Kempe)
 category: npc
 species: Human
 role: Authority of Dunton
-status: alive
+status: dead
 home: dunton
 affiliations: []
 relationships:
   - who: the-high-priest
     note: Walked into his Ossuary alone six weeks after the disaster and ended the disappearances; respects him up to a point, trusts him no further.
 first_session: S2.37
-last_session: S2.40
+last_session: S2.41
 tags: [stonehunger, dunton, authority, black-barrow, survivor, armour]
 summary: The severe, armoured woman who keeps Dunton alive by strict rationing and careful neutrality — who came down alone looking for a husband and son she never found, faced Greyface down when nobody else would, and finally agrees to gamble the village on getting out.
 ---
 
 ## Overview
-A woman of **sixty-five or so**, **severe-looking**, unmistakably in charge. She wears **actual
+A woman who looks **sixty-five or so** (she is **fifty-five** by the DM's roll), **severe-looking**, unmistakably in charge. She wears **actual
 armour** — **battered, but well cared for**: somebody has made an effort with it despite the knocks
 it has plainly taken over the years.
 
 She gave the party her name **once**, with a shrug:
 
 > *"It's so long since anyone's called me anything but Provost. Well — my name was, in the world above,
-> **Yafet Em**. But that has not been relevant for many years. You may call me Provost."*
+> **Yaffet Kempe**. But that has not been relevant for many years. You may call me Provost."*
 
 Asked what a Provost does here: *"I do my best to keep these people alive, and with some hope."*
 
@@ -135,7 +135,7 @@ She agrees to try — not easily, and promising nothing:
 > like there's a chance. A real one. You're right. **It won't come again.**"*
 
 What moves her is [[mags|Mags]] naming the one thing she has never had: *"You know what you didn't have
-last time, Yafet? Us."* She takes it seriously — *"it is hard sometimes to remember that there are
+last time, Yaffet? Us."* She takes it seriously — *"it is hard sometimes to remember that there are
 others with whom I might be able to share it."*
 
 ## Leading the way out (S2.40)
@@ -154,6 +154,11 @@ What she knows of them comes from Greyface:
   was one of them.
 - Out on the plain, **they will kill villagers if they find them**.
 - The hunters find them **easy to avoid**: they never leave their patrol routes.
+
+## Her death (S2.41)
+When [[the-bone-swarm|the bone swarm]] falls on the convoy, **the Provost is among those consumed**.
+With her goes **the knowledge of where the tunnels are**. [[mags|Mags]] sheltered the souls of seven of
+the newly dead in the fight; whether the Provost is among them, Mags cannot tell.
 
 ## DM notes / secrets
 - **She insists on speaking for the village herself.** Any approach to Greyface, she regards as **her

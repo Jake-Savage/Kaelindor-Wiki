@@ -8,7 +8,7 @@ controlled_by: null
 connected_to: [dunton, the-keep, the-ossuary]
 status: active
 first_session: S2.38
-last_session: S2.40
+last_session: S2.41
 tags: [stonehunger, dunton, plain, dark, creatures, dynamic, underground]
 summary: The vast dark expanse beyond Dunton's palisade where the Stonehunger deposits what it has swallowed — a landscape that does not stay in the same shape, roamed by large insect-like creatures, with the Keep somewhere out across it.
 ---
@@ -76,6 +76,17 @@ direction — there is **no path** to follow.
 - **The large shape.** Something **eighteen to twenty feet tall**, possibly one thing or several,
   moving quickly across the plain from the village toward [[rell-aetris|Rell]]'s decoy flare.
 
+## The battle on the plain (S2.41)
+The convoy is caught some hours out from [[dunton|Dunton]], near **ruined buildings** and **a big
+rock** that gives the children cover, by [[the-bone-swarm|the bone swarm]]. Fourteen villagers
+die there. Notes from the night:
+
+- **The ground is broken** in places: the way north-east from the battle is **choked with rocks,
+  debris and ruined buildings**.
+- **Moving forty untrained people without light** is barely possible — people trip and fall even with
+  lanterns, the floor is uneven, and the pace drops to a crawl.
+- **The Keep's patrols** give off a **faint reddish magical glow** rather than carrying torches.
+- **Acoustics are strange** out here; direction is hard to judge by sound.
 ## DM notes
 - **Who cut the wards, and what do they hold out?** They predate Dunton, and Greyface treated them as
   the safe line from the first day. Are they traces of the lost **order-magic** he says he has found

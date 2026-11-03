@@ -16,14 +16,14 @@ relationships:
   - who: caspian-talon
     note: Recognises something in his blood, offers to teach him necromancy, and is refused the price — they part on even terms.
 first_session: S2.36
-last_session: S2.39
+last_session: S2.41
 tags: [stonehunger, grommars-path, arena, dunton, undead, priest, puppet, ossuary, elves, exile, laeethorian, necromancy]
 summary: Lae'ethorian — a relative of Archon Thaloriel and vanished commander of the Elvish armies, alive and in exile beneath the Mirrowen, who works through borrowed corpses as "Greyface", the High Priest of Dunton.
 ---
 
 > **He is Lae'ethorian, and he is alive.** The figure the party talks to is a corpse he is wearing.
-> Everything below describes that puppet unless it says otherwise; the man himself has never been seen,
-> and is somewhere within reach of [[the-ossuary|the Ossuary]]. He is **an elf**, **a relative of
+> Everything below describes that puppet unless it says otherwise. **The man himself was seen for the
+> first time in S2.41**, riding [[the-bone-swarm|the bone swarm]] after the fleeing villagers. He is **an elf**, **a relative of
 > [[the-bleeding-years|Archon Thaloriel]]**, and once **one of the principal commanders of the Elvish
 > armies**. **He has never said so** — the party worked it out (S2.39), and he does not know that they
 > have.
@@ -231,6 +231,24 @@ relevant."*
 He declines to send any message to the surface. *"The arrogance and optimism of youth. No — I would not
 condemn you by asking you to carry my messages."*
 
+## In person (S2.41)
+He comes after the convoy himself, seated on **a throne of bones** inside [[the-bone-swarm|the bone
+swarm]], hidden in a magical darkness until [[caspian-talon|Caspian]] dispels it. The party sees **an
+elf**, not the grey-faced puppet; it is **Lae'ethorian**, and they know it. What they learn of him:
+
+- **He was astonished** when [[rell-aetris|Rell]] knocked him off the throne, then **furious**, with
+  **an air of righteousness**.
+- **He fights with necromancy at close range.** Holding Rell, he **pours it into him
+  indiscriminately** — cold and isolating, damage Rell senses would be hard to undo — and keeps his
+  hold through Caspian's Magic Missile.
+- **He shields himself magically**, though Trevick's arrow gets through.
+- **Daylight does not trouble him.** He resists Fabian's curse and Mags's attempt to hold him.
+- **He withdraws** when the fight turns, weighing what he came for against how far he had got.
+- **The Keep's patrol, it is inferred, spoke with him** during the night, near where Hawk's firebomb
+  fell, in a language Trevick does not know.
+- **Fourteen of the villagers he had kept for twelve years died in the attack**, [[the-provost|the
+  Provost]] among them. **Roscoe's parents, Tom and Maddie Pruett, survived.**
+
 ## DM notes / secrets
 - **What he is willing to do.** [[mags|Mags]]'s Insight (21): **no aggressive intent and no interest in
   murdering them imminently** — but the distinct impression that **if he thought it would be
@@ -320,6 +338,6 @@ propaganda** all their lives — Mags's immediate verdict is unprintable. Is the
   believers?
 - **The village left him (S2.40).** All thirty-four walked out that evening with no word left for him.
   Some hours later something **eighteen to twenty feet tall**, sounding of clattering bone and smelling
-  of old bones and **aggressively maintained magic**, came out of [[dunton|Dunton]] after them. **Is it
-  his?** The party is sure of it, but nobody has seen him. Mags's Augury had said **weal**
+  of old bones and **aggressively maintained magic**, came out of [[dunton|Dunton]] after them. **It was
+  his, and he was riding it** — see S2.41. Mags's Augury had said **weal**
   only to being caught *by Greyface himself* if they left promptly.

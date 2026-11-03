@@ -12,7 +12,7 @@ relationships:
   - who: trevick
     note: His ranger; the firbolgs say Hawk has watched Trevick's lineage across generations.
 first_session: S1.01
-last_session: S2.40
+last_session: S2.41
 tags: [spirit-hawk, watcher, rhynharran, scout, omen]
 summary: Trevick's spirit hawk, identified by the firbolgs as a Rhynharran "Watcher" sent to watch a chosen lineage.
 ---
@@ -40,6 +40,9 @@ comes through feels **stunted** — as though limited, or **deliberately holding
   hours. Returns **terrified** — something large came out of the village, broadly after the party; not
   the Stonehunger — and presses against Trevick. Carries [[theodore|Theodore]] aloft for Caspian, then
   a lit bottle of oil, barely within his strength, to drop near the Keep's patrol.
+- S2.41: Drops the firebomb between the Keep's patrol and Rell's flare, then watches the swarm close
+  in — crescent-shaped, a dark mass at its centre, a cold metallic penumbra — and is **nearly drawn
+  into it**, climbing clear only just.
 
 ## DM notes / secrets
 - Hawk is a true [[the-watcher|Watcher]] of [[rhynharran]], central to [[trevick]]'s destiny and the open `trevicks-watcher` thread; the Eldryn weigh its significance (S2.21).

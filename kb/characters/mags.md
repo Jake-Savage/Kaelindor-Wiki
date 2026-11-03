@@ -21,7 +21,7 @@ relationships:
   - who: caspian-talon
     note: She tolerates his impiety and senses his evasiveness; they grudgingly come to get along.
 first_session: S1.05
-last_session: S2.40
+last_session: S2.41
 tags: [cleric, naelos, gnome, underdark, diplomat, nameweave, petrified]
 summary: A centuries-old gnome cleric of Naelos and the party's blunt, pragmatic moral anchor, who threads diplomacy between Greymere and the Eldryn and is briefly petrified into wood.
 ---
@@ -152,7 +152,7 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
   [[dunton|Dunton]] she turns the session: **thirty-four people, five days, and nobody else coming for
   twelve years.** *"I think they'll all die, including the children. I think we have to try."* She
   casts **Augury** on whether [[the-provost|the Provost]] can give practically implementable advice,
-  gets a yes, and goes to get it — then talks Yafet round by naming the one thing she has never had:
+  gets a yes, and goes to get it — then talks Yaffet round by naming the one thing she has never had:
   *"You know what you didn't have last time? Us."* She would accept a high death rate, and offers to
   **hang back herself** to slow Greyface down. Her argument with Caspian about whether a doomed right
   thing is still the right thing runs to the end of the session and is not resolved. See
@@ -164,6 +164,14 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
   they would have stopped, making the overloaded drop their baggage. When something large comes out of
   the village she drops back with Caspian as a rearguard, calls his proposal *"a very moral idea"*, and
   casts a second Augury on whether staying will save the convoy: **weal and woe**.
+- S2.41: Builds the firebomb Hawk drops, brings the rearguard back, and casts **Silence** over the
+  convoy so it can pack without noise. When the swarm falls on them she casts **Daylight**, raises
+  [[naelos|Naelos]] against it — *"thou shalt not pass"* — and crumbles some of its ancient bones, is
+  rolled over by it, and calls up **Spirit Guardians** as shining moths inside it. Holding them against
+  the swarm's opposed magic, she finds they **shelter the souls of the newly dead**, gives up the attack
+  to gather them, and **shelters seven**. When the guardians collapse the souls **flow into her**: she
+  now **carries them**, for as long as she stays whole, conscious and faithful. Tries to hold the elf and
+  fails; stabilises and fully heals Rell after.
 
 ## DM notes / secrets
 - Her undead-tinged bone shard (a Naelos relic of her own bones) keys the infernal "half in this world and half of another" doors in the Shifting Library (S2.08) — a detail worth remembering for her nature/longevity.

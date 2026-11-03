@@ -5,7 +5,7 @@ title: The Stonehunger Below
 status: active
 priority: main
 opened_session: S2.31
-last_updated_session: S2.40
+last_updated_session: S2.41
 involves_characters: [caspian-talon, fabian-perennius, mags, trevick, rell-aetris, theodore, turley, glorta, tuffin, the-custodian, the-high-priest, the-undead-minotaur, the-arena-elemental, varen, the-provost, kithri, roscoe]
 involves_locations: [kethrans-fold, the-mirrowen, the-stone-river, the-golden-courtyard, grommars-path, the-foul-pool, the-ancient-forge, the-buried-arena, dunton, ketters-rest, the-ossuary, the-plain, the-keep, black-barrow]
 factions: [the-gleaners]
@@ -183,7 +183,7 @@ crushing whatever has no "place."
   [[undead-puppetry|a puppet]]** for someone else — which he does not say aloud.
 
 - S2.38: A day of talking, and the largest lore haul of the arc. In [[ketters-rest|the taproom]]
-  **[[the-provost|the Provost]] — Yafet Em** — lays out [[dunton|Dunton]]: **forty-two** survivors of
+  **[[the-provost|the Provost]] — Yaffet Kempe** — lays out [[dunton|Dunton]]: **forty-two** survivors of
   **[[black-barrow|Black Barrow]]**, taken **twelve years ago**, **nineteen** dead since, strict
   rationing by need, no contact with the hostile [[the-gleaners|gleaners]], and **two incoherent
   survivors** who have been underground a quarter of a century. Beyond the palisade lies
@@ -239,6 +239,13 @@ crushing whatever has no "place."
   Greyface's word that the Keep's soldiers and priests think of the villagers as **parasites in the
   body of God** — and that he has **convinced them he is one of them**. Something very large comes out
   of the village after the convoy. See [[evacuate-dunton]].
+
+- S2.41: **Lae'ethorian in person.** He rides [[the-bone-swarm|a storm of bones]] out after the
+  convoy and is revealed on a throne inside it when Caspian dispels its darkness: **an elf**, not the
+  puppet. The party fights him to a standstill — Rell drags him from the throne, Trevick breaks his
+  necromancy, Mags turns the power of Naelos and opposed magic against the swarm — and he **withdraws**.
+  Mags learns that her guardians can **shelter the souls of the newly dead** from necromancy, and now
+  carries seven. See [[evacuate-dunton]].
 
 ## Open threads
 - **What is the Stonehunger, truly?** Corroborated as a real, vast, moving devourer the party is

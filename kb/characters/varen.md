@@ -5,11 +5,11 @@ title: Varen
 category: npc
 species: Human
 role: Landlord of Ketter's Rest
-status: alive
+status: dead
 home: dunton
 affiliations: []
 first_session: S2.37
-last_session: S2.37
+last_session: S2.41
 tags: [stonehunger, dunton, innkeeper, survivor]
 summary: The middle-aged human who keeps Ketter's Rest in Dunton — courteous, frightened of being caught between the party and the Provost, and visibly relieved that none of them died.
 ---
@@ -42,6 +42,10 @@ He is otherwise **courteous and thoughtful**, pours what he has, shows them upst
 anything he can — he empties his house of pillows on request.
 
 His name tells the party nothing: it is a name they could have met in [[greywatch|Greywatch]].
+
+## On the plain (S2.41)
+- S2.41: **Killed** on the plain when [[the-bone-swarm|the bone swarm]] falls on the convoy. His full
+  name, per the DM's roll, was **Varen Kettler**; he was sixty.
 
 ## DM notes / secrets
 - **He will go to [[the-provost|the Provost]] at the earliest possible opportunity** — confirmed. He

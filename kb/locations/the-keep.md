@@ -8,7 +8,7 @@ controlled_by: null
 connected_to: [the-plain]
 status: active
 first_session: S2.38
-last_session: S2.40
+last_session: S2.41
 tags: [stonehunger, plain, keep, lower-levels, unvisited]
 summary: A structure out across the plain that stands above and guards the lower levels of the Stonehunger — unseen by almost everyone in Dunton, and the party's declared next objective.
 ---
@@ -58,6 +58,10 @@ knows of them, she has from [[the-high-priest|Greyface]]:
   was one of them.
 - On the plain, they **will kill** villagers they find.
 - They **never leave their patrol routes**, so the hunters find them easy to avoid.
+- **S2.41:** The patrol gives off **a faint reddish magical glow**. Near where Hawk's firebomb fell,
+  Trevick hears **an exchange of words in a language he does not speak** — not friendly, not
+  confrontational. **It is inferred they were talking to [[the-high-priest|Lae'ethorian]]**; nobody
+  saw it.
 
 ## Why the party cares
 Two reasons, both raised in S2.39:

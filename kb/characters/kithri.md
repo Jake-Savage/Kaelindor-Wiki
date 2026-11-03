@@ -9,7 +9,7 @@ status: alive
 home: dunton
 affiliations: []
 first_session: S2.38
-last_session: S2.38
+last_session: S2.41
 tags: [stonehunger, dunton, needlework, banners, black-barrow, survivor]
 summary: The Dunton needleworker who embroiders Greyface's banners and robes to his patterns — including the bull banners the party saw in the arena — and who tells them, matter-of-factly, that he is wearing a dead villager's body.
 ---
@@ -81,6 +81,10 @@ quiet — she gives the party the session's single biggest revelation, assuming 
   - *"I don't suppose it's ideal. I don't know what he does up there. I don't suppose I want to know.
     But most of us who might have expected to live to this year anyway have done. And there are folk
     who've made families down here. Well — things could have been different."*
+
+## On the plain (S2.41)
+- S2.41: **Survives** the bone swarm on the plain. Her full name, per the DM's roll, is **Kithri
+  Munn**, forty-eight; her son **Ned Munn**, nineteen, was killed.
 
 ## DM notes / secrets
 - **The spelling of her name is uncertain** — the recording gives "Kithri"; her son calls her "Ma."

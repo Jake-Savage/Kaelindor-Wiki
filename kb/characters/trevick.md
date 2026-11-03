@@ -21,7 +21,7 @@ relationships:
   - who: dakir
     note: Founding companion he confides in about Joster; the two keep contact by Dakir's paired sending-tokens after Dakir's departure (S2.28).
 first_session: S1.01
-last_session: S2.40
+last_session: S2.41
 tags: [ranger, beastmaster, firbolg-favoured, watcher, uthrel, velton, salmeros]
 summary: A tiefling beastmaster ranger and lone survivor of a village destroyed by the Uthrel, revered by the firbolgs as bearing a Rhynharran "Watcher" and chosen as the Eldryn's go-between.
 ---
@@ -112,6 +112,10 @@ In [[greymere]] he becomes the party's conduit to the natural world and the [[th
   for the last time some hours out. Sends [[hawk|Hawk]] on the decoy flight and the watch, comforts him
   when he returns terrified, questions him quietly — something large, **not the Stonehunger** — and
   builds the firebomb Hawk drops by the Keep's patrol.
+- S2.41: Settles the villagers where Fabian could not, hears **voices in an unknown language** near
+  Hawk's bomb, and scouts a blocked way north-east. In the fight he marks the elf, misses through the
+  bones, then puts **an arrow through three-quarters cover**, past a magical shield, and **breaks the
+  necromantic drain on Rell**.
 
 ## DM notes / secrets
 - Trevick's father was a "Salmeros" — a lineage the devil [[joster-sirit]] recognised (he never claimed to have known the man) — and his parentage (with possible infernal/marked lineage beyond ordinary tiefling) is an open mystery seeded since S1.05.

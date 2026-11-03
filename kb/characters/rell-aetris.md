@@ -17,7 +17,7 @@ relationships:
   - who: trevick
     note: Comes to understand Trevick as one who has shed the trappings of humanity to live honestly.
 first_session: S1.05
-last_session: S2.40
+last_session: S2.41
 tags: [wizard, aberrant-mind-sorcerer, mind-magic, telepathy, tir-van, horizonborn, horizon-doors, masked, secretive]
 summary: A masked, reclusive Tir'Van who passes publicly as a wizard — secretly an Aberrant Mind sorcerer — whose lifelong search for the Horizon Doors makes him suspiciously excited when the party finds one — the tampered Bright Gate.
 ---
@@ -165,6 +165,13 @@ Morally, Rell is the party's harshest realist. He is bitter that the party "danc
   more like a person's than an animal's**, stunted or holding back; he assumes Trevick knows and says
   nothing. Called back to the rearguard, he picks out the pursuer — **eighteen to twenty feet tall**,
   moving fast **toward his flare**.
+- S2.41: Plans the diversion that sets the patrol and the swarm on each other, scouts east and lays
+  another flare; his own firebombs mostly leak. Argues Greyface will not waste the whole village. In the
+  stand he goes invisible, **springs off a villager's shoulders**,
+  dives head first through the bones onto the throne, and **tackles the elf off it**. The elf clings to
+  him and pours **necromancy** into him — cold, isolating, damage that would be hard to undo — until
+  Trevick's arrow breaks it. Falls unconscious still gripping him, is dropped out by Caspian's dispel,
+  and is healed by Mags. Many of the villagers think him **a hero**.
 
 ## DM notes / secrets
 - **The "wizard" identity is a guise.** Rell is officially known as a wizard and deliberately never names a subclass. In truth he is an **Aberrant Mind sorcerer** (an "aberrant soul" sorcerer), masking his innate, aberrant power behind the studied respectability of wizardry — a concealment that fits the unsettling, many-eyed nature of the [[the-tir-van]].

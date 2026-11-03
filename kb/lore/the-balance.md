@@ -98,6 +98,11 @@ Asked how: **without an understanding of both sides of the scale, "there will be
 try to actually change anything. To actually fix anything."** This is the argument he **made, and
 lost**, and for which he is in exile — see [[the-high-priest]].
 
+## Tested in the field (S2.41)
+When [[mags|Mags]] holds Spirit Guardians inside [[the-bone-swarm|the bone swarm]], she meets
+**two opposed magics clashing directly** — the effect Greyface demonstrated with her Guidance in the
+Ossuary, now in earnest. It is **volatile**: held, the guardians tear at the swarm; overwhelmed by the
+second swarm, they **buckle and fail**.
 ## Open questions
 - **What is Itharis the pivot between?** [[mags|Mags]] has heard **Itharis called the axis or pivot
   point** in Itharian contexts, but cannot place what the pivot is supposed to be between. Whether
