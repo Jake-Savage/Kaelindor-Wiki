@@ -29,6 +29,8 @@ magical enough to **stay on the head** regardless of how badly balanced it ought
   to mind than its common equivalent. This began for Fabian during the short rest in which he first put
   it on.
 - **No attunement was required of it**, unlike the [[the-handlet|handlet]].
+- **S2.42: It holds the eye of [[the-patrol-commander|the patrol's commander]].** When Fabian puts it on,
+  the prisoner, who speaks an old Draconic, gives him **his full attention**. Why is unknown.
 
 ## History
 Hidden with the rest of the regalia beneath a warded flagstone reachable only by working the

@@ -8,7 +8,7 @@ controlled_by: null
 connected_to: [dunton, the-keep, the-ossuary]
 status: active
 first_session: S2.38
-last_session: S2.41
+last_session: S2.42
 tags: [stonehunger, dunton, plain, dark, creatures, dynamic, underground]
 summary: The vast dark expanse beyond Dunton's palisade where the Stonehunger deposits what it has swallowed — a landscape that does not stay in the same shape, roamed by large insect-like creatures, with the Keep somewhere out across it.
 ---
@@ -87,6 +87,13 @@ die there. Notes from the night:
   lanterns, the floor is uneven, and the pace drops to a crawl.
 - **The Keep's patrols** give off a **faint reddish magical glow** rather than carrying torches.
 - **Acoustics are strange** out here; direction is hard to judge by sound.
+
+## The patrol (S2.42)
+Minutes after the swarm, at the same spot, **the Keep's patrol**, seven strong, comes in from the north-west under
+Mags's Daylight. The children shelter in **a crevice behind two big rocks** to the south. The party and
+the villagers destroy all but two: one flees and gets away, and the commander is taken prisoner; [[kithri|Kithri]] is
+killed. See [[the-keep]] for what the patrol showed of itself.
+
 ## DM notes
 - **Who cut the wards, and what do they hold out?** They predate Dunton, and Greyface treated them as
   the safe line from the first day. Are they traces of the lost **order-magic** he says he has found

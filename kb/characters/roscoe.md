@@ -12,7 +12,7 @@ relationships:
   - who: the-high-priest
     note: Greyface took his body as a surrogate after he died; the villagers still find it strange to see.
 first_session: S2.38
-last_session: S2.41
+last_session: S2.42
 tags: [stonehunger, dunton, surrogate, puppet, dead, black-barrow]
 summary: A young man of Dunton killed by one of the plain's creatures less than a year ago, whose corpse Greyface has been wearing ever since — a fact everyone in the village knows and nobody begrudges.
 ---
@@ -43,6 +43,9 @@ when a surrogate wears out or an opportunity arises, Greyface **renews**. The pr
 ## His parents (S2.41)
 - S2.41: His parents, **Tom Pruett** (51) and **Maddie Pruett** (54), are among the survivors of the
   bone swarm. His full name, per the DM's roll, is **Roscoe Pruett**.
+- S2.42: Both fight the patrol. **Maddie** shoots one of its casters, then throws herself at him to
+  keep him from the children; **Tom** shoots at him from cover. Maddie is hurt by his Shatter; both
+  live.
 
 ## DM notes / secrets
 - **Nobody in Dunton objects.** *"No one begrudges him. But still, it's strange. It feels strange."*

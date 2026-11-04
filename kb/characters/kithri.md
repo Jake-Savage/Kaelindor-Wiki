@@ -5,13 +5,13 @@ title: Kithri
 category: npc
 species: Human
 role: Needleworker; maker of Greyface's banners and robes
-status: alive
+status: dead
 home: dunton
 affiliations: []
 first_session: S2.38
-last_session: S2.41
-tags: [stonehunger, dunton, needlework, banners, black-barrow, survivor]
-summary: The Dunton needleworker who embroiders Greyface's banners and robes to his patterns — including the bull banners the party saw in the arena — and who tells them, matter-of-factly, that he is wearing a dead villager's body.
+last_session: S2.42
+tags: [stonehunger, dunton, needlework, banners, black-barrow, survivor, dead]
+summary: The Dunton needleworker who embroiders Greyface's banners and robes to his patterns — including the bull banners the party saw in the arena — and who tells them, matter-of-factly, that he is wearing a dead villager's body; after her son died under the bone swarm she stood in the front line against the patrol on the plain, and died there.
 ---
 
 ## Overview
@@ -82,9 +82,13 @@ quiet — she gives the party the session's single biggest revelation, assuming 
     But most of us who might have expected to live to this year anyway have done. And there are folk
     who've made families down here. Well — things could have been different."*
 
-## On the plain (S2.41)
+## On the plain (S2.41–42)
 - S2.41: **Survives** the bone swarm on the plain. Her full name, per the DM's roll, is **Kithri
   Munn**, forty-eight; her son **Ned Munn**, nineteen, was killed.
+- S2.42: **Killed.** When the patrol comes at the convoy minutes later, she comes forward to fight
+  rather than hide. Her arrow **draws blood** from the nearest of them. The commander's Fireball drops
+  her, and a patrolman puts a crossbow bolt into her where she lies. She is **the only villager lost**
+  in that fight.
 
 ## DM notes / secrets
 - **The spelling of her name is uncertain** — the recording gives "Kithri"; her son calls her "Ma."

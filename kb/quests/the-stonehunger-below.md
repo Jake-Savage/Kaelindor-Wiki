@@ -5,7 +5,7 @@ title: The Stonehunger Below
 status: active
 priority: main
 opened_session: S2.31
-last_updated_session: S2.41
+last_updated_session: S2.42
 involves_characters: [caspian-talon, fabian-perennius, mags, trevick, rell-aetris, theodore, turley, glorta, tuffin, the-custodian, the-high-priest, the-undead-minotaur, the-arena-elemental, varen, the-provost, kithri, roscoe]
 involves_locations: [kethrans-fold, the-mirrowen, the-stone-river, the-golden-courtyard, grommars-path, the-foul-pool, the-ancient-forge, the-buried-arena, dunton, ketters-rest, the-ossuary, the-plain, the-keep, black-barrow]
 factions: [the-gleaners]
@@ -246,6 +246,11 @@ crushing whatever has no "place."
   necromancy, Mags turns the power of Naelos and opposed magic against the swarm — and he **withdraws**.
   Mags learns that her guardians can **shelter the souls of the newly dead** from necromancy, and now
   carries seven. See [[evacuate-dunton]].
+- S2.42: **The patrols, close up.** A patrol of seven attacks the convoy on the plain. They are
+  **undead**, the commander too — turnable, though they resist, and immune to necrotic — and **casters**: bolts
+  of death, dark-flamed crossbows, Lightning Bolt, Fireball, Slow. They answer to **a commander**, whom
+  the party takes alive; he speaks **an old Draconic**. One patrolman gets away. See
+  [[the-patrol-commander]].
 
 ## Open threads
 - **What is the Stonehunger, truly?** Corroborated as a real, vast, moving devourer the party is

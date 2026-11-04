@@ -21,7 +21,7 @@ relationships:
   - who: shalfay
     note: Tower of Heaven employer and divination contact; Caspian still corresponds with him.
 first_session: S1.01
-last_session: S2.41
+last_session: S2.42
 tags: [scholar, wizard, divination, uthrel, vampire-suspicious, dragon-bones]
 summary: A coldly rational divination wizard obsessed with studying the Uthrel and dragon remains, who secretly dealt with the vampire Lucien and is evasive about what it cost him.
 ---
@@ -168,6 +168,9 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
   take the villagers back. In the fight he **dispels the darkness at the swarm's heart**, high-level
   magic, to his own astonishment, revealing the elf on his throne; and as the swarm withdraws he dispels
   **a patch of it beneath Rell**, dropping him out.
+- S2.42: Holds his fire until five of the patrol are bunched together, then drops **a Fireball** on
+  them all. Pours a healing potion into Mags when she falls, is **slowed** by the commander, and is
+  beaten unconscious late in the fight; Mags brings him back.
 
 ## DM notes / secrets
 - Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. What passed between them is unresolved and worth keeping ambiguous.

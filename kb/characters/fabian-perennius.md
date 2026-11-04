@@ -21,7 +21,7 @@ relationships:
   - who: valeria
     note: His sister, an aberration-scholar he expects to envy his reaching the Mirrowen first.
 first_session: S1.05
-last_session: S2.41
+last_session: S2.42
 tags: [bard, crownspire, fame-seeking, radiant-magic, golden-lute, sunblade]
 summary: A vain, fame-seeking bard and seventh son of a Crownspire dynasty who hungers to be the hero of an epic tale, and who manifests a new golden radiant magic after a selfless act by Mags.
 ---
@@ -156,6 +156,12 @@ His defining motivation is legacy and museum-fame: as a boy he stood beneath the
   over by the swarm, he blasts **Thunderwave** from [[the-golden-lute|the golden lute]] at the elf and
   Rell to open a way out, shepherds the children behind a rock, curses the elf to no effect, inspires
   Trevick, and gathers the survivors afterwards.
+- S2.42: Lays **Heroism** on Mags and urges Rell on. The commander's Fireball drops him; he **comes
+  round on his own**, eats a **fruit cake** that heals like a potion, and gets Mags up. From
+  [[the-golden-lute|the golden lute]] he mocks the patrol — they cannot hit a dandy, but a little girl
+  can stab them — and **the commander collapses laughing**, which wins the fight. Reads the last
+  patrolman's wish to leave. Promises old Bohdan Tarek a sausage when they are out. The prisoner fixes
+  on him when he wears [[the-dragon-crown|the dragon crown]].
 
 ## DM notes / secrets
 - Fabian's [[fabians-radiant-magic|radiant magic]] (S2.17) is unexplained in-world — an emergent power tied to selfless/heroic resonance, an active open thread.

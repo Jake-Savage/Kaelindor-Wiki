@@ -5,12 +5,12 @@ title: Evacuate Dunton
 status: active
 priority: main
 opened_session: S2.39
-last_updated_session: S2.41
-involves_characters: [mags, caspian-talon, fabian-perennius, rell-aetris, trevick, the-provost, the-high-priest, kithri, hawk]
+last_updated_session: S2.42
+involves_characters: [mags, caspian-talon, fabian-perennius, rell-aetris, trevick, the-provost, the-high-priest, kithri, hawk, the-patrol-commander]
 involves_locations: [dunton, the-ossuary, the-plain, the-keep]
 factions: []
 tags: [stonehunger, dunton, rescue, evacuation, clock, greyface]
-summary: The party led Dunton's thirty-four villagers out onto the plain without Greyface's leave; he came after them in his bone swarm, and twenty survive — without the Provost, who knew the way to the tunnels.
+summary: The party led Dunton's thirty-four villagers out onto the plain without Greyface's leave; he came after them in his bone swarm, and twenty survive — without the Provost, who knew the way to the tunnels; a patrol came next, and nineteen survive it, with its commander as their prisoner.
 ---
 
 ## Hook
@@ -26,7 +26,9 @@ perhaps** — and that if they want out they should go now. The same window is t
 The next surfacing, on the evidence, is twelve or sixteen years away.
 
 ## Who is being evacuated
-**Since S2.41: twenty people and the dog.** Seven are children aged one to eleven, six of them missing
+**Since S2.42: nineteen people and the dog** — [[kithri|Kithri Munn]] died fighting the patrol.
+
+**After S2.41: twenty people and the dog.** Seven are children aged one to eleven, six of them missing
 a parent and Daisy Thorngage both; the oldest is Sarah Farlin, seventy-six; one, Mothrigg Tosscobble,
 is a long-term survivor of the earlier settlement. The full roll of the living and the dead is on
 [[dunton]].
@@ -91,6 +93,14 @@ everything**: let the villagers leave, give us an easier way out, and **you coul
 In S2.40 they dropped that plan and left without asking.
 
 ## Progress log
+- S2.42: **The patrol.** Ten minutes after the swarm, **the Keep's patrol**, seven strong, comes at the convoy under
+  Mags's Daylight. Two **Fireballs** — Caspian's into them, then their commander's into the party —
+  drop Mags, Fabian and [[kithri|Kithri]]; Kithri is killed where she lies. The party gets back up, and
+  **the villagers fight beside them**: Maddie Pruett, Finnan Highcroft, Rosie Tryn, Bohdan Tarek and the
+  dog take on a caster in their midst until Trevick kills him. Fabian's magic leaves the **commander**
+  helpless with laughter; Mags turns two, one of whom **gets away**; Rell and Trevick cut down the rest. **Rell binds and gags the
+  commander.** He speaks **an old Draconic**, and Fabian's crown holds his eye. **Nineteen villagers
+  survive.** The party means to question him and go on.
 - S2.41: **Found, and fought.** The convoy hides in the dark while Rell's diversions and Hawk's firebomb
   try to set the Keep's patrol and [[the-bone-swarm|the bone swarm]] on each other. Caspian argues
   they have made a terrible mistake and should let Greyface take the villagers back; the party instead
@@ -120,11 +130,14 @@ In S2.40 they dropped that plan and left without asking.
   the routes; the party splits five ways on run, negotiate or leave, and agrees to petition Greyface.
 
 ## Leads / next steps
+- **Question [[the-patrol-commander|the prisoner]].** The party wants a way out, a secret exit if there
+  is one, and to know whether more will come. Rell will ask telepathically; Fabian, crowned, relays.
+- **Don't linger.** One of the patrol got away, and Rell argues against resting here.
 - **Find the tunnels without the Provost.** She was making for **porous rock and caves** like those at
   [[the-ossuary|the Ossuary]]'s entrance, with **cut shafts leading upward**, several hours' walk on.
   Trevick found the way north-east **choked with rocks and ruins**.
 - **Move.** The survivors are fewer and younger but no faster, and frightened. The swarm is moving
-  away; the patrol is still out there.
+  away.
 - **Look after Rell**, healed but drained by Lae'ethorian's necromancy.
 - **The seven souls.** Mags carries them. What can be done for them?
 
@@ -134,6 +147,7 @@ In S2.40 they dropped that plan and left without asking.
 - **The dead.** Their bodies were taken into the swarm. What becomes of them, and of the souls Mags did
   not reach?
 - **Was Fabian being scried?** He felt suddenly watched; Mags thinks so; nobody knows.
+- **The patrolman who got away.** Will he report the convoy to the Keep, and what comes after it?
 - **The patrol.** It was near Hawk's bomb, speaking a language Trevick does not know — **to
   Lae'ethorian, it is inferred**. What passed between them, and is the Keep now looking for the
   convoy?

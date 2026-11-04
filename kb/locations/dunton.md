@@ -8,7 +8,7 @@ controlled_by: the-provost
 connected_to: [the-buried-arena, the-ossuary, the-plain, black-barrow]
 status: abandoned
 first_session: S2.37
-last_session: S2.41
+last_session: S2.42
 tags: [stonehunger, grommars-path, dunton, settlement, survivors, underground, halflings]
 summary: A barricaded settlement of a couple of dozen patched-together houses deep inside the Stonehunger, where humans and halflings lived under a Provost for twelve years — the "Dunton" the gleaners spoke of as a rumour, emptied when the party led all thirty-four out in S2.40.
 ---
@@ -107,7 +107,8 @@ Banners tend to be **monsters**; robes and cloaks tend to be **trees and nature*
 
 ## The roll (S2.41)
 The DM's list of Dunton's thirty-four after [[the-bone-swarm|the bone swarm]], with **twenty survivors
-and the dog**, and **fourteen dead**. Spellings follow the list.
+and the dog**, and **fourteen dead**. Spellings follow the list. **Since S2.42: nineteen and the dog** —
+Kithri Munn died fighting the patrol.
 
 **Alive**
 - **Tom Pruett** (human, 51) and **Maddie Pruett** (human, 54) — partners; parents of
@@ -122,7 +123,6 @@ and the dog**, and **fourteen dead**. Spellings follow the list.
 - **Apple Bowditch** (halfling, 28) — mother of Eli and Elsie.
 - **Mothrigg Tosscobble** (elderly, age unknown) — one of the long-term survivors of the earlier
   settlement.
-- **[[kithri|Kithri Munn]]** (human, 48) — mother of Ned Munn.
 - **The children:** **Caelum Swithun** (human, 1); **Daisy Thorngage** (halfling, 6), daughter of
   Bellis Thorngage and Maddenpurse Brushman; **Rosie Tryn** (halfling, 11), daughter of Lidda Tryn;
   **Eli Bowditch** (halfling, 3) and **Elsie Bowditch** (halfling, 5); **Robin Tegg** (human, 4);
@@ -140,6 +140,8 @@ and the dog**, and **fourteen dead**. Spellings follow the list.
 - **Wismer Leagallow** (halfling, 36) and **Tallowmark Caldrop** (halfling, 40) — partners.
 - **Brindle Tarnley** (halfling, 17) — daughter of Finnan Highcroft, partner of Olo Halfkettle.
 - **Ned Munn** (human, 19) — son of [[kithri|Kithri Munn]].
+- **[[kithri|Kithri Munn]]** (human, 48) — mother of Ned. Survived the swarm; **killed in S2.42**,
+  fighting the patrol in the front line.
 - **Maddenpurse Brushman** (halfling, 42) and **Bellis Thorngage** (halfling, 43) — partners; parents
   of Daisy, who survived.
 - **Lidda Tryn** (halfling, 47) — mother of Rosie, who survived.
@@ -165,6 +167,9 @@ Six of the surviving children lost a parent, and Daisy Thorngage lost both.
 - **S2.41:** Out on the plain, [[the-bone-swarm|the bone swarm]] catches the convoy. **Fourteen of the
   thirty-four die**, among them [[the-provost|the Provost]] and [[varen|Varen]]; twenty survive with the
   dog. See the roll above.
+- **S2.42:** Minutes later the Keep's patrol comes at them. The villagers fight beside the party —
+  Maddie and Tom Pruett, Finnan Highcroft, Del Zoric, Olo Halfkettle, Bohdan Tarek, eleven-year-old
+  Rosie Tryn and Max the dog all have a go at its casters — and **only [[kithri|Kithri]] dies**.
 
 ## How Greyface reaches them (S2.39)
 [[the-ossuary|The Ossuary]] is close enough to walk in **about fifteen minutes**. When he wants

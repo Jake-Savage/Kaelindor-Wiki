@@ -8,7 +8,7 @@ controlled_by: null
 connected_to: [the-plain]
 status: active
 first_session: S2.38
-last_session: S2.41
+last_session: S2.42
 tags: [stonehunger, plain, keep, lower-levels, unvisited]
 summary: A structure out across the plain that stands above and guards the lower levels of the Stonehunger — unseen by almost everyone in Dunton, and the party's declared next objective.
 ---
@@ -62,6 +62,16 @@ knows of them, she has from [[the-high-priest|Greyface]]:
   Trevick hears **an exchange of words in a language he does not speak** — not friendly, not
   confrontational. **It is inferred they were talking to [[the-high-priest|Lae'ethorian]]**; nobody
   saw it.
+- **S2.42:** **The same patrol**, seven strong this time, attacks the convoy. What the fight shows of
+  them:
+  - **They are undead**, the commander too. Mags's turning takes them, though they resist it strongly, and
+    **necrotic magic does nothing** to them.
+  - **They are casters** as well as soldiers — heavy crossbows, maces and **nets**, but also bolts of
+    death from **a gauntleted left hand**, crossbows wreathed in **black flame**, **Lightning Bolt**,
+    **Fireball**, **Slow**, Chill Touch and Shatter.
+  - **They answer to a commander** and will not break off without his word. The party takes him alive:
+    see [[the-patrol-commander]]. He speaks **an old variant of Draconic**.
+  - **One got away**, fleeing Mags's turning.
 
 ## Why the party cares
 Two reasons, both raised in S2.39:
