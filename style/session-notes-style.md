@@ -48,8 +48,12 @@ motivation (see §2) — they simply do so flatly, without a narrator's personal
 - Downtime or parallel actions may be given as a bulleted list.
 
 ## 6. The "facts learned" device
-- Render information the party gathers as a **bulleted list introduced by a colon**: *"The party
-  learns the following:"*, *"Damar states:"*. Nested sub-bullets for sub-points.
+- Use it **only for a lore dump** — a long stretch of exposition from the DM or an NPC (history, a
+  briefing, an interrogation). Render it **inline, where it happens**, as a **bulleted list introduced
+  by a colon**: *"The party learns the following:"*, *"Damar states:"*. Nested sub-bullets for
+  sub-points.
+- **No end-of-session "Facts Learned" summary.** Ordinary discoveries stay in the prose; the KB recap's
+  *Key facts learned* is where a session's facts are summarised.
 - Quote letters, documents, and Speak-with-Dead answers **verbatim**, set off by `---` rules
   (Speak-with-Dead as Q/A bullets).
 
@@ -69,7 +73,7 @@ motivation (see §2) — they simply do so flatly, without a narrator's personal
   **description**, never in the **facts** — no invented actions, outcomes, wounds or words; embellish
   only what the table established (the swarm's cold, the bones, the leap), and keep the order of
   events and who did what exact.
-- Routine skirmishes stay compressed and flat. The **Facts Learned** list stays plain in every case.
+- Routine skirmishes stay compressed and flat. A lore-dump list (§6) stays plain in every case.
 - Reference: `notes/session-41.md` (the bone swarm).
 - Name spells explicitly and capitalised (Detect Thoughts, Calm Emotions, Pass Without Trace).
 - State mechanical outcomes plainly in-fiction ("the spell takes hold," "it resists"); record

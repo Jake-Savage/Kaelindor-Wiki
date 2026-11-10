@@ -66,19 +66,8 @@ That leaves the commander, still gasping with laughter on the stone. Rell kneels
 
 ## After
 
-The villagers have lost one more, and they are sad for Kithri. She stood in the front line, she drew blood, and she died there. But they are steadier than they were an hour ago. They have fought, and they have mostly won. Fabian sees to them. He promises old Bohdan a sausage when they are out of here.
+The villagers have lost one more, and they are sad for Kithri. Nineteen of them are left, and the dog. She stood in the front line, she drew blood, and she died there. But they are steadier than they were an hour ago. They have fought, and they have mostly won. Fabian sees to them. He promises old Bohdan a sausage when they are out of here.
 
 Trevick wonders whether they could make camp. Rell will not hear of it: one of the patrol got away.
 
 The plan is to ask the prisoner a few questions and then go on across the plain in the same direction. How do they get out of this hellhole? Is there a secret way? Will more come after them? Rell means to put the questions mind to mind, so that the man never has to open his mouth. And he will understand them, after a fashion, because he speaks Draconic, though not the Draconic of the world above. It is something older, close enough for plain questions, likely to drift on anything finer. When Fabian sets the dragon crown on his head, the prisoner, still not recovered, gives him his whole attention.
-
-## Facts Learned
-
-- The Keep's patrol, the one sighted on the march, attacked the convoy minutes after the bone swarm withdrew, seven strong.
-- The patrolmen are undead, their commander too: they can be turned, though they resist it strongly, and necrotic magic does not touch them.
-- They are casters as well as soldiers. They carry heavy crossbows, maces and nets, and use bolts of death from a gauntleted hand, crossbows wreathed in black fire, Lightning Bolt, Fireball, Slow, Chill Touch and Shatter.
-- They answer to a commander and will not break off without his word.
-- The commander is the party's prisoner, bound and gagged by Rell.
-- He speaks an old variant of Draconic, and the dragon crown on Fabian's head holds his attention.
-- Kithri Munn was killed. Nineteen villagers survive, and the dog.
-- One patrolman, turned by Mags, fled and got away.

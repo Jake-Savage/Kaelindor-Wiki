@@ -85,15 +85,3 @@ The elf has been dragged off his throne, stripped of his darkness, shot through 
 In the merciless daylight the cost is laid out on the ground. Twenty of the thirty-four villagers are alive, and the dog. Fourteen are dead. Every one of the children lived, though six of them have lost a parent and little Daisy Thorngage has lost both. Varen the innkeeper is gone, and Kithri's son Ned, and old Oshin Half-toes, one of the two who had been down here longest. And the Provost was among those taken, and with her went the only knowledge of where the tunnels lie. Whether she is one of the seven Mags carries, Mags cannot tell.
 
 Fabian gathers the survivors before they scatter. Nearly everyone has lost someone and the grief is raw and loud, but a good number of them have already decided that the man who leapt into the storm is a hero. The old dog has come through it. The patrol is still out there somewhere in the dark beyond the light, and the clatter of the bones grows fainter, rolling away.
-
-## Facts Learned
-
-- Greyface came himself. The swarm is ridden by an elf on a throne of bones, Lae'ethorian in his own body and not the puppet.
-- The swarm is a floating crescent of bones twenty to twenty-five feet high, with a magical darkness at its heart and a cold, metallic penumbra around it. It can split in two, it holds what it catches, and it takes the dead and the senseless up into itself.
-- The power of Naelos does not frighten it, but it does destroy some of its bones.
-- Mags's guardians and the swarm's magic are opposed, and meeting head-on is volatile.
-- Spirit Guardians can shelter the souls of the newly dead from necromancy. Mags carries seven.
-- His necromancy, felt from inside, is cold and isolating and does lasting harm.
-- Daylight does not trouble him, and he can shield himself.
-- The Keep's patrol carries a faint reddish magical light and speaks a language Trevick does not know.
-- Fourteen villagers are dead, the Provost and Varen among them. Twenty survive, every child among them, and the dog.

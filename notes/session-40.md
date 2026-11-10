@@ -57,15 +57,3 @@ Fabian halts the column for a drink and a rest, which people take gratefully, an
 By now the convoy can hear the clattering too, faintly and on and off, and they want to know what it is. Fabian tells them it is the wind moving through the great empty spaces. Nobody believes him, so he tells them instead that there are all sorts of dangers down here and that is reason enough to get back on their feet, and they do.
 
 The thing from the village seems to be heading fast for Rell's flare. Mags, Rell and Caspian hold behind the convoy in a rough triangle with it, close enough to cut it off if it turns.
-
-## Facts Learned
-
-- Greyface's puppet is much less capable while he sleeps, and he must sleep unless he pays for magic to stay awake.
-- A puppet's reach is not measured in miles, though a lair can extend it; Detect Magic shows the puppet but not its master, and a dispel can reach the animating magic but not the link.
-- The villagers believe Greyface's own body is in the Ossuary.
-- When the Stonehunger dives is unknowable; five days is a middling guess.
-- Hawk's mind is a person's rather than an animal's, and something in it is held back.
-- Upward shafts that someone cut lie in the porous rock and caves the Provost is making for.
-- Something very large, smelling of old bones and hard-driven magic, came out of Dunton after the convoy. It is not the Stonehunger.
-- Caspian, and Theodore with him, know that magic from a long time ago.
-- The Keep's soldiers and priests walk fixed patrol routes across the plain, and would kill the villagers on sight. The Provost says, on Greyface's word, that they think of the villagers as parasites in the body of God, and that Greyface has passed himself off among them as one of their own.
