@@ -94,6 +94,22 @@ Mags's Daylight. The children shelter in **a crevice behind two big rocks** to t
 the villagers destroy all but two: one flees and gets away, and the commander is taken prisoner; [[kithri|Kithri]] is
 killed. See [[the-keep]] for what the patrol showed of itself.
 
+## The march (S2.43)
+The convoy heads roughly **north-east**, then north, toward the caves, about three hours off at the
+start, under low lights pointed at the ground. Half an hour at a time, some stretches right and some
+wrong; at the end of the session it is **about two hours** out. What the plain holds along the way:
+
+- **Cave shadows.** In the lee of a rock, shadows **twist and move of their own accord** and reach
+  hungrily for the light; their touch is cold. Five come at once; acid and fire destroy them.
+- **Cave spitters.** Large, gross things that lurk in **pools** and come out of the water. They smear
+  **a sticky, acidic goo** onto bare skin that **burrows in**, carrying **a grub-like parasite** that
+  has to be cut out; they bite; and **a poisonous sheen** on their skin splashes back on anyone who
+  strikes them.
+- **Things that take stragglers.** **Bohdan Tarek**, unnoticed, and **Finnan Highcroft**,
+  falling behind, were both **taken by something** nobody saw.
+- **The witch's garden.** The Keep's patrols see **a green oasis** from far away, but it is gone
+  whenever they get close. See [[the-witch]], who rides the plain on a summoned tiger.
+
 ## DM notes
 - **Who cut the wards, and what do they hold out?** They predate Dunton, and Greyface treated them as
   the safe line from the first day. Are they traces of the lost **order-magic** he says he has found

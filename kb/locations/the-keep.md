@@ -43,7 +43,8 @@ to get to this keep."** It is the first concrete destination the party has had s
   The villagers' flat position is that **you cannot go there** — you would be set upon by the plain's
   creatures the whole way and never arrive.
 - **A witch lives beyond it.** Dunton's townsfolk have told the party of a **witch beyond "the castle"**
-  — the Keep. Who she is, and whether she would help, the party does not know.
+  — the Keep. **S2.43:** she is real, an elf caster whose garden the Keep's patrols can never reach;
+  see [[the-witch]].
 - **Past it is a honeycomb of tunnels.** [[the-provost|The Provost]] has heard stories of **another
   intact area** beyond the Keep, and believes it might be possible to **pass under the plain rather
   than over it**. She knows the start of those paths and that **they lead up**.
@@ -60,8 +61,8 @@ knows of them, she has from [[the-high-priest|Greyface]]:
 - They **never leave their patrol routes**, so the hunters find them easy to avoid.
 - **S2.41:** The patrol gives off **a faint reddish magical glow**. Near where Hawk's firebomb fell,
   Trevick hears **an exchange of words in a language he does not speak** — not friendly, not
-  confrontational. **It is inferred they were talking to [[the-high-priest|Lae'ethorian]]**; nobody
-  saw it.
+  confrontational. **They were talking to [[the-high-priest|Lae'ethorian]]**, as their
+  commander confirmed in S2.43: he told them they could have whatever he left.
 - **S2.42:** **The same patrol**, seven strong this time, attacks the convoy. What the fight shows of
   them:
   - **They are undead**, the commander too. Mags's turning takes them, though they resist it strongly, and
@@ -72,6 +73,17 @@ knows of them, she has from [[the-high-priest|Greyface]]:
   - **They answer to a commander** and will not break off without his word. The party takes him alive:
     see [[the-patrol-commander]]. He speaks **an old variant of Draconic**.
   - **One got away**, fleeing Mags's turning.
+- **S2.43:** Questioned, the commander tells the party what they are:
+  - **The acolytes of the Devourer**, who hold the plain to be **the body of the God** and serve its
+    work of **destroying everything above**. They catch and **sacrifice** non-believers, and he claims
+    they are **limitless**.
+  - **The plains are constantly patrolled and watched.**
+  - Their **robes are a uniform** with a common insignia, **old and preserved by magic**. Their
+    **spellcasting foci are rings** on the three middle fingers of the left hand: three for a caster,
+    one for a mace-carrier.
+  - They regard [[the-high-priest|Lae'ethorian]] as **a high priest** of their faith.
+  - [[the-witch]] calls the Keep a place that takes prisoners and sacrifices anyone it finds down here,
+    and enjoys running rings round it.
 
 ## Why the party cares
 Two reasons, both raised in S2.39:

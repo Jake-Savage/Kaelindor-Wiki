@@ -16,7 +16,7 @@ relationships:
   - who: caspian-talon
     note: Recognises something in his blood, offers to teach him necromancy, and is refused the price — they part on even terms.
 first_session: S2.36
-last_session: S2.41
+last_session: S2.43
 tags: [stonehunger, grommars-path, arena, dunton, undead, priest, puppet, ossuary, elves, exile, laeethorian, necromancy]
 summary: Lae'ethorian — a relative of Archon Thaloriel and vanished commander of the Elvish armies, alive and in exile beneath the Mirrowen, who works through borrowed corpses as "Greyface", the High Priest of Dunton.
 ---
@@ -244,10 +244,23 @@ elf**, not the grey-faced puppet; it is **Lae'ethorian**, and they know it. What
 - **He shields himself magically**, though Trevick's arrow gets through.
 - **Daylight does not trouble him.** He resists Fabian's curse and Mags's attempt to hold him.
 - **He withdraws** when the fight turns, weighing what he came for against how far he had got.
-- **The Keep's patrol, it is inferred, spoke with him** during the night, near where Hawk's firebomb
+- **The Keep's patrol spoke with him** during the night, near where Hawk's firebomb
   fell, in a language Trevick does not know.
 - **Fourteen of the villagers he had kept for twelve years died in the attack**, [[the-provost|the
   Provost]] among them. **Roscoe's parents, Tom and Maddie Pruett, survived.**
+
+## As others see him (S2.43)
+- **To the Keep, a high priest of the Devourer.** [[the-patrol-commander|The patrol's commander]] calls
+  him that: one who came **some time ago** and has been behaving **very strangely**, keeping his
+  **sacrifices in readiness** for a long time rather than sacrificing them. When the patrol spoke to him
+  on the night of the swarm, he told them he would **take what he needed, and whatever was left they
+  could have**. This confirms that the patrol had talked with him in S2.41.
+- **To [[the-witch]], an ally of a sort.** She is very surprised the party knows his name, and her
+  feelings about him are **mixed at best**. **He has sent her word that he means to return to the
+  surface**, and she rides to [[the-ossuary|the Ossuary]] to find out what is happening. In S2.39 he
+  had declined to send any message to the surface at all.
+- **Why now?** The party guesses that he must leave because they took his supply, and Rell that what
+  he "needed" was enough life to make the journey — their speculation only.
 
 ## DM notes / secrets
 - **What he is willing to do.** [[mags|Mags]]'s Insight (21): **no aggressive intent and no interest in

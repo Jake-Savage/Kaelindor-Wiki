@@ -108,16 +108,15 @@ Banners tend to be **monsters**; robes and cloaks tend to be **trees and nature*
 ## The roll (S2.41)
 The DM's list of Dunton's thirty-four after [[the-bone-swarm|the bone swarm]], with **twenty survivors
 and the dog**, and **fourteen dead**. Spellings follow the list. **Since S2.42: nineteen and the dog** —
-Kithri Munn died fighting the patrol.
+Kithri Munn died fighting the patrol. **Since S2.43: seventeen and the dog** — Bohdan Tarek and Finnan
+Highcroft were taken on the march.
 
 **Alive**
 - **Tom Pruett** (human, 51) and **Maddie Pruett** (human, 54) — partners; parents of
   [[roscoe|Roscoe Pruett]], whose body [[the-high-priest|Lae'ethorian]] wears.
-- **Bohdan Tarek** (human, 64).
 - **Rufus Tegg** (human, 30) and **May Tegg** (human, 29) — partners; parents of Robin.
 - **Sarah Farlin** (human, 76) — mother of Bertie Kebb.
 - **Olo Halfkettle** (halfling, 18) — partner of Brindle Tarnley.
-- **Finnan Highcroft** (halfling, 38) — father of Brindle Tarnley.
 - **Del Zoric** (human, 37) — partner of Yonas Zoric.
 - **Marianne Swithun** (human, 22) — mother of Caelum.
 - **Apple Bowditch** (halfling, 28) — mother of Eli and Elsie.
@@ -147,6 +146,12 @@ Kithri Munn died fighting the patrol.
 - **Lidda Tryn** (halfling, 47) — mother of Rosie, who survived.
 - **Saba Hilltopple** (halfling, 34).
 
+**Taken on the march (S2.43)**
+- **Bohdan Tarek** (human, 64) — taken from the column unnoticed, by something unseen; Max the dog's favourite
+  person.
+- **Finnan Highcroft** (halfling, 38) — father of Brindle Tarnley; fell behind and was taken by
+  something unseen.
+
 Six of the surviving children lost a parent, and Daisy Thorngage lost both.
 
 ## Events here
@@ -170,6 +175,11 @@ Six of the surviving children lost a parent, and Daisy Thorngage lost both.
 - **S2.42:** Minutes later the Keep's patrol comes at them. The villagers fight beside the party —
   Maddie and Tom Pruett, Finnan Highcroft, Del Zoric, Olo Halfkettle, Bohdan Tarek, eleven-year-old
   Rosie Tryn and Max the dog all have a go at its casters — and **only [[kithri|Kithri]] dies**.
+- **S2.43:** On the march toward the caves the villagers fight off **cave shadows** and **cave
+  spitters** beside the party, and nobody dies fighting; but **Bohdan Tarek** and **Finnan
+  Highcroft** are taken by something unseen. Max attaches himself to [[trevick|Trevick]]. By the end of the session
+  the survivors are laughing over **[[caspian-talon|Caspian]]'s book**, which Trevick had given one of
+  them.
 
 ## How Greyface reaches them (S2.39)
 [[the-ossuary|The Ossuary]] is close enough to walk in **about fifteen minutes**. When he wants

@@ -5,12 +5,12 @@ title: Evacuate Dunton
 status: active
 priority: main
 opened_session: S2.39
-last_updated_session: S2.42
-involves_characters: [mags, caspian-talon, fabian-perennius, rell-aetris, trevick, the-provost, the-high-priest, kithri, hawk, the-patrol-commander]
+last_updated_session: S2.43
+involves_characters: [mags, caspian-talon, fabian-perennius, rell-aetris, trevick, the-provost, the-high-priest, kithri, hawk, the-patrol-commander, the-witch]
 involves_locations: [dunton, the-ossuary, the-plain, the-keep]
 factions: []
 tags: [stonehunger, dunton, rescue, evacuation, clock, greyface]
-summary: The party led Dunton's thirty-four villagers out onto the plain without Greyface's leave; he came after them in his bone swarm, and twenty survive — without the Provost, who knew the way to the tunnels; a patrol came next, and nineteen survive it, with its commander as their prisoner.
+summary: The party led Dunton's thirty-four villagers out onto the plain without Greyface's leave; he came after them in his bone swarm, and twenty survive — without the Provost, who knew the way to the tunnels; a patrol came next, and nineteen survive it; on the slow march toward the caves two more are lost, leaving seventeen and the dog about two hours out.
 ---
 
 ## Hook
@@ -26,6 +26,9 @@ perhaps** — and that if they want out they should go now. The same window is t
 The next surfacing, on the evidence, is twelve or sixteen years away.
 
 ## Who is being evacuated
+**Since S2.43: seventeen people and the dog** — Bohdan Tarek and Finnan Highcroft were taken on
+the march by something unseen.
+
 **Since S2.42: nineteen people and the dog** — [[kithri|Kithri Munn]] died fighting the patrol.
 
 **After S2.41: twenty people and the dog.** Seven are children aged one to eleven, six of them missing
@@ -93,6 +96,15 @@ everything**: let the villagers leave, give us an easier way out, and **you coul
 In S2.40 they dropped that plan and left without asking.
 
 ## Progress log
+- S2.43: **The march.** Rell questions [[the-patrol-commander|the commander]] — the Keep's acolytes
+  are limitless, the plains are watched, and there is no way to the surface he knows of — and kills
+  him. The party takes the patrol's robes and ring foci. Then the convoy walks, half an hour at a time,
+  under low lights: Mags, Trevick and Caspian take turns finding the way, with mixed luck. **Cave
+  shadows** attack and are destroyed with the villagers fighting; **Bohdan Tarek** and **Finnan
+  Highcroft** are taken from the column by something unseen; **cave spitters** at a pool burrow a parasite
+  into Mags and drop Mothrigg and Rell before they die. Rell meets **[[the-witch]]**, who says the
+  Stonehunger is about to go down and she knows of no ready way out. **Seventeen villagers survive**,
+  about **two hours from the caves**, and by the end they are laughing over Caspian's book.
 - S2.42: **The patrol.** Ten minutes after the swarm, **the Keep's patrol**, seven strong, comes at the convoy under
   Mags's Daylight. Two **Fireballs** — Caspian's into them, then their commander's into the party —
   drop Mags, Fabian and [[kithri|Kithri]]; Kithri is killed where she lies. The party gets back up, and
@@ -130,9 +142,12 @@ In S2.40 they dropped that plan and left without asking.
   the routes; the party splits five ways on run, negotiate or leave, and agrees to petition Greyface.
 
 ## Leads / next steps
-- **Question [[the-patrol-commander|the prisoner]].** The party wants a way out, a secret exit if there
-  is one, and to know whether more will come. Rell will ask telepathically; Fabian, crowned, relays.
-- **Don't linger.** One of the patrol got away, and Rell argues against resting here.
+- **Keep going.** The caves are about two hours off. One patrolman got away, and the commander says
+  the plains are constantly watched.
+- **Keep the column together.** Two villagers were lost from the back of it without anyone seeing.
+- **Mind the pools** and the shadows in the lee of rocks.
+- **[[the-witch|The witch]].** Rell has a telepathic link to her. She says the Stonehunger is about to
+  go down.
 - **Find the tunnels without the Provost.** She was making for **porous rock and caves** like those at
   [[the-ossuary|the Ossuary]]'s entrance, with **cut shafts leading upward**, several hours' walk on.
   Trevick found the way north-east **choked with rocks and ruins**.
@@ -147,10 +162,12 @@ In S2.40 they dropped that plan and left without asking.
 - **The dead.** Their bodies were taken into the swarm. What becomes of them, and of the souls Mags did
   not reach?
 - **Was Fabian being scried?** He felt suddenly watched; Mags thinks so; nobody knows.
+- **What took Bohdan Tarek and Finnan Highcroft?**
+- **Will the witch tell Lae'ethorian** where the convoy is?
 - **The patrolman who got away.** Will he report the convoy to the Keep, and what comes after it?
 - **The patrol.** It was near Hawk's bomb, speaking a language Trevick does not know — **to
-  Lae'ethorian, it is inferred**. What passed between them, and is the Keep now looking for the
-  convoy?
+  Lae'ethorian**, who told them they could have whatever he left (S2.43). Is the Keep now looking for
+  the convoy?
 - **The lie.** The village left believing the party had Greyface's word. The survivors have now seen
   what he does to those who leave. How do they see the party?
 - **Will the shafts reach the surface?** Nobody ever knew that they did.

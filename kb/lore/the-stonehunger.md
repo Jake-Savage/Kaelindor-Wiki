@@ -226,6 +226,19 @@ the body of God**. It is the first word of what the Keep's people believe, and i
 [[the-gleaners|gleaners']] "God" and the gate's "eyes of God". Does the Keep hold the Stonehunger to be
 a divine body?
 
+## "The Devourer" (S2.43)
+[[the-keep|The Keep]]'s patrols call themselves **the acolytes of the Devourer**, and the party's
+prisoner, [[the-patrol-commander|their commander]], spoke of it plainly:
+
+- The plain is **the body of the God**. Non-believers who **pollute** it are caught and **sacrificed**.
+- The acolytes serve the Devourer *"in its holy work of destroying everything above."*
+- **The Devourer devours everything**, below or above; the idea of escaping it to the surface means
+  nothing to him.
+- [[the-high-priest|Lae'ethorian]] is, in their eyes, **a high priest of the Devourer**.
+
+[[the-witch]], who lives on the plain, told [[rell-aetris|Rell]] that she believes the creature is
+**about to return to the depths**, and knows of **no ready way out**.
+
 ## Open questions
 - **What is it, truly?** The gleaners' "God" is corroborated as a real, vast, devouring thing the
   party is inside — but whether it is literally a deity, a living titan/beast, an ancient construct,

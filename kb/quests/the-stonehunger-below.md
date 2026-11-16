@@ -5,8 +5,8 @@ title: The Stonehunger Below
 status: active
 priority: main
 opened_session: S2.31
-last_updated_session: S2.42
-involves_characters: [caspian-talon, fabian-perennius, mags, trevick, rell-aetris, theodore, turley, glorta, tuffin, the-custodian, the-high-priest, the-undead-minotaur, the-arena-elemental, varen, the-provost, kithri, roscoe]
+last_updated_session: S2.43
+involves_characters: [caspian-talon, fabian-perennius, mags, trevick, rell-aetris, theodore, turley, glorta, tuffin, the-custodian, the-high-priest, the-undead-minotaur, the-arena-elemental, varen, the-provost, kithri, roscoe, the-patrol-commander, the-witch]
 involves_locations: [kethrans-fold, the-mirrowen, the-stone-river, the-golden-courtyard, grommars-path, the-foul-pool, the-ancient-forge, the-buried-arena, dunton, ketters-rest, the-ossuary, the-plain, the-keep, black-barrow]
 factions: [the-gleaners]
 tags: [stonehunger, gleaners, kethrans-fold, mirrowen, devourer, underground]
@@ -251,8 +251,18 @@ crushing whatever has no "place."
   of death, dark-flamed crossbows, Lightning Bolt, Fireball, Slow. They answer to **a commander**, whom
   the party takes alive; he speaks **an old Draconic**. One patrolman gets away. See
   [[the-patrol-commander]].
+- S2.43: **The Devourer.** The commander tells Rell his company are **the acolytes of the Devourer**,
+  serving its work of destroying everything above, and that Lae'ethorian is **a high priest** of their
+  faith who promised them his leftovers; Rell kills him. On the march Rell meets **[[the-witch]]**, an
+  elf who lives on the plain, whose garden the Keep cannot reach, and who calls Lae'ethorian an ally of
+  a sort. She says he has told her he means to **return to the surface**, and that the Stonehunger is
+  **about to return to the depths**.
 
 ## Open threads
+- **Who is the witch**, and what is she to Lae'ethorian? An elf living on the plain, an "ally of a
+  sort" with mixed feelings, unnamed so far. See [[the-witch]].
+- **Is Lae'ethorian leaving?** He has told the witch he means to return to the surface, having told
+  the party in S2.39 he would send no word there.
 - **What is the Stonehunger, truly?** Corroborated as a real, vast, moving devourer the party is
   **inside** — but whether it is a deity, a living titan/beast, an ancient construct, or something
   else is **not established**. The gleaners' account is theology, not settled cosmology. S2.33 adds

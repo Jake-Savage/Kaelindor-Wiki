@@ -4,14 +4,14 @@ type: character
 title: The Patrol Commander
 category: npc
 species: Undead
-role: Commander of a patrol on the plain; the party's prisoner
-status: captive
+role: Commander of a patrol on the plain; taken prisoner, questioned and killed
+status: dead
 home: null
 affiliations: []
 first_session: S2.42
-last_session: S2.42
+last_session: S2.43
 tags: [stonehunger, plain, keep, patrol, undead, draconic, prisoner, caster]
-summary: The undead commander of the Keep's patrol that attacked the convoy on the plain in S2.42 — a caster who threw Fireball and Slow, laughed helplessly under Fabian's magic, and was taken alive, bound and gagged, by Rell; he speaks an old Draconic.
+summary: The undead commander of the Keep's patrol that attacked the convoy on the plain in S2.42 — a caster who threw Fireball and Slow, laughed helplessly under Fabian's magic, and was taken alive by Rell, who questioned him telepathically in S2.43 and then killed him.
 ---
 
 ## Overview
@@ -40,6 +40,31 @@ shape nor speak a spell.
   before he has fully recovered.
 - The party means to **question him briefly** and then go on. Rell will put the questions
   **telepathically**, so the man need not speak; Fabian will relay through Rell.
+
+## Questioned (S2.43)
+Rell puts the party's questions to him mind to mind. He answers readily enough — **angry and
+bombastic**, but not reluctant.
+
+- **He cannot conceive of the surface** as somewhere to go; as far as he knows there is **no way
+  there**.
+- **His company are the acolytes of the Devourer**, serving it *"in its holy work of destroying
+  everything above."* They are **limitless**, he says, hundreds and thousands, and the party will be
+  **hunted**.
+- **The plains are constantly patrolled and watched**; non-believers who pollute **the body of the
+  God** are caught and **sacrificed**. Leaving is meaningless to him: the Devourer devours everything,
+  here or above.
+- **The witch's garden** is to him a hideous pollution that vanishes whenever his people close in. See
+  [[the-witch]].
+- **[[the-high-priest|Lae'ethorian]]** is **a high priest of the Devourer** who came some time ago and
+  has oddly **kept his sacrifices in readiness**. He told the patrol tonight he would take what he
+  needed and **they could have whatever was left**.
+- **He has been down here a long time.** He is plainly **undead** — humanoid, shrunken, his skin
+  papery and ancient over the bones — and what species he was cannot be told.
+
+Judging there is nothing more to be had, **Rell kills him**. Rell then studies his face, to be able
+to **disguise himself as him** later, and mashes the faces of all six bodies so that nobody can tell
+which patrolman is missing. He wore **three rings** on the middle fingers of his left hand as
+spellcasting foci, which Rell took, and **robes** of an old uniform preserved by magic.
 
 ## DM notes / secrets
 - **He is undead**, like the rest of his patrol (DM, after S2.42). He was not turned in the fight.

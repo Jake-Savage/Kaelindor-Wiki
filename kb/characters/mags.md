@@ -21,7 +21,7 @@ relationships:
   - who: caspian-talon
     note: She tolerates his impiety and senses his evasiveness; they grudgingly come to get along.
 first_session: S1.05
-last_session: S2.42
+last_session: S2.43
 tags: [cleric, naelos, gnome, underdark, diplomat, nameweave, petrified]
 summary: A centuries-old gnome cleric of Naelos and the party's blunt, pragmatic moral anchor, who threads diplomacy between Greymere and the Eldryn and is briefly petrified into wood.
 ---
@@ -177,6 +177,10 @@ She deliberately times the party's diplomacy around **Nameweave** (a holy day of
   Caspian's potion and Fabian's Healing Word. Raises Naelos's symbol to heal Caspian, Fabian and Rell,
   **turns** two patrolmen and burns them as they go (one gets away), and brings Caspian back when he falls. Knows better
   than to throw necrotic magic at them.
+- S2.43: Takes a patrolman's robe. Leads the convoy's navigation for most of the march and keeps it
+  moving and cheered. Shares out Fabian's fruit cake among the wounded. Keeps the villagers clear of the
+  pool; a cave spitter **burrows a parasite into her**, and she cuts it out with Sarah Farlin's help
+  and throws the grub in the water. Keeps Mothrigg and then Rell alive.
 
 ## DM notes / secrets
 - Her undead-tinged bone shard (a Naelos relic of her own bones) keys the infernal "half in this world and half of another" doors in the Shifting Library (S2.08) — a detail worth remembering for her nature/longevity.

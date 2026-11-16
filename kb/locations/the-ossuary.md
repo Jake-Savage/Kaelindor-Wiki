@@ -71,6 +71,8 @@ actually sits and talks.
   but not before that."* ([[kithri|Kithri]].) This is the arrangement that supplies Greyface's
   **surrogates** — see [[roscoe|Roscoe]] and [[undead-puppetry]].
 - Nobody from Dunton goes in otherwise, and **there are no pilgrims to the place**.
+- **S2.43:** [[the-witch]] rides toward it across the plain, going to [[the-high-priest|Lae'ethorian]]
+  to find out why he has told her he means to return to the surface.
 
 ## DM notes
 - **It is a sanctuary in the literal sense.** Greyface's advice to the party: *"if you find holy places
