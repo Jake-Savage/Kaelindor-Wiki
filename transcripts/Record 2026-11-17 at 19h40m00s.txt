@@ -1,0 +1,2077 @@
+[SPEAKER_05]: Somebody killed Colin, and now it's the dog.
+[SPEAKER_05]: Somebody killed Colin, and now it's the dog.
+[SPEAKER_00]: Somebody killed Colin, and now it's the dog.
+[SPEAKER_00]: Somebody killed Colin, and now it's the dog.
+[SPEAKER_00]: Somebody killed Colin, and now it's the dog.
+[SPEAKER_00]: Somebody killed Colin, and now it's the dog.
+[SPEAKER_06]: Somebody killed Colin, and now it's the dog.
+[SPEAKER_06]: Somebody killed Colin, and now it's the dog.
+[SPEAKER_00]: So there are some roll tables.
+[SPEAKER_00]: If you roll a one on the bad roll table, you just lose people without any further.
+[SPEAKER_00]: And that happened a couple of times.
+[SPEAKER_00]: So yeah, but a couple of people simply looked around and were like, wait, where is this person?
+[SPEAKER_00]: And they had simply disappeared.
+[SPEAKER_02]: Before you launch in, Jess, someone has logged in as me on Forge and is trying to steal Fabian.
+[SPEAKER_00]: You aren't logged in on Forge?
+[SPEAKER_02]: I am not logged in on Forge.
+[SPEAKER_00]: It says you logged in.
+[SPEAKER_02]: But either Niamh or Jake is logged in.
+[SPEAKER_02]: It's me!
+[SPEAKER_02]: It's me!
+[SPEAKER_02]: I haven't logged in yet, it's not me.
+[SPEAKER_06]: I'm still in the act!
+[SPEAKER_06]: And now I'm stealing Fabian!
+[SPEAKER_06]: Two seconds!
+[SPEAKER_06]: That's quite funny.
+[SPEAKER_02]: First you steal my dog, now you steal my dog.
+[SPEAKER_00]: The problem with not having passwords, I suppose.
+[SPEAKER_05]: Yeah!
+[SPEAKER_05]: Oh, that's so funny.
+[SPEAKER_00]: So you made it about halfway last week towards the caves.
+[SPEAKER_00]: You've walked for a lot longer than that would suggest, but unfortunately some of the walking was not, the dice were not in your favour last week, and quite a lot of walking was in the wrong direction.
+[SPEAKER_00]: There were a couple of combats which were executed pretty smoothly, all in all, in that you didn't lose any more, you nearly lost more people, but you didn't actually lose more people in the combat, so that was good.
+[SPEAKER_01]: We had some great fighters in the party.
+[SPEAKER_01]: It was fun.
+[SPEAKER_00]: Yeah, it's fair to say the civilians have been pulling their weight in the combat.
+[SPEAKER_00]: You're about an hour and a half away from the caves now, if you continue to go in the right direction.
+[SPEAKER_00]: That's pretty good.
+[SPEAKER_04]: An hour and a half.
+[SPEAKER_00]: Really not.
+[SPEAKER_01]: It's really not.
+[SPEAKER_01]: We should have been there.
+[SPEAKER_04]: Yeah, I think we've done four different half hour travel segments and have only moved half an hour.
+[SPEAKER_00]: No, no, you've done five of which three were in the right direction.
+[SPEAKER_00]: You've been walking for two and a half hours and successfully moved half an hour closer to our destination.
+[SPEAKER_00]: You've moved three hours away.
+[SPEAKER_00]: You've moved an hour and a half closer to your destination and got lost for an hour.
+[SPEAKER_00]: Oh, so not too bad.
+[SPEAKER_00]: I mean, the check was not all that hard.
+[SPEAKER_00]: It's just, you know, the dice were really not good.
+[SPEAKER_04]: We did not have a good time last session.
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: So just to recap the travel rules.
+[SPEAKER_00]: So in order to try to find your way and locate these caves and someone makes a survival role, that person can be assisted by someone else who has proficiency or they can be, you know, if you want to try and do something else, which enhances their
+[SPEAKER_00]: skills for the duration, so not something short like guidance, but something long like enhanceability would be fine.
+[SPEAKER_00]: You can do that.
+[SPEAKER_00]: It's relatively fatiguing being the people who are doing the directing, so you can only be a participant in that role twice before you would have to start rolling for concepts against exhaustion.
+[SPEAKER_00]: Other people in the party can try to take actions to reduce the DC of that role a little bit.
+[SPEAKER_00]: or you can save your actions rather than reducing the DC to try to help mitigate any problems which might come up.
+[SPEAKER_00]: There are different roll tables depending on how well you roll on your survival check, which then determine what happens.
+[SPEAKER_00]: Some of them are a bit more combat heavy, some of them are more other events heavy.
+[SPEAKER_00]: Any questions Alec about how this works?
+[SPEAKER_00]: Because you were not here last week.
+[SPEAKER_02]: I'll pick up anything that is not clear as we go, I'm sure.
+[SPEAKER_01]: Are you proficient in survival, Alec?
+[SPEAKER_02]: I expect you've been proficient in survival.
+[SPEAKER_01]: I imagine not, but we've lost Mags, so I was kind of hoping you were.
+[SPEAKER_02]: No, jackable trades, but not proficient.
+[SPEAKER_00]: Jackable trades doesn't count for proficiency in this sense, so you can do the health check.
+[SPEAKER_00]: Excellent.
+[SPEAKER_00]: Cool.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: So, were there any highlights to our trip last week other than people mysteriously disappearing?
+[SPEAKER_02]: Yeah, attacked by some giant frog people.
+[SPEAKER_02]: Oh, fun.
+[SPEAKER_01]: A woman riding a big tiger.
+[SPEAKER_05]: Oh.
+[SPEAKER_04]: Yes, yes, we met the witch of the plains who was, yes, another elf who was riding a big spectral tiger who seemed to be loosely associated with, I read the notes, Ellie.
+[SPEAKER_04]: Yeah, sure.
+[SPEAKER_00]: But yes, you met a friend who was on her way to go and speak to who was mildly curious about what you guys were up to.
+[SPEAKER_00]: There are a couple of combats one against the frog things and one against another thing.
+[SPEAKER_04]: Shadows.
+[SPEAKER_00]: Shadows.
+[SPEAKER_00]: Oh, yes.
+[SPEAKER_00]: One against Cave Shadow.
+[SPEAKER_00]: Both of which went off relatively well.
+[SPEAKER_00]: Yeah, that's basically what happened last week.
+[SPEAKER_00]: So we've just, narratively speaking, we have just completed the combat against the Brock people.
+[SPEAKER_00]: Mags was pretty badly hurt in that and nearly got infected by a terrible parasite, but she managed to deal with that situation.
+[SPEAKER_00]: But it makes sense that she's being a little bit quieter, having gone through that.
+[SPEAKER_04]: I think the... Was the Lady of the Plains the witch?
+[SPEAKER_04]: Was she not post-frog people?
+[SPEAKER_04]: Because I see we have a couple of survival roles and then another detour after frog combat.
+[SPEAKER_00]: I don't think so.
+[SPEAKER_01]: Was she between the combats?
+[SPEAKER_00]: She was between the combats, but you're right.
+[SPEAKER_00]: What were we doing with those?
+[SPEAKER_00]: Did the notes give us any clues?
+[SPEAKER_00]: I must admit, I have not, I've been away all weekend.
+[SPEAKER_00]: I just got back today.
+[SPEAKER_00]: I have not actually looked at this until right now.
+[SPEAKER_00]: So I am refreshing myself in real time.
+[SPEAKER_01]: Yeah, because there was the cave spitter and then.
+[SPEAKER_00]: Oh no, we made a good, the last one,
+[SPEAKER_00]: because I've crossed out two hours and written one and a half hours.
+[SPEAKER_00]: So that last one must have just been a competent movement in which there was not combat.
+[SPEAKER_00]: Oh, I remember.
+[SPEAKER_04]: Those villagers were reading aloud Caspian's book and all having a good time.
+[SPEAKER_00]: Yes, exactly.
+[SPEAKER_00]: Caspian's book raised morale.
+[SPEAKER_00]: That's what we had last time.
+[SPEAKER_00]: And you got half an hour close.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: If we obviously at this point, we may start duplicating.
+[SPEAKER_00]: We're not going to do the same combat over again.
+[SPEAKER_00]: So if we roll the same things, we will roll again.
+[SPEAKER_00]: So you are making good progress.
+[SPEAKER_00]: The cave frogs, what are they called?
+[SPEAKER_00]: Cave spitters.
+[SPEAKER_00]: The cave spitters combat is behind you.
+[SPEAKER_00]: You're making good progress.
+[SPEAKER_00]: The villagers are amusing themselves by reading Caspian research.
+[SPEAKER_00]: Yeah, who wants to take over navigation at this point?
+[SPEAKER_00]: I don't know who did navigation.
+[SPEAKER_00]: Who assisted with the navigation last time?
+[SPEAKER_00]: So we won't worry about that.
+[SPEAKER_00]: I don't know who it was.
+[SPEAKER_04]: Mags assisted, Trevik made the role according to the check with advantage.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: I'm hoping for better time this time, but I will do it.
+[SPEAKER_01]: Fabs, do you want to help me?
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Thank you.
+[SPEAKER_01]: Much appreciated.
+[SPEAKER_02]: I'm insulted, you didn't ask me before.
+[SPEAKER_01]: You seem very distracted this.
+[SPEAKER_02]: Expert navigator.
+[SPEAKER_01]: Oh, thank God.
+[SPEAKER_02]: Sorry, I don't need a role for help, do I?
+[SPEAKER_00]: No, you distract yourself.
+[SPEAKER_02]: I'll find a, sorry.
+[SPEAKER_00]: We should do this after the other roles have happened really, but never mind, that's fine.
+[SPEAKER_00]: So, Travick and Rell, is there anything you guys would like to be doing?
+[SPEAKER_04]: Yes, I will continue to scare it.
+[SPEAKER_04]: Let me throw that out.
+Nope.
+[SPEAKER_06]: Whatever direction Rel was looking at, I will look at the opposite direction.
+[SPEAKER_04]: Well, you see, I was looking at my feet.
+[SPEAKER_00]: You both keep, uh, you both keep a watch out.
+[SPEAKER_00]: Uh, and you definitely head in the right direction, which is good.
+[SPEAKER_00]: Uh, let's see if anything, if you encounter anything as you go in that direction, where's my wrong people.
+[SPEAKER_00]: Uh, okay.
+[SPEAKER_00]: Uh, roll a D10 someone please.
+[SPEAKER_01]: Alec, it's your turn.
+[SPEAKER_01]: He did none.
+[SPEAKER_02]: Okay.
+[SPEAKER_04]: It's on the good table, so it might be something nice.
+[SPEAKER_02]: Ooh, it's average.
+[SPEAKER_02]: Oh, I rolled it as max.
+[SPEAKER_02]: Oh well.
+[SPEAKER_00]: What is it?
+[SPEAKER_00]: Sorry, I'm looking at the roll table.
+[SPEAKER_06]: There was a five.
+[SPEAKER_06]: It's a five.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: All right, so we're rolling on the second, there's four gradated tables, we're rolling on the second table here.
+[SPEAKER_00]: With a five, one of the villages stumbles and falls, and they have injured themselves.
+[SPEAKER_00]: Not badly enough that they're in any danger, but badly enough that they're not going to be able to walk unaided from this point, and it's going to slow you down.
+[SPEAKER_06]: Name the villager, Jeff.
+[SPEAKER_02]: Yeah, we've all got names.
+[SPEAKER_00]: We'll roll for who this is going to be then.
+[SPEAKER_00]: So if someone would like to roll, how many have we got left?
+[SPEAKER_00]: 12.
+[SPEAKER_00]: Someone would like to roll a d12.
+[SPEAKER_00]: Oh, no.
+[SPEAKER_00]: Well, some of these people are dead.
+[SPEAKER_00]: Hang on.
+[SPEAKER_01]: Well, Max ruled a seven, so.
+[SPEAKER_00]: So there's Ollo Half Kettle.
+[SPEAKER_00]: She has.
+[SPEAKER_04]: Oh, a berserker.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Oh, no.
+[SPEAKER_04]: It's fine.
+[SPEAKER_00]: She has injured her ankle.
+[SPEAKER_00]: Unless you are able to give her any assistance.
+[SPEAKER_02]: Although half kettle.
+[SPEAKER_00]: It is going to slow you down.
+[SPEAKER_00]: Yes.
+[SPEAKER_04]: Yeah, she's a halfling woman.
+[SPEAKER_04]: Teenager 18.
+[SPEAKER_04]: I think she was.
+[SPEAKER_01]: You probably learned some basic first aid in school.
+[SPEAKER_01]: You can help her, right?
+[SPEAKER_02]: Do we have a short rest at any point?
+[SPEAKER_00]: We have not had a short rest.
+[SPEAKER_01]: No, I would love a short rest, but no.
+[SPEAKER_02]: Jess, would healing word make this better?
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: But remember how short you are on resources, but yes, Magical Healing would do the job.
+[SPEAKER_01]: I like wasn't here last week, so maybe he is not as short as we are.
+[SPEAKER_02]: I'm pretty short.
+[SPEAKER_00]: But yes, Magical Healing would certainly do the job here.
+[SPEAKER_02]: Will Healing Potion do the job?
+[SPEAKER_01]: A bandage around her ankle and splint it.
+[SPEAKER_01]: Do you have the skill set to do that?
+[SPEAKER_00]: I have some skills.
+[SPEAKER_00]: It would have to be a very good medicine check, but a medicine check might be enough.
+[SPEAKER_02]: I mean, that's a good idea.
+[SPEAKER_02]: And I have a jack of all trades.
+[SPEAKER_02]: I feel like someone might be better than that.
+[SPEAKER_04]: What about a survival check?
+[SPEAKER_00]: Would have to be a medicine check.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: And then you won't be the plus one.
+[SPEAKER_00]: You could try a survival check to like rig up a way to carry her.
+[SPEAKER_04]: I was thinking like a crutch or something.
+[SPEAKER_04]: We find a good stick so she can hobble a little faster.
+[SPEAKER_01]: I like trying medicine is hilariously plus three.
+[SPEAKER_01]: Let's go.
+[SPEAKER_01]: Okay.
+[SPEAKER_02]: But I don't feel fulfilled about it.
+[SPEAKER_02]: How good a medicine talk are we talking here, Jess?
+[SPEAKER_00]: I mean, pretty good because she can't walk at the moment and medicine check is really for kind of stabilizing.
+[SPEAKER_00]: So if you want to get her into a position where she's not slowing you down, it's going to have to be an extremely good position.
+[SPEAKER_02]: I'll give her a, you said a potion would work.
+[SPEAKER_00]: Potion would work.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: You're right, Kasperian.
+[SPEAKER_02]: Sorry, it's me.
+[SPEAKER_02]: I learned from the best physicians in the world, Bard's College.
+[SPEAKER_02]: And they taught me how to distill all of that medical goodness into these little vials of wonder.
+[SPEAKER_02]: Here, drink up.
+[SPEAKER_02]: I kind of wish I did it with water now and just see if we could like snake oil this.
+[SPEAKER_02]: You can actually have a potion of healing.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: Well, that's the same.
+[SPEAKER_00]: That is very effective and gets her back on her feet.
+[SPEAKER_00]: It's probably still, you know, she's sort of still testing it a little bit gingerly, but even with your terrible healing potion roll, still good enough.
+[SPEAKER_00]: Still good enough in this instance to get her up and moving again.
+[SPEAKER_00]: And yeah, you're going in the right direction.
+[SPEAKER_00]: You've not been slowed.
+[SPEAKER_00]: You are half an hour close to your
+[SPEAKER_02]: Like in this case, not being slowed is worth a small resource.
+[SPEAKER_02]: Cool, only an hour left.
+[SPEAKER_02]: Can we see them?
+[SPEAKER_00]: Well, you can see the wall of the cave, the big wall of the cave looming ahead of you, but no, you can't see at this point.
+[SPEAKER_02]: The end's in sight, the wall is coming up.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: So it's going to be two more, assuming you go in the right direction, two more rolls to get there.
+[SPEAKER_02]: Surely it's easier now we can see the wall.
+[SPEAKER_00]: You're trying to, I mean, you know, we've known when the wall is to begin with, you're trying to find the right like cave entrance to the wall.
+[SPEAKER_00]: Who's going to make the next rule?
+[SPEAKER_01]: Previck, I believe in you.
+[SPEAKER_06]: Okay.
+[SPEAKER_06]: Sound, sound.
+[SPEAKER_01]: Anyone assisting Previck or no?
+[SPEAKER_06]: Yeah.
+[SPEAKER_01]: I'll assist traffic.
+[SPEAKER_01]: Can I assist traffic if I've just done a...
+[SPEAKER_01]: If you've got proficiency?
+[SPEAKER_01]: Yeah, yeah, I've got proficiency.
+[SPEAKER_01]: Yeah, you can.
+[SPEAKER_00]: So you can't do more than two in a row.
+[SPEAKER_00]: So if you do this one, you can't do the next one.
+[SPEAKER_00]: So you should be rolling with advantage.
+[SPEAKER_06]: There we go.
+[SPEAKER_00]: Hooray!
+[SPEAKER_00]: Okay, Rell's still keeping a lookout.
+[SPEAKER_00]: A keen lookout.
+[SPEAKER_00]: Are you doing anything?
+[SPEAKER_00]: Compared to last time, yeah.
+[SPEAKER_02]: And I do a encouraging people to look carefully where they're going.
+[SPEAKER_02]: You don't want to fall over like all over here.
+[SPEAKER_05]: Which I reckon is
+[SPEAKER_02]: Persuasion.
+[SPEAKER_00]: I'll take persuasion.
+[SPEAKER_00]: And people are tired and quite, you know, tricky at this point, so keeping them all up is definitely a help.
+[SPEAKER_00]: OK, brilliant.
+[SPEAKER_00]: Nice.
+[SPEAKER_00]: All right, this time we are rolling on the ideal table, which has relatively few bad things that might happen.
+[SPEAKER_00]: If someone would like to roll a d10, please tell me what you've rolled.
+[SPEAKER_05]: Better do this.
+[SPEAKER_04]: Oh, 10.
+[SPEAKER_04]: Hey, okay.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: You will counter it again.
+[SPEAKER_00]: She is lovely.
+[SPEAKER_00]: He is on her way back in the other direction this time.
+[SPEAKER_00]: And again, you probably, she's making zero, as she was last time, making no real attempt to kind of conceal her passage.
+[SPEAKER_00]: But nonetheless, she probably becomes aware of you before you become aware of her.
+[SPEAKER_00]: And she, she this time pulls up without you having to decide whether to contact her or anything.
+[SPEAKER_00]: She is in, she freaks out the villages.
+[SPEAKER_00]: Yeah, they are.
+[SPEAKER_00]: They've never seen anything like this before, even before they came into the stonehunger, and they are extremely scared of the tiger.
+[SPEAKER_00]: reasonably scared of her as well.
+[SPEAKER_00]: She takes zero notice of that.
+[SPEAKER_00]: The villagers sort of like scrambling out the way and you know, some of the kids are crying and so she completely ignores them.
+[SPEAKER_00]: She pats the tiger up closer to the party and says,
+[SPEAKER_00]: I wondered if you might still be out here.
+[SPEAKER_00]: I spoke with Noetherian.
+[SPEAKER_00]: He, well, he is leaving.
+[SPEAKER_00]: Tell me, should you also escape?
+[SPEAKER_00]: Are you intending to betray him, reveal his location?
+[SPEAKER_00]: He isn't as concerned about that as he should be.
+[SPEAKER_03]: I owe little allegiance to those who wage war against his people, but he is wanted for many terrible things.
+[SPEAKER_03]: It perhaps would be unwise not to alert the appropriate group.
+[SPEAKER_00]: She looks a little ruffled as you speak when you're Seth and Caspian.
+[SPEAKER_00]: It's fairly obvious to all of you, she says, I'm not going to deny his conduct has, well, it's complicated, of course, but I have come to
+[SPEAKER_00]: see more wisdom in him than I expected.
+[SPEAKER_00]: I cannot allow you to compromise this latest attempt of his.
+[SPEAKER_03]: It is apparent to us on meeting him that he seeks to resane some amount of his humanity, but if he aims to be a power once more on the surface and rejoin the efforts, he will wreak far more pain than he did before.
+[SPEAKER_03]: His power has grown considerably, as we understand it, if he is to use it against the innocents as he has done before.
+[SPEAKER_00]: At that, when you say his power has grown, she kind of looks back in the direction of the ossuary with a, a fairly clear kind of shudder of this, this haste, probably more than fear.
+[SPEAKER_00]: Like she, yeah, the, she, the, the sort of the Ethereum using that power and developing that power is something she obviously doesn't like the prospect of.
+[SPEAKER_03]: It seems he has set himself on that path and has no intention of turning away.
+[SPEAKER_03]: It is perhaps not just in the best interest of our nation, but of all that is good that he be stopped.
+[SPEAKER_03]: And we would not take responsibility for that directly, but it is a decision above us as simple adventurers.
+[SPEAKER_00]: Uh, she kind of paces the tiger up and down a bit.
+[SPEAKER_00]: And she says, I have given up much myself to avoid the path that he has walked.
+[SPEAKER_00]: He did not convince me of its difficulties.
+[SPEAKER_00]: And Neferion is a part of what is wrong amongst my people, a significant part
+[SPEAKER_00]: But he has given up much to, to advocate for what he thinks must be done.
+[SPEAKER_00]: He goes back now to try to renew that, make his case.
+[SPEAKER_03]: And do you believe the result will be any different from the last time when his people turned him away and he was forced into this exile, self-imposed or other words?
+[SPEAKER_00]: She looks as though she's genuinely considering your question.
+[SPEAKER_00]: And she says,
+[SPEAKER_00]: His power has grown.
+[SPEAKER_00]: You're right about that.
+[SPEAKER_00]: And power is something that at present at least my people respect.
+[SPEAKER_00]: I have spent many years down here and I'm not familiar with the situation at court.
+[SPEAKER_00]: It's hard for me to know what the circumstances are, hard for him to know for that matter.
+[SPEAKER_00]: How matters stand, how things have changed.
+[SPEAKER_00]: I don't know.
+[SPEAKER_00]: I argued against his going for what it's worth.
+[SPEAKER_00]: But it seems your visit galvanized him.
+[SPEAKER_03]: We too are ignorant of the ongoing of your court, but the war rages on.
+[SPEAKER_03]: And it would seem your people will use any power available to them.
+[SPEAKER_03]: If Leothorian's proposal is well met, then surely you see this is further corruption of your people.
+[SPEAKER_03]: And you can understand why we must warn ours of it.
+[SPEAKER_00]: There's a flush of anger when you say,
+[SPEAKER_00]: when you talk about the Elvish people using, you know, whatever powers they are on the battlefield.
+[SPEAKER_00]: And she kind of turns toward you quite sharply.
+[SPEAKER_00]: And she says, how can you blame us?
+[SPEAKER_00]: How can you blame us for seeking the one power that can actually do something, that can actually
+[SPEAKER_00]: And yet I myself have refused to take it up.
+[SPEAKER_00]: And so I suppose I am no one to speak in such matters.
+[SPEAKER_03]: My people are only slightly more welcome than your own in this world.
+[SPEAKER_03]: I can understand that you will look for anything that can assure their survival.
+[SPEAKER_03]: But as you say, this path that Lethorian walks, if he is to take all of your people along it, is that a survival you think is worthwhile?
+[SPEAKER_00]: She kind of shakes her head at that and she says,
+[SPEAKER_00]: In terms of his path, the Aetherian is hardly the first to walk it.
+[SPEAKER_00]: It was begun years before his birth, years before mine.
+[SPEAKER_00]: He is hardly responsible for that.
+[SPEAKER_00]: Indeed, being born as he was, he had very, very little choice.
+[SPEAKER_00]: Not even as much as I did.
+[SPEAKER_00]: He does not seek.
+[SPEAKER_00]: does not seek to turn our people deeper into the embrace of our Paranath.
+[SPEAKER_00]: For all you have seen him at the temple, he seeks to rally our people to a battle that the Archon would avoid, as he did years ago.
+[SPEAKER_03]: You must understand that no one seeks out corruption.
+[SPEAKER_03]: It is never a choice.
+[SPEAKER_00]: Make an insight check of that if you want to.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: She looks at you as you say that and although she's
+[SPEAKER_00]: Although she is doing some work at least to try to kind of control her expression.
+[SPEAKER_00]: Well, you're absolutely sure that she thinks that is total nonsense.
+[SPEAKER_00]: That, yeah, she is clearly deeply cynical, I suppose, about these things.
+[SPEAKER_00]: with a 20.
+[SPEAKER_00]: She both thinks that people do seek out corruption and choose it actively.
+[SPEAKER_00]: In fact, she's 100% certain that is the case.
+[SPEAKER_00]: You also, though, with your 20, there's a kind of bitterness in her that
+[SPEAKER_00]: at least on some nights, refusing corruption has cost her so much.
+[SPEAKER_00]: Not only do people choose it, but there's a good part of her that thinks that she is an idiot for not choosing it.
+[SPEAKER_00]: If you were saying that, A, don't really understand the choice, and B, don't understand the costs that the choice on either side involves.
+[SPEAKER_00]: You see, you see a kind of hardening in her.
+[SPEAKER_00]: Yeah, well, you twin with a 20.
+[SPEAKER_00]: I mean, it's tempting to treat this as great, which is not only a 20.
+[SPEAKER_00]: Yeah, you see a kind of hardening in her.
+[SPEAKER_04]: It was a natural 20.
+[SPEAKER_00]: No, I know it was, but it's critical successes or failures.
+[SPEAKER_00]: Yeah, you see kind of hardening that she doesn't she's got no desire to harm you or the party or the other people here.
+[SPEAKER_00]: But you can see her beginning to come to the conclusion that is going to be necessary.
+[SPEAKER_05]: That
+[SPEAKER_04]: Anyone want to jump in?
+[SPEAKER_01]: You haven't got the insight.
+[SPEAKER_01]: Okay, I'm gonna.
+[SPEAKER_00]: I mean, other people can make insights.
+[SPEAKER_01]: Yeah, that's what I was gonna say.
+[SPEAKER_01]: Like, how sure are we that she is just wet?
+[SPEAKER_01]: You you guys piss me off.
+[SPEAKER_00]: You haven't know you haven't pissed her off.
+[SPEAKER_00]: She
+[SPEAKER_00]: there's no real kind of anger in her demeanor.
+[SPEAKER_00]: Yeah, Kathleen, you're picking up on a fair amount.
+[SPEAKER_00]: There's no real anger in her demeanor, but she clearly feels compelled.
+[SPEAKER_00]: She's come to the conclusion that she needs to, to at least to an extent, protect the Aetherian and
+[SPEAKER_00]: that possibly she may have to deal with you guys to do that.
+[SPEAKER_01]: She's not angry.
+[SPEAKER_01]: Okay, I'm going to put my hand up and say I understand I think better than most that corruption is necessary and comes with a negative connotation to it.
+[SPEAKER_01]: It is not always so black and white.
+[SPEAKER_01]: And I understand that
+[SPEAKER_01]: you want to do for him what we want to do for these people which is just try and save each other and I if we make no mention of this place no mention of him no mention of what we have seen here we take these people and there are magics we can do there are ways we can convince them and I'm speaking quietly so that they can't hear us I assume that they are not close enough to hear us there are ways that we can convince them to never speak of this place and of him
+[SPEAKER_01]: We can just leave, and you can just leave, and he can just leave, and we can be done with this.
+[SPEAKER_01]: We are tired, and this place is...
+[SPEAKER_01]: I don't love it here, and I would like to leave.
+[SPEAKER_01]: They would like to leave.
+[SPEAKER_00]: She looks over at the villagers kind of huddling off in a group.
+[SPEAKER_00]: When you say, you convince them not to say anything.
+[SPEAKER_00]: So it hadn't even occurred to her before this.
+[SPEAKER_00]: It sort of might, might be.
+[SPEAKER_01]: Something was that she'll kill all of them to keep the secret.
+[SPEAKER_04]: They don't even know who he is though.
+[SPEAKER_04]: Like that's, that's just us things.
+[SPEAKER_00]: She probably, I mean, she probably would do, but yeah, she,
+[SPEAKER_01]: I know people with enough magic, enough power, enough tools at their disposal to alter memories.
+[SPEAKER_01]: I can learn to do it myself with enough time and enough power, but I ask that you give us that opportunity.
+[SPEAKER_01]: Only Farbs was helping me.
+[SPEAKER_02]: I was going to jump in, but you've got the role now.
+[SPEAKER_01]: Hey, I'm so convincing.
+[SPEAKER_00]: Quite good.
+[SPEAKER_00]: I mean, she, as I say, she, she doesn't want, you can tell that you are, she doesn't want to have a conflict with you.
+[SPEAKER_01]: I don't want that either.
+[SPEAKER_00]: And when, when you say
+[SPEAKER_00]: We won't say anything, we'll let Fearing go on his way, et cetera.
+[SPEAKER_00]: Are you being honest, Caspian?
+[SPEAKER_00]: Regardless of what the rest of the party might be thinking, when you say that, are you being honest?
+[SPEAKER_01]: In this moment, I can see I don't want to talk about him.
+[SPEAKER_01]: I genuinely want to leave this place.
+[SPEAKER_01]: And if the way to leave this place is to say that I won't speak about it currently, all on my mind is I want to put this place behind us.
+[SPEAKER_01]: I don't want to think about it.
+[SPEAKER_01]: I don't want to talk about it.
+[SPEAKER_01]: I have 20 HP and fuck all spells left.
+[SPEAKER_00]: I'll do this.
+[SPEAKER_00]: So there's not an active enough deception going on here to call it.
+[SPEAKER_01]: there's no I'm like I've convinced myself yes I'll never talk about this again given six months time like it changes mind but you're not but you're not crafting a line I'm done with this place I want to leave uh yeah you again I'll let you roll with the inside text that you rolled with before so Rell and uh Casby you guys can see that she
+[SPEAKER_00]: There's an element of relief in hearing Caspian say that.
+[SPEAKER_00]: Like she doesn't want to, she doesn't want to have to deal with you.
+[SPEAKER_00]: And as you say, we're not going to say anything about him.
+[SPEAKER_00]: We will just leave him to his business and us to ours.
+[SPEAKER_00]: She, yeah, there's a definite sense of kind of relief in her manner.
+[SPEAKER_00]: And she says, what he is about is,
+[SPEAKER_00]: Well, it is a complex business and I don't think, I don't think even your authorities would understand it.
+[SPEAKER_01]: I agree that they wouldn't.
+[SPEAKER_00]: It will take him some weeks perhaps to get back across the border.
+[SPEAKER_00]: After that, I don't suppose it necessarily matters what you say, but he must have the chance to return and make his case.
+[SPEAKER_00]: It probably won't make any difference, but it might.
+[SPEAKER_00]: I would not see him caught, not after all this time.
+[SPEAKER_01]: I imagine, in all fairness, that he would be quite difficult to catch.
+[SPEAKER_01]: However, I want no part of that, so.
+[SPEAKER_01]: We could be on our way.
+[SPEAKER_01]: You could be on your way.
+[SPEAKER_01]: He can do whatever it is he feels the need to do.
+[SPEAKER_00]: Uh, she looks over at, um, at you and at the civilians and so on.
+[SPEAKER_00]: And she says, you said last time we spoke that you were going to climb out.
+[SPEAKER_00]: perilous path if one even exists.
+[SPEAKER_01]: We're lacking any other options unless you can offer one.
+[SPEAKER_00]: I do have my own means.
+[SPEAKER_01]: Is it one that you could offer?
+[SPEAKER_00]: I have already refused it, but the considerations that are in play there hardly apply to you.
+[SPEAKER_01]: You know, he has enough of a skill set and strength and advantage in this place to get out himself.
+[SPEAKER_01]: Whee!
+[SPEAKER_01]: And I look back at the cowering civilians and old people and dog and say, I don't feel that we have that skill set.
+[SPEAKER_00]: He will be able to fight his way out.
+[SPEAKER_00]: And then she looks actually slightly amused and impressed.
+[SPEAKER_00]: Well,
+[SPEAKER_00]: Let us just say he was not happy about the outcome of his attempt to retrieve his cattle from you.
+[SPEAKER_01]: Look at Raoul.
+[SPEAKER_01]: You know what, Valid, I imagine he was not pleased with that, but we have taken casualties since this isn't
+[SPEAKER_01]: And again, looking at the people we have left and say, we could take any help that we can get just to get out of here.
+[SPEAKER_00]: There is another way.
+[SPEAKER_00]: Not safe, exactly, but probably safer than what you're attempting.
+[SPEAKER_00]: a shortcut of sorts.
+[SPEAKER_00]: It used to be, well, it passes through the Feywild, not for long.
+[SPEAKER_05]: Traffic broken up.
+[SPEAKER_00]: Wards along the path, but nonetheless, nowhere in that sorry land is safe these days.
+[SPEAKER_00]: I myself have not trodden that way in quite some time.
+[SPEAKER_01]: We had some minor exposure to the Feywild.
+[SPEAKER_01]: It is...
+[SPEAKER_01]: I feel that we'd be safer there than here, though I understand it has its own dangers.
+[SPEAKER_04]: I also understand that... Oh, go ahead, Ruby.
+[SPEAKER_06]: As we're passing through the Feywild,
+[SPEAKER_06]: Do you have any advice on making sure we don't track anything back with us?
+[SPEAKER_00]: I see you know something of the situation at least.
+[SPEAKER_00]: I have warded the path with, I have to say, Neotherian's assistance.
+[SPEAKER_00]: Without it, it would have been impossible.
+[SPEAKER_00]: corruption that you speak of and she looks at you as she says that row is the only thing we know of that holds it back.
+[SPEAKER_03]: Interesting.
+[SPEAKER_00]: Invited me with the means to keep that road open.
+[SPEAKER_03]: I understand sorry that there is a gate here a path onto that road or are you intending to open that path yourself?
+[SPEAKER_00]: I
+[SPEAKER_00]: It is a private way, which I have the means to open passage.
+[SPEAKER_00]: It goes not to the surface here, but to, well, you call it Calridor, the land on the far side of the mountains from the yellow thing.
+[SPEAKER_00]: But in the Feywild, the journey is much shorter.
+[SPEAKER_00]: Much shorter.
+[SPEAKER_02]: Do you see that on the world map, Jess?
+[SPEAKER_00]: Ah, yeah.
+[SPEAKER_00]: You can't.
+[SPEAKER_00]: Over here, moon cross.
+[SPEAKER_02]: Oh, so that's where it's taking us.
+[SPEAKER_02]: Oh, sorry, the edge of these mountains.
+[SPEAKER_00]: Yeah, near close to the bridgeway path.
+[SPEAKER_00]: Oh, interesting.
+[SPEAKER_00]: Well, it's better than we thought.
+[SPEAKER_02]: Quite a long way from where we were.
+[SPEAKER_00]: Just quite a long way from where you were.
+[SPEAKER_02]: Was Mooncross the place full of people who weren't very keen on the rest of us?
+[SPEAKER_00]: So Mooncross is a city, of the cities of the League, it is by far the most Elvish-influenced city.
+[SPEAKER_00]: Before the war, the Ridgeway was the main kind of passage between the Ellen Fane and the countries of the League.
+[SPEAKER_00]: There's lots of Elvish architecture in Mooncross.
+[SPEAKER_00]: There was quite a large Elvish population, still a fairly large Elvish population.
+[SPEAKER_00]: It is...
+[SPEAKER_00]: It's regarded as a bit suspect by quite a number of other countries in the league as being a potential kind of weak point, I suppose.
+[SPEAKER_00]: It's garrisoned mostly by league troops that don't come from Calradore itself.
+[SPEAKER_00]: All the passes are kind of garrisoned by non-local troops because the local troops are not necessarily fully trusted.
+[SPEAKER_00]: Yeah, it's the most kind of culturally
+[SPEAKER_00]: it's got the strongest legacy of integration or exchanges.
+[SPEAKER_02]: When you say there's elf populations, do you mean are they like refugees?
+[SPEAKER_02]: Are they people who are not into the war?
+[SPEAKER_00]: At the beginning of the war, about 90 years ago or so, lots of elvish refugees who didn't support the war came across.
+[SPEAKER_00]: And yes, so there are populations of both people who were refugees then and their children and such.
+[SPEAKER_00]: and lots of them are still in Mooncross, although plenty kind of went further away from the front lines and further into the League.
+[SPEAKER_00]: There's also people who were just living there beforehand, who were elves who had chosen to live in Mooncross rather than in the Elland fame, because they were, you know, for whatever reason, because they were traders, or I mean at that time they were welcome.
+[SPEAKER_00]: So it had an elder population
+[SPEAKER_00]: before.
+[SPEAKER_00]: And then that was expanded by the fact that lots of refugees came across the mountains around the beginning of the war.
+[SPEAKER_02]: I guess we don't really need to go back to Grey Watch.
+[SPEAKER_01]: I just want to get out of this hellhole.
+[SPEAKER_02]: Yeah, that was good.
+[SPEAKER_01]: How long it will take through the faint wall passage?
+[SPEAKER_00]: So, if Rhiann looks at your party, she says it takes her a little more than a day.
+[SPEAKER_01]: On the tiger, I assume.
+[SPEAKER_01]: Sorry?
+[SPEAKER_01]: On the tiger.
+[SPEAKER_01]: Like, she writes through.
+[SPEAKER_01]: No, she doesn't.
+[SPEAKER_01]: Oh, so that's walking.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Well, so, she's a little
+[SPEAKER_00]: she's a little bit wary about talking about it.
+[SPEAKER_00]: But yeah, if you she made it very clear, you need you have to stick stick to the path.
+[SPEAKER_00]: And that the last time she went the path.
+[SPEAKER_00]: Yeah, I took her
+[SPEAKER_00]: It took her a little more than a day, but she pushed on and didn't stop and rest on the train.
+[SPEAKER_01]: If one stays on the path and doesn't stray from the markings that you've placed, how safe is the path?
+[SPEAKER_00]: She gives a kind of a little shrug at that.
+[SPEAKER_00]: She says, I
+[SPEAKER_00]: I'd be sure that all the wards are intact.
+[SPEAKER_00]: Parts of it may have been overrun, it's possible.
+[SPEAKER_00]: And the Feywild isn't safe these days.
+[SPEAKER_00]: Almost none of it this way is unusual.
+[SPEAKER_00]: If I were to give you access
+[SPEAKER_00]: Well, I will not hide the fact that you could destroy the wards that I've placed.
+[SPEAKER_00]: Trap me down here.
+[SPEAKER_00]: Not that I have any intention of leaving, but no one cannot leave is quite another thing.
+[SPEAKER_01]: honestly did not cross my mind.
+[SPEAKER_01]: All we wish to do is take these people out the safest way that we can and get ourselves out the safest possible and quickest possible way.
+[SPEAKER_00]: She looks at the direction that you are heading and she looks at the people that you've got with you and she says, I
+[SPEAKER_00]: cannot see how you can fight your way to the surface from here.
+[SPEAKER_01]: I never wanted to try to bring everyone to the surface, but we are in this predicament now.
+[SPEAKER_01]: And if you can offer us a slightly better alternative, I think we would grasp at it.
+[SPEAKER_00]: She kind of paces up and down, looking
+[SPEAKER_00]: torn, I suppose.
+[SPEAKER_00]: When you saw her last time, she was pretty agitated about what was going on with the Ethereum.
+[SPEAKER_00]: She's now like, she's definitely having a day.
+[SPEAKER_00]: Everything was fine 24 hours ago.
+[SPEAKER_01]: Now it's all other shit.
+[SPEAKER_01]: Well, we could just pretend we never saw us.
+[SPEAKER_01]: It's fine.
+[SPEAKER_00]: She gestures off toward, more towards the west, kind of past, the keep is now sort of slightly to kind of north, kind of west, northwest I suppose.
+[SPEAKER_00]: She kind of gestures past it and says,
+[SPEAKER_00]: I have established myself a little further on.
+[SPEAKER_00]: If you make your way there, I think braving that road will be a better choice than trying to fight your way to the surface here.
+[SPEAKER_00]: I don't know how you came down here, but there are creatures above.
+[SPEAKER_00]: Gleaners, they name themselves.
+[SPEAKER_00]: They are petty, but dangerous in numbers.
+[SPEAKER_00]: I don't see how you will get these people past
+[SPEAKER_01]: I honestly am surprised we got these people this far.
+[SPEAKER_03]: We have dealt with the gleaners before and saw our way past them without them really interfering with us.
+[SPEAKER_03]: It's possible we can do the same, but rather not have to see them again.
+[SPEAKER_02]: Possible.
+[SPEAKER_03]: Exactly.
+[SPEAKER_00]: You wish to try.
+[SPEAKER_00]: As long as I have your word, that you will not seek to hunt the Aetherian or send others to hunt him.
+[SPEAKER_02]: It's...
+[SPEAKER_02]: I think all of this waxing political has maybe...
+[SPEAKER_02]: shaded your view on us a little bit.
+[SPEAKER_02]: We're really not into this kind of grand vision strategy part of the realm.
+[SPEAKER_02]: We're just friendly adventurers, audacious adventurers.
+[SPEAKER_02]: We're just here to help everyday people like these fellows over here.
+[SPEAKER_02]: You know, these matters of hunting down fish enemies is not really our business at all.
+[SPEAKER_02]: Certainly, we would not be hunting him down.
+[SPEAKER_02]: I think we could never see him again.
+[SPEAKER_02]: That'd be great.
+[SPEAKER_02]: And look, even if we told somebody to go hunt him down, nobody's going to listen to us.
+[SPEAKER_02]: We're not, we're just not in that realm of things.
+[SPEAKER_01]: Anything about this place, because quite honestly, I don't think anyone would believe us, even if we did.
+[SPEAKER_02]: Exactly.
+[SPEAKER_02]: We don't want to sound crazy.
+[SPEAKER_01]: Maybe we insight check Fabian.
+[SPEAKER_01]: Oh, interesting.
+[SPEAKER_01]: What did you do, Fabs?
+[SPEAKER_01]: What did you do?
+[SPEAKER_01]: Lied.
+[SPEAKER_01]: Well, I'm proud that you were lying.
+[SPEAKER_00]: she listens to you blathering on Fabian.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: And, and I will say she is definitely, she's definitely would prefer not to have a, you know, she would prefer all this to be true.
+[SPEAKER_00]: And she says,
+[SPEAKER_00]: I will not hinder you if escape is all you want.
+[SPEAKER_00]: But if you make your way to my home, then I will try to show you another way clear of this place.
+[SPEAKER_00]: It is a refuge.
+[SPEAKER_00]: but not a comfortable one.
+[SPEAKER_00]: And unlike Claire Therrien, I have no need of, she sort of gestures at the people that you have gathered, and I mean, of any additional company down here.
+[SPEAKER_00]: I could leave you for the tower, but,
+[SPEAKER_00]: I don't care for them any more than they do for me.
+[SPEAKER_01]: We would greatly appreciate your aid.
+[SPEAKER_01]: As you say, these, we won't make it far without your help.
+[SPEAKER_01]: I think definitely these people will not make it much further.
+[SPEAKER_01]: So thank you.
+[SPEAKER_00]: She indicates the direction that her house is in.
+[SPEAKER_00]: Sweet.
+[SPEAKER_00]: It's very clear she's not intending to wait for you.
+[SPEAKER_01]: Yeah, absolutely.
+[SPEAKER_01]: I'll map it out.
+[SPEAKER_01]: It's fine.
+[SPEAKER_00]: Yeah, certainly Caspian with your skills in this direction and her, I mean, she knows this cabin inside out, unlike, for instance, the progress.
+[SPEAKER_00]: So it's much easier for her to give directions with what natural landmarks there are and so on.
+[SPEAKER_00]: So it's easy for you to, it is easy for you to have a kind of a route.
+[SPEAKER_00]: She looks as though she's ready to leave with a sort of... Yeah, you've done enough to convince her that she doesn't necessarily need to stalk you.
+[SPEAKER_00]: If you show up, she'll...
+[SPEAKER_00]: probably try to help you.
+[SPEAKER_01]: Let's go probably try and help better than definitely die in caves.
+[SPEAKER_00]: The other way she you know she will she will let you go and this is anything you want to say to her or ask her before she.
+[SPEAKER_01]: Through well I guess I will say so we're going to our house and getting out of here however we can correct.
+[SPEAKER_01]: Everyone okay with this plan?
+[SPEAKER_02]: Yes sounds good to me.
+[SPEAKER_00]: cool then yeah even if i won't say anything else if her intent is to leave us in the dust we'll head towards the direction that she said yeah she she doesn't seem in the same kind of hurry to get back as she was to to find leotherian before he left but she definitely yeah she definitely isn't this doesn't want to socialize with us and that's fine i get that she doesn't particularly
+[SPEAKER_00]: Yeah, she's been down here a long time on her own and it does show.
+[SPEAKER_01]: Yeah, that's, you know what, I get it.
+[SPEAKER_01]: I'm all right with it.
+[SPEAKER_00]: Well, not on her own, to be fair, but without having to talk to people that are not the servants of her house.
+[SPEAKER_00]: She's a tiger to talk to.
+[SPEAKER_00]: And a tiger, that's true.
+[SPEAKER_00]: But she's had an unusual set of manners, so to say.
+[SPEAKER_00]: Yeah, yeah, you wrote like a five.
+[SPEAKER_00]: So yes, no, I was going to say something else about that.
+[SPEAKER_00]: But no, she wrote, so she's going to leave.
+[SPEAKER_01]: Cool, I look forward to her also trying to kill us.
+[SPEAKER_01]: Right, group huddle.
+[SPEAKER_01]: Witch's house?
+[SPEAKER_06]: Yep.
+[SPEAKER_06]: Definitely.
+[SPEAKER_01]: 100%.
+[SPEAKER_01]: That's cool.
+[SPEAKER_01]: Fabs, can you convince the villagers to not touch anything and ultimately cower in her wake or cry when they see her?
+[SPEAKER_01]: Maybe just try and be normal.
+[SPEAKER_01]: Like convince them to do that.
+[SPEAKER_02]: Play it cool.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Maybe and also just not draw attention to themselves in any way, shape or form.
+[SPEAKER_02]: I've got just the story.
+[SPEAKER_02]: I shall use that as my action on the next step.
+[SPEAKER_00]: There's no chance of getting lost on the way to Ithran's house.
+[SPEAKER_00]: There is obviously a chance of still running into combat or trouble or what have you.
+[SPEAKER_00]: But we will just do one more because we know where you're going now.
+[SPEAKER_00]: We'll just do one more.
+[SPEAKER_00]: We'll just do one more roll for trying to get there.
+[SPEAKER_01]: Who hasn't rolled?
+[SPEAKER_02]: Jake hasn't rolled.
+[SPEAKER_04]: I'll do one, I'll do one.
+[SPEAKER_04]: Four.
+[SPEAKER_00]: Two.
+[SPEAKER_02]: I like roll tables because we can never know if it's good or not.
+[SPEAKER_00]: It's so exciting.
+[SPEAKER_00]: Let's have a look.
+[SPEAKER_00]: Hmm.
+[SPEAKER_00]: Well, let's do a survival role to see which kind of rich, as I say, we're not going to get lost, but before we, before we roll, yeah, there's a couple of things four could be.
+[SPEAKER_00]: So let's do a survival role to see how, how lucky you are with your, how efficient you are with you.
+[SPEAKER_01]: Uh, Niamh, was it you?
+[SPEAKER_01]: You?
+[SPEAKER_02]: Aspen's made the map.
+[SPEAKER_01]: I have made the map, I suppose.
+[SPEAKER_01]: Do I have to roll?
+[SPEAKER_01]: Okay, let's see how good my rap is.
+[SPEAKER_01]: Do I get it with advantage or is someone helping me?
+[SPEAKER_01]: I'll help you.
+[SPEAKER_01]: Thanks, much appreciated.
+[SPEAKER_02]: Can they roll like... Oh my gosh!
+[SPEAKER_01]: That's a terrible roll, I'm so sorry everyone.
+[SPEAKER_01]: Oh dear.
+[SPEAKER_02]: Quite impressive.
+[SPEAKER_01]: Yeah, yeah, yeah.
+[SPEAKER_02]: We do get lost.
+[SPEAKER_00]: Well...
+[SPEAKER_00]: No, you don't get you don't get lost like plus six it's fine You don't get lost but you do run into some trouble Okay
+[SPEAKER_01]: 20 fucking hit points and two spells left.
+[SPEAKER_01]: I'm having a great time.
+[SPEAKER_00]: At least, at least you've got the prospect of a potential short rest.
+[SPEAKER_01]: On the two hit dice I have left, a short rest would be delightful.
+[SPEAKER_02]: Don't worry.
+[SPEAKER_02]: I have three spells left.
+[SPEAKER_01]: Excellent news.
+[SPEAKER_02]: That's tons.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: I got cantrips guys.
+[SPEAKER_01]: It's okay.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Let's reuse this map.
+you
+[SPEAKER_00]: So this is actually for Alex benefit.
+[SPEAKER_00]: What we found last time was because these guys are technically NPCs rather than PCs, it treats the one that's on the map as just one instance of them.
+[SPEAKER_00]: So you have to adjust if they lose health or whatever during the combat, you have to adjust it from the character sheet open from the
+[SPEAKER_00]: from the sidebar, not from them.
+[SPEAKER_02]: And not double click on them.
+[SPEAKER_00]: Yeah, because unlike your characters, it thinks there could be like multiple.
+[SPEAKER_00]: Yeah, yeah.
+[SPEAKER_00]: Hollow half-kettles or what have you.
+[SPEAKER_04]: Have we got any idea of which direction the contact has been made?
+[SPEAKER_00]: No, you're just going to stumble into it really whoever's closest to that point.
+[SPEAKER_00]: I guess I'll be over here.
+[SPEAKER_01]: Is any of our party going at the back, or?
+[SPEAKER_02]: Can we move all of them down to the right a bit?
+[SPEAKER_01]: I've got the back.
+[SPEAKER_01]: Is that you in the back?
+[SPEAKER_01]: Okay, I'm going to move the front from... Who's Yavin Seraphala?
+[SPEAKER_04]: She's mine.
+[SPEAKER_02]: Seraphala's mine!
+[SPEAKER_00]: Yeah, we had to redistribute yours, Alex, so someone can have dual control at this point.
+[SPEAKER_02]: Right, well, she's possessed by two demons now.
+[SPEAKER_01]: Find mine.
+[SPEAKER_06]: Maybe.
+[SPEAKER_05]: I'll just leave whatever.
+[SPEAKER_00]: Okay, as you guys are going along, there's a clump of stones and half kind of, unusually there's some kind of loose dust and so on around these rather than a hard rock floor.
+[SPEAKER_00]: And as you come past, that dust shakes itself and several rock and start make their way.
+[SPEAKER_00]: Rock and roll.
+[SPEAKER_02]: Look at him.
+[SPEAKER_02]: They're awful.
+[SPEAKER_04]: He's got so many teeth.
+[SPEAKER_05]: Nightmarish.
+[SPEAKER_04]: Has he got teeth on his lips?
+[SPEAKER_04]: I'm having a hard time processing his mouth structure.
+[SPEAKER_06]: I think he's just an open mouth.
+[SPEAKER_00]: I think he's one of those.
+[SPEAKER_00]: Some creatures have like the rows of teeth.
+[SPEAKER_00]: It's actually the rows of teeth going back into the throat.
+[SPEAKER_04]: But then he's got some very prominent that stick out beyond the range of the rest of his face.
+[SPEAKER_04]: It makes it look like he's got teethless lips.
+[SPEAKER_00]: It does.
+[SPEAKER_00]: It's true.
+[SPEAKER_00]: I mean, he's very flexible.
+[SPEAKER_04]: He turns his whole mouth inside out like a big worm.
+[SPEAKER_00]: OK. OK. Let's go into combat.
+[SPEAKER_04]: Alec, are you going to roll for Sarah Fallon and Rufus Teg and Robin Teg?
+[SPEAKER_04]: I think they belong to you as well.
+[SPEAKER_02]: Oh no, I just have Sarah and Max.
+[SPEAKER_04]: Okay, cool.
+[SPEAKER_04]: I'll do the Tegs then.
+[SPEAKER_04]: Cool.
+[SPEAKER_02]: Oh, look at Max go.
+[SPEAKER_01]: Yes, boy.
+[SPEAKER_01]: What a good dog.
+[SPEAKER_00]: Rocking into a group.
+[SPEAKER_05]: I don't like that.
+[SPEAKER_04]: The fourth thing is to rock and finish it over again.
+[SPEAKER_05]: Into a group.
+[SPEAKER_04]: I turn it to two kittens.
+[SPEAKER_04]: I dream of reaching that level of relaxation.
+[SPEAKER_06]: Honestly, Rose.
+[SPEAKER_00]: Okay, well, I'm just gonna roll initiatives with a literal dice and type them in.
+[SPEAKER_00]: Not very good initiatives coming up this dice.
+[SPEAKER_04]: Finally, the weighted dice I planted in Jess's house years ago.
+[SPEAKER_00]: This is outrageous.
+[SPEAKER_00]: Okay, well, would you all like to, would you like to, let's see if we can get to any combat by the enemies having a turn before you guys have come.
+[SPEAKER_00]: I should get a surprise round really, but I didn't say that before.
+[SPEAKER_00]: Before I started, so.
+[SPEAKER_00]: There are combatants that haven't rolled their initiative.
+[SPEAKER_00]: Oh yeah, there are.
+[SPEAKER_00]: Maddie, Ollo and Rosie.
+[SPEAKER_00]: Oh, because they belong to Will.
+[SPEAKER_01]: They're deceased now.
+[SPEAKER_02]: I feel like we could put them to the side and it won't make a big deal in this one combat.
+[SPEAKER_01]: Fair point.
+[SPEAKER_01]: Let's save Max's first.
+[SPEAKER_02]: Max looks up to Fabian and whines in a way that says, should I bite them?
+[SPEAKER_02]: And Fabian says, no, Max, hold on for two initiative points.
+[SPEAKER_02]: I'll wait till after Fabian's turn.
+[SPEAKER_02]: Can I do that?
+[SPEAKER_00]: You can hold his action if you want to.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: He'll hold an action if he's going to stand here, say where he is and bite anything that comes near to the people near him.
+[SPEAKER_05]: Okay.
+[SPEAKER_02]: There's the button.
+[SPEAKER_03]: There's the button.
+[SPEAKER_05]: Okay.
+[SPEAKER_02]: Fabian will take a step down, draw his golden loot, and go, keep away from my villagers.
+[SPEAKER_02]: Cast Thunderwave.
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: which can hit all of them.
+[SPEAKER_00]: Oh, you'll see there.
+[SPEAKER_00]: You didn't see this last week.
+[SPEAKER_00]: You'll see the interface has changed quite a bit.
+[SPEAKER_00]: I can update.
+[SPEAKER_02]: Yes, it looks very flashy now.
+[SPEAKER_04]: It's small.
+[SPEAKER_04]: That's our chief complaint.
+[SPEAKER_04]: Everything's littler.
+[SPEAKER_00]: OK, so this is Grocon 1.
+[SPEAKER_00]: He fails with 13.
+[SPEAKER_00]: Whoa, that's good.
+[SPEAKER_00]: This is Grocon 2.
+[SPEAKER_00]: Really funny if everything died just straight away.
+[SPEAKER_00]: He fails with one.
+[SPEAKER_00]: Sorry, that was Groff in three.
+[SPEAKER_00]: This is Groff in four.
+[SPEAKER_00]: He gets a totally unnecessary natural 20.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Good for him.
+[SPEAKER_02]: Fair enough.
+[SPEAKER_00]: Groff in two also fails with a natural one.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: So three of them have failed.
+[SPEAKER_00]: One has succeeded.
+[SPEAKER_00]: No new damage.
+[SPEAKER_04]: Middling.
+[SPEAKER_02]: Middling.
+[SPEAKER_02]: Knock them back, alerting everything else in the cave to us, as I now realise.
+[SPEAKER_00]: Ooh, it knows which ones we're supposed to have half done, which is very clever.
+[SPEAKER_02]: And then they should be pushed 10 feet away from me.
+[SPEAKER_00]: 10 feet away?
+[SPEAKER_00]: Great.
+[SPEAKER_04]: The one on the natural 20, he stands strong.
+[SPEAKER_04]: Yeah.
+[SPEAKER_02]: Cool.
+[SPEAKER_02]: I brandish my loot menacingly.
+[SPEAKER_04]: The techs will take the dodge action.
+[SPEAKER_06]: Mothraig is barely hanging on.
+[SPEAKER_06]: He's got shimmy back a little further and leave himself there.
+[SPEAKER_04]: He was healed, but that may not have been applied permanently.
+[SPEAKER_04]: He got some of a cake.
+[SPEAKER_00]: Only beginning of one hit point, remember?
+[SPEAKER_00]: Only got one point, yeah.
+[SPEAKER_00]: Because Will was feeling stingy.
+[SPEAKER_00]: Oh, he's annoyed at him being reckless.
+[SPEAKER_05]: I remember that, yes.
+[SPEAKER_04]: Okay, Rell is going to use a sorcery point to twin a cast of dissonant whispers, targeting the two grokens closest to him.
+[SPEAKER_04]: Testing spell.
+[SPEAKER_00]: Okay, this is Grokken 4.
+[SPEAKER_04]: Oh, I've targeted myself, apparently.
+Okay, good.
+[SPEAKER_00]: He fails with a 10, and Grokken 2.
+[SPEAKER_00]: He fails with a 12.
+[SPEAKER_04]: Nice.
+[SPEAKER_04]: They take this much damage.
+[SPEAKER_04]: And using their reaction, they must move as far away from me as this beetle allows.
+[SPEAKER_05]: I haven't given them a speed.
+[SPEAKER_00]: Let's assume they move 30.
+[SPEAKER_05]: Okay.
+[SPEAKER_04]: And that is my time.
+[SPEAKER_02]: Run, Sarah.
+[SPEAKER_01]: What do we... Yeah, he'll stay there actually.
+[SPEAKER_01]: Dodge, I guess, because he's a child.
+[SPEAKER_01]: Where is the end turn?
+[SPEAKER_01]: There it is.
+[SPEAKER_06]: Sam is going to...
+[SPEAKER_06]: He's going to aim at the little pink rock and three with his shirt on.
+[SPEAKER_06]: Let's see if you do any damage.
+[SPEAKER_05]: Oh, nice.
+[SPEAKER_05]: Oh, that's good.
+[SPEAKER_05]: There you go.
+[SPEAKER_05]: Cool.
+[SPEAKER_02]: Good job, Tom.
+[SPEAKER_06]: Excellent.
+[SPEAKER_06]: We shall.
+[SPEAKER_06]: Oh, there we go.
+[SPEAKER_06]: There you go.
+[SPEAKER_06]: Daisy is a child.
+[SPEAKER_06]: Sorry, wrong one.
+[SPEAKER_04]: The boatage is, we'll take the dodge action.
+[SPEAKER_06]: Daisy is going to issue back.
+[SPEAKER_06]: And then Trevick is also going to trigger the pink crocon.
+[SPEAKER_06]: And?
+[SPEAKER_06]: Lovely stuff.
+[SPEAKER_06]: And he shall hear it again.
+[SPEAKER_06]: Let us hear it.
+[SPEAKER_06]: Oh, fabulous.
+[SPEAKER_06]: OK, cool.
+[SPEAKER_06]: Oh, with that.
+[SPEAKER_00]: I actually don't think it's gonna come back.
+[SPEAKER_00]: I think it's gonna run away.
+[SPEAKER_06]: Oh, excellent.
+[SPEAKER_06]: Cool.
+[SPEAKER_06]: Was it finally hurt though?
+[SPEAKER_06]: How rough was it looking, having taken three hits?
+[SPEAKER_00]: I mean, so this one that had been badly damaged by Dissonant Whispers, I mean, it had less than 10 hit points left.
+[SPEAKER_00]: Okay, cool.
+[SPEAKER_00]: Hungry, I don't think it's that hungry.
+[SPEAKER_04]: Exploded and then Psychic Whispers in his head.
+[SPEAKER_00]: Yeah, it was like, no, I've had enough.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: Um, it will come forward.
+[SPEAKER_01]: She will attempt to shortbow.
+[SPEAKER_01]: There we go.
+[SPEAKER_00]: Which one is she shortbowing?
+[SPEAKER_01]: Um, three.
+[SPEAKER_01]: Doesn't matter.
+[SPEAKER_01]: Oh, never mind.
+[SPEAKER_01]: She tried.
+[SPEAKER_01]: Good for her.
+[SPEAKER_01]: And that's her done.
+[SPEAKER_04]: Adele will shoot at the Grokken 3, the one everyone else seems to be talking.
+[SPEAKER_00]: You muted that.
+[SPEAKER_04]: Sorry.
+[SPEAKER_04]: You got the gist.
+[SPEAKER_00]: I think you're attacking someone, but 11 is a myth.
+[SPEAKER_04]: Grokken 3, yes.
+[SPEAKER_00]: 11 is a myth, of course.
+[SPEAKER_00]: Okay, Grokken 1 is not too badly heard for the minute, and is going to come forward and attack you, Fabian.
+[SPEAKER_00]: With his...
+[SPEAKER_00]: Oh.
+[SPEAKER_00]: 16.
+[SPEAKER_00]: No.
+[SPEAKER_00]: And then he is going to try and bite you, even though he has not managed to chuck you over, unfortunately.
+[SPEAKER_00]: Oh, he's going to try and bite you for 23.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: You take eight points of damage, six points of piercing, and two points of acid.
+[SPEAKER_05]: Ow!
+[SPEAKER_00]: Thank you.
+[SPEAKER_00]: Okay, I'm sad that you were not prone, so you can't do an extra bite on you, which is unfortunate.
+[SPEAKER_00]: Okay, graphing four.
+[SPEAKER_02]: Little buggers of sharp teeth, Caspian.
+[SPEAKER_02]: Deal with him.
+[SPEAKER_00]: I plan too fast.
+[SPEAKER_00]: Not so bad yet.
+[SPEAKER_00]: But he can't reach anyone.
+[SPEAKER_00]: Oh, yes he can, just about.
+[SPEAKER_05]: Oh.
+[SPEAKER_00]: Right, he's going to come and claw at you, Fabian, for a 19.
+[SPEAKER_05]: Oh, just, yeah.
+[SPEAKER_00]: OK, he does you.
+[SPEAKER_00]: uh seven points of flashing damage and knocks you prone at which point by any chance can he do uh two bites uh well he's gonna bite you with advantage and then he perhaps he will do a bonus action bite also you never know yeah uh
+[SPEAKER_00]: He bites you for a, also a 19.
+[SPEAKER_02]: Right, I've had enough of this.
+[SPEAKER_02]: No, shield, buck off.
+[SPEAKER_00]: Burn myself.
+[SPEAKER_00]: Fine.
+[SPEAKER_00]: Well, he will try to bonus action bite you also.
+[SPEAKER_00]: For a...
+[SPEAKER_00]: 17.
+[SPEAKER_00]: Yay.
+[SPEAKER_00]: You can see that taping this down one of these Grokens is like sitting on his chest.
+[SPEAKER_00]: It looks worse between Grokken 1 and Grokken 4.
+[SPEAKER_02]: Technically I've just shielded Sarah Farlin.
+[SPEAKER_00]: Why has that happened?
+[SPEAKER_00]: Grokken 4 is more injured.
+[SPEAKER_01]: I'll aim for Grokken 4 with a firebolt.
+[SPEAKER_05]: Huzzah.
+[SPEAKER_01]: I'm assuming it's not dead on that.
+[SPEAKER_01]: I believe in you, Fabs.
+[SPEAKER_01]: Get up.
+[SPEAKER_01]: And that's me done.
+[SPEAKER_01]: Thank you.
+[SPEAKER_06]: Elsie is going to go to the back and then do a turn.
+[SPEAKER_00]: Up in three.
+[SPEAKER_00]: Coming into the prone and vulnerable Fabian.
+[SPEAKER_00]: I'm just going to give you with the claw.
+[SPEAKER_00]: These don't understand shield.
+[SPEAKER_00]: For a 19?
+[SPEAKER_00]: No.
+[SPEAKER_00]: No.
+[SPEAKER_00]: And for a white.
+[SPEAKER_00]: And that is a crit, unfortunately.
+[SPEAKER_00]: Oh, no.
+[SPEAKER_00]: Oh, my crit deck.
+[SPEAKER_04]: Of course, yes.
+[SPEAKER_02]: Oh, nice.
+[SPEAKER_02]: Rather hoping we'd be the ones to use the crit deck, but okay.
+[SPEAKER_01]: Abs, you're shielding the villagers so well.
+[SPEAKER_00]: Okay, so, well, I'll do the damage first off.
+[SPEAKER_00]: That's a mighty 14 points of damage.
+[SPEAKER_00]: Okay, all right.
+[SPEAKER_05]: I'm just awake.
+[SPEAKER_01]: Are you going to get down by this?
+[SPEAKER_02]: Yeah, I think so.
+[SPEAKER_00]: Okay, one of these things has bitten through your hamstring or injured your hamstring in some way.
+[SPEAKER_00]: Your speed is halved until the end of this combat.
+[SPEAKER_00]: Okay, now it's going to do its bonus action fight if you think you're prone.
+[SPEAKER_00]: And guys, I'm afraid I has crud again.
+[SPEAKER_00]: Oh my god.
+[SPEAKER_00]: I think we had a grave, Clarke.
+[SPEAKER_02]: OK. Well, I have one hit point, so how much overkill is it doing?
+[SPEAKER_00]: 16 points of damage.
+[SPEAKER_00]: Oh god.
+[SPEAKER_00]: OK. And I will roll for it on the correct deck in case it does anything else that affects the combat, like attack someone else.
+[SPEAKER_02]: Tears my arm off.
+[SPEAKER_00]: Mm, yeah, could do.
+[SPEAKER_00]: Could do.
+[SPEAKER_00]: Oh, well, it gives you a hard shove and pushes you 10 feet away.
+[SPEAKER_02]: Aw, like waves him around and tosses him off.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Uh, okay.
+[SPEAKER_02]: Oh, the villagers must have hated that.
+[SPEAKER_00]: Yeah, yeah, yeah.
+[SPEAKER_02]: They could be in body rolls at their feet.
+[SPEAKER_00]: Yeah, definitely freaking out at this point.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: How's that?
+[SPEAKER_00]: How do you prove it?
+[SPEAKER_00]: Oh, no, these are the ones that they're just going to run away.
+[SPEAKER_00]: These are the ones that will.
+[SPEAKER_00]: Oh, see, I don't think all our half-cattle birds run away.
+[SPEAKER_00]: No, I think she's going to come in and try to try to club this crocon.
+[SPEAKER_00]: which she does for a 11, which is a myth, unfortunately.
+[SPEAKER_00]: But still, I think she's gonna stand there and try to protect you, Fabian.
+[SPEAKER_00]: Okay, Max.
+[SPEAKER_00]: Yeah, what's Max gonna do in this situation?
+[SPEAKER_02]: I mean, I think Max is also gonna run and avenge Fabian.
+[SPEAKER_05]: Okay.
+[SPEAKER_02]: He's gonna do a long way around here.
+[SPEAKER_02]: I'm going to try to bite this guy.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: If you kill us dog Alec.
+[SPEAKER_02]: I mean, he's not going to run away.
+[SPEAKER_02]: If he did, we wouldn't want to keep him.
+[SPEAKER_05]: Oh, I feel like a cowardice.
+[SPEAKER_05]: That's a hit.
+[SPEAKER_02]: Hit?
+[SPEAKER_05]: Yep.
+[SPEAKER_02]: Oh, good job dog.
+[SPEAKER_02]: Oh, how do I roll damage on this now?
+[SPEAKER_00]: With a little splat.
+[SPEAKER_01]: Yeah, changed.
+[SPEAKER_02]: a little splat yeah so you see there's a sword and a little splat oh yeah yeah good dog tell tell us how max brings this broken down max um yeah it does a like a circular run around them and then jumps on the back of its head and like bites into its neck and it's on the floor like going
+[SPEAKER_00]: Okay, anything else from Max?
+[SPEAKER_02]: Max, having done that, bonus action, try to intimidate Grokken 1.
+[SPEAKER_00]: Yeah, all right.
+[SPEAKER_00]: Yeah.
+[SPEAKER_02]: I have no idea how to roll that on here.
+[SPEAKER_02]: Can I just roll a Charisma check?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Oh, Max should have more Charisma than this.
+[SPEAKER_02]: Well.
+[SPEAKER_00]: Yeah, unfortunately, poorest, but I feel like that's not optimal.
+[SPEAKER_02]: No, I think he should have a...
+[SPEAKER_00]: I mean, he's a very old dog.
+[SPEAKER_00]: He's definitely got more charisma than dexterity.
+[SPEAKER_02]: Yeah.
+[SPEAKER_00]: But if he survives, we can sort that out.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: When he survives, we'll sort that out.
+[SPEAKER_00]: Fabian, death saving throw, please.
+[SPEAKER_02]: That is private to Game Master.
+[SPEAKER_02]: Or blind to Game Master.
+[SPEAKER_02]: I don't know.
+[SPEAKER_00]: All right, N10.
+[SPEAKER_05]: Dodge.
+[SPEAKER_04]: More Grokken.
+[SPEAKER_04]: I'll give him a good sheffing.
+[SPEAKER_04]: I will attack Grokken 1 with my scimitar.
+[SPEAKER_00]: Let's end.
+[SPEAKER_04]: For this much damage.
+[SPEAKER_04]: And then I'll offhand him with a dagger.
+[SPEAKER_04]: For this much damage.
+[SPEAKER_04]: Oh, wait, no, I rolled the attack first.
+[SPEAKER_04]: This much attack.
+[SPEAKER_04]: Missing terribly.
+[SPEAKER_04]: And I'll end my turn.
+[SPEAKER_04]: Alex away, but I can control Sarah Fallon.
+[SPEAKER_02]: Oh, sorry.
+[SPEAKER_04]: She'll end her talk.
+[SPEAKER_02]: I thought that was the I'm up next noise, not I'm up now noise.
+[SPEAKER_02]: That's right.
+[SPEAKER_02]: Yeah, she runs away.
+[SPEAKER_04]: Yeah.
+[SPEAKER_02]: Thank you.
+[SPEAKER_01]: Pulling away.
+[SPEAKER_01]: And that's so dumb.
+[SPEAKER_06]: Oh, let's go try and hit him again.
+[SPEAKER_00]: Which one?
+[SPEAKER_06]: The yellow one, please.
+[SPEAKER_06]: No, the red one, please.
+[SPEAKER_06]: Ah, nevermind.
+[SPEAKER_00]: Let's miss.
+[SPEAKER_06]: That's fair.
+[SPEAKER_06]: Cool.
+[SPEAKER_06]: Nothing's on.
+[SPEAKER_06]: Book.
+[SPEAKER_06]: Yeah, duty child.
+[SPEAKER_06]: And check.
+[SPEAKER_06]: Cool.
+[SPEAKER_06]: I think it's also going to aim at the right one.
+[SPEAKER_05]: Move the head.
+[SPEAKER_06]: Oh, nice.
+[SPEAKER_06]: Can you show me the other one again?
+[SPEAKER_00]: Move the head.
+[SPEAKER_06]: Oh, excellent.
+[SPEAKER_06]: Perfect.
+[SPEAKER_06]: Cool.
+[SPEAKER_00]: Oh, nice.
+[SPEAKER_00]: OK, tell us how you finish off this graphic.
+[SPEAKER_06]: Oh, as his boat, his boat, his boat is flying towards it, it just kind of gets skewered into, into, into the ground and regales a bit and that stuff's moving.
+[SPEAKER_00]: Okay, and Grocon 2 is, it turned back briefly when it saw that they had Fabian down and was annoyed at itself for missing a meal, but now, now it's thinking maybe it's far out of it, so it's going to continue on its way.
+[SPEAKER_00]: Ah.
+[SPEAKER_01]: Is it gonna try and shoot this one with an arrow?
+[SPEAKER_01]: Well done, well done.
+[SPEAKER_01]: Good for her.
+[SPEAKER_01]: And that's her done.
+[SPEAKER_04]: Del will never hit anything with his short bow, but it doesn't stop him trying.
+[SPEAKER_01]: Yep.
+[SPEAKER_00]: No, Grokken 1 is dead.
+[SPEAKER_00]: Grokken 4 is going to take a lunge at you with his claw.
+[SPEAKER_00]: Or a 13.
+[SPEAKER_04]: Missing.
+[SPEAKER_00]: And with his bite.
+[SPEAKER_00]: Or a 22.
+[SPEAKER_04]: I'm definitely hitting.
+[SPEAKER_00]: Or 10 points of damage.
+[SPEAKER_00]: My goodness.
+[SPEAKER_00]: So he cannot.
+[SPEAKER_00]: You were near death.
+[SPEAKER_00]: I cannot bonus bite you, unfortunately, because you're not prone.
+[SPEAKER_01]: Unfortunately.
+[SPEAKER_01]: Caspian.
+[SPEAKER_01]: Throw some fire.
+[SPEAKER_01]: All right, die.
+[SPEAKER_02]: I suppose anyone wants to give Babs a hand before...
+[SPEAKER_01]: I got no healing on me, do I?
+[SPEAKER_01]: Oh, no, it's dead.
+[SPEAKER_01]: It's dead.
+[SPEAKER_01]: It's dead.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: So who gets to move before Fabian?
+[SPEAKER_00]: Noah.
+[SPEAKER_01]: Can I, bonus action, do anything useful to Fabs?
+[SPEAKER_02]: I got a potion in my pocket.
+[SPEAKER_04]: I got a pocket pocket.
+[SPEAKER_00]: So yeah, someone can fish a potion out of Fabian's pocket.
+[SPEAKER_01]: I'll go fish a potion out of his pocket.
+[SPEAKER_01]: And if I'm allowed to pour it in his face, I'll pour it in his face.
+[SPEAKER_00]: Yeah, that's fine.
+[SPEAKER_00]: Combat is over, so we're not going to be too strict about that.
+[SPEAKER_01]: I'll curse him and say, Fabs, how did you end up in this stupid position?
+[SPEAKER_01]: And then I'll pour a potion down his throat.
+[SPEAKER_00]: Yay.
+[SPEAKER_02]: I'll roll back in just a second.
+[SPEAKER_00]: OK, good.
+[SPEAKER_00]: Combat is over.
+[SPEAKER_01]: Hooray, hooray.
+[SPEAKER_01]: OK, we really need to not be here anymore.
+[SPEAKER_02]: I can't believe I was almost killed by Jess's throwaway.
+[SPEAKER_02]: You probably won't have to fight anything.
+[SPEAKER_02]: Didn't even give them a speed, they were that quickly knocked together.
+[SPEAKER_01]: Everyone dog piled on Alec's life.
+[SPEAKER_00]: Well, that is how they help.
+[SPEAKER_00]: They're very much pack hunters and Papian did get out there and put himself in.
+[SPEAKER_04]: Oh, yeah.
+[SPEAKER_04]: No, he invited him.
+[SPEAKER_00]: These things are once they are, you know, once you go down, then they then they can all pile on.
+[SPEAKER_00]: So, you know, something worked as intended.
+[SPEAKER_00]: But yeah, it was.
+[SPEAKER_00]: I mean, did you roll blind or did you roll?
+[SPEAKER_00]: Did you just roll privately or did you roll blind with your death sailing through?
+[SPEAKER_02]: I was trying to roll blight and I rolled private because I pressed the wrong one.
+[SPEAKER_05]: It was not looking good.
+[SPEAKER_00]: Alright, roll your potion and delete it for your entry.
+[SPEAKER_02]: It was all worth it for Max to get his hero moment.
+[SPEAKER_02]: Okay, I would love a short rest.
+[SPEAKER_02]: When we can get one.
+[SPEAKER_00]: We can't rest here, we can't stop.
+[SPEAKER_00]: I mean, you can rest, you'll just have to keep making rolls to see if you can count yourself.
+[SPEAKER_02]: I just alerted everything within 300 feet to us, so yeah, no.
+[SPEAKER_00]: All right, so you continue to make your way across the floor of the cave, having committed now to going in this direction rather than the other one.
+[SPEAKER_00]: I very generously said that you couldn't get lost, so you don't get lost this time.
+[SPEAKER_00]: You really catastrophically fall.
+[SPEAKER_01]: I just stumbled into things instead.
+[SPEAKER_00]: And to be fair, once you get relatively
+[SPEAKER_00]: Once you get even a little bit close to it, you can see what looks like a sort of shimmering mirage of a building and a green space that really does not belong down here.
+[SPEAKER_00]: It has light that you kind of can't see and then you can see.
+[SPEAKER_00]: It's clearly magical in the sense that it doesn't carry like natural light.
+[SPEAKER_00]: It's kind of not there and then suddenly it's quite bright.
+[SPEAKER_00]: You can see what appear to be plants growing.
+[SPEAKER_00]: there is a roof of a building kind of poking up from between those plants.
+[SPEAKER_00]: There's a pretty clear boundary to this area.
+[SPEAKER_00]: Well, you definitely got some kind of impressions of this when you were speaking with the, when you were talking to the guy from the keep who was like this fucking place.
+[SPEAKER_00]: You definitely got some grand impressions and this is 100% the same place as he was talking about.
+[SPEAKER_00]: As you get close, roll me a quick intelligence.
+[SPEAKER_01]: We got everyone to do so.
+[SPEAKER_01]: Everyone, yes.
+[SPEAKER_01]: Come on, wizardry.
+[SPEAKER_01]: Oh, well done, well done.
+[SPEAKER_05]: Okay, look at that.
+[SPEAKER_00]: Okay, all of you are fairly easily able to see that this is an illusion.
+[SPEAKER_00]: None of you are, none of you are kind of, I mean, it's a, it's a
+[SPEAKER_00]: It's not a, it's a good illusion, but it's spread pretty thin over a large area.
+[SPEAKER_00]: And that makes it, that's much harder to do.
+[SPEAKER_00]: And that makes it kind of weaker.
+[SPEAKER_00]: And you can all relatively easily kind of perceive the bits that are not as detailed as they should be or quite working in the way that they should be.
+[SPEAKER_00]: Max is like amazing.
+[SPEAKER_00]: I am 100% taken in by this.
+[SPEAKER_00]: But the press, you can quite clearly see that it is a magical construct of some sort.
+[SPEAKER_00]: As you get closer, again, rolling with these intelligence shifts, particularly you, Cassian, there is a kind of threshold that you pass and you can tell because you know something about how these kinds of magic works that you are crossing with some sort of permission.
+[SPEAKER_00]: that if you hadn't been, this would probably be the point that the guy from the keep discovered where actually the illusion just kind of dissipates.
+[SPEAKER_00]: And it's, yeah, you find yourself elsewhere or whatever happened to him.
+[SPEAKER_00]: But because you have been granted permission to kind of cross this threshold, you are able to do so.
+[SPEAKER_00]: Obviously, the villagers are very surprised.
+[SPEAKER_00]: But, you know,
+[SPEAKER_00]: It looks more beautiful than anything else they've seen down here.
+[SPEAKER_00]: It looks more natural than anything else they've seen down here.
+[SPEAKER_00]: And they are very, I mean, they are very, very tired at this point and even more eager than you guys are for a rest.
+[SPEAKER_00]: So they are inclined to, you know, to trust what they see.
+[SPEAKER_00]: Almost, I don't imagine any of them are going to pass the intelligence check to determine it's illiteracy, so they are reasonably, you know, the vast majority at least don't take what they see at face value.
+[SPEAKER_02]: Can I add into something we've said to them on the way to this place?
+[SPEAKER_02]: We saw it in the distance.
+[SPEAKER_02]: Baby and Will have been prepping them on the way over.
+[SPEAKER_02]: telling them the story of the Gorgon Medhuzar and how you in this story, this horrible thing with it, looked you in the eyes, you'd certainly be turned to stone or worse.
+[SPEAKER_02]: So the witch is not quite the same.
+[SPEAKER_02]: She certainly won't die if she looks you in the eye, but...
+[SPEAKER_02]: The evil eye is a well-documented horrible thing, and if she looks your way, it's best to avert your eyes.
+[SPEAKER_02]: Don't make eye contact.
+[SPEAKER_02]: Look down at the floor.
+[SPEAKER_02]: But if she dresses you directly, treat her as you would a queen.
+[SPEAKER_02]: Take a knee and be respectful.
+[SPEAKER_00]: So they take this pretty much in their stride because they have been dealing with Leatherian.
+[SPEAKER_00]: who they know is an elf.
+[SPEAKER_00]: He's the only elf that any of them have ever met.
+[SPEAKER_00]: But that is not a bad description of the best way to deal with Tyrion in their experience.
+[SPEAKER_00]: And so they're like, right, yep, this is how this goes.
+[SPEAKER_00]: So yeah, they're pretty, they are, they are definitely on board with the like, this person can maybe help us, but also don't draw any attention to yourself.
+[SPEAKER_00]: That makes sense for them.
+[SPEAKER_00]: Before you actually arrive, is there anything else that you guys would like to do or say or plan as a pot?
+[SPEAKER_00]: You have, as far as you can tell, the opportunity to do so.
+[SPEAKER_00]: Nothing is obviously moving or visible around you.
+[SPEAKER_02]: I need to get out of here, but we should have a sleep.
+[SPEAKER_01]: before we enter the like threshold of her illusion i guess i probably would have taken 10 minutes to cast detect magic just to have it up not because i think i'll see anything other than vast amounts of magic but like if i do see anything interesting more than any like i'm not looking for anything particular but seeing if anything of interest sparks
+[SPEAKER_01]: But yes, we should absolutely rest here if we can.
+[SPEAKER_01]: I would like a rest very much.
+[SPEAKER_06]: While Gatsby is casting his ritual, I will do the same.
+[SPEAKER_06]: And I will assess a little barrier just around the entrance of the given path I will be approaching here.
+[SPEAKER_00]: So I mean, you're not walking on a specific path.
+[SPEAKER_04]: You're just giving me a direction as opposed to a path.
+[SPEAKER_00]: Yeah, you're just heading towards it.
+[SPEAKER_05]: Yeah.
+[SPEAKER_06]: OK.
+[SPEAKER_06]: Okay, well, then just outside the threshold of where it starts to get sparking.
+[SPEAKER_06]: Yeah, cool.
+[SPEAKER_00]: Anything else you guys want to be doing?
+[SPEAKER_02]: Oh, um, Sabzal just mentioned to everybody,
+[SPEAKER_02]: I know that this Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, Luff, L
+[SPEAKER_02]: That's what I was going to do.
+[SPEAKER_02]: Yes.
+[SPEAKER_01]: You know what?
+[SPEAKER_01]: I like the way you're thinking.
+[SPEAKER_00]: So you guys make your way closer to this place.
+[SPEAKER_00]: And you see as you get closer, and there's kind of almost a sort of, I suppose it looks like a sort of garden gate, I suppose.
+[SPEAKER_00]: Sort of like a high hedge with a gate in it.
+[SPEAKER_00]: It is
+[SPEAKER_00]: It is very elvish looking in its design, which some of you would definitely be familiar with as a style.
+[SPEAKER_00]: This is a much grander version than you saw at Derrith's house, but it's recognizably kind of in the same sort of style.
+[SPEAKER_00]: Refaelian, you have definitely, you know, as a kind of student of history, you would definitely be sort of familiar with the Elvish style in general.
+[SPEAKER_00]: I don't know if there's any reason particularly why the realm would be.
+[SPEAKER_00]: But this is a very Elvish looking space.
+[SPEAKER_00]: The gate is not locked and you are able to make your way inside freely.
+[SPEAKER_00]: Inside the illusion is a little bit more, the closer kind of you get to the building, the more coherent the illusion is.
+[SPEAKER_00]: And even though you're all still able to see that it's an illusion, this is where the magic is concentrated.
+[SPEAKER_00]: Again, with detect magic, you can probably feel that more substantially.
+[SPEAKER_00]: This is where the magic is kind of concentrated, where most effort has been put into it.
+[SPEAKER_00]: And it's a single building with kind of one proper floor, and then a sort of area on top of the building which has a roof over half of it and then
+[SPEAKER_00]: sort of garden area on the roof of the flat surface of the rest of the roof.
+[SPEAKER_00]: It is surrounded by what is apparently a flourishing garden.
+[SPEAKER_00]: There are little birds and insects and so on that move around.
+[SPEAKER_00]: None of them are real.
+[SPEAKER_00]: You can all
+[SPEAKER_00]: see that.
+[SPEAKER_00]: But they are, yeah, they are an illusion which is set up.
+[SPEAKER_00]: It's not something which has been, it's not something which is continuously maintained, you can tell with detect magic.
+[SPEAKER_00]: This is a spell which has been cast often enough over a long enough period that it has become kind of established and rooted here.
+[SPEAKER_00]: So it now doesn't require kind of additional magic to keep it going.
+[SPEAKER_02]: As we're approaching this illusion, Jess, before we get up to the house, we know it's not real.
+[SPEAKER_02]: Is this the kind of thing which we can attempt to see through?
+[SPEAKER_02]: If I were to concentrate on the gate for long enough, could I see what actually lay beneath the illusion?
+[SPEAKER_00]: Yeah, potentially, if you really try.
+[SPEAKER_02]: Maybe the garden wall.
+[SPEAKER_02]: There's a wall and a gate.
+[SPEAKER_02]: What does the wall really look like?
+[SPEAKER_00]: Sure, yeah, make another intelligence check.
+[SPEAKER_00]: No.
+[SPEAKER_02]: No.
+[SPEAKER_00]: Okay, yeah, difficult to tell.
+[SPEAKER_02]: Maybe it's not an illusion.
+[SPEAKER_01]: Perhaps it really is, you were right the first time.
+[SPEAKER_01]: Stop staring, stop trying to stare directly at it, it just, it doesn't work that way.
+[SPEAKER_00]: There's no sign of the tiger.
+[SPEAKER_00]: Etherean emerges from the house.
+[SPEAKER_00]: You get a strong ping of detect magic from her staff.
+[SPEAKER_00]: She emerges from the house.
+[SPEAKER_00]: She looks calmer than the last time that you saw her a few hours, a couple of hours ago.
+[SPEAKER_00]: It's probably taking you a couple of hours to walk over here because you were not going to break.
+[SPEAKER_00]: She doesn't look delighted to see you, but she looks like she doesn't look surprised either.
+[SPEAKER_00]: As you kind of all crowd into her space, there's a lot of you in here.
+[SPEAKER_00]: This is definitely not a space designed for this many people.
+[SPEAKER_00]: And the enclosure of the garden feels crowded as you all kind of press in.
+[SPEAKER_01]: As we come in, I'll thank her again for allowing us entrance into, I guess, her domain comment on how skillfully the illusion has been crafted.
+[SPEAKER_01]: So it took us a little longer to get here than we would have liked.
+[SPEAKER_01]: Admittedly, I got a little lost on the directions, but thank you again.
+[SPEAKER_00]: She gives a kind of little shrug and she says,
+[SPEAKER_00]: I rather surprised myself with that offer, perhaps.
+[SPEAKER_00]: Well, Neotherians company.
+[SPEAKER_00]: It has changed my perspective in ways I didn't expect.
+[SPEAKER_00]: This perhaps is a consequence of that.
+[SPEAKER_00]: Or maybe I was just feeling guilty that I did not offer him this road myself.
+[SPEAKER_00]: Either way, it is best that you be gone, I think.
+[SPEAKER_01]: We agree wholeheartedly.
+[SPEAKER_01]: We are quite...
+[SPEAKER_01]: drained if we could maybe have a quick sit down for an hour before we travel the path that you said may also be very dangerous that I think would benefit everyone we've dragged these people through quite some miles and they are not used to traveling at our speed but yes if perhaps we could rest for an hour before
+[SPEAKER_01]: God damn it, Fab, you should have asked.
+[SPEAKER_01]: Sorry, one sec.
+[SPEAKER_00]: When you initially say we'd all like to sit around here for an hour, she does not look, please.
+[SPEAKER_00]: But.
+[SPEAKER_05]: But she's sweet.
+[SPEAKER_00]: She really is.
+[SPEAKER_00]: When you when you say, when you say these people are not used to traveling, etc.
+[SPEAKER_00]: When she said she surprised herself with the offer, she clearly again surprises herself.
+[SPEAKER_00]: She looks over at the people and you can see that she is just like, what the fuck, like,
+[SPEAKER_00]: these people are like these worthless people are cluttering up my, but as you, as you speak about them with, you know, compassion and kindness, some of that really robs off on her in some way.
+[SPEAKER_00]: And she changes the way that she is looking at these people changes.
+[SPEAKER_00]: And she seems to sort of see them for, you know, for people who need help rather than just, well, rather than just
+[SPEAKER_00]: discarded possessions of Lehithurians.
+[SPEAKER_01]: Oh, I'm so glad that humanity has rubbed off on her.
+[SPEAKER_01]: So glad.
+[SPEAKER_01]: Max would be so proud of me right now.
+[SPEAKER_00]: And she says, You're right.
+[SPEAKER_00]: I'm sorry.
+[SPEAKER_00]: I did not consider.
+[SPEAKER_00]: Please rest.
+[SPEAKER_00]: I will.
+[SPEAKER_00]: Well, I will arrange some
+[SPEAKER_00]: refreshment, something to strengthen you ahead of your journey.
+[SPEAKER_01]: Caspian literally looks surprised.
+[SPEAKER_02]: Fabian Whistler, good job, Caspian.
+[SPEAKER_01]: I don't know what I did, Fab, but shit.
+[SPEAKER_00]: Right, you set Leveran down in the garden to have a short rest.
+[SPEAKER_00]: She disappears off into her house for a few minutes, but she comes back with a large kettle of tea of some sort, which she distributes to your people.
+[SPEAKER_00]: It is broadly restorative and gives everyone
+[SPEAKER_00]: Give Sarah and a few hit points back.
+[SPEAKER_00]: Makes people feel better.
+[SPEAKER_00]: You can have your took rest.
+[SPEAKER_01]: I got two hit points to roll and I'm gonna roll them.
+[SPEAKER_01]: And I can claw back a spell.
+[SPEAKER_01]: Well, I can claw back three spells.
+[SPEAKER_02]: How many hit points did she restore?
+[SPEAKER_00]: She, you can roll 1d8 to restore her points from her... That was Caspian.
+[SPEAKER_00]: You're rolling 1d8.
+[SPEAKER_02]: Hey!
+[SPEAKER_02]: Oh, wait, what?
+[SPEAKER_02]: Is this Jess rolling 1d8 or Caspian?
+[SPEAKER_01]: No, you rolled them.
+[SPEAKER_02]: Okay, right, right.
+[SPEAKER_01]: I rolled two of my hit dice and then I rolled an idiot.
+[SPEAKER_02]: Hey!
+[SPEAKER_03]: Pretty good.
+[SPEAKER_04]: I thought my dice was Alex and I was pretty excited and then I saw my dice.
+[SPEAKER_01]: I can get a level three spell back.
+[SPEAKER_01]: What a treat.
+[SPEAKER_03]: I'm using it wrong.
+[SPEAKER_04]: Does Fabian give us an inspiring speech?
+[SPEAKER_04]: Can he do that on a short rest?
+[SPEAKER_02]: I do indeed.
+[SPEAKER_04]: Oh, that would be nice.
+[SPEAKER_04]: Yeah.
+[SPEAKER_02]: Yes, when we wake up, perhaps goes, haven't we come far?
+[SPEAKER_02]: Can you believe we've trekked across these planes?
+[SPEAKER_02]: We can do it.
+[SPEAKER_02]: I have 10 hit points.
+[SPEAKER_05]: Temporary ones.
+[SPEAKER_01]: Great hit dice you have.
+[SPEAKER_00]: Okay, everyone happy with their short rest occurrences?
+[SPEAKER_00]: Yeah, I'm just changing one of my spells.
+[SPEAKER_00]: But yes.
+[SPEAKER_03]: Okay.
+[SPEAKER_05]: I think that's good.
+[SPEAKER_02]: Oh, wait, what?
+[SPEAKER_01]: What?
+[SPEAKER_01]: What just happened?
+[SPEAKER_02]: I can't believe this.
+[SPEAKER_02]: My god, and the three of you in particular were just so awe-inspiring.
+[SPEAKER_02]: Do you remember that time where Rell jumped through the bone storm and grabbed that elf's cloak?
+[SPEAKER_02]: Well, you've inspired us all, heroically.
+[SPEAKER_02]: I can't believe I can do that on a short rest, and I have not noticed that.
+[SPEAKER_00]: You just live with a short rest, Fabian.
+[SPEAKER_00]: These are your times to shine.
+[SPEAKER_02]: Yeah, you could have your heroic inspiration back insane.
+[SPEAKER_02]: We should short rest more often.
+[SPEAKER_05]: Yeah.
+[SPEAKER_00]: So, as you guys have your short rest, Ethryn will come and speak mostly to Caspian, who is clearly the person in the group that she thinks would be the most fun.
+[SPEAKER_00]: And Caspian should just be in charge of talking to Elston from now on.
+[SPEAKER_01]: Yeah, yeah, it works out.
+[SPEAKER_00]: comes and talks to principal music casting, but everyone is there, about what this route is like.
+[SPEAKER_00]: So she explains that it is a shortcut through the Feywild.
+[SPEAKER_00]: Now you know something about this sort of thing in theory.
+[SPEAKER_00]: It is a thing that
+[SPEAKER_00]: ravelers used to do to be able to kind of anchor a point in the Feywild and then get to it relatively quickly from where they were.
+[SPEAKER_00]: It is not a thing you know of anyone having done or, you know, this has been purely theoretical from your perspective, but it's not unknown to you that this is something that can happen or could happen in the old days.
+[SPEAKER_00]: It's not done anymore, because the Fey world is incredibly dangerous to go into.
+[SPEAKER_00]: It really doesn't really make any bones about the fact that this path is risky.
+[SPEAKER_00]: She used to use it quite often, even when she was first here in the Stonehunger and it has got worse and more dangerous, required more warning over the years.
+[SPEAKER_00]: She hasn't used it herself in quite a long time.
+[SPEAKER_00]: She clearly has
+[SPEAKER_00]: Yeah, she's a little bit cagey about some aspects of that, but she hasn't used it.
+[SPEAKER_00]: She hasn't been there personally herself in quite a long time.
+[SPEAKER_00]: So she can't vouch for exactly what it's like, but it was possible the last time she was there.
+[SPEAKER_00]: The Feywild, as she describes it, is just a kind of wasteland, I suppose, completely overrun by Bothrel in various forms.
+[SPEAKER_01]: sometimes.
+[SPEAKER_00]: This path is kept clear by the wards that Neatherian has given her to lay down along the path.
+[SPEAKER_00]: It wasn't originally cleared
+[SPEAKER_00]: How many questions would you volunteer?
+[SPEAKER_01]: I would ask all the questions, Jess, every question.
+[SPEAKER_01]: I want to know everything that she would tell me, like purely research purposes.
+[SPEAKER_01]: And I would tell her, like, I'm fascinated by this.
+[SPEAKER_01]: But obviously I want to know, like, what the runes are she's using, how it keeps the author a bit.
+[SPEAKER_01]: I want to know everything that she can tell, everything.
+[SPEAKER_01]: I ask every question.
+[SPEAKER_01]: Even when she noticeably gets annoyed at me, I will continue to ask questions.
+[SPEAKER_00]: You need to be reasonably patient because you've made a couple of good persuasion texts.
+[SPEAKER_00]: to wait, then I'm going to push it as much as I can.
+[SPEAKER_00]: She explains that the necromantic magic of the sort that Leotharion uses can hold back Buthril.
+[SPEAKER_00]: It doesn't destroy it, but it can hold it at bay.
+[SPEAKER_00]: And that originally, when she
+[SPEAKER_00]: Originally when she left the, she left the Elvish Empire, she left Elmereth, which she describes, it was clearly an escape of some sort.
+[SPEAKER_00]: Like she didn't just leave, she ran away, I suppose.
+[SPEAKER_00]: When she left, she took with her certain,
+[SPEAKER_00]: necromantically charged objects which she used to initially kind of construct this path.
+[SPEAKER_00]: Those sort of lost their power, eventually, and Leatherian helped her by supplying new ones.
+[SPEAKER_01]: she thinks that they will be when she initially ran that path or like the author has been there a lot long enough time.
+[SPEAKER_00]: It has been there, but it she's it has got worse in the time that she has been.
+[SPEAKER_00]: Yeah, it's it's it is it has got worse.
+[SPEAKER_00]: And it may have got worse yet.
+[SPEAKER_00]: And the path may therefore have been overrun.
+[SPEAKER_00]: She's not sure which doesn't think she thinks as far as you know, still is to
+[SPEAKER_00]: She obviously emphasizes the importance of not straying from the path.
+[SPEAKER_00]: That if you are moving quickly and you don't stop and you're careful, it should be possible to get through.
+[SPEAKER_00]: But that if any, when you cross back into the material plane, it's important not to bring any trace of the throne with you.
+[SPEAKER_00]: it doesn't grow well on the material plane.
+[SPEAKER_00]: So it requires a relatively substantial amount of contamination to kind of start an outbreak, but it's certainly possible.
+[SPEAKER_00]: So you need to be very careful.
+[SPEAKER_01]: If I like fireball the area after we've come out of like the doorway, I guess, would that take away any contamination possibility if I nuke the area?
+[SPEAKER_01]: And how powerfully you nuke it.
+[SPEAKER_01]: Level three fireball is not set to most things.
+[SPEAKER_00]: Fire magic is not really her thing, so she's not 100% sure.
+[SPEAKER_00]: Magic can destroy it.
+[SPEAKER_00]: But yeah, she's not sure how much would be needed.
+[SPEAKER_00]: Better to be careful.
+[SPEAKER_00]: What else would you ask her about?
+[SPEAKER_01]: Literally everything that she can tell me about Uthral and all of the science of it and I will write it all down and record all of that information.
+[SPEAKER_01]: Everything she knows about it, how to fight it, how the necromantic magic keeps it at bay.
+[SPEAKER_01]: Can I have a copy of the runes that she uses?
+[SPEAKER_00]: Can I?
+[SPEAKER_00]: So she herself does not practice necromantic magic.
+[SPEAKER_00]: And in the course of your conversation, it becomes clear that that is why she left Thalmyrith, because she was under pressure to do so.
+[SPEAKER_00]: And she didn't want to, she wanted to maintain the kind of purity of her druidic practice, which is not at all based on necromantic type of magic.
+[SPEAKER_00]: So she doesn't, there's a lot she doesn't know about it.
+[SPEAKER_00]: And she doesn't,
+[SPEAKER_00]: She doesn't disapprove of it as a practice, but she's well aware of the ways in which it damages the soul, I suppose, and she didn't want that for herself.
+[SPEAKER_00]: A decision about which she clearly feels a little bit conflicted.
+[SPEAKER_00]: Yeah, that's why she left.
+[SPEAKER_00]: So she doesn't know an enormous amount.
+[SPEAKER_01]: She took items that had that energy that made the path in the first place.
+[SPEAKER_01]: So what was the items that she used that, I guess, have since run out?
+[SPEAKER_01]: But what sort of items was it that she used that kept the Otholubi in that sense?
+[SPEAKER_00]: So these were, as you would be fairly familiar with these sorts of things, these were stones, I suppose, that had magic infused into them.
+[SPEAKER_01]: Right, fair enough.
+[SPEAKER_00]: It's quite a common way of setting up kind of magical ways or paths or that sort of thing.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: And is there what other things might we encounter on this path?
+[SPEAKER_01]: Is it just the offroar we need to be aware of or like a fair creature is going to come out and try and tempt the villagers into the fair wild?
+[SPEAKER_00]: So as far as she is aware, there are no fey creatures left in this part of the Feywild.
+[SPEAKER_00]: The thrill has destroyed everything.
+[SPEAKER_00]: You won't meet any other kind of living things because nothing else can exist there any longer.
+[SPEAKER_01]: Well, the pocket, the Feywild that we encountered was like a pocket of Feywild, wasn't it?
+[SPEAKER_01]: It wasn't like Feywild in...
+[SPEAKER_00]: It was not the Feywild.
+[SPEAKER_00]: It was a pocket
+[SPEAKER_00]: a demi-plane that had been created, like an archway had kind of crafted that garden to look like the Feywild and be like the Feywild, but it was not a part of the Feywild.
+[SPEAKER_01]: So do we, I guess I would ask her openly anyway, is the entirety of the Feywild at this point covered in Othwell?
+[SPEAKER_01]: Like is it all just decayed and fucked?
+[SPEAKER_00]: As far as she knows, yes.
+[SPEAKER_01]: That's very sad.
+[SPEAKER_01]: So sorry.
+[SPEAKER_00]: Yeah, she is also, I mean, yeah, I mean, it is the great tragedy of the elves that their homeland was, yeah, as far as she knows, there's nothing left.
+[SPEAKER_00]: Although, I mean, she's like, there might be in some places who knows, but not that they have access to
+[SPEAKER_01]: They have no known location that is like a safe little haven other than maybe the old path, I guess, like this one.
+[SPEAKER_00]: Yeah, so it is possible to go into the Feywild and kind of push back the Uthrell in limited ways with enough magic.
+[SPEAKER_00]: Dangerous, but possible to do.
+[SPEAKER_00]: What she's done in creating this path is very much not authorized.
+[SPEAKER_00]: You're not supposed to open up private channels to the Feywild in case the Uthrell gets through.
+[SPEAKER_00]: But she's done it anyway, because she wants to be in the Stonehunger, but not actually trapped in the Stonehunger.
+[SPEAKER_00]: The reason, so she will also tell you, she, Leatherian wanted to use this path and asked her to use it, as he has done before, and she
+[SPEAKER_00]: She basically does not trust him enough not to go and do something problematic.
+[SPEAKER_00]: Well, she trusts you not to know how to do anything problematic basically.
+[SPEAKER_00]: I don't see how you guys could really cause a problem.
+[SPEAKER_02]: Oh, she does not know us well enough.
+[SPEAKER_00]: Remember you looked pretty harmless when she met you.
+[SPEAKER_01]: It's true.
+[SPEAKER_01]: We have like a combined total of 10 hit points.
+[SPEAKER_01]: Yeah, exactly.
+[SPEAKER_01]: Exactly.
+[SPEAKER_01]: So yeah.
+[SPEAKER_01]: She had mentioned she doesn't know like if this path is still like safe and the runes are still working as well.
+[SPEAKER_01]: So I would probably ask her
+[SPEAKER_01]: If we come across runes, I don't think there's anything that I can do, but if there was anything I could do to fix any of the path, would she want me to attempt to do anything to fix any path or just try and get through and run away?
+[SPEAKER_00]: So I think she would be quite surprised to hear that you thought you could do anything.
+[SPEAKER_01]: I would try.
+[SPEAKER_01]: I would be interested in trying, I would stress, because it's something new and interesting.
+[SPEAKER_00]: I'm going to do a quick role for her now.
+[SPEAKER_00]: She's tittering the question of how and why you might have access to that sort of magic.
+[SPEAKER_06]: God damn it, Caspian.
+[SPEAKER_00]: I like to experiment.
+[SPEAKER_00]: I like to try things.
+[SPEAKER_00]: But she's not as vicious.
+[SPEAKER_00]: Okay, good to know.
+[SPEAKER_02]: Caspian, why don't you come and have a nap?
+[SPEAKER_02]: Haven't you talked for long enough?
+[SPEAKER_00]: Yeah, she says that anything that can be done to strengthen the integrity of the path would be good, but she's not expecting, she's not expecting you to be able to do anything.
+[SPEAKER_00]: And that you should be careful, like interfering with that sort of magic.
+[SPEAKER_00]: There could be, you know, if you destabilized it, there could be a backlash that could put injury.
+[SPEAKER_01]: Yeah, and it's not the magic, but she knows, so she can't exactly give me any tips on it, but still.
+[SPEAKER_00]: No, she can't.
+[SPEAKER_00]: No, she absolutely can't.
+[SPEAKER_00]: She was relatively resigned when she first came here to that path eventually decaying and her having to figure out other ways.
+[SPEAKER_00]: When the Ethereum came down here, which was considerably after she came down here, she saw an opportunity to kind of refresh and renew it, but she has not been along this path herself in the last three years.
+[SPEAKER_00]: So, yeah, she's, yeah, she's not sure what state.
+[SPEAKER_06]: And in terms of being careful traffic will again just, just, just try to make sure
+[SPEAKER_06]: She she said that that doesn't doesn't survive very well on the state if it comes in small doses.
+[SPEAKER_06]: So we shouldn't worry about people spreading spores on their shoes or paws or anything.
+[SPEAKER_00]: You should stay on the path.
+[SPEAKER_00]: You should not go off and walk into a thrill and so on.
+[SPEAKER_00]: It's always possible.
+[SPEAKER_00]: I mean, you
+[SPEAKER_00]: Make a quick insight check.
+[SPEAKER_06]: Cool.
+[SPEAKER_06]: Cool.
+[SPEAKER_06]: Cool.
+[SPEAKER_06]: Cool.
+[SPEAKER_06]: Cool.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So she, she plays down the risks, but you get the impression that a, she is clearly understand she wasn't supposed to do this and is maybe for her own piece of mind, trying to play down the, the potential danger of, you know, the sort of seriousness of having done this thing and setting up this path.
+[SPEAKER_00]: Hmm.
+[SPEAKER_00]: Also, despite her recent surge of, you know, compassion prompted by Fabian's, you know, very moving little speech, this is ultimately not her problem.
+[SPEAKER_00]: And she seems to be around.
+[SPEAKER_00]: Yeah, she, hmm.
+[SPEAKER_00]: Yeah, there's no problem.
+[SPEAKER_00]: So she's not, there's a bit of a like, well, if it happens, it happens.
+[SPEAKER_00]: And you're not sure whether that is because she's not going to be there, it's not a good problem for her, or because she thinks it's going to happen eventually anyway, maybe, and that if it happens to be now, it happens to be now, unclear.
+[SPEAKER_00]: But she's a bit fatalistic about, well, you know, do your best, but
+[SPEAKER_01]: Would on the basis of that probably ask her if she knows about the Othwell having spread anywhere on the material plane and if she is aware of its existence elsewhere?
+[SPEAKER_00]: So she she says it's impossible to entirely cut off connection to the Feywild and where there are connections there's going to be outbreaks.
+[SPEAKER_00]: she talks about the efforts within the Ellen flame to ward any entrance against the possibility that within the lands that the elves control, they are doing everything they can to limit the possibility.
+[SPEAKER_00]: But again, you get that sense
+[SPEAKER_00]: Can you get that sense of kind of fatalism in a way that it's kind of trying to hold back something that ultimately won't be held back?
+[SPEAKER_01]: Okay, I get that.
+[SPEAKER_01]: That's fair.
+[SPEAKER_01]: Okay.
+[SPEAKER_06]: Anything else that we desperately need to know?
+[SPEAKER_01]: I mean, I want to know all of the things, but she can't tell me how to use terrible, terrible evil magic to keep the Earth roll at bay.
+[SPEAKER_01]: So yeah, is there anything else anyone wants to ask?
+[SPEAKER_00]: She explains to you that she set up an anchor point for this path, just to the west of the Ridgeway Pass, which was the route that she used to leave Salmareth when she came.
+[SPEAKER_00]: And then when she set up the kind of anchor point for this path there.
+[SPEAKER_00]: So that is where it will come out.
+[SPEAKER_00]: you'll get to a point where there will be a gateway that is kind of key to the fact that you've entered through the gateway that she is going to create here.
+[SPEAKER_00]: It wouldn't be visible to you if you hadn't come in that way.
+[SPEAKER_00]: It should take you around a day to reach it, maybe longer if you're very slow, but you shouldn't stop and sleep there.
+[SPEAKER_00]: You should press on.
+[SPEAKER_00]: You'll be, it's not near to a, it's not near to a town or a village or anything like that.
+[SPEAKER_00]: It'll be kind of out in the woods a little bit, but you should be able to find your way around so pretty easily.
+[SPEAKER_01]: Fabs, can you... Well, I know he's not here, but we'll ask Fabs to really press to the villagers not to fucking leave the wards in any way, shape or form, not to let them touch anything, not to let them go near anything.
+[SPEAKER_01]: They must stay in the wards.
+[SPEAKER_01]: If they don't stay in the wards, I'm gonna kill them.
+[SPEAKER_01]: Like, I'm just gonna kill them.
+[SPEAKER_02]: Fabs will tell, like, proper horror stories of times where adventurers touch something and instantly turn to stone or dust or exploded into a million spiders.
+[SPEAKER_02]: Especially the children.
+[SPEAKER_01]: Yeah, like any nightmares, make them worse.
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: Anything else during the short rest that you want to do by way of preparation or ask Ithrian or do or anything else?
+[SPEAKER_02]: Um, I just want to keep looking around the house and looking real hard.
+[SPEAKER_02]: I want to look under the illusion and see if the house is made of bones or something.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: You can have one more try at looking under the illusion.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Anyone else want to look under the illusion with me?
+[SPEAKER_00]: Yeah, why not?
+[SPEAKER_00]: I feel quite busy with the chat, I would say.
+[SPEAKER_01]: Yeah, I'm busy.
+[SPEAKER_01]: I'm learning everything I possibly can about withdrawal.
+[SPEAKER_01]: I can't talk about the solution.
+[SPEAKER_02]: I will shuffle over to Rell and go, hey, Rell, what do you reckon that ball really looks like?
+[SPEAKER_02]: I bet you it's made of crab shell.
+[SPEAKER_03]: I'm sorry, Fabian.
+[SPEAKER_03]: I'm very much not keen to draw this woman's attention.
+[SPEAKER_03]: I'm going to keep to myself.
+[SPEAKER_02]: That's all right.
+[SPEAKER_02]: I knew I knew the Trevor could be more fun.
+[SPEAKER_06]: Hey, Trevor.
+[SPEAKER_06]: Absolutely.
+[SPEAKER_06]: That time I was super out.
+[SPEAKER_01]: He's going to annoy this woman.
+[SPEAKER_02]: It's going to be a case of a wish I'd never seen it, isn't it?
+[SPEAKER_01]: It's just a hedge.
+[SPEAKER_02]: The walls are made of congealed blood.
+[SPEAKER_00]: You've rolled your dice so privately I can't see them.
+[SPEAKER_00]: Oh, sorry.
+[SPEAKER_02]: You're right.
+[SPEAKER_02]: I was playing around with Max's stats.
+[SPEAKER_02]: Oh, I did it better the first time, damn it.
+[SPEAKER_00]: I can't even reveal your private dice, they're very private.
+[SPEAKER_00]: Yeah, okay, no, you're still not able to, although you can see the edges of the illusion, you're still not able to perceive what's there.
+[SPEAKER_00]: I believe.
+[SPEAKER_00]: Trevick, do you want to do this as well?
+[SPEAKER_06]: Yeah, am I going in perception or investigation?
+[SPEAKER_00]: This is just a blind intelligence, this is just a pure intelligence to try to see through an illusion.
+[SPEAKER_00]: The two of you, as you come out, you're like, maybe, you know, maybe we'll...
+[SPEAKER_02]: I think Caspian's having us on.
+[SPEAKER_00]: I think it's just a house.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: So, Ithrian will set up, will open this gateway for you.
+[SPEAKER_00]: Again,
+[SPEAKER_00]: Uh, Casby and you are aware that this is magic, which has been kind of anchored.
+[SPEAKER_00]: It's not, she's not using very much active magic to do this.
+[SPEAKER_00]: She's kind of drawing on, on structures that she has put in place before now.
+[SPEAKER_00]: Um, it is a fairly typical magical gateway in the sense that you can't see really what you're kind of stepping into when you go through it.
+[SPEAKER_00]: It's a bit of a leap of faith in that sense.
+[SPEAKER_00]: Cool.
+[SPEAKER_01]: I'm going to take the leap of faith after we spoke so much of our thrall.
+[SPEAKER_01]: I believe her.
+[SPEAKER_01]: I'm choosing to believe she is aiding us.
+[SPEAKER_00]: You step through and I'm assuming probably the rest of the party will follow you in due course.
+[SPEAKER_00]: What you see is very bleak.
+[SPEAKER_00]: It is
+[SPEAKER_00]: So you have been in the garden, which is a pretty fair representation of the Feywild as it used to be.
+[SPEAKER_00]: And there is the same kind of pinkish purplish tinge to the sky.
+[SPEAKER_00]: But everything else is really just this
+[SPEAKER_00]: of powdery, it's almost as though it's encoded in a kind of ash, this kind of powdery grayish substance that has kind of sort of lumps in it and so on, but it really just kind of stretches away to a kind of hazy, the air is quite thick.
+[SPEAKER_00]: There is a path laid out in front of you, which you can clearly see.
+[SPEAKER_00]: It is clear of Uthrell, but the ground is bare.
+[SPEAKER_00]: There's nothing kind of growing here.
+[SPEAKER_00]: You would surmise, I think, Caspian, that the very necromantic magic that is holding back the Uthrell is also suppressing, like any other signs of life that could be here.
+[SPEAKER_00]: Yeah, okay, it stretches off into the into this field of kind of gray rotting decaying matter.
+[SPEAKER_01]: It's very sad and I'm immediately very sad and
+[SPEAKER_01]: Is it like, I guess I take the opportunity to never stray from a path, but look around, is the land itself quite flat?
+[SPEAKER_01]: Can you see quite far?
+[SPEAKER_01]: So can you see that the earth really does spread like for miles and miles and miles?
+[SPEAKER_00]: So the land is relatively flat.
+[SPEAKER_00]: It hasn't, there are still kind of the natural topographical features.
+[SPEAKER_00]: So you can see in some places kind of see the hills and so on, but all of the vegetation and such has been flattened out.
+[SPEAKER_00]: So you can see for quite a long way where you are.
+[SPEAKER_00]: Assuming that you're not going to do anything that you are going to make forward progress.
+[SPEAKER_01]: But it's so barren and awful.
+[SPEAKER_01]: I don't even want to get a sample.
+[SPEAKER_01]: I hate this place.
+[SPEAKER_01]: This is really sad.
+[SPEAKER_00]: So you do make your way along this path.
+[SPEAKER_00]: Make a quick perception check.
+[SPEAKER_01]: Anyone else?
+[SPEAKER_04]: Yeah, was this open to the group or?
+[SPEAKER_04]: Everyone, yes.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Okay.
+[SPEAKER_01]: Okay.
+[SPEAKER_02]: Yes, I am.
+[SPEAKER_02]: What type of, is this a listening or a looking?
+[SPEAKER_01]: This is a looking.
+[SPEAKER_01]: Are you ruling for Max?
+[SPEAKER_02]: I am, because Max is actually quite good at this.
+[SPEAKER_02]: He's going to act as our vigilant guard dog now.
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: I don't think this is relevant to Max, really, but I appreciate that.
+[SPEAKER_00]: OK, so you're all going to see this for sure, but traffic and rail.
+[SPEAKER_00]: I can imagine you are the ones who are kind of keeping a lookout for the party in general.
+[SPEAKER_00]: And so it's not surprising that you are the first two spots.
+[SPEAKER_00]: off to the left of the path in the direction that you are going.
+[SPEAKER_00]: Pretty far away, kind of on the horizon, you see a change.
+[SPEAKER_00]: Instead of the flat-ish, featureless plane of Uthra, you can see what look like buildings, quite large buildings, against the horizon.
+[SPEAKER_04]: Describe their architecture to me, please.
+[SPEAKER_00]: It looks martial, as far as you can tell.
+[SPEAKER_00]: There are towers.
+[SPEAKER_00]: Two of them are linked by what could be the wall of a fort, perhaps.
+[SPEAKER_00]: It's difficult to make out any detail because, as I say, the air is quite thick with the kind of floating spores of the throat and so on.
+[SPEAKER_00]: But these are dark, they're clearly made of some kind of dark stone or dark material because they look kind of black against the horizon.
+[SPEAKER_00]: The light of the Feywalt is always kind of quite low, but nonetheless, you're pretty sure these are made out of some kind of black stone or something similar.
+[SPEAKER_00]: They're too far away for you to really make out any kind of, if there are figures around them or anything like that, but they're really too far away for you to see that from where you are.
+[SPEAKER_00]: But yeah, this is not something that Ithrian made any mention or suggestion of, but then they are.
+[SPEAKER_01]: You can ask her about it later.
+[SPEAKER_01]: Just keep, keep moving.
+[SPEAKER_02]: Let's try and stay away from them.
+[SPEAKER_01]: Don't look at it.
+[SPEAKER_01]: Don't look directly at it.
+[SPEAKER_01]: Don't beat us, Jess, we will continue moving.
+[SPEAKER_00]: You certainly can.
+[SPEAKER_00]: So you make it, you continue on.
+[SPEAKER_00]: You are all now at the point of definitely having to make some contracts against exhaustion.
+[SPEAKER_00]: We're not even going to make exhaustion checks for the villagers.
+[SPEAKER_00]: They are 100% exhausted and like running on empty.
+[SPEAKER_00]: But if you guys could all make constitution saving throws pleads against exhaustion because you are long overdue along rest of this point.
+[SPEAKER_01]: I'm gonna push my local astrologist.
+[SPEAKER_05]: Ooh.
+[SPEAKER_01]: I don't even know what I rolled.
+[SPEAKER_01]: Pispira.
+[SPEAKER_01]: I rolled a Pispira roll.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Caffeine and ral, you guys are feeling good.
+[SPEAKER_00]: Like a level of exhaustion.
+[SPEAKER_01]: Where's that on the sheet hood?
+[SPEAKER_04]: It's the little dots next to your AC.
+[SPEAKER_01]: Ah, sweet.
+[SPEAKER_01]: Thank you.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Is there anything on this fairly uneventful journey that you want to do or talk about or think about or shall we or otherwise I'm probably fast forward.
+[SPEAKER_01]: I would like to, I'm not touching them, but keep an eye out for the wards that you mentioned.
+[SPEAKER_00]: I mean, you can see them relatively.
+[SPEAKER_01]: Yeah, they're not like hidden in the dirt or anything like that.
+[SPEAKER_01]: Okay, then I'm definitely like sketching them out.
+[SPEAKER_01]: Like I'm meant to like make a note of all of this.
+[SPEAKER_00]: Oh, I see.
+[SPEAKER_00]: No, you can't see there.
+[SPEAKER_00]: You can't see, there's no kind of visible, there's not like a visible element to them.
+[SPEAKER_00]: I mean, you could stop and
+[SPEAKER_00]: No, I'm not going to poke them.
+[SPEAKER_00]: Investigate and figure it out and so on, but no, there's no... Maybe at the very end I'll poke one.
+[SPEAKER_01]: Sorry.
+[SPEAKER_02]: Every time Caspian stops, Fabian pokes him with his sheathed sword.
+[SPEAKER_02]: Come on, let's go.
+[SPEAKER_00]: I mean, they do seem to be functioning well.
+[SPEAKER_01]: Okay yeah that's the other thing I guess the path is still completely intact.
+[SPEAKER_00]: Yeah well there's probably one or two points where like the water has clearly weakened and the effective path has narrowed a bit and you all have to kind of ease past so it's not flawless but it's certainly still the path is certainly still open and usable.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: Is it possible as well to see, I don't know if it would be possible to see the distance between the wards, like how many, did a fuckton of wards basically have to be put down to make this path or was it like one ward every like three miles?
+[SPEAKER_01]: Make an investigation check.
+[SPEAKER_00]: So there are quite a lot.
+[SPEAKER_00]: It's not one every three miles.
+[SPEAKER_00]: It's more like one every couple of hundred meters.
+[SPEAKER_00]: But you can tell the difference between the newer ones and the older ones.
+[SPEAKER_00]: And the newer ones seem considerably more potent.
+[SPEAKER_01]: We put a dead body in these guys.
+[SPEAKER_01]: Yeah, that's fair.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: But yeah, it's all I wanted to know.
+[SPEAKER_01]: Crack on otherwise.
+[SPEAKER_00]: Anything?
+[SPEAKER_00]: Anyone else?
+[SPEAKER_06]: Not too stressed by this situation.
+[SPEAKER_06]: Just driving on.
+[SPEAKER_00]: Keep an eye on the villages.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Watching the villages.
+[SPEAKER_02]: Yeah.
+[SPEAKER_00]: Yeah, so they are, the task they have before them is relatively simple.
+[SPEAKER_00]: The earthworm is not at all enticing to go and mess with.
+[SPEAKER_00]: So they're not really, the bigger problem is keeping them going, keeping them moving because they're so exhausted, but they're also pretty well kind of motivated to do that.
+[SPEAKER_00]: So yeah, you don't have too much trouble with the villagers.
+[SPEAKER_00]: I will say, Trevick, like sometimes you pass areas which clearly have had like structures underneath them or large like areas of trees or whatever underneath them.
+[SPEAKER_00]: And you can kind of half see the shape of what the things were.
+[SPEAKER_00]: And it is, I mean, it definitely gives you cashbacks.
+[SPEAKER_00]: So bad.
+[SPEAKER_00]: So eventually, and at some point I needed to work out which bloody date it is.
+[SPEAKER_00]: But eventually you do get to the other end of this path.
+[SPEAKER_00]: You don't see any more instances of strange buildings after that one set that you passed.
+[SPEAKER_00]: The rest of the landscape is pretty featureless.
+[SPEAKER_00]: you do eventually get to the other end and you can see the kind of glowing outline of this gate, which is pretty much as far away as, it's taken you guys obviously a little bit longer because you're tired and the villages are tired, but it's pretty much where Ithrian indicated that it would be.
+[SPEAKER_01]: When we leave the Feywild entrance, does the doorway shut behind us?
+[SPEAKER_01]: Is it very clear there's nothing there anymore?
+[SPEAKER_01]: It's not like there's a secret portal completely there all the time?
+[SPEAKER_00]: The anchor point is definitely there all the time, but once you go through it, you'll be aware that it's then totally invisible to you.
+[SPEAKER_00]: You can't see it.
+[SPEAKER_00]: Ithrian would be able to make it visible and find it again, were she here, but you don't have the connection to the magic to be able to do that.
+[SPEAKER_02]: Does that mean we can't see it or we can't open it?
+[SPEAKER_02]: Could you accidentally walk through this portal?
+[SPEAKER_02]: No.
+[SPEAKER_00]: Ithrian's the only one who can, but she could go through from this end.
+[SPEAKER_00]: She could also hold it open from this end to allow other people to go through, but there's no way for anyone other than her to.
+[SPEAKER_02]: It's not just a constantly open gateway.
+[SPEAKER_02]: It's an open and closed thing.
+[SPEAKER_00]: It's a constantly potentially openable gateway.
+[SPEAKER_00]: I mean,
+[SPEAKER_00]: You would all be 100% sure that the centaurs and such would be horrified to know that someone has made this like magical weakness.
+[SPEAKER_00]: But it is fairly securely closed unless Ithrian is personally there to open it.
+[SPEAKER_02]: It's a door, not a hole.
+[SPEAKER_00]: Yeah, and it's a door that, it's a kind of, it's not like a valve, I suppose, and then you can come out of it like this, but it's almost impossible to come in from the other side.
+[SPEAKER_00]: But someone with powerful enough magical ability would be able to find the anchor point here and potentially unpick it and open it.
+[SPEAKER_00]: This in principle, they would have to know exactly where to look and they would have to be pretty skilled to be able to do it.
+[SPEAKER_00]: But yeah, in principle, it's a risk.
+[SPEAKER_01]: So if you use something like Detect Magic, you couldn't just like see a doorway, I guess.
+[SPEAKER_00]: No, definitely not.
+[SPEAKER_00]: But there would be, as I say, with enough, with enough power and skill, you would be able to, if you knew roughly, if you didn't know roughly where to look, it would be needle and a haystack.
+[SPEAKER_00]: But if you did know roughly where to look, you know, it would be, it would be possible to break in through this.
+[SPEAKER_00]: I mean, it's like creating any kind of
+[SPEAKER_00]: It is a weakness.
+[SPEAKER_00]: If it wasn't there, it would be no risk, but it is there.
+[SPEAKER_00]: It's a small risk, but it is a risk.
+[SPEAKER_01]: Before we...
+[SPEAKER_01]: I'm not doing anything, I'm not touching anything.
+[SPEAKER_01]: Fabs doesn't have to stab me.
+[SPEAKER_01]: But before we come completely through the door, one, I'm going to check none of the villagers have went and touched or thrown or covered in spores.
+[SPEAKER_01]: I'm going to check them on their way out.
+[SPEAKER_01]: and two i want to take a very good mental note of this place i want to like map it out in a book in my brain everything so that if i ever did learn enough magic to like teleport i could in theory come here but like i know that's a long way off with magical spells but like i want to map the area well enough to know it to teleport to if i choose to
+[SPEAKER_00]: Hmm, probably not possible.
+[SPEAKER_00]: Because the way, because the way this path is made sort of compresses the geography a bit.
+[SPEAKER_00]: It's, it's sort of here and sort of not here.
+[SPEAKER_00]: So I don't think that is going to be possible.
+[SPEAKER_01]: Still going to map out as much as I've seen to make some sort of book about it later.
+[SPEAKER_00]: I mean, you can definitely record and you have a fair understanding of the way that kind of the way this
+[SPEAKER_00]: The geometry here is kind of warped by the magic, I suppose, because you have enough understanding of magic to do so.
+[SPEAKER_00]: You'd be able to make something reasonably useful out of it.
+[SPEAKER_01]: Like teleport here, I guess.
+[SPEAKER_01]: Would you be able to scry on a place like this, with it being technically a different, weird plane and a weird pathway?
+[SPEAKER_00]: No.
+[SPEAKER_00]: because we haven't really got to spells like teleport and such like that yet.
+[SPEAKER_00]: But the planes are more separate, I suppose, than perhaps they would be in a traditional D&D setting.
+[SPEAKER_00]: So yeah, getting going between planes generally requires something more specific than a
+[SPEAKER_00]: Yeah, we'll cross that bridge in a week.
+[SPEAKER_00]: It is harder to go between planes than it would normally be.
+[SPEAKER_00]: Okay.
+[SPEAKER_06]: Those buildings would haunt me, but I'm really glad we didn't go there.
+[SPEAKER_01]: I really, I was wondering if you were going to be like, what would happen if I sent you off there?
+[SPEAKER_01]: And I was just like, what would happen if you...
+[SPEAKER_01]: But what I am going to do, I will let you all know there's both like in character and whatever, is tomorrow when I change my spells, I'm going to put sending on, I'm going to send her a message.
+[SPEAKER_01]: Absolutely, yeah.
+[SPEAKER_01]: There's some buildings there, because there were some buildings there.
+[SPEAKER_01]: So that's going to happen.
+[SPEAKER_01]: Um, the place that we've come out, Jess, um, where are we?
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So, uh, yeah, this will be the last thing we do.
+[SPEAKER_06]: Hold on.
+[SPEAKER_06]: Can Trevor, can I carefully checked over every village before they start for the portal?
+[SPEAKER_06]: Please.
+[SPEAKER_06]: Set them all on fire.
+[SPEAKER_06]: It's fine.
+[SPEAKER_06]: Yeah.
+[SPEAKER_06]: Yeah.
+[SPEAKER_06]: Yeah.
+[SPEAKER_06]: Yeah.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: So you guys tell me what kinds of precautions you're taking before you step through and, um,
+[SPEAKER_06]: Okay, the children and the, well yeah, no, the children in particular and the dog, Trevor is going to check over their feet and their paws and just their pockets, just to make sure that nothing is tracing in with them.
+[SPEAKER_06]: That once the children and the dog are satisfied with that, he'll go through each one of the people and tell them the horrors that he had to witness in his home, in his hometown, that like, you know,
+[SPEAKER_06]: just if like if you're going to do something stupid don't because this is what could happen and yeah um um and magically i'm out of spells so i don't think that's i could do so i've studied it before so i guess caspian would know but does it have a magical like essence so if i
+[SPEAKER_01]: If, when everyone comes out the portal, I have Detect Magic on and I'm basically scanning them for signs of oath, would it show under Detect Magic?
+[SPEAKER_01]: No.
+[SPEAKER_00]: No, it doesn't.
+[SPEAKER_00]: And in fact, if you've had Detect Magic and such, I mean, you've encountered this pretty much in, when you were in the forest where it was fairly, you know, the central social is pretty much undetectable.
+[SPEAKER_00]: But I will say, if you've done things like try Detect Magic, which I can imagine Katherine doing while you were in the Fey world, the whole place feels like,
+[SPEAKER_00]: There's, it's almost a kind of, it's nothing.
+[SPEAKER_00]: It's just a kind of blank.
+[SPEAKER_00]: Even the kind of background magic that you would normally sense, just like in the world, on the material plane, never mind somewhere like the Feywild, the Earthrealm is just completely dead to your magical sense.
+[SPEAKER_01]: If I'd have had Detect Magic up when we passed the buildings, would the buildings have flagged as any sort of magic?
+[SPEAKER_04]: They're way further away.
+[SPEAKER_01]: actually, yeah, there was Super 4.
+[SPEAKER_01]: Yeah, I will join Travick in literally looking at every single person and checking their fingers and their shoes and be like, are you tracking any other?
+[SPEAKER_01]: Right, fuck off.
+[SPEAKER_04]: Sorry, this side of the portal, is there obvious magical markings or anything?
+[SPEAKER_04]: Or is it just a spot that happens to be thinner?
+[SPEAKER_00]: How do you mean?
+[SPEAKER_04]: And when you say this side of the portal, the material side of the portal, you know, in other horizon gates, we've seen, there's been, um, so once you go through the portal, there's literally nothing.
+[SPEAKER_00]: You just step and you turn around and everything looks totally normal.
+[SPEAKER_00]: There's nothing to suggest there's any kind of crossing place.
+[SPEAKER_04]: And, and detect magic on this side, again, if it's running, when you, it doesn't show up, doesn't show up.
+[SPEAKER_04]: Interesting.
+[SPEAKER_04]: Okay.
+[SPEAKER_01]: I don't want to mark it, but I also don't want anyone else to know this exists.
+[SPEAKER_01]: But I do kind of want to mark it.
+[SPEAKER_02]: Mark it on your map.
+[SPEAKER_01]: I will map it.
+[SPEAKER_01]: I am very good at maps.
+[SPEAKER_01]: I will map it.
+[SPEAKER_04]: If we try to go back through, is that possible?
+[SPEAKER_01]: No, there's no, yeah, there's absolutely no time.
+[SPEAKER_04]: You don't just step through the wall and happen.
+[SPEAKER_04]: There is geography, right?
+[SPEAKER_04]: Understood.
+[SPEAKER_04]: Interesting.
+[SPEAKER_02]: Um, the area in the checking with prestidigitating everybody, um, I assume can do like a washing off.
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: That's a good idea.
+[SPEAKER_00]: So if you're doing general checking, you can make a survival check.
+[SPEAKER_00]: You can make an Ocona check.
+[SPEAKER_00]: That would also do in the circumstances.
+[SPEAKER_00]: Uh, yeah.
+[SPEAKER_00]: And anything that seems reasonable.
+[SPEAKER_01]: Where's my arcana gone?
+[SPEAKER_01]: Oh, because fucking exhaustion.
+[SPEAKER_00]: Whatever.
+[SPEAKER_00]: You guys do a pretty awesome job thoroughly checking before you go through.
+[SPEAKER_00]: Also, none of you, as far as you're aware, have had any, the path is relatively intact.
+[SPEAKER_00]: You've all been pretty careful as you've gone along it.
+[SPEAKER_00]: You've not made any mad forays.
+[SPEAKER_00]: So yeah, you're pretty confident that you have stayed as untouched by the Earthreal as you might reasonably expect.
+[SPEAKER_00]: And those little bits and pieces that might have been there, you have managed, you're fairly confident you managed to find a bridge out.
+[SPEAKER_00]: So as you come through, there's nothing, you're pretty confident that you're not bringing contamination.
+[SPEAKER_01]: Baby, shut up!
+[SPEAKER_01]: Is it day or night that we've come out in?
+[SPEAKER_00]: That's a good question.
+[SPEAKER_00]: Let me say it was like, it was probably about four in the morning by the time you by the time you came in here.
+[SPEAKER_00]: So I'm guessing it's probably evening again.
+[SPEAKER_00]: Now it's taken you like a day to a day and a half.
+[SPEAKER_00]: So it's probably yeah, it's probably coming up for going to sleep time, which is convenient.
+[SPEAKER_00]: You come out to be here.
+[SPEAKER_00]: It's it's
+[SPEAKER_00]: It's kind of twilight, I suppose, kind of time.
+[SPEAKER_00]: In fact, no, it's gonna be later than that because it's late autumn now.
+[SPEAKER_00]: So it is dark.
+[SPEAKER_00]: But those of you who have experience with the stars and so on, you can tell that it's, you know, it's probably around 10 o'clock or so.
+[SPEAKER_00]: You are in the foothills of the Stonemarch mountains.
+[SPEAKER_00]: It is pretty cold.
+[SPEAKER_00]: You're kind of out in the wilderness.
+[SPEAKER_00]: There's no obvious signs of habitation and so on.
+[SPEAKER_02]: We're out of the mirror now.
+[SPEAKER_00]: Yes, you are.
+[SPEAKER_02]: So resting here, there's not going to be, well, there might be different types of weird stuff, but the weird doppelganger-y other kind of stuff is not to do with this region.
+[SPEAKER_00]: No, as far as you know, there's no.
+[SPEAKER_00]: Just some like mountain lions that are going to eat us.
+[SPEAKER_00]: I mean, yeah, that could be could be dangerous.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: So we can talk about what Calrador and Moon Cross is like and what you guys know about it and so on.
+[SPEAKER_00]: But as far as you know, it's a reasonably it's a reasonably plausible place to camp.
+[SPEAKER_01]: Yeah, that's what I was going to say.
+[SPEAKER_01]: I just get it out.
+[SPEAKER_01]: I'm like, fuck it.
+[SPEAKER_01]: We get a tent out.
+[SPEAKER_01]: We make a fire.
+[SPEAKER_01]: Let's just sleep.
+[SPEAKER_06]: Trevor can breathe easy for the first seven ages.
+[SPEAKER_04]: to the 16 commoners we brought with us.
+[SPEAKER_04]: Got any of those tiny huts left?
+[SPEAKER_01]: Actually, probably do.
+[SPEAKER_01]: But all the villages will not fit in it, so.
+[SPEAKER_02]: Maybe you could sleep in it with like, ten of them.
+[SPEAKER_00]: Oh my god, Caspian and all the kids, they would love that.
+[SPEAKER_02]: Yeah, Caspian and the kids.
+[SPEAKER_00]: I'll keep my tent, I'm alright with it.
+[SPEAKER_01]: Oh, it is ritual as well.
+[SPEAKER_01]: I could, in fact, do it.
+[SPEAKER_02]: I think you should sleep with all the kids.
+[SPEAKER_02]: That would be a really good thing for you to do.
+[SPEAKER_01]: Oh, I'll ritually cast Liamen's tiny hut.
+[SPEAKER_02]: You can have the dog as well.
+[SPEAKER_01]: We only have six kids left, so it's actually not that bad.
+[SPEAKER_06]: And the elderly.
+[SPEAKER_06]: Oh, we've got eight kids.
+[SPEAKER_06]: OK. Yeah, I'll demand the seven dog.
+[SPEAKER_06]: Well, actually, you know what?
+[SPEAKER_00]: I generally did better than others.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Everyone's so tired.
+[SPEAKER_01]: I feel like they'll just pass out anyway.
+[SPEAKER_01]: So that's fine.
+[SPEAKER_01]: I'll make the hot.
+[SPEAKER_00]: Some of them have already passed out while you were having this conversation.
+[SPEAKER_01]: Absolutely fair.
+[SPEAKER_01]: I'll make the hot.
+[SPEAKER_01]: I also go pass out.
+[SPEAKER_00]: I mean, they remember have been in the Stonehunger for more than a decade.
+[SPEAKER_00]: Like for them being out here with like the grass and the trees and the stars and so on is, yeah.
+[SPEAKER_02]: I think for the kids it must be like weird.
+[SPEAKER_06]: Yeah.
+[SPEAKER_06]: Extremely weird.
+[SPEAKER_02]: We should put them in the hut and protect them and bring them out one by one in the morning.
+[SPEAKER_00]: Yeah, they probably actually would be quite keen to go in the hut with its like solid roof.
+[SPEAKER_00]: That's fair.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So long resting.
+[SPEAKER_01]: Oh, God, it's like me long rest.
+[SPEAKER_01]: So happy.
+[SPEAKER_01]: I got no hair dyes left.
+[SPEAKER_01]: I got no.
+[SPEAKER_00]: So I would say, oh, we'll do watches and we'll we'll, you know, make a plan.
+[SPEAKER_05]: I don't care.
+[SPEAKER_00]: And so on next time.
+[SPEAKER_00]: But I feel like we need this long rest.
+[SPEAKER_00]: Have a little bit of a reset.
+[SPEAKER_00]: And I think we probably I think we probably are due at 11 o'clock.
+[SPEAKER_02]: I was symptomating, do I ask?
+[SPEAKER_01]: Hooray, hooray, new spells.
+[SPEAKER_02]: That did feel like a pretty hefty quest.
+[SPEAKER_00]: It did feel like a pretty hefty quest, yes.
+[SPEAKER_00]: And you definitely tried to complete it on hard mode.
+[SPEAKER_00]: I mean, to be fair, if you had not rolled that 10, and if it had not happened to come back the way that you had, it would have been even harder.
+[SPEAKER_01]: All the villagers would have died.
+[SPEAKER_01]: I mean,
+[SPEAKER_00]: You would have had a chance, obviously, but you would have had to get to the caves, you would have had to go through the caves, you would have had to get past the cleaners.
+[SPEAKER_02]: By the sounds of it, Elflad was also out that way, so we could have had a second fight with him.
+[SPEAKER_00]: Well, so he was not going up the same way, but if you had like hung around when you got a hundred percent, there was the potential of encountering him when you got to the surface.
+[SPEAKER_00]: That is a hundred percent.
+[SPEAKER_01]: We're all on like one HP.
+[SPEAKER_01]: We crawl our way up and he's like, surprise.
+[SPEAKER_01]: I feel like.
+[SPEAKER_00]: Another bone shocker.
+[SPEAKER_00]: Well, fortunately you're under 10.
+[SPEAKER_00]: So, Ethryn came out and had a second bite of the cherry at that potential escape.
+[SPEAKER_00]: But yeah, I felt like having, having tried to do this the hardest way possible and having got out with a good number of people.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: I thought we'd only save the dog and I only thought that because I didn't think you would kill the dog.
+[SPEAKER_00]: To be fair, the worst, the worst thunder wave or shatter or whatever it was.
+[SPEAKER_02]: Until we get to a safe place, and this dog is presumably going to live with Benny forever now.
+[SPEAKER_00]: Yeah, I mean, Benny is like half a continent away, but yeah.
+[SPEAKER_00]: That's the question, Jess.
+[SPEAKER_02]: The dog gets my inspiring leader temporary hit points until he's safe, which doubles his health.
+[SPEAKER_02]: Nice.
+[SPEAKER_00]: Yeah, so you guys need to do need to have a thing about A, leveling up and B, what you want to do next, because you are now like, in the middle of a random place that you have no connection.
+[SPEAKER_00]: You could you could go to Mooncross and try to look for gainful employment, you could make your way to somewhere else.
+[SPEAKER_00]: Yeah, have a think about what sort of thing you might want to do.
+[SPEAKER_02]: Mooncross is a place where we might... Are there going to be any chance of having contacts there and stuff?
+[SPEAKER_02]: Or would there be infrastructure that would be friendly to us?
+[SPEAKER_02]: That could be recharge for an airship kind of thing.
+[SPEAKER_02]: Or would there be like a mayor who would be friendly with the Carronspire kind of people so fabs could turn up and be like, hello, you know my dad, give us a boat.
+[SPEAKER_00]: Maybe not a boat, but a horse.
+[SPEAKER_00]: So, Runecross is a large city of the leaf.
+[SPEAKER_00]: It does have an airship station, so it's possible to get airships from there to elsewhere.
+[SPEAKER_00]: It does have, obviously, civilian government that you could go and talk to.
+[SPEAKER_00]: It does, it also, I need to remember what kind of, I did write down the governments of all the countries of the league.
+[SPEAKER_00]: I need to remind myself what I selected for Colorado.
+[SPEAKER_00]: But as I said, Colorado is also garrisoned by lots of troops from other places in the league.
+[SPEAKER_00]: It is possible that with your family connections, baby, you might be able to find someone in that military hierarchy who has spent time in crowns via and knows, you know, it's connection of connections at least.
+[SPEAKER_00]: So, yeah, I mean, it's, it's certainly possible if you put, if you put effort into leveraging your network, certainly possible that you might find connections here.
+[SPEAKER_00]: And there are, you know, there are roads going south, there's airship stations, you know, there's possibilities too.
+[SPEAKER_00]: I mean, if you want to end up somewhere very different, then we can, we can do a bit of a
+[SPEAKER_00]: you know, we can do a bit of a fast forward for how that happens, because I don't want to do yet more like interminable travel.
+[SPEAKER_00]: So if you're like, oh, well, we'd really like to be in such and such a place, then we can, yeah, we can do a little bit of a time skip to get to that.
+[SPEAKER_02]: We had two other quest locations to go to, right?
+[SPEAKER_02]: One was in Ovendale, I want to say.
+[SPEAKER_02]: Was it Dunloren?
+[SPEAKER_00]: Oh, well, there are things in Othendale you consider looking into.
+[SPEAKER_01]: I have my problem, so I have to mention to everyone at some point.
+[SPEAKER_02]: The two cult locations we were supposed to be hunting down are somewhere around there.
+[SPEAKER_06]: Because we've spent time in the Feywild and we spent approximately a day there, was that actually a day or is that...?
+[SPEAKER_06]: Will further time have passed in on this plane?
+[SPEAKER_00]: Oh, no, it doesn't do that.
+[SPEAKER_00]: It doesn't do that.
+[SPEAKER_06]: Oh, thank you.
+[SPEAKER_06]: Fabulous.
+[SPEAKER_00]: No, no, you're right.
+[SPEAKER_00]: And I will work out what day it probably is.
+[SPEAKER_00]: At some point, I seem to go back and actually figure it out.
+[SPEAKER_00]: I kind of lost track of it once we went into the Stonehunga and I had no track.
+[SPEAKER_00]: You know, yeah, but I do need to sort that out.
+[SPEAKER_00]: So no, we don't need to decide now, but have a
+[SPEAKER_00]: have a think.
+[SPEAKER_00]: Obviously you could do something, you know, you could
+[SPEAKER_00]: sneak across the Ridgway Pass and get into Thalmiris and go and do some chaos there.
+[SPEAKER_00]: That's possible.
+[SPEAKER_00]: You're also in a good position for that potentially.
+[SPEAKER_00]: But yeah, have a think about what sort of you might want to do.
+[SPEAKER_00]: Obviously you just want to go to Mooncross and be like, we are adventurous, you know, give us, find us work.
+[SPEAKER_00]: That's also, you know, Mooncross is a big city with people who need problem solve.
+[SPEAKER_00]: So that's also possible.
+[SPEAKER_06]: Is the Ridgeway a path between the East Side of England and the West Side of England?
+[SPEAKER_06]: Yes, it is.
+[SPEAKER_00]: And in the old days, before when it was just merithial and relations were friendly, it was the main kind of path between the Elvish lands and the League.
+[SPEAKER_00]: Except it wasn't the League then, but the main path between the Elvish lands and the West.
+[SPEAKER_00]: It is the lowest and most kind of open and accessible path.
+[SPEAKER_00]: It is now garrisoned to fuck on both sides.
+[SPEAKER_06]: That was going to be my next question.
+[SPEAKER_00]: It is very, very militarized area.
+[SPEAKER_00]: There are still like skirmishes there, you know, active fighting at times.
+[SPEAKER_00]: But, you know, you're
+[SPEAKER_00]: you're a sneaky bunch, you could find a way, you know, a small group of people could, but people do sneak in and out, which is one reason why the Elvish, you know, elves in the, in the Western countries have regarded with quite a lot of suspicion, because it's 100% possible for small groups of people to sneak across these mountains.
+[SPEAKER_00]: But yeah, have a think about broadly the sort of thing you might want to do and let me know during the week, because obviously we can probably busk one session of like pottering about a corridor and going to moon cross.
+[SPEAKER_00]: But after that, I would need to make an actual plan of sorts.
+[SPEAKER_00]: So yeah, have a think about what it is you might want to do.
+[SPEAKER_02]: There's a way to action long level ups on this sheet, isn't there?
+[SPEAKER_04]: Yeah, if you go to the Features tab and then hit the little wrench at the top left and then pick which class you want to level up.
+[SPEAKER_05]: Thank you.
