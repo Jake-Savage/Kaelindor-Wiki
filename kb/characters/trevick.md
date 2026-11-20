@@ -21,7 +21,7 @@ relationships:
   - who: dakir
     note: Founding companion he confides in about Joster; the two keep contact by Dakir's paired sending-tokens after Dakir's departure (S2.28).
 first_session: S1.01
-last_session: S2.43
+last_session: S2.44
 tags: [ranger, beastmaster, firbolg-favoured, watcher, uthrel, velton, salmeros]
 summary: A tiefling beastmaster ranger and lone survivor of a village destroyed by the Uthrel, revered by the firbolgs as bearing a Rhynharran "Watcher" and chosen as the Eldryn's go-between.
 ---
@@ -122,6 +122,11 @@ In [[greymere]] he becomes the party's conduit to the natural world and the [[th
   shadow and a cave spitter, and spots the second spitter at the water's edge. When Bohdan Tarek is
   taken he soothes **Max** the dog, who from then on **sticks to his heels**. One of the villagers he
   gave **Caspian's book** to has them all laughing by the end.
+- S2.44: Leads a stretch of the march. Asks the witch how not to carry anything out of the Feywild,
+  and reads her playing down the risks. Drives off one grokken and kills another. In the Feywild,
+  half-buried shapes of buildings and woods bring back Velton; spots the **black towers** with Rell.
+  Checks every child's feet and pockets and Max's paws before they step out, and tells the adults what
+  happened to his home.
 
 ## DM notes / secrets
 - Trevick's father was a "Salmeros" — a lineage the devil [[joster-sirit]] recognised (he never claimed to have known the man) — and his parentage (with possible infernal/marked lineage beyond ordinary tiefling) is an open mystery seeded since S1.05.

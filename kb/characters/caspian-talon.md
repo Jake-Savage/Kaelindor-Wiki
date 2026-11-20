@@ -21,7 +21,7 @@ relationships:
   - who: shalfay
     note: Tower of Heaven employer and divination contact; Caspian still corresponds with him.
 first_session: S1.01
-last_session: S2.43
+last_session: S2.44
 tags: [scholar, wizard, divination, uthrel, vampire-suspicious, dragon-bones]
 summary: A coldly rational divination wizard obsessed with studying the Uthrel and dragon remains, who secretly dealt with the vampire Lucien and is evasive about what it cost him.
 ---
@@ -175,6 +175,13 @@ He is privately scornful of religion and rustic life, was raised somewhere "back
   leads one stretch of the march, which goes wrong. Destroys two cave shadows with **Fire Bolt**, one
   of them to a bonfire, and is bitten by a cave spitter. Distrusts the witch's "allies of a sort". The
   villagers end the night laughing over **his book**, which Trevick had given one of them.
+- S2.44: Navigates for most of the way. When the witch rides back to ask whether the party will
+  betray Lae'ethorian, **promises silence** — and means it — suggesting ways to keep the villagers from
+  speaking; his word wins the party **her road through the Feywild**. Kills a grokken with Fire Bolt and
+  pours a potion into the dying Fabian. In her garden his care for the villagers changes how she sees
+  them; she talks mostly to him, and he asks her **everything** about the road and the uthrel. Steps
+  through first, studies the wards, maps what he can, and ends **exhausted** until the long rest. Means to send her a
+  message about the black towers. Casts Leomund's Tiny Hut for the children.
 
 ## DM notes / secrets
 - Caspian's solo dealings with [[lucien]] are a deliberate hole in the party's knowledge. He went alone to a powerful vampire and came back shaken, and his "book made me resistant to charms" explanation does not convince [[mags]]. What passed between them is unresolved and worth keeping ambiguous.

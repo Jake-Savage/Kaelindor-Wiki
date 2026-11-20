@@ -109,7 +109,7 @@ Banners tend to be **monsters**; robes and cloaks tend to be **trees and nature*
 The DM's list of Dunton's thirty-four after [[the-bone-swarm|the bone swarm]], with **twenty survivors
 and the dog**, and **fourteen dead**. Spellings follow the list. **Since S2.42: nineteen and the dog** —
 Kithri Munn died fighting the patrol. **Since S2.43: seventeen and the dog** — Bohdan Tarek and Finnan
-Highcroft were taken on the march.
+Highcroft were taken on the march. **In S2.44 all seventeen and the dog reach the surface.**
 
 **Alive**
 - **Tom Pruett** (human, 51) and **Maddie Pruett** (human, 54) — partners; parents of
@@ -180,6 +180,9 @@ Six of the surviving children lost a parent, and Daisy Thorngage lost both.
   Highcroft** are taken by something unseen. Max attaches himself to [[trevick|Trevick]]. By the end of the session
   the survivors are laughing over **[[caspian-talon|Caspian]]'s book**, which Trevick had given one of
   them.
+- **S2.44:** The seventeen survivors and Max **leave the Stonehunger** by the witch's road through the
+  Feywild and come out in the Stonemarch foothills of Kalredor. Olo Halfkettle, Tom Pruett and Max
+  fight grokkens on the way; nobody else is lost.
 
 ## How Greyface reaches them (S2.39)
 [[the-ossuary|The Ossuary]] is close enough to walk in **about fifteen minutes**. When he wants

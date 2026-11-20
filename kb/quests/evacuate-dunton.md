@@ -2,15 +2,15 @@
 id: evacuate-dunton
 type: quest
 title: Evacuate Dunton
-status: active
+status: resolved
 priority: main
 opened_session: S2.39
-last_updated_session: S2.43
+last_updated_session: S2.44
 involves_characters: [mags, caspian-talon, fabian-perennius, rell-aetris, trevick, the-provost, the-high-priest, kithri, hawk, the-patrol-commander, the-witch]
 involves_locations: [dunton, the-ossuary, the-plain, the-keep]
 factions: []
 tags: [stonehunger, dunton, rescue, evacuation, clock, greyface]
-summary: The party led Dunton's thirty-four villagers out onto the plain without Greyface's leave; he came after them in his bone swarm, and twenty survive — without the Provost, who knew the way to the tunnels; a patrol came next, and nineteen survive it; on the slow march toward the caves two more are lost, leaving seventeen and the dog about two hours out.
+summary: The party led Dunton's thirty-four villagers out onto the plain without Greyface's leave; he came after them in his bone swarm, and twenty survive — without the Provost, who knew the way to the tunnels; a patrol came next, and nineteen survive it; on the slow march two more are lost, and in S2.44 the witch of the plain lets the last seventeen and the dog out through her road in the Feywild to Kalredor.
 ---
 
 ## Hook
@@ -96,6 +96,14 @@ everything**: let the villagers leave, give us an easier way out, and **you coul
 In S2.40 they dropped that plan and left without asking.
 
 ## Progress log
+- S2.44: **Out.** An hour and a half from the caves, the witch rides back to ask whether the party
+  means to betray Lae'ethorian. **Caspian** promises silence and **Fabian** gives his word; in return
+  she offers **[[the-witchs-road|her road through the Feywild]]**. Fabian heals Olo's ankle with a
+  potion, and is nearly killed by **grokkens** on the way to her garden; Max brings one down. She lets
+  them rest and gives the villagers tea, then opens the road. After **a day's walk** through the
+  uthrel-ruined Feywild, checked over for any trace of it, **seventeen villagers and the dog** come
+  out at night in **the Stonemarch foothills near [[mooncross|Mooncross]]**, under the stars for the
+  first time in more than a decade. **Resolved.**
 - S2.43: **The march.** Rell questions [[the-patrol-commander|the commander]] — the Keep's acolytes
   are limitless, the plains are watched, and there is no way to the surface he knows of — and kills
   him. The party takes the patrol's robes and ring foci. Then the convoy walks, half an hour at a time,
@@ -142,19 +150,10 @@ In S2.40 they dropped that plan and left without asking.
   the routes; the party splits five ways on run, negotiate or leave, and agrees to petition Greyface.
 
 ## Leads / next steps
-- **Keep going.** The caves are about two hours off. One patrolman got away, and the commander says
-  the plains are constantly watched.
-- **Keep the column together.** Two villagers were lost from the back of it without anyone seeing.
-- **Mind the pools** and the shadows in the lee of rocks.
-- **[[the-witch|The witch]].** Rell has a telepathic link to her. She says the Stonehunger is about to
-  go down.
-- **Find the tunnels without the Provost.** She was making for **porous rock and caves** like those at
-  [[the-ossuary|the Ossuary]]'s entrance, with **cut shafts leading upward**, several hours' walk on.
-  Trevick found the way north-east **choked with rocks and ruins**.
-- **Move.** The survivors are fewer and younger but no faster, and frightened. The swarm is moving
-  away.
-- **Look after Rell**, healed but drained by Lae'ethorian's necromancy.
-- **The seven souls.** Mags carries them. What can be done for them?
+- **What becomes of them?** Seventeen villagers and the dog are in the wilderness of Kalredor, with
+  [[mooncross|Mooncross]] the nearest city. The DM has asked what the party means to do next.
+- **Their silence.** Caspian suggested ways to stop the villagers ever speaking of Lae'ethorian. Most
+  of them do not know who he is.
 
 ## Open threads
 - **Will Lae'ethorian come back?** He withdrew rather than lost. What did he come for, and how much of

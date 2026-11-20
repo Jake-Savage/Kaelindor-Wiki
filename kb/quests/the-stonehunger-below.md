@@ -2,10 +2,10 @@
 id: the-stonehunger-below
 type: quest
 title: The Stonehunger Below
-status: active
+status: resolved
 priority: main
 opened_session: S2.31
-last_updated_session: S2.43
+last_updated_session: S2.44
 involves_characters: [caspian-talon, fabian-perennius, mags, trevick, rell-aetris, theodore, turley, glorta, tuffin, the-custodian, the-high-priest, the-undead-minotaur, the-arena-elemental, varen, the-provost, kithri, roscoe, the-patrol-commander, the-witch]
 involves_locations: [kethrans-fold, the-mirrowen, the-stone-river, the-golden-courtyard, grommars-path, the-foul-pool, the-ancient-forge, the-buried-arena, dunton, ketters-rest, the-ossuary, the-plain, the-keep, black-barrow]
 factions: [the-gleaners]
@@ -257,6 +257,10 @@ crushing whatever has no "place."
   elf who lives on the plain, whose garden the Keep cannot reach, and who calls Lae'ethorian an ally of
   a sort. She says he has told her he means to **return to the surface**, and that the Stonehunger is
   **about to return to the depths**.
+- S2.44: **The party leaves the Stonehunger.** The witch offers her private road through the Feywild
+  in return for silence about Lae'ethorian, who is going home to make his case at court. The party
+  comes out in Kalredor with Dunton's survivors. See [[evacuate-dunton]] and [[the-witchs-road]].
+  **Resolved**; Lae'ethorian's thread continues in [[lae-ethorians-return]].
 
 ## Open threads
 - **Who is the witch**, and what is she to Lae'ethorian? An elf living on the plain, an "ally of a

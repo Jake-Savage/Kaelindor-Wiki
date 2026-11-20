@@ -8,7 +8,7 @@ controlled_by: null
 connected_to: [dunton, the-keep, the-ossuary]
 status: active
 first_session: S2.38
-last_session: S2.42
+last_session: S2.44
 tags: [stonehunger, dunton, plain, dark, creatures, dynamic, underground]
 summary: The vast dark expanse beyond Dunton's palisade where the Stonehunger deposits what it has swallowed — a landscape that does not stay in the same shape, roamed by large insect-like creatures, with the Keep somewhere out across it.
 ---
@@ -109,6 +109,14 @@ wrong; at the end of the session it is **about two hours** out. What the plain h
   falling behind, were both **taken by something** nobody saw.
 - **The witch's garden.** The Keep's patrols see **a green oasis** from far away, but it is gone
   whenever they get close. See [[the-witch]], who rides the plain on a summoned tiger.
+
+## The way out (S2.44)
+- **Grokkens.** Rock-like pack hunters that lie in loose dust among stones and shake themselves free
+  when prey passes; mouths with rows of teeth running back into the throat, turned inside out like a
+  worm. They claw, bite, and **pile onto anyone who goes down**. They nearly killed Fabian.
+- **The witch's garden** lies **west past the Keep**: a large, thin illusion of a building and a green
+  space, impassable without her permission. See [[the-witchs-road]].
+- The party and the convoy **leave the plain** by the witch's road, an hour or so short of the caves.
 
 ## DM notes
 - **Who cut the wards, and what do they hold out?** They predate Dunton, and Greyface treated them as

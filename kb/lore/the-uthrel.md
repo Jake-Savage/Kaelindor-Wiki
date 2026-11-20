@@ -21,7 +21,20 @@ The party encountered it long before they had a name for it. They first met it a
 - **A symbol of taboo.** The deep gnome [[eklash|Eklash]] recognised the moss as taboo in the early arc, and Mags's gnomish nursery rhyme warns children that "Uthrel walks the underways / And waits for you beneath" (Reflections, Mags entry 19) — suggesting the underdark gnomes have feared it for generations under the same name.
 - **The Feywild fears it too.** When shown a sample, the unicorns [[stargleam]] and [[silverlily]] were horrified and [[the-gardener|the Gardener]] (an Archfey) disintegrated it outright, refusing to discuss it (S1.04).
 
+- **Necromancy holds it back (S2.44).** Per [[the-witch]], magic of the kind
+  [[the-high-priest|Lae'ethorian]] uses **cannot destroy the uthrel but can hold it at bay**: her road
+  through the Feywild is kept clear by necromantically charged stones. It is, she says, **the only thing
+  her people know of that holds it back** — and *"the one power that can actually do something."*
+- **On the Material Plane** it **grows poorly**; it needs substantial contamination to start an
+  outbreak, but it can. Fire is not the witch's magic; she does not know how much would destroy it.
+- **Outbreaks follow connections.** The link to the Feywild can never be cut entirely, and wherever
+  there are connections there are outbreaks. The **Elenfain** wards every entrance in the lands the
+  elves hold; the witch speaks of it with fatalism.
+- **Detect Magic does not show it**, and the uthrel-ruined Feywild is dead to magical sense.
+
 ## Open questions
+- **Is necromancy why the elves turned to it?** The witch implies so — the one power that can do
+  something — but does not say so outright.
 - **How did it enter the Feywild in the first place?** ~900 years ago is established, but the source is unknown to everyone the party has met (S2.21).
 - **Who tampered with the [[the-bright-gate|Bright Gate]], and why?** The trail leads to [[hethan-kroll|Hethan Kroll]], the [[the-furnace-brood|Furnace Brood]], and a [[korrathian|Korrathian]] conspiracy — but Kroll himself said his job was only to check "if the incursion left a trace," and the incursion's true purpose is unknown even to him (S2.24). The Bridgemarch cell suicided rather than be taken (S2.26).
 - **What is [[oscar-wicklow|Chancellor Wicklow]] hiding?** Mags and Caspian caught him lying when he denied knowing of the uthrel (S2.26).

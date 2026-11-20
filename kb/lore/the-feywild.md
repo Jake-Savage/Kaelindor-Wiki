@@ -17,6 +17,17 @@ The Feywild is a separate plane, home to the fey — satyrs, unicorns, dryads, l
 - The uthrel entered the Feywild ~900 years ago and is the reason the elves fled it (S2.21).
 - Crossings between the planes are thinning and unstable — see [[the-feywild-barrier]]. As of S2.21, travel to the Feywild is **no longer possible**.
 
+- **A wasteland (S2.44).** Walking [[the-witchs-road|the witch's road]], the party sees the Feywild as
+  it is now: a pinkish-purple sky over **grey, powdery, ash-like [[the-uthrel|uthrel]]** to the horizon,
+  the air thick with spores, every growing thing flattened. As far as [[the-witch]] knows **the whole of
+  it** is like this, with **no fey and nothing else living** — the great tragedy of the elves. To Detect
+  Magic it is **a blank**.
+- **Anchored roads.** Travellers once fixed points in the Feywild to reach them quickly; nobody does
+  it now. **Opening private channels to the Feywild is forbidden**, for fear the uthrel comes through.
+- **Black towers.** Far from the witch's road stand large martial buildings of black stone: towers, two
+  joined by what may be a fort wall.
+
 ## Open questions
+- **What are the black towers** in the ruined Feywild, and is anything there?
 - What is the present state of the Feywild now that the uthrel has spread there?
 - The [[the-bright-gate|Bright Gate]] (a hidden [[the-horizon-doors|Horizon Door]] that opens here) was sealed when the elves fled; how many other such gates remain, and where do they lead? (S2.22)

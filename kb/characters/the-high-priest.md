@@ -16,7 +16,7 @@ relationships:
   - who: caspian-talon
     note: Recognises something in his blood, offers to teach him necromancy, and is refused the price — they part on even terms.
 first_session: S2.36
-last_session: S2.43
+last_session: S2.44
 tags: [stonehunger, grommars-path, arena, dunton, undead, priest, puppet, ossuary, elves, exile, laeethorian, necromancy]
 summary: Lae'ethorian — a relative of Archon Thaloriel and vanished commander of the Elvish armies, alive and in exile beneath the Mirrowen, who works through borrowed corpses as "Greyface", the High Priest of Dunton.
 ---
@@ -261,6 +261,26 @@ elf**, not the grey-faced puppet; it is **Lae'ethorian**, and they know it. What
   had declined to send any message to the surface at all.
 - **Why now?** The party guesses that he must leave because they took his supply, and Rell that what
   he "needed" was enough life to make the journey — their speculation only.
+
+## Going home (S2.44)
+[[the-witch]] tells the party what she knows, having spoken with him:
+
+- **He is leaving the Stonehunger** to go back across the border and **make his case at court** again.
+  It will take him **some weeks**. She **argued against it**; **the party's visit galvanised him**.
+- **His power has grown**, and her people respect power, at present. She shudders at the thought of
+  him using it.
+- **What he argues for:** not to turn the elves deeper into **[[thalparaneth|Thalparaneth]]**'s embrace,
+  but to **rally them to a battle the Archon would avoid**, as the Archon did years ago. His path **began before
+  his birth**; born as he was, he **had very little choice**.
+- **She calls him a significant part of what is wrong among her people**, but credits him with giving
+  up much for what he believes must be done, and has come to see **more wisdom in him** than she
+  expected.
+- **He helped her keep [[the-witchs-road|her road]] open**, supplying **necromantically charged
+  stones** that hold back the [[the-uthrel|uthrel]]. He asked to use the road, as he has before, and
+  she **refused him**. She says he can fight his own way out.
+- She says, amused, that he was **not happy** about the party taking back his *"cattle"*.
+- **The party promised silence.** Caspian and Fabian gave their word not to hunt him or send others
+  after him — Caspian sincerely, **Fabian lying**. See [[lae-ethorians-return]].
 
 ## DM notes / secrets
 - **What he is willing to do.** [[mags|Mags]]'s Insight (21): **no aggressive intent and no interest in

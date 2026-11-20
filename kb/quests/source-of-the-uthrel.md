@@ -5,7 +5,7 @@ title: Identify the Source of the Uthrel
 status: active
 priority: main
 opened_session: S1.01
-last_updated_session: S2.26
+last_updated_session: S2.44
 involves_characters: [caspian-talon, dakir, trevick, rell-aetris, mags, fabian-perennius, hesk, shalfay, oscar-wicklow]
 involves_locations: [the-eldryn-forest, the-feywild, the-hallow-burn, the-bright-gate, nerrin, the-feywild-garden, greymere]
 factions: [the-eldryn, the-furnace-brood]
@@ -32,7 +32,16 @@ A black, oily "moss" that is not moss keeps appearing wherever the Feywild touch
 - S2.24: [[krolls-map]] and contract tie the Korrathian [[the-furnace-brood|Furnace Brood]] to *investigating* the incursion (Kroll was sent to find if it "left a trace") — not to causing it; per Speak with Dead the Brood do not know who tampered with the gate (see [[the-korrathian-conspiracy]]). Who tampered with the gate remains genuinely unknown.
 - S2.26: The Bridgemarch cell is raided but suicides; [[oscar-wicklow]] lies about not knowing of the uthrel. Origin, cure, and history are known — but who let it through and why remain open.
 
+- S2.44: The party walks **[[the-witchs-road|a road through the Feywild]]** and sees what the
+  [[the-uthrel|uthrel]] has made of it: **a grey wasteland** where, the witch believes, nothing else
+  lives. She says **necromancy holds the uthrel back but cannot destroy it**, that it grows poorly on
+  the Material Plane, and that outbreaks follow wherever there are connections. Her road is an
+  **unauthorised crossing** with a hidden anchor near **the Ridgeway Pass**. Far from it stand
+  **black towers**.
+
 ## Open threads
+- **What are the black towers** in the ruined Feywild?
+- **The witch's crossing near the Ridgeway** is a small but real weakness. Who else could find it?
 - **How did the uthrel enter the Feywild ~900 years ago, and is its return now connected to the elves leaving / the great eastern war?** It is feared as a weapon in that war.
 - **Who tampered with [[the-bright-gate]] to let it onto the Material Plane, and how did they master Eldryn-grade warding?** (See [[who-tampered-the-gate]].)
 - **Why is the [[the-furnace-brood|Furnace Brood]] investigating the incursion?** What was the "trace" Kroll was sent to find? (They probe it, but are not its established cause — even they do not know who caused it. See [[the-korrathian-conspiracy]].)
